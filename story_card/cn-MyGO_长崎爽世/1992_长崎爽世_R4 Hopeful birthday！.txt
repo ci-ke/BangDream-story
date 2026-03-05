@@ -1,0 +1,65 @@
+1992_长崎爽世_R4 Hopeful birthday！
+
+抽卡台词：……那么， 要试试从头开始吗？
+
+《TAKE1》
+
+Fetch json error: Traceback (most recent call last):
+  File "D:\Document\bandori_story\get_story_util.py", line 282, in fetch_url_json
+    json_content = await res.json(content_type=None)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\libraries\pyvenvs\my\Lib\site-packages\aiohttp\client_reqrep.py", line 773, in json
+    return loads(stripped.decode(encoding))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\Miniconda3\envs\python\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\Miniconda3\envs\python\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\Miniconda3\envs\python\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+
+
+《适应惊喜的能力》
+
+（登场角色：千早爱音、长崎爽世）
+
+【大台阶】
+
+爱音：唉，准备的惊喜要是能成功就好了
+爽世：怎么还在说。 计划要做的事都完成了，不是就够了吗？
+爱音：对已经知道有惊喜的人做了偷偷准备好的事， 并没法算是成功制造了惊喜啊！
+爽世：不如说…… 根本没必要特地制造惊喜吧？
+爱音：诶，Soyorin你根本不懂~
+爱音：肯定是有惊喜更能让人情绪高涨吧
+爽世：……是让小爱音你情绪高涨吧？
+爱音：是大家哦！大家！ 不过，要让小乐奈保密 真的是很难啊
+爽世：真的只是小乐奈一个人的原因吗？ 我觉得小爱音也差不多哦？
+爽世：自顾自地把惊喜的内容 滔滔不绝地说出来的人是谁呢？
+爱音：呜，那、那是……
+爱音：不过，就算你注意到了有惊喜， 装作没注意到不是也挺好的吗？
+爽世：哈……？
+爱音：因为，这可是生日惊喜哦？
+爱音：这种机会可是很难才有的呀。 希望你也能体会一下我们的心情
+爽世：……那个啊，小爱音
+爽世：如果你可以藏得更好一些的话， 我也可以装作没发现哦？
+爽世：不过，在刚才那种已经完全露馅的状况下， 实在是没法装下去了吧？
+爽世：况且，我可不想你们以为我是在那种情况下还什么都察觉不到的人
+爱音：啊，说的也是……
+爱音：总觉得，我们乐队里的成员 好像都不擅长准备惊喜
+爽世：至少小灯和小乐奈都不太适合吧
+爱音：啊，不过……
+爽世：……嗯？
+爱音：Soyorin应该很擅长准备惊喜！
+爽世：诶，是吗……？
+爽世：我倒觉得自己不是那种类型的人……
+爱音：不不，Soyorin绝对很擅长这个！
+爱音：比如说，你能够面不改色地撒谎！
+爱音：明明没有这种打算，却还能说出『组一辈子乐队』这种话， 或者笑眯眯地利用别人
+爱音：既然这种事都做得出来，准备惊喜不就是小菜一碟嘛……
+爽世：……难道你是想找我吵架？
+（黑屏转场）
+（背景切换）

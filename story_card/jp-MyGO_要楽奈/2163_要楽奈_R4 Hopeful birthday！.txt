@@ -1,0 +1,65 @@
+2163_要楽奈_R4 Hopeful birthday！
+
+Gacha phrase: いっぱいバンドする
+
+<抹茶パフェやおそばより>
+
+Fetch json error: Traceback (most recent call last):
+  File "D:\Document\bandori_story\get_story_util.py", line 282, in fetch_url_json
+    json_content = await res.json(content_type=None)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\libraries\pyvenvs\my\Lib\site-packages\aiohttp\client_reqrep.py", line 773, in json
+    return loads(stripped.decode(encoding))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\Miniconda3\envs\python\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\Miniconda3\envs\python\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Development\Miniconda3\envs\python\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+
+
+<欲しがりな野良猫>
+
+(Character: 要楽奈, 椎名立希)
+
+[RiNG カフェテリア]
+
+立希: …………
+楽奈: …………
+立希: ……何？　もう練習も終わったでしょ
+楽奈: 誕生日
+立希: それも祝った。ほら、そろそろ閉店なんだけど
+楽奈: 欲しいもの、あった
+立希: ……今更？
+楽奈: うん
+立希: ……言っとくけど、もうフードは出せないから
+楽奈: うん
+立希: 聞き分けいいと逆に怖いんだけど……お前、本当に野良猫？
+楽奈: わたし
+立希: ……で、何が欲しいわけ
+楽奈: ライブ
+立希: ……ライブ？
+楽奈: うまい空気
+立希: あー……
+楽奈: 取引、した
+立希: わかってる、わかってるって……忘れてないから
+立希: てか、私としては結構提供してるつもりなんだけど
+楽奈: うん。ライブ、たくさんやった
+楽奈: でも、まだ足りない
+楽奈: もっと欲しい
+楽奈: ライブやろ
+立希: ……はぁ
+立希: 来週。私たちも参加できそうなライブがあるって、 凛々子さんが言ってた
+楽奈: ……！　ライブ
+立希: そう、ライブ。でも出るからには、 きっちり練習してもらうから
+楽奈: ん！　まかせて
+立希: ……え、ちょ、野良猫。 まさかお前、今からここで弾く気じゃ……？
+楽奈: 練習する
+立希: だから、もうすぐここ閉めるんだって……ああもう！
+楽奈: ……♪
+(Black cut)
