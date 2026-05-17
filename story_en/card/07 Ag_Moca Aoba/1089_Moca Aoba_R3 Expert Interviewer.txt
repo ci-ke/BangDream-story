@@ -1,0 +1,94 @@
+1089_Moca Aoba_R3 Expert Interviewer
+
+<Burning Mode On>
+
+(Character: Moca Aoba, Rei Wakana, Masuki Sato)
+
+[Station Entrance]
+
+Moca: Hmmm, this is a little early, even for me~.
+Moca: I still have time until practice. What should I do~?
+LAYER (Rei): Huh? Who's that over there...?
+MASKING (Masuki): Oh, it's Moca!
+Moca: Ah, LAYER and Massu. Fancy seeing you here~.
+MASKING (Masuki): I see you've got your guitar there. You got practice?
+Moca: Yep. Are you guys going somewhere~?
+LAYER (Rei): Yeah, we're going to the music store. I thought I'd buy a new cable.
+MASKING (Masuki): I don't need anythin', but I got nothin' to do anyway. How's Afterglow doin' lately?
+Moca: Well, we're doing better than ever~. Tomo-chin was even interviewed for a magazine~.
+LAYER (Rei): Ah... That reminds me, CHU² got involved in that, didn't she?
+Moca: Yeah, she popped by for a quick peek.
+MASKING (Masuki): Sorry 'bout that. She said somethin' rude, didn't she?
+MASKING (Masuki): CHU² is just a kid, so she always says whatever comes to her mind.
+LAYER (Rei): Yeah, but she's not a bad kid. She just tends to go a little too far...
+Moca: Don't worry, it's fine~. No one's holding any grudges, so relax~.
+Moca: We're actually pretty grateful she said something. It seems like it flipped a switch somewhere inside Tomo-chin~.
+LAYER (Rei): A switch?
+Moca: Yeah~. It was like she broke out of her shell or something~.
+Moca: Thanks to that, I guess you could say the interview continued in a way that was more "us." It was a good lesson~.
+MASKING (Masuki): Huh? What're you on about?
+Moca: Don't worry about it. Anyway, ever since then, we've been pretty fired up~.
+Moca: We're much more focused during our practices, and I feel like we're getting even better~.
+Moca: If we keep going like this, our next show might even be better than the one at Girl Jam~.
+MASKING (Masuki): Better than Girl Jam?! For real?!
+LAYER (Rei): We watched a video of that show... and it was really something. You don't see passionate performances like that every day.
+LAYER (Rei): But to think that you could do better than that... Masuki, we need to work even harder.
+MASKING (Masuki): Yeah!
+Moca: We haven't decided when our next show will be, but you should come and watch us~.
+MASKING (Masuki): Of course we will! There's no way anyone would miss it, especially after what you just said!
+LAYER (Rei): I can't wait to see what kind of performance Afterglow shows us next.
+Moca: Okay. We'll give you the greatest show we can~.
+Moca: You never know, you guys might even be shocked by how good we are~.
+MASKING (Masuki): Ahaha, you said it! Dang, I'm pumped up now...
+MASKING (Masuki): Rei, let's hurry up with this music store thing! After that, let's jam!
+LAYER (Rei): You took the words right out of my mouth.
+Moca: Oh~, it seems like Tomo-chin's passion has got to you two~.
+Moca: And it's all thanks to my skillful storytelling~. Ah, I'm a genius~.
+LAYER (Rei): Fufu, did you really just call yourself that?
+MASKING (Masuki): Rei, let's go already!
+LAYER (Rei): Ah, sorry. See you then, Moca-chan. We'll be going now.
+MASKING (Masuki): See ya, Moca! Practice hard~!
+Moca: Bye-bye~.
+Moca: ... Ooh~. Just in time for practice~.
+Moca: I suppose I should get going too, then~.
+
+
+<My Duty>
+
+(Character: Moca Aoba)
+
+[Downtown]
+
+Marina: Is this all the equipment we need? All right, shall we head back?
+Moca: Ah, it's Marina-san and {{userName}}-san~.
+Marina: Moca-chan! ... My, that's a big paper bag you have there.
+Moca: Hoho, I knew you would notice, Marina-san. Your senses are on a whole other level~.
+Moca: I just bought some fresh bread at Yamabuki Bakery~. Look...
+Marina: Wow, that looks good~. Should we stop by on our way back?
+Moca: Please do~.
+Moca: Ah, that reminds me... Do you know about this? Tomo-chin was featured in an interview in this magazine~.
+Marina: Yeah, I heard. Melody Musix, right? I was so surprised to see someone I know in a magazine I read every month~.
+Marina: But wow, Tomoe-chan's declaration of war sure was something else!
+Moca: It was news to us when we heard it too~.
+Moca: We never thought she'd send out a challenge to all the girl bands of the world~.
+Moca: But thanks to her interview, we're all much more fired up than usual~.
+Marina: Now that you mention it, you guys have been coming in to practice almost every day.
+Marina: And you all look so exhausted when you come out of the studio. It's like you're giving it everything you've got each time.
+Moca: I know~. From beginning to end, we leave no stone unturned~.
+Moca: Well, being passionate is a good thing~. But there are lots of things we have to be careful about now~.
+Marina: Like what?
+Moca: For instance, when you're running forward as fast as you can, you can only see what's in front of you, right~?
+Marina: I see... So you might not be very aware of things happening around you.
+Moca: Exactly. And if that happens, we might miss something...
+Moca: But what happens if the very thing we miss is something important to us? That would be disastrous, wouldn't it~?
+Marina: Yeah. Especially if that important thing is something that can't be undone.
+Moca: That's why I think that someone has to watch over us when we get passionate like this~.
+Moca: And I think being that someone is probably my job~.
+Marina: It is?
+Moca: Yes. Because I am the coolest girl in Afterglow~. I can see right through everyone~.
+Marina: Fufu, I see. Then I have only one thing to say to you, Moca-chan.
+Marina: It's okay to worry about others, but don't forget to take care of yourself too, okay?
+Marina: I'll be here if you ever need to talk!
+Moca: Thank you~... O-oh~. Is that the time already~?
+Moca: All right, I'm gonna go now~. This bread is calling my name~.
+Marina: Okay, see you! Bye-bye.

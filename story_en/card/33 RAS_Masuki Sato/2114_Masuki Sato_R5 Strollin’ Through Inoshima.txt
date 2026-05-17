@@ -1,0 +1,96 @@
+2114_Masuki Sato_R5 Strollin’ Through Inoshima
+
+Gacha phrase: That’s gonna be insanely fun!
+
+<One More Round of Fun>
+
+(Character: Kasumi Toyama, Saya Yamabuki, Rokka Asahi, Masuki Sato)
+
+[Downtown]
+
+MASKING (Masuki): Agh~~, I'm starving~!
+LOCK (Rokka): It's almost lunchtime. CHU²-san said today’s practice would be a long one, so I thought I’d grab something for everyone.
+MASKING (Masuki): Oh, nice! Let’s grab some bread or something.
+(Black cut)
+(Background change)
+
+[Yamabuki Bakery]
+
+LOCK (Rokka): Hello~.
+Saya: Welcome!
+Kasumi: Oh, it's LOCK and Massu! You two here to buy lunch?
+MASKING (Masuki): We’ve got band practice, so we thought we’d pick up something on the way. What about you?
+Kasumi: I came to get the new bread they’re selling~! Look, sea creature buns!
+LOCK (Rokka): Wow, it's shaped like a jellyfish! So cute!
+Kasumi: Right, right!? This one’s a crab, and this one’s a turtle!
+LOCK (Rokka): Oh, the turtle’s shell is made of melon bun.
+Saya: Ahaha, thanks for showing off the new bread, Kasumi.
+Kasumi: Leave it to me! Oh, and look... ta-da! Hermit crab bun!
+LOCK (Rokka): Wait, was this... a request from Rimi-senpai?
+Saya: Yeah. When we were brainstorming ocean-themed breads, she suddenly went, “What about a hermit crab carrying a chocolate cornet!?
+Saya: So we gave it a try, and it actually got a pretty good response. Oh, and if you or Massu have any requests, let me know, okay? I’ll do my best—as long as it’s doable.
+LOCK (Rokka): Thank you so much! Um... how about a dolphin, maybe?
+LOCK (Rokka): When we went to Inoshima with the RAS members, the dolphin show at the aquarium was amazing!
+LOCK (Rokka): Here’s a photo from then...
+Kasumi: Let me see! Whoa, that’s intense!
+LOCK (Rokka): Right? It really was~.
+MASKING (Masuki): ...
+Saya: Massu? Did a particular bread catch your eye?
+MASKING (Masuki): Not exactly, I was just thinking it might be a good reference.
+MASKING (Masuki): Actually... I’m thinking of making some sweets to remember our trip to Inoshima with RAS.
+LOCK (Rokka): Wow, that’s so sweet!
+MASKING (Masuki): Right? I really liked the aquarium too, so I want to make cookies shaped like sea creatures. But I want to add something extra.
+MASKING (Masuki): Like maybe... make them taste like the ocean or something.
+Kasumi: Oh, like a sweet and salty combo? That sounds good!
+MASKING (Masuki): Yeah. But I feel like there’s still more I can do... I really wanna pack in all the fun we had at Inoshima.
+Saya: That case, how about a candy fishing pond?
+Saya: At bakeries, you pick up the bread with tongs, right? What if we replaced the tongs with a fishing rod... And had fish-shaped cookies to "catch"? Wouldn’t that be fun?
+MASKING (Masuki): Oh, that’s a great idea! It’d be fun with everyone.
+LOCK (Rokka): Wait, does that mean... you can only eat as many cookies as you catch...?
+MASKING (Masuki): Huh?
+LOCK (Rokka): I'm not very good with things like this, so I'm a little worried I won’t be able to catch any...!
+MASKING (Masuki): Yeah, if we do it with RAS, PAREO would probably end up catching most of the cookies.
+LOCK (Rokka): Ugh... I’ll practice fishing before then...!
+MASKING (Masuki): Ahaha, no need for that. I’ll make sure there’s enough for everyone to eat their fill.
+LOCK (Rokka): Masuki-san~...! Thank you so much!
+MASKING (Masuki): I’ll even make some for you two, Kasumi and Saya, so make sure you eat too.
+Kasumi: Yay~, thanks~!
+Saya: By the way, are you sure you’re okay on time? Didn’t you say you had band practice...?
+LOCK & MASKING: ...Ah!!
+MASKING (Masuki): Dang, is it that late already? Saya, I’ll take five of each—jellyfish, crab, turtle, and hermit crab buns!
+Saya: Okay. I’ll get them ready right away.
+Kasumi: LOCK, Massu—good luck with practice!
+LOCK & MASKING: Will do! Yeah!
+
+
+<Getting a Bit Better>
+
+(Character: Masuki Sato)
+
+[CiRCLE - Lobby]
+
+MASKING (Masuki): Marina-san, {{userName}}, hello!
+Marina: Masuki-chan, hi there. What brings you here today?
+MASKING (Masuki): I went to Inoshima with the RAS girls the other day, so I brought back some souvenirs.
+MASKING (Masuki): These are cookies—please help yourself.
+Marina: Wow, thank you! They’ve got ocean creatures printed on them, that’s so cute.
+Marina: How was Inoshima?
+MASKING (Masuki): It was super fun!
+MASKING (Masuki): We went to the aquarium, and get this—the tickets there have photos of sea creatures on them.
+MASKING (Masuki): Each one has a different animal, and the otter was especially adorable!
+MASKING (Masuki): We also saw a dolphin show, and I jokingly told LOCK our seats were in the splash zone. She totally believed me...
+MASKING (Masuki): When the dolphin did that big jump, LOCK totally freaked out—it was so cute. I should’ve taken a photo or video.
+Marina: Fufu, I feel bad for Rokka-chan, but that does sound pretty cute.
+MASKING (Masuki): We also went up to the famous observation deck in Inoshima... Oh, and we saw some illuminations at night too.
+MASKING (Masuki): There was this huge jellyfish light display. Really fitting for a seaside spot, right?
+Marina: Fufu, seeing you smile like that, Masuki-chan, you must’ve had an amazing time.
+MASKING (Masuki): Yeah, it was seriously fun!
+MASKING (Masuki): It’s been a while since we went on a trip together, but I feel like we’ve gotten better at just having fun.
+Marina: ? What do you mean?
+MASKING (Masuki): I can’t really put it into words, but... I feel like we’re all kinda awkward in our own ways.
+MASKING (Masuki): Like, back when RAS went to a pool, we were seriously asking, “How do you even have fun at a pool?”
+MASKING (Masuki): If it had been the old us, even seeing the lights wouldn’t have made us feel this happy... That’s what we were all saying.
+Marina: I see. That just shows how much closer you’ve all gotten as a band.
+MASKING (Masuki): If that’s the case, then I’m really glad!
+MASKING (Masuki): ...Oh, I gotta get going—I have work today.
+MASKING (Masuki): Thanks for listening, Marina-san, {{userName}}!

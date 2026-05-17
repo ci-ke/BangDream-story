@@ -1,0 +1,80 @@
+239_Eve Wakamiya_R2 Serious Mind
+
+<Deserted Island Essentials>
+
+(Character: Maya Yamato, Eve Wakamiya)
+
+[Pastel＊Palettes' Office]
+
+Eve: This will be my first time being recorded for such a long TV program... I have to prepare very carefully...
+Eve: Where exactly am I supposed to start...?
+Maya: Eve-san, is everything okay? If there's something I can help with, I'm here for you.
+Eve: Ah, Maya-san. Actually, I was just wondering how I should be preparing...
+Maya: Ah~, I see. I have the exact same problem.
+Eve: Not to mention, I'm not even sure where I would get the kind of stuff I would need to bring to a deserted island...
+Maya: Hmm... Ah, in that case, on our way home, would you like to stop by the mall? They just opened a new home-improvement store there!
+Eve: Home-improvement...! That's a good idea!
+Maya: Alright, then let's go and decide what to buy together!
+Eve: Okay! Thank you, Maya-san!
+Maya: No problem. I was hoping to get help deciding as well.
+(Black cut)
+(Background change)
+
+[Shopping Mall - Home-Improvement Store]
+
+Eve: Ooo~, a lot of stuff here looks like it would be really helpful, Maya-san!
+Eve: If we do our preparing here, I'm sure we can overcome anything on that deserted island without a problem!
+Maya: Yeah, but we should think carefully about what we buy...
+Maya: Ah, looks like they have a bunch of useful things over there. Let's go, Eve-san.
+Eve: Okay!
+(Black cut)
+Eve: Hmm, this looks like it'll come in handy too... Ah, I think I'll buy this as well!
+Maya: (E-Eve-san's basket got full really quickly...)
+Maya: E-Eve-san... You're gonna buy all of this?
+Eve: Yep! I was thinking I should buy everything that looks like it'll be helpful!
+Maya: But Eve-san... They told us we were only going to be able to bring one item each...
+Eve: This is... a bar... or a club... or something! I always wanted to see one in person!
+Maya: (She's not listening at all...)
+Maya: More importantly, when are you going to use something like a bar on a deserted island?!
+Eve: Hmm, I can't come up with anything... But you never know when you might have to.
+Maya: You will definitely not have to! You don't need this!
+Eve: Hmm, if you say so, then I won't buy it!
+Eve: Okay, what about this mosquito coil? I'm sure it'll come in handy!
+Maya: It might if we ran into mosquitos, but should idols be burning a mosquito coil while the cameras are rolling...?
+Eve: So this is no good too, huh...? This is quite difficult...
+Maya: Also, this cat food?! When are you planning on using it? Are you going to be feeding the animals?
+Eve: That's for just in case we run into a tiger...
+Maya: Forget about the fact that this would do absolutely nothing for us in that situation, but we'll probably not be seeing any tigers in the first place!
+Eve: Alright, so I'll put this back too, then... But you know what they say: "You can never be too prepared"...
+Maya: That's a completely different story!
+Eve: Ah, Maya-san! Over there! Something we can really use...! Let's go look!
+Maya: M-more browsing? It'd probably be better at this point to just pick one thing from the stuff you've already seen...
+Eve: Whoa! Look, Maya-san! This is called a monkey wrench, right? There might be ancient machines in a deep slumber on that island!
+Eve: If we find them, we can use this monkey wrench to-...!
+Maya: W-were you listening? You won't need that!
+
+
+<Deserted Island Bushido>
+
+(Character: Eve Wakamiya)
+
+[CiRCLE Café]
+
+Eve: Good afternoon, {{userName}}-san!
+Eve: Yes, I just finished rehearsal.
+Eve: You might be right. It has been a while! Actually, up until recently, we were filming for the deserted island television special.
+Eve: It was my first time doing something like that, so it was tough, but I had a lot of fun!
+Eve: And I feel like we all got to see a new side of everyone!
+Eve: But the one who left the biggest impression... would have to be Maya-san!
+Eve: She was very dependable!
+Eve: Like, she came up with a way for us not to get lost when we were searching for food...
+Eve: And with almost nothing handy, she was able to figure out the direction we needed to go!
+Eve: I always thought she was someone we could count on, but this was just another chance to understand what makes her great!
+Eve: Yes! It was a lot of fun to be able to do something as a group!
+Eve: I was actually talking to Aya-san about how we'd like to go traveling again!
+Eve: Also... Well... I think our time on the deserted island was a very useful learning experience!
+Eve: When you're in a place like that... You don't know what'll be helpful... You're not sure what might happen... I learned how important persistence and calm decision making is!
+Eve: I also learned that you need emotional and mental toughness! Yeah, just like bushido!
+Eve: So I thought, I want to be able to keep calm when making decisions, no matter what happens!
+Eve: I think performances are something that can be learned from, and I'll probably be spending a lot of time at CiRCLE...!
+Eve: So if you notice anything, please let me know, {{userName}}-san!

@@ -1,0 +1,89 @@
+722_Saya Yamabuki_R3 Surprise Present
+
+Gacha phrase: It's just a thought, but what about having a surprise?
+
+<Arisa's Feelings>
+
+(Character: Saya Yamabuki, Rinko Shirokane)
+
+[Hanasakigawa Girls' Academy - Student Council]
+
+Saya: Rinko-senpai, should I leave these papers on your desk?
+Rinko: Y-yeah... That's fine...
+Rinko: Sorry... for making you bring them all the way to the student-council room...
+Saya: Oh, it's okay! Someone was bound to help once they saw that huge stack of papers you were carrying.
+Saya: By the way, what are they for?
+Rinko: The next thing we want to do is have students fill out questionnaires about the council...
+Saya: Cool! Ah, is it bad if I've seen them?
+Rinko: N-no! The questions are very simple... We just want to ask people... how they feel about the current student council...
+Rinko: I've... gotten used to the work, but... when we have a meeting... it's hard for me to speak in front of everyone... I don't come off strangely when I speak to people, do I...?
+Saya: Not at all! You look really relaxed!
+Saya: Student council sounds like it's got a lot going on. It even seems like Arisa's been coming home late a lot recently too.
+Rinko: I-is that... making it hard for Poppin'Party... to practice...?
+Saya: Nope! After working on things for the student council, she always seems more energized to play than usual!
+Rinko: That's good...
+Saya: Ah, I've been meaning to ask you, what's Arisa like when she's with the student council?
+Rinko: I-Ichigaya-san is... always helping me...
+Rinko: She helped... with making these questionnaires too...
+Rinko: She's always stepping up to help with so many things... If she wasn't in the council... it'd be hard to make things work.
+Saya: Fufu, Arisa said the same about you. She said she can get things done because you're here.
+Rinko: R-really...? I'm happy to hear that...
+Saya: It's nice to know that Arisa is doing well here! ... Not that I was worried or anything.
+Rinko: Fufu... Ichigaya-san talks a lot about Poppin'Party...
+Rinko: Oh, that reminds me... I heard... you all celebrated the first anniversary of the band passing its audition... Happy anniversary...
+Saya: Thank you! Fufu, I see Arisa talked about that too.
+Rinko: She showed me pictures of the wristbands... They're very cute...
+Rinko: She said she got hers at the party... It was a surprise... Ichigaya-san looked quite happy when she was telling me about it...
+Saya: That's good! Arisa's usually pretty shy, so she doesn't talk about those kinds of things with us...
+Saya: I totally flipped when I found out she and O-Tae had planned a surprise for us too!
+Rinko: They did...?
+Saya: Arisa didn't tell you about that?
+Saya: She and O-Tae got a video of us playing the last show at SPACE!
+Saya: They even got a projector for us to watch it on. It was amazing!
+Rinko: Fufu... That's impressive of them.
+Saya: Ah, Roselia was on the video too! You should ask Arisa to let you see it!
+Rinko: I will. I can't wait to watch it...
+Rinko: That was such a wonderful surprise... I wonder why she didn't tell me about it...
+Saya: Knowing Arisa, she was probably too shy to tell you what she did.
+Rinko: Fufu... That does seem like Ichigaya-san...
+Saya: Since this is about Arisa... let's keep this talk just between you and me, okay?
+Rinko: Fufu... My lips are sealed...
+Saya: Ah, sorry for taking up so much of your time! I haven't kept you from doing anything important, have I?
+Rinko: No... I really enjoyed hearing about those things...
+Rinko: If it's okay... I'd like to hear more about Poppin'Party's Ichigaya-san sometime...
+Saya: You got it! And you tell me more about the student council's Arisa too!
+Saya: See you later, Rinko-senpai. You and Arisa keep up the hard work.
+
+
+<Ring of Happiness?>
+
+(Character: Saya Yamabuki)
+
+[Downtown]
+
+Saya: Hi, Marina-san, {{userName}}-san.
+Saya: Oh, CiRCLE isn't open yet, is it? Are you out picking up something?
+Marina: Yeah, I noticed a few things I needed to get before I open.
+Marina: How about you, Saya-chan? Going somewhere?
+Saya: I'm on my way to Arisa's basement to practice!
+Marina: Cool! It's not even noon yet, and you look like you're all ready to rock out!
+Saya: Fufufu, I'm so ready to play.
+Saya: A couple of days ago, we had a party to celebrate the first anniversary of us passing the audition at SPACE.
+Saya: At the party, we all watched a video Arisa and O-Tae got of the bands that played the last show at the venue.
+Saya: There was so much going on that day that I didn't even remember seeing the audience's faces...
+Saya: But when I watched the video, I could see them. People looked so excited. I could feel the show's energy all over again.
+Saya: We all could. It's got everyone pumped to play. Today, we're gonna practice hard.
+Marina: Fufu, when you see people smiling in the audience, it really psyches you up, doesn't it?
+Saya: Yeah, it does. We want to put on another great show. Seeing people loving our music makes us want to keep playing.
+Saya: It's like a circle of happiness, emotions going out and coming back... Ah, maybe that's what CiRCLING is all about.
+Marina: Oh, yeah, maybe!
+Saya: It'd be great if we could make that circle bigger with our shows.
+Marina: Fufu, isn't that happening already? I know just talking to you and seeing your smile is putting me in a good mood.
+Marina: There's no way I'm gonna let you girls have all the fun. I'm gonna work hard at the studio to widen the circle too!
+Saya: Oh, hey! We wanted a change of pace and have been thinking of practicing somewhere else next time. Would it be alright if we practiced at CiRCLE?
+Saya: I feel like practicing at a different spot than we're used to might get us more fired up to play.
+Saya: And when we get tired of practicing, we can come hang with you!
+Marina: Sure, that'd be great! Ah, be sure to reserve a space fast, though!
+Saya: Okay! As soon as we're finished with practice today, I'll go make a reservation!
+Saya: ... Ah, look at the time! I better get going. I don't want to make everyone wait.
+Saya: See you later, Marina-san, {{userName}}-san. Bye!

@@ -1,0 +1,100 @@
+1726_Tae Hanazono_R5 Better Sound
+
+Gacha phrase: Alright then, let's all help Arisa out!
+
+<Hanazono Music to the Rescue>
+
+(Character: Tae Hanazono, Himari Uehara, Rokka Asahi)
+
+[CiRCLE - Lobby]
+
+Tae: So, since it's so hard to get together, I came to squeeze some practice in before work.
+Himari: Tell me about it~! Everyone on my end's been pretty busy lately too~...
+LOCK (Rokka): Sigh~... It's not working out~...
+Tae: Oh, LOCK!
+Himari: Heya~!
+LOCK (Rokka): Tae-senpai, Himari-senpai! Hello! Are both of you here to practice on your own as well?
+Himari: Yeah! I'm practicing hard since we've also got the GBT!
+Tae: Same. Mine's a show at RiNG this week.
+LOCK (Rokka): I see...! Sigh~... I really need to work harder as well then...
+Tae: What's wrong? Something on your mind?
+LOCK (Rokka): Oh, um... you see, I'm having difficulty finding the settings to get my guitar to sound right.
+LOCK (Rokka): I want a sound with a different feel from usual, but nothing I've tried seems to work well...
+Himari: How your sound feels, huh~? Stuff like that tends to be hard...
+Tae: What kind of sound are you aiming for anyway?
+LOCK (Rokka): Something gentler that isn't as glaring.
+LOCK (Rokka): It's for a song where LAYER-san's singing really stands out, so I'm trying to avoid getting in her way. I want a sound that can accompany her instead.
+LOCK (Rokka): I've been adjusting the settings and how I play, but nothing has really clicked...
+Tae: Hmm~... Maybe you could try out these guitar strings.
+LOCK (Rokka): The ones sold in the reception area? I can't say I've tried because they're such heavy gauge strings...
+Tae: Why not give it a shot? Uh... Oh, Marina-san~, do you think we could try out these strings to see how they sound?
+Marina: Sure thing~! I've got my hands full right now, so go right ahead and play~!
+(Black cut)
+Tae: How was it?
+LOCK (Rokka): This is it! This is the kind of sound I've been wanting to create! Thank you so much, Tae-senpai!
+Himari: I'm so happy for you, Rokka!
+Tae: Fufu, you're smiling at last, LOCK.
+Himari: That was amazing, O-Tae! You knew what sound Rokka was looking for. I guess you don't work at a music shop for nothing.
+Tae: If it's about sound, leave it to me! Is there anything you're struggling with, Himari? I'll gladly offer advice.
+Himari: Hmm~, let me think~... Oh, I sometimes almost drop my pick because of how hard I'm practicing right now.
+Tae: Huh... How about this one then? The added grip should make it easy to hold.
+Himari: Oh, you're right. The part you're meant to hold is bumpy...
+Himari: Wow, this is incredible! The pick doesn't slip at all! Thanks~, O-Tae! Now I can play as hard as I want!
+Tae: I know, right? Now that it's easier to play, you can even attempt new ways of playing that you couldn't try before.
+Himari: Yeah! I have a feeling playing the bass is going to be even more fun now!
+Tae: Great. That's my favorite sort of thing to hear at work too.
+Tae: I love it when the people who come to our shop end up loving music even more and leave with smiles on their faces.
+Tae: There's a different kind of fun from concerts, which is why I like working at a music shop.
+Himari: Huh~! It does sound fun~!
+LOCK (Rokka): (Tae-senpai sure is cool... I need to work harder at Galaxy so that I can make our customers happier too...!)
+Himari: By the way, Poppin'Party's doing a show at RiNG soon, right? I'll be sure to go watch!
+Tae: Thanks! Look forward to it! We'll make it a good one.
+Tae: Oh, I just remembered I figured I should get a new guitar strap since we're doing the concert.
+LOCK (Rokka): That sounds like a nice idea! What kind of strap do you have in mind?
+Tae: Maybe something that's exciting to look at.
+Himari: Leave this one to me then! Hmm~... Oh, how about this design?
+Tae: I like it! I don't think I've ever used one that stands out so much, and it looks like the colors could go well with my guitar.
+LOCK (Rokka): You have such great taste, Himari-senpai!
+Himari: Fufu, leave the fashion stuff to me! You're talking to the person who's always keeping tabs on the latest trends on social media!
+Himari: Oh, I just had an idea! Do you want to go buy hair accessories right now? I found this nice shop when I was hanging out with Ran and everyone~!
+Tae: Nice! Let's all go together then!
+LOCK (Rokka): What?! Um, now? I thought you were just taking a short break from practice... Ah, Tae-senpai, Himari-senpai, please wait for me~!
+
+
+<Painting with Sound>
+
+(Character: Tae Hanazono)
+
+[Riverside]
+
+Tae: Ah, Marina-san, {{userName}}-san! Hi!
+Marina: Heya, Tae-chan. Off somewhere?
+Tae: I'm on my way to my part-time job. A new guitar's being delivered today, so I want to go early and have everything ready to give it a proper welcome.
+Marina: Oh, you must be excited then. How's work lately? Everything alright?
+Tae: Yeah! I really enjoy getting to learn how to do all kinds of repairs!
+Marina: I see! Isn't it hard to learn everything you need to know to do instrument repairs though?
+Tae: I may not know much yet, but I'm still hooked because there's just so much depth to things like exchanging jacks or straightening a warped neck.
+Tae: Plus, it's so exciting to improve my understanding of an instrument each time I'm taught.
+Marina: Gaining knowledge must also be fun because you can make use of what you've learned when you're playing an instrument.
+Tae: Exactly! It's definitely helped increase the kinds of sounds I can create.
+Marina: That's great. Your guitar sounded amazing during that show at RiNG too!
+Tae: Thanks! Part of it was the quality of RiNG's amps, but I also paid special attention to the effects unit settings.
+Marina: I see! That must be partly why the distortions sounded cooler than before.
+Tae: I also tried different shielding for the cable... This time around, I put a lot more thought than usual into getting everything ready.
+Marina: Well, your attention to your sound really showed.
+Tae: Fufu, I'm so glad the discussions with Ririko-san paid off. It was our first time performing there, so I really wanted everything to sound good.
+Marina: RiNG and CiRCLE do have different acoustics, after all.
+Tae: Yeah. The way the bass feels and how the trebles travel are so different. Playing there felt like a completely new experience.
+Marina: Every live house does have their own set of unique characteristics, after all.
+Tae: Yeah, it even has a different vibe from CiRCLE too.
+Marina: Vibe?
+Tae: The audience felt so different because there were so many new people.
+Tae: It was like coloring a blank piece of construction paper with new paint!
+Marina: Now that you mention it, their clientele did seem a bit different from CiRCLE's.
+Tae: It really felt like we were doing everything for the first time, and that excitement is something I never want to forget.
+Marina: I see. Looks like your latest concert was a great experience for you girls.
+Tae: Yeah, it even gave us new ideas too!
+Marina: Well, I'll be looking forward to your next show then!
+Marina: ... Oh, sorry. I just realized we've kept you talking forever. You have to go to work, don't you?
+Tae: I do, but I'm glad we got to chat. Anyway, I should go now! Bye!
+Marina: Alright, see you and good luck!

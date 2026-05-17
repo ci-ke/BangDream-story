@@ -1,0 +1,99 @@
+940_Yukina Minato_R4 Our Future Destination
+
+Gacha phrase: Are you ready to give the best show of your lives?
+
+<Waypoint to the Top>
+
+(Character: Yukina Minato, Sayo Hikawa, Lisa Imai, Ako Udagawa, Rinko Shirokane)
+
+[Restaurant]
+
+Yukina: Looks like we're all here. I apologize for contacting you all on such short notice.
+Sayo: Of course we came. You said we have something important to discuss regarding Roselia.
+Ako: We were already hanging out together, so don't worry about it!
+Lisa: So what's up? Did something happen?
+Yukina: It's less about something happening, and more about a feeling I have. I wanted to talk about it with everyone.
+Rinko: A feeling... you have...?
+Ako: ... Gulp.
+Yukina: I recently had the chance to see some bands at Sparkle Dome... I felt something when I was there.
+Lisa: You did say there was a concert featuring some bands you were interested in. I guess that was at Sparkle Dome.
+Ako: A dome... I've seen shows at them on TV, but I've never been to one in real life.
+Ako: I bet the crowd gets really wild there~.
+Yukina: Yes, it certainly was. You could feel the crowd's excitement for the show. It was practically pulsating throughout the venue.
+Sayo: I imagine the bands that get to play at such a venue have to be rather talented.
+Yukina: You're correct. I've seen that band many times... And yet, if I'm being honest with you, they exceeded all my expectations that day.
+Yukina: The venue offered incredible sound that was only amplified by the skilled musicians... The show was exceptional.
+Yukina: Of course, it wasn't only the music. The band gave performances that completely enveloped the crowd...
+Yukina: The performances and the music created an atmosphere that gripped you. It felt like it was never going to let go.
+Lisa: For you to say all that... it must have been an unbelievable show.
+Rinko: Just hearing about it... makes me... excited... It's a strange... feeling...
+Sayo: So in other words, something about the dome show was clearly different from their regular shows...
+Yukina: Yes.
+Yukina: I knew that band gave powerful performances, but that wasn't all I saw at the dome that day.
+Yukina: After the concert ended, I was trying to understand what had set this show apart from their previous ones... And then it came to me.
+Lisa: ... What was it?
+Yukina: The level of devotion was different at the dome than it had been at other shows. They were determined to take the audience's breath away... They had an extraordinary sense of commitment.
+Yukina: Of course, I don't think it was only that. In order for them to express those feelings to the audience, it was essential for them to raise their technical skills.
+Lisa: So, you're saying if we have the commitment and the skills, we can also give a show that totally blows the audience away, even if it's their first time hearing us?
+Yukina: And if we can do that, our band will become stronger.
+Yukina: That's what I think anyway.
+Ako: Oooh... I'm getting chills!
+Rinko: M-me too... My heart is beating so fast...
+Lisa: Devotion can make the band... stronger...
+Lisa: So for now, the only thing we can do is focus even more on practice and our actions from now on, right?
+Yukina: Right. Naturally, we need to improve our performance skills, but it's also important for us to have resolve as we move forward.
+Ako: Sounds good to me! Ahh~, now I'm really hyped up~!
+Lisa: Me too! Okay. I'm going to get an extra large order of fries☆
+Lisa: You can't work hard on an empty stomach!
+Rinko: Fufu... That's true. Let's all work hard together...
+Ako: You said it! I wanna eat fried chicken! I want to get some dessert and a drink too!
+Sayo: My goodness... Why does this always happen...? By the way, Minato-san...
+Yukina: Yes?
+Sayo: It seems you were very impressed by the shows at the dome... Are you implying that that is what we should aim for?
+Yukina: Sayo... Of course not. Playing a dome show is merely a step along the path we're walking. We're aiming for something much grander than that.
+Sayo: Fufu... I'm relieved to hear that.
+Ako: Yay~! The fries are here~! ... Th-there are so many! The pile is so big that I can't see Lisa-nee on the other side of the table!
+Rinko: It's like a dome of fries...Or maybe... A mountain of fries...
+Lisa: Sorry. I was so excited that I got the biggest order of fries they have.
+Ako: Well, the first thing we've got to do is take care of this mountain of fries~!
+Sayo: It looks that way... This mountain is much lower than the peak we're aiming for... but I think getting through this will still prove to be a challenge.
+Yukina: Fufu... I'm counting on everyone.
+
+
+<Ambitions of Equals>
+
+(Character: Yukina Minato)
+
+[CiRCLE - Lobby]
+
+Marina: Oh. Hey, Yukina-chan.
+Yukina: Hello, Marina-san, {{userName}}-san.
+Marina: Looks like you've been practicing more lately. Got a show soon?
+Yukina: No, it's nothing like that. I'm just trying to improve.
+Marina: I see. That's what's so amazing about you. You never settle for where you're at. You're always working hard to reach the next level.
+Yukina: I wouldn't call this working hard.
+Yukina: People making their way to the top are always improving themselves. I'm sure the other girls are doing the same...
+Marina: What other girls...?
+Yukina: ... The other day, I went to see a girls band event being held at a dome.
+Marina: A dome...? Oh! Do you mean Girls Band Expo?
+Yukina: Yes. Seeing those bands on that stage convinced me that I need to work on improving even more.
+Marina: It must have been one heck of a show to make you think that.
+Yukina: It was... Every band that went on stage carried a different intensity.
+Yukina: The singers had these amazingly powerful voices that mesmerized the audience.
+Yukina: And the other band members supported the singers with flawless performances.
+Yukina: When the vocals combined with their perfectly timed music, the singers' voice became even more incredible.
+Yukina: There was synergy between the band members... No. Not just between them, but with the audience as well. Everything came together just right. It was an exhilarating show.
+Marina: Wow~, Yukina-chan, you've got a knack for analyzing things.
+Yukina: Breaking down something like this is child's play.
+Marina: I don't know. If I'd gone, I'd have been so caught up in the excitement that I wouldn't have noticed those things...
+Marina: So, your takeaway from the show was to improve yourself, right?
+Yukina: That's right. I thought about what I could do. And I think improving my skills could be a way to generate more synergy in Roselia.
+Marina: Gotcha~. So that's why you're practicing more.
+Marina: ... Have you talked about this with the other members of Roselia?
+Yukina: Yes. We discussed it in our last meeting. Why?
+Marina: You're not the only member from Roselia that's been dropping by for more practices lately.
+Marina: I was wondering what was going on. It looks like you all are thinking the same thing.
+Yukina: Fufu... It seems that way.
+Yukina: It's easy to get distracted by what other bands are doing and not focus as much on Roselia... But we can't let ourselves do that.
+Yukina: Marina-san, can I reserve a time for my next practice?
+Marina: Sure! I'll see what's open.

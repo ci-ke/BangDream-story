@@ -1,0 +1,101 @@
+1516_Rokka Asahi_R3 MELODY SQUAD GUITAR
+
+<A Lively Shrine Visit>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Shrine]
+
+LOCK (Rokka): Umm, the hall of worship is~... There it is! This way, guys.
+LAYER (Rei): LOCK, if you rush up the stairs like that, CHU² will...
+LOCK (Rokka): Huh?
+CHU² (Chiyu): Pant, pant... Why do shrines have to have so many steps~...?!
+PAREO (Reona): CHU²-sama, if you are tired, we can go slower.
+MASKING (Masuki): CHU², you need to work on your cardio. Sometimes, I really worry 'bout you.
+CHU² (Chiyu): You all are so annoying! I didn't come here because I wanted to!
+LOCK (Rokka): Since we're already out for a meeting for a show, I thought it might be nice to stop by a shrine.
+CHU² (Chiyu): There's nothing nice about this!
+LOCK (Rokka): CHU²-san, don't be like that~...!
+LAYER (Rei): LOCK, why did you want to come to this shrine again? We haven't been here since the Tokyo R Festival.
+LOCK (Rokka): I wanted to come and give my thanks...
+PAREO (Reona): Give thanks?
+LAYER (Rei): Did you ask the god here to help with something?
+LOCK (Rokka): It's nothing like that... Remember how I lost the good luck charm I found at this shrine?
+LOCK (Rokka): I looked for it at home and even called the concert hall where the Tokyo R Festival was held, but I never found it.
+PAREO (Reona): How strange. It is as if it vanished into thin air.
+LOCK (Rokka): Exactly! And ever since I lost that charm, I haven't had a single premonition...!
+LOCK (Rokka): So I think it really did have some strange powers...
+CHU² (Chiyu): What? That's impossible. You're talking nonsense.
+LAYER (Rei): You just have to believe when it comes to these kinds of things, though.
+LAYER (Rei): LOCK said she did everything she could to help RAS because she saw our future after she found that charm, right?
+LAYER (Rei): If LOCK says the charm helped her, then maybe we should just take her word for it.
+LOCK (Rokka): LAYER-san...!
+CHU² (Chiyu): Okay, fine. But I still don't see why all of us had to come here.
+LOCK (Rokka): I-I guess you have a point. I'm sorry. I was feeling a little bad for making you all come with...
+LOCK (Rokka): But I just had to thank this shrine for showing me the good luck charm. It kept me from losing my band and amazing bandmates.
+CHU² (Chiyu): ...
+MASKING (Masuki): You sure the god here is the one you should be thankin'?
+LOCK (Rokka): Huh?! I found the charm at this shrine, so I figured this is where I should give thanks. Are you saying it was just a coincidence that I found it here...?!
+MASKING (Masuki): Hell if I know.
+CHU² (Chiyu): Sigh~... Who cares. Let's just get to the hall of worship already.
+CHU² (Chiyu): We just have to believe, right? So LOCK should just do what she believes in.
+LOCK (Rokka): So you'll come with me, CHU²-san?
+CHU² (Chiyu): Are you really asking me that after dragging me all this way...?!
+LOCK (Rokka): Ahaha. Good point...
+CHU² (Chiyu): Besides, I really appreciate everything you did for us...
+LOCK (Rokka): Wait, what did you just say...?
+CHU² (Chiyu): N-nothing! Come on, let's get moving!
+PAREO (Reona): Please wait, CHU²-sama! If you hurry up the stairs, you could fall~!
+LOCK (Rokka): ...?
+MASKING (Masuki): If she keeps that pace up, she'll be worn out for sure by the time she gets there.
+MASKING (Masuki): Hey, there's a gift shop over there. Wanna check out a new good luck charm?
+MASKING (Masuki): Who knows, you might start seein' the future again, LOCK.
+LOCK (Rokka): Stop teasing me~.
+LOCK (Rokka): And anyway, if I'm not dreaming about the future anymore, then that must mean RAS is okay.
+LOCK (Rokka): That last show was rough, but we didn't back down. It'll take more than that to put a dent in RAS's armor!
+LAYER (Rei): Yeah... You're right. I'm sure more challenges will come our way.
+LAYER (Rei): But as long as the five of us are together, I know we'll be alright.
+LOCK (Rokka): Yeah!
+CHU² (Chiyu): Pant, pant... Why are you all... moving so slowly~?!
+PAREO (Reona): CHU²-sama, if you yell, you will run out of breath again!
+LOCK (Rokka): Oh no, we started talking and forgot about everything else...!
+MASKING (Masuki): It's not just CHU², the shrine's god might be waiting on us too.
+LOCK (Rokka): You're right. Let's hurry to the hall of worship together!
+(Black cut)
+(Background change)
+
+
+<Heart-Piercing Sound>
+
+(Character: Rokka Asahi)
+
+[Residential Area]
+
+LOCK (Rokka): Marina-san, {{userName}}-san, hello!
+Marina: We were just talking about you... Hi, Rokka-chan.
+LOCK (Rokka): You were?
+Marina: {{userName}}-san and I were talking about the Tokyo R Festival.
+Marina: People are saying you were so cool when you yelled on stage. They say you spoke with so much heart.
+LOCK (Rokka): Ah, I kind of wasn't myself when that happened~...!
+LOCK (Rokka): I don't usually do things like that.
+Marina: Relax, we know. Yoshiko is always telling us just how kind and earnest you are.
+Marina: That's why we were surprised to hear about what happened at the Tokyo R Festival. It sounds like you had a rough time.
+LOCK (Rokka): Yeah... It was a lot.
+LOCK (Rokka): I really didn't like how people were just saying whatever they wanted about RAS.
+LOCK (Rokka): I mean, yeah, RAS might get itself into trouble at times, but that's why I wanted people to at least hear RAS's sound first before judging us...
+Marina: RAS's sound?
+LOCK (Rokka): Yes! I was sure that people would understand just how amazing a band RAS is once they heard us play.
+LOCK (Rokka): That's why we were pushing ourselves so hard rehearsing for the show.
+Marina: Wow... You know, you're pretty cool, Rokka-chan.
+LOCK (Rokka): R-really?
+Marina: Yeah. For you to say that about your performance means everybody in RAS rehearsed until they were totally satisfied with their output.
+Marina: That's not an easy thing to do, you know.
+LOCK (Rokka): When you put it like that, I guess it could be true...
+LOCK (Rokka): The whole band rehearses with the same intensity and the same goal when we prepare for a show...
+LOCK (Rokka): That's an ideal situation for a band, but it rarely ever happens, does it?
+LOCK (Rokka): The more I think about it, I'm so glad I came here... and joined RAS!
+Marina: Me too. I'm looking forward to what you and RAS do next!
+LOCK (Rokka): Thank you!
+LOCK (Rokka): Ah, look at the time... I have to get going. We're all rehearsing at CHU²-san's house soon!
+(Black cut)
+(Background change)

@@ -1,0 +1,93 @@
+459_Saya Yamabuki_R3 Puppet Show
+
+<Downtown Traditions>
+
+(Character: Saya Yamabuki, Hagumi Kitazawa)
+
+[Downtown]
+
+Hagumi: Okay! That's the last of the decorations. Now it really feels like Tanabata's on its way!
+Saya: Fufu. Looks like someone's in a good mood, Hagumi.
+Hagumi: Ah, Saya! Decorating for Tanabata is just so much fun!
+Hagumi: Christmas and New Year's are the same. I just love seeing the downtown street decorations change with the seasons. It feels so festive and exciting!
+Saya: I know what you mean. The new scenery can really put a little spring in your step.
+Saya: We better finish decorating the bakery soon too~.
+Hagumi: Ah, since we're pretty much done with our shop, why don't I help?!
+Saya: Really?! Thanks, I'd appreciate it~.
+(Black cut)
+(Background change)
+
+[Yamabuki Bakery]
+
+Hagumi: Wow~! It's Orihime-sama and Hikoboshi-sama! Are those origami?!
+Saya: They sure are. Jun, Sana and I made them together. Surprisingly good, right?
+Hagumi: Whoa~, these are amazing! Do you want these in the window?
+Saya: That's the plan! I want it to look like the milky way starts from the top corner of the window and goes down diagonally until it reaches the bottom corner.
+Hagumi: Okay! Consider it done!
+Saya: I still can't believe Tanabata's right around the corner... Summer's finally here~.
+Hagumi: Ah, that reminds me, my dad said he wants to do another barbecue this year with everyone downtown!
+Saya: Ah, that's great! The downtown barbecue is like a tradition around here! I can't wait!
+Saya: I'll have to tell Sana and Jun too. They love the downtown barbecue.
+Hagumi: We haven't decided on a date yet, but Dad's already getting super into it~.
+Saya: Yeah, your dad's really passionate about grilling, isn't he?
+Saya: That last barbecue felt so authentic with that one dish. You know which one I'm talking about, right...?
+Saya: He took these huge pieces of meat and put them on skewers, then grilled them just like that... What was the name again...?
+Hagumi: Churrasco! My dad told me that it's a Brazilian meat dish!
+Saya: Yeah, that's it! Talk about making an impression~. And the taste was out of this world~.
+Saya: And he smoked all those other meats himself too, right there on the spot, didn't he?
+Hagumi: Actually, my dad made that smoker himself!
+Saya: Huh? That was homemade?
+Hagumi: Yeah, he just loves barbecuing with everyone so much! He gives it everything he's got!
+Saya: That's what I'd expect from the Kitazawa family. I bet that's where you get it from, Hagumi. You're pretty good at lighting the fire for the barbecue.
+Hagumi: You think~? Ehehe~♪
+Saya: I can never get the coals going at all... Got any tricks you can teach me?
+Hagumi: I wouldn't call it a trick, but my dad always makes sure the coals are nice and dry before the barbecue.
+Hagumi: He said that makes it easier to set them on fire.
+Saya: I see. I had no idea.
+Hagumi: And when you're placing the coals inside the grill, my dad said you have to make sure there's space in between them. That way the airflow feeds the fire and makes it nice and hot.
+Saya: I get it~. You know, I think I'm even more excited for the barbecue now.
+Hagumi: Same here! Oh yeah, my dad told me he's even researching what kind of food he should make for the barbecue!
+Saya: Fufu, I see. Listening to you makes me want to ask my dad to teach me something too.
+Saya: Maybe I'll ask him if we can make bread together on our next day off.
+Saya: ... Ah, I've got an idea!
+Hagumi: Hm? What is it, Saya?
+Saya: I think I'll try to bring some sort of new bread to the barbecue. I'll talk to my dad about it.
+Hagumi: Wow! That sounds good to me!
+Saya: Alright, then it's settled. I hope you'll look forward to a new Yamabuki Bakery creation!
+
+
+<I Want to Remember This>
+
+(Character: Saya Yamabuki)
+
+[Riverside]
+
+Saya: Uhm... that building over there... I think it was-
+Marina: Hello, Saya-chan.
+Saya: Ah, good afternoon.
+Marina: You seemed pretty lost in your own thoughts there. Did something happen?
+Saya: Huh? You saw? No way, how embarrassing...
+Saya: I wasn't really thinking about anything. I'm just trying to take in the scenery.
+Marina: Oh?
+Saya: You see, a little while ago, I helped Kasumi and Hagumi search for the park they played in as kids. When we found it, however, we learned that it had been turned into a culture center...
+Saya: I suppose it's kind of obvious, but after seeing that, it really hit me that the scenery around us is always changing little by little...
+Marina: I see. You're right. Before you know it, the town has evolved into something new.
+Saya: For example... Do you see that construction on the other side of the river? Do you remember what was there before?
+Marina: Now that you mention it... No, I don't.
+Saya: Right? I can't either.
+Saya: I always take this road to CiRCLE, and yet, I've completely forgotten something as simple as that.
+Marina: I'm the same way. I should know this scenery by heart after seeing it every day. Do you remember what was there, {{userName}}-san?
+Saya: ... You too, huh? I wonder what was over there...
+Saya: That's why I was trying to really take it all in, so I can always remember it.
+Marina: I see... I never thought about it like that before...
+Saya: This road is so important to us all. We've talked about so much walking down this path...
+Saya: We've laughed... We've cried...
+Saya: We always take this path on our way from school to CiRCLE, so it's filled with so many memories...
+Marina: Hearing something like that makes us happy too.
+Marina: Hey, Saya-chan. Is it alright if I enjoy the view with you?
+Saya: Of course!
+Marina: You too, {{userName}}-san. We should memorize it as best as we can.
+Saya: I love this scenery so much~. I'll always remember it!
+Saya: Ah, do you see that big building over there?
+Marina: You mean the white one?
+Saya: That's the one! You see, when I was little...

@@ -1,0 +1,119 @@
+378_Maya Yamato_R4 A Brave Challenger
+
+Gacha phrase: I want to be able to ski down this course without falling!
+
+<Trying Out Softball>
+
+(Character: Hagumi Kitazawa, Misaki Okusawa, Maya Yamato)
+
+[Park]
+
+Hagumi: Here it comes! Ready, Maya-san?
+Maya: R-ready!
+Maya: Ngh! Ohhh~... I missed again...
+Hagumi: It's okay! Just keep trying!
+Misaki: ... Hmm~... Why am I doing this catcher thing...?
+Maya: Sorry for making you tag along, Okusawa-san...
+Misaki: Ah, no. It's not a big deal. I was free, after all.
+Hagumi: So Maya-san, what made you want to play softball all of a sudden?
+Maya: Remember when we all went skiing together the other day? Thanks to you, I was actually able to learn a little bit.
+Misaki: That's true. By the end, you weren't even falling anymore.
+Maya: Exactly! Physical activities are not really my forte, but when we were done, I overcame the idea that I'd be bad at skiing. I realized that if I practice, I can do even the things I'm not very good at!
+Maya: So I thought, I might as well try to do the same with sports in general and learn to enjoy them while I'm at it.
+Misaki: I can see where you're coming from, but... Isn't starting with softball a little much?
+Maya: Wait, you think so?
+Misaki: Yeah... Wouldn't it have been better to start with a simpler physical activity? You know, like running or jumping?
+Maya: ... When you put it like that, I guess you're right...
+Hagumi: Don't worry about it! With enough practice, you can do it for sure!
+Maya: Y-you're right! If I can learn how to ski, then I can definitely learn to play softball...
+Hagumi: Mhm! When I first started, I'd get blisters all over my hands, but I'd keep practicing until they burst! If I can do it, you can too!
+Maya: Uhm... If I get blisters on my hands, I won't be able to play the drums, so I'd rather not...
+Hagumi: It's fine~! The pain goes away once you get used to it!
+Misaki: Stop, no no no. I'm pretty sure Maya-san's not that serious about softball.
+Maya: N-no! If I'm going to do something, I need to do it right! I'm ready to play until I've popped two or three blisters!
+Hagumi: Oh~! That's it, Maya-san! Get fired up! Okay~! I'll keep pitching, so you keep swinging! Here we go~!
+Misaki: It's great you're taking this so seriously and all, but I kinda think your form is a little off...
+Hagumi: Maya-san, keep your eyes on the ball!
+Maya: O-okay!
+Hagumi: Once you're ready, swing with all your might!
+Maya: G-got it!
+Misaki: Hey, Maya-san. I understand how you feel, but you don't have to stress yourself out so much about overcoming your weaknesses, do you?
+Misaki: We all have things we're not good at... It's perfectly natural.
+Maya: Yeah, but... you and Hagumi-san are taking the time to help me, so I want to do my best.
+Misaki: Yamato-san...
+Hagumi: Maya-san, I'll stick with you until you're a pro at this!
+Maya: I really appreciate it, Hagumi-san!
+Misaki: Huh...? Does that mean I'm stuck being the catcher until then?
+Hagumi: Mii-kun! We're counting on you!
+Maya: Please, Okusawa-san!
+Misaki: Sigh... Yeah, that's fine... Just don't push yourself too hard, Yamato-san.
+Maya: Got it...! I wonder though, how am I supposed to get this bat to actually hit the ball?
+Hagumi: The most important thing is to go grr and then gah!
+Maya: ... 'Grr' and then 'gah'...
+Misaki: Hagumi, that doesn't make any sense.
+Hagumi: It doesn't?! Uhm... Uh... Let's see...
+Maya: No, it's okay... I should keep my arms close to my body and take a controlled swing, right?
+Hagumi: Ah, yeah, I think so!
+Misaki: Huh...? How'd you understand that?
+Maya: I'm not really sure myself... That's just the sense I got...
+Misaki: Uhm, what?
+Maya: I thought this at the resort too, but I think Hagumi-san is trying to teach, not using any knowledge about the sport or anything like that, but based on how it feels to her.
+Misaki: What do you mean?
+Maya: Even someone as unathletic as me can understand when another person tells me I need to time my swing well in order to hit the ball coming toward me. You'd understand that too, right?
+Misaki: Right... But explaining that would be pretty hard.
+Maya: Exactly. Which is why I think Hagumi-san is trying to communicate the feeling she has when she gets the timing right on her swing.
+Misaki: Sorry... I have no idea what you're talking about.
+Maya: Uhhh... Basically, she's trying to take the feeling she gets when she hits the ball and tell us what it is... That's what I think.
+Misaki: So she's trying to explain what it feels like when she does it right?
+Maya: Ah, that's right! I believe so!
+Misaki: Gotcha... I think I get it now... Actually~... Nah, nevermind. Still not sure I get it...
+Maya: I'm not completely certain myself, but seeing as how it worked when she taught me to ski, I thought I'd try relying on those feelings... You never know until you try, right?
+Misaki: You sure are optimistic, Maya-san...
+Maya: No~, that's not true~. But Hagumi-san is here teaching me, and you're here to lend a hand. I have to be my best self in front of you guys!
+Hagumi: Hey, you two~! Are you ready?
+Maya: Yes! Ready!
+Hagumi: Hiyah~!
+Maya, Hagumi & Misaki: Ah...
+Misaki: You hit it...
+Maya & Hagumi: Yay~!
+Misaki: You really can do anything... If you put your mind to it.
+
+
+<Good at Skiing?>
+
+(Character: Misaki Okusawa, Maya Yamato)
+
+[CiRCLE Café]
+
+Misaki: Oh, it's {{userName}}-san.
+Maya: Hello! Are you on break?
+Misaki: ... Us? We're just hanging out, I guess... Ah, is it okay if we sit here?
+Maya: Excuse us.
+Misaki: Hm? You think it's unusual to see us together?
+Maya: Actually, we went skiing together the other day.
+Misaki: We've been meeting up to chat every now and then ever since.
+Maya: Are you good at skiing, {{userName}}-san?
+Maya: I'm not very athletic, and I didn't really like skiing, so I wasn't exactly looking forward to going at first.
+Misaki: Sorry about that... We shouldn't have forced you to come along with us.
+Maya: N-no, don't worry! You did nothing wrong! And I'm actually really grateful for that now!
+Misaki: Huh? Why?
+Maya: Well... This is a little embarrassing, but... despite not having much experience with skiing, I avoided it because I'd already decided that I was bad at it...
+Maya: So if you guys didn't give me that little push and bring me along, I most definitely wouldn't have gone.
+Maya: But then Hagumi-san taught me how to ski. I may not be able to do it very well, but after I learned how to, I realized how much fun it is!
+Maya: So I'm really thankful to everyone for giving me that opportunity!
+Misaki: You know, though, the fact that you were able to learn anything from Hagumi is what's really impressive in my opinion.
+Maya: Huh?! What do you mean?
+Misaki: Think about it. Sometimes, Hagumi tries to communicate based on instincts and feelings, right? To be honest, I was worried you'd have no idea what she was saying and get more confused.
+Maya: Oh, no. Not at all. I actually would like to thank her again for her help!
+Maya: It was thanks to her that I realized that even a klutz like me can learn a sport if I just practice hard enough.
+Maya: From now on, I'm not going to decide I can't do something before I do it. Instead, I'll give it a try!
+Misaki: Wow, it's pretty amazing that just through Hagumi's teaching, you've become this positive about sports. Don't you agree, {{userName}}-san?
+Maya: You think so? It'd have to be because Hagumi-san really showed me how much fun they can be!
+Misaki: Well... I think if you can do that without going overboard, you'd be a lot better off. Weren't you covered in bruises the day after we went skiing?
+Maya: Ahahaha... How embarrassing... Yeah, when I finally got home, I was surprised by how many marks were left on my legs.
+Misaki: It makes sense. You did fall down a lot. It's great that you want to be more active, but be sure to pace yourself.
+Maya: You're right. I'll be more careful next time!
+Maya: {{userName}}-san, would you like to join and play some sports next time? Of course, Okusawa-san will be there too!
+Misaki: Huh? I will?
+Maya: Yeah! If we're going to do something, we might as well all do it together! Please!
+Misaki: I guess... Yeah, okay. If you're not busy, {{userName}}-san, feel free to join us next time.

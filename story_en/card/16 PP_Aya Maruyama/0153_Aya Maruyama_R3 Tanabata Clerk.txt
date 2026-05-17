@@ -1,0 +1,126 @@
+153_Aya Maruyama_R3 Tanabata Clerk
+
+<Secrets Among Sisters>
+
+(Character: Aya Maruyama, Hina Hikawa, Sayo Hikawa)
+
+[Fast Food Store]
+
+Aya: Hmm... There aren't a lot of customers today. Maybe because the festival ended…
+Aya: But that doesn't mean I can slack off. I have to make sure to stand up straight...
+Aya: ... Oh, speaking of! Welcome~!
+Hina: Heyya~, Aya-chan! Ehehe, surprise~.
+Sayo: Good afternoon, Maruyama-san.
+Aya: Thank you for visiting our store! What are you two up to today? Were you out shopping?
+Hina: Mhm. Our mom asked us to buy a bunch of stuff, so we were out doing that together. But now that we have everything, we're taking a break.
+Hina: Aya-chan, can I order something?
+Aya: Yes! What can I get you?
+Hina: Uhh, what should I get~♪ Sis, what do you want?
+Sayo: Let's see. I'll have an iced coffee.
+Hina: Okay, then I'll have an iced tea!
+Aya: Alright, I got it! ... Ah, that's right! The up-fries campaign from the day of the festival was a hit, so we're still holding it. You two want any?
+Hina: Really?! Yeah, yeah~! Sis, let's get fries! Can we get fries~?
+Sayo: I-if you really want them that badly, I guess... I'll... have an order of fries as well.
+Aya: Okay~, two orders of large fries! Please allow us some time while your fries are being made!
+Hina: Okiedokie, I'll go grab us a seat while we wait!
+Aya: Fufu, Hina-chan is quite the ball of energy. Has she been like that all day?
+Sayo: Yeah, she's been smiling and laughing the whole time. I imagine it's the same during rehearsal... Sorry you have to deal with that.
+Aya: It's no problem. I've been able to get through a lot of different things thanks to her optimism.
+Aya: So do you two get to hang out often?
+Sayo: Well, not exactly...
+Aya: Really? Sister dates are tons of fun! I love them.
+Aya: When I go shopping with my little sister, there's just something that makes it enjoyable in a way that's different than being with friends.
+Aya: I guess because we're family, we can really be ourselves, and it's pretty relaxing.
+Sayo: You guys must get along well.
+Aya: That's right! Ah, but that doesn't mean we don't fight sometimes, too. Even over the most ridiculous things.
+Aya: Just the other day she ate something I bought without asking and we argued about it.
+Aya: But, you know, I think it's because we're sisters that we can even have arguments like that.
+Sayo: Why's that?
+Aya: Think about it. If you're with your friends, you can't just get upset over every little thing.
+Sayo: I see. So there are things you can fight about only because she's your sister.
+Aya: Exactly! There are upsides and downsides, but it really comes down to the fact that when you're together, you can really feel at home.
+Sayo: Yeah... I see what you're saying.
+Hina: I'm back~! Wait, what are you guys all happy about?
+Hina: What is it? What were you talking about? I wanna know too~.
+Sayo: Sorry, can't tell you.
+Aya: Yeah, it's a secret.
+Hina: What~?! C'mon, I wanna know~.
+Sayo: It's a secret between older sisters.
+Sayo: More importantly, did you get us a seat?
+Hina: I did, I did~. That's not fair, no keeping secrets~.
+Aya: The older sister is also supposed to comfort the younger sister when she's pouting.
+Hina: No one's pouting~.
+Aya: Ah, looks like the fries are ready. Give me one second.
+Hina: ...
+Sayo: Are you done sulking yet, Hina?
+Hina: It's not fair, you guys are leaving me out. You can't keep it to yourselves~.
+Sayo: Who said we were leaving you out?
+Aya: Okay~, here they are! Two orders of large fries, an iced coffee and an iced tea.
+Sayo: Thank you. Hina, come on. Stop huffing and puffing around and let's go.
+Hina: Ah, wait! Sis! Bye, Aya-chan!
+Aya: Bye, enjoy your fries~.
+Hina: Sis, wait for me~! You gotta tell me what you and Aya-chan were talking about~!
+Aya: Fufu, such great sisters~.
+
+
+<Special Someone>
+
+(Character: Aya Maruyama)
+
+[Fast Food Store]
+
+Aya: Welcome to- Ah, {{userName}}-san! Hello~!
+Aya: So, are you busy right now? My shift is ending soon, and there's something I wanted to ask you about...
+Aya: Really?! Yay~, great! Okay, I'm going to change, just give me a second~!
+(Black cut)
+(Background change)
+
+[Downtown]
+
+Aya: Thanks for waiting! Uhh, alright. Where should we go?
+Aya: Is Hazawa Coffee okay?
+Aya: Awesome. Let's go then!
+(Black cut)
+(Background change)
+
+[Hazawa Coffee]
+
+Aya: Thanks for your time today!
+Aya: So the thing I wanted to ask you about... It's about Sayo-chan. She's been on my mind lately…
+Aya: Did you go to the Star Festival the other day, {{userName}}-san?
+Aya: I was working, and because of the festival, the store was very crowded…
+Aya: And I actually ended up seeing both Hina-chan and Sayo-chan that day... Though, they weren't together.
+Aya: When I told Sayo-chan that Hina-chan really wanted to go to the festival with her, she kinda... looked like she was worried...
+Aya: That's the first time I'd ever seen her make that face...
+Aya: And then... Hina-chan also looked a bit sad when I was talking to her about Sayo-chan.
+Aya: I'm not sure if something happened between them... {{userName}}-san, do you have any idea?
+Aya: ... Sigh, I see. So you're not sure...
+Aya: I was just hoping maybe I could do something to help them out... But maybe I'm being too nosy...
+Aya: ... Ah, but during our last rehearsal, Hina-chan was smiling and she was in a great mood.
+Aya: Now that I think about it, when she was talking about the Star Festival, she sounded really happy.
+Aya: She had this wide grin on her face, saying how she got to hang out with her sister that day...
+Aya: And she hadn't really talked about Sayo-chan until then...
+Aya: Ah, maybe... Something happened while they were at the festival.
+Aya: You haven't heard anything?
+Aya: ... No, huh~?
+Aya: But I guess... there's nothing to worry about! When Hina-chan is that excited to talk about Sayo-chan, it really lifts the spirits!
+Aya: Not to mention, hearing how sisters get along just warms my heart.
+Aya: I have a younger sister, so I kinda understand how Hina-chan feels.
+Aya: Whenever my sister and I go out or something, we have a lot of fun.
+Aya: I don't even remember when it was. We went to see a movie together, and afterward, we shared our thoughts about it at a café...
+Aya: Sisters tend to have similar opinions, right? So when we talked, we were feeding off of each other's ideas and getting really excited!
+Aya: I wonder if Hina-chan and Sayo-chan did something like that...
+Aya: Sisters are much different than friends... The relationship is a lot more special.
+Aya: There's a bigger age difference between my sister and me, so it's not the same, but that doesn't change the fact that they're sisters.
+Aya: However, I do wonder every now and then... What does my sister think of me...?
+Aya: Am I being a good older sister...? Things like that.
+Aya: My band is very busy, so we don't spend as much time together.
+Aya: And since I'm with them so often...
+Aya: I wonder if my sister is okay with it…
+Aya: But then I get home from work, and she greets me with a smile that makes me feel silly for worrying in the first place.
+Aya: Fufu, it makes me so happy to see that, and then it makes me hope that we can keep having that kind of relationship.
+Aya: After all, you gotta get along with your sister.
+Aya: ... Sorry, I guess I was worried for no reason. It seems like Hina-chan and Sayo-chan are doing just fine.
+Aya: And you even went through the trouble of coming here and letting me take up your time...
+Aya: You think I'm a good friend? Ehehe... Well, when you put it like that, I feel pretty good about it♪
+Aya: Maybe we can do this again next time♪ We can talk about the friends I love... or even about myself!

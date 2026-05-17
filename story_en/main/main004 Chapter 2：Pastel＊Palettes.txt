@@ -1,0 +1,76 @@
+main004 Chapter 2: Pastel＊Palettes
+
+Kasumi and Arisa go to the Talent Agency for the first time. What happens when they invite members to perform?
+
+(Character: Kasumi Toyama, Arisa Ichigaya, Aya Maruyama, Hina Hikawa, Chisato Shirasagi, Maya Yamato, Eve Wakamiya)
+
+[CiRCLE - Lobby]
+
+Marina: What?! You got Afterglow already?!
+Kasumi: Hehe~. It was easy!
+Arisa: All thanks to Saya, no doubt.
+Marina: Such is the power of a high school student. You thought they seemed good too, then?
+Marina: ... Oh, so you even heard them perform already? Well this is all getting pretty exciting, huh!
+Kasumi: So, which band do we go for next?
+Marina: I think we should try Pastel＊Palettes. They're a group of idols who actually play their own instruments.
+Marina: Plus... I looked into them here, and apparently one of their members goes to Hanasakigawa.
+Kasumi: I know her! The keyboardist, Eve-chan, she's in our class! Fufufu~, I think this is gonna be another easy one!
+Kasumi: Let's get out and get scouting~!
+Arisa: H-hold on...! I never said I was going too...! ... Ugh!
+(Black cut)
+(Background change)
+
+[Talent Agency]
+
+Kasumi: Wow...! So this is a real talent agency, huh!
+Arisa: I think you should probably leave the talking to a real adult, Kasumi. {{userName}}-san, over to you. Go on, quick!
+Chisato: Umm... Do you have business here today? If you don't have an appointment, I'm afraid I'll have to ask you to-
+Kasumi: Ah...! Chisato Shirasagi-chan...! I've seen you on TV before!
+Arisa: Ack...! Kasumi, way too loud!
+Chisato: Are you... a fan, or...?
+Eve: Chisato-san, we're about to start rehearsals... Ah! Kasumi-san!
+Kasumi: Hey~! Eve-chan!
+Eve: What are you doing here? Did you want to become idols, too?
+Kasumi: No, it's not that... It's, umm...
+Aya: Hmm? Is that Poppin'Party?
+Kasumi: Ah! Have you heard of us?
+Aya: Heard of you? You go to Hanasakigawa, right? You're famous all around school!
+Kasumi: Do you go to Hanasakigawa too?
+Aya: I do. Aya Maruyama, sophomore! Same goes for Chisato-chan, too.
+Arisa: I did hear a rumor she went to Hanasakigawa... I didn't know it was actually true, though.
+Aya: So, what brings you here today?
+Arisa: Umm... {{userName}}-san, over to you!
+(Black cut)
+Eve: Wow...! This event sounds like a lot of fun!! I really want to take part!
+Kasumi: Ah, really?! Thank you!
+Arisa: Okay, it's decided! {{userName}}-san will handle all the details. We'll just get going, then...
+Hina: Hmm? What's going on here?
+Aya: Hina-chan, Maya-chan!
+Maya: We were getting worried, none of you were showing up to rehearsals. Did something happen?
+Aya: These girls invited us to perform at their live event.
+Aya: Oh, let me introduce everyone. This is Hina-chan, our guitarist, and Maya-chan, our drummer. These girls are from Poppin'Party, and {{userName}}-san is from CiRCLE.
+Kasumi: I'm Kasumi Toyama! And this is Arisa Ichigaya! Nice to meet you all.
+Hina: A live event, huh...? Sounds good! I was getting bored of performing with professionals all the time anyway~.
+Maya: It's true, we haven't played with girls our own age much at all... This sounds like a good chance. I wanna take it!
+Aya: I understand how you all feel, but...
+Chisato: We belong to an agency, here. It's not up to us to decide where we perform. We'll have to ask the staff what they think first.
+Aya: Of course I do want to take part in this event too, though. We just have to go and let our managers know how we all feel!
+Kasumi: Okay, then! Thank you!
+Aya: I'm sorry, it's probably not the answer you were hoping for, coming all the way here... Oh! Why don't you watch our rehearsal before you go?
+Kasumi: Y-you'd really let us?!
+Hina: Sounds good. Even a three-person audience might make it all a little more exciting, y'know?
+Arisa: I guess that means I'm staying too, then... Sigh...
+Chisato: I would love for them to watch, but... don't you think it's a little too risky allowing outsiders to see our performance before the show?
+Hina: Nah, it'll be fine~. Don't be such a stickler!
+Aya: Just make sure that you keep everything you see here a secret, okay? Come on, I'll take you to the studio!
+(Black cut)
+(Background change)
+Arisa: I didn't know what to expect from an "idol band," but you guys really do play your own instruments, huh.
+Kasumi: They're like a band, but with all the cuteness and sparkle of an idol group!
+Aya: Thank you! We're still learning a lot ourselves, so it really makes me happy to hear you say that.
+Aya: Kasumi-chan, Arisa-chan and {{userName}}-san, too! We'll ask our agency for permission to perform at your event and let you know the answer.
+Chisato: Of course, we'll need to check our own schedule first. But we'll contact you with the results as soon as we can.
+Kasumi: We'll be waiting! ... I hope they'll be able to join us!
+Arisa: ... Sounds like it might be difficult. Either way, we should try reaching out to other bands while we wait.
+Kasumi: Hey, great idea. You're a genius, Arisa!
+Arisa: It's just common sense, Kasumi!

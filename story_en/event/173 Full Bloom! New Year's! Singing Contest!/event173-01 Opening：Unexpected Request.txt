@@ -1,0 +1,75 @@
+event173-01 Opening: Unexpected Request
+
+Himari visits Hazawa Coffee, but it seems Tsugumi has a problem...
+
+(Character: Himari Uehara, Tsugumi Hazawa, Chisato Shirasagi, Tsukushi Futaba)
+
+[Hazawa Coffee]
+
+Tsukushi: Thank you for waiting. Here's the Earl Grey tea you ordered.
+Chisato: Thank you, Tsukushi-chan. This looks like it should warm me up just perfectly. It was pretty cold outside.
+Tsukushi: I'll leave the milk and sugar here~.
+Chisato: Fufu, you certainly look like you've gotten the hang of work.
+Tsukushi: I do?! Thank you very much!
+Chisato: That was... energetic... You might want to consider bowing a little more gently.
+Tsukushi: I-I'm very sorry!
+Tsugumi: Ah, Tsukushi-chan! Could you go clear that table over there when you can?
+Tsukushi: Of course! I'll take care of it! Please enjoy your stay, Chisato-senpai!
+Chisato: Fufu, it seems you have yourself quite the dependable part-time help.
+Tsugumi: She's a pure ball of energy, isn't she? But we are a café, so I hope she learns to temper some of that enthusiasm a bit.
+Tsugumi: Just earlier, the woman who runs the fish shop was even trying to recruit her... Fufu.
+Chisato: It might not be that bad of a fit for her.
+Tsukushi: I don't have any plans of working there~! Ah, by the way, what do you intend to do about her request? You know, about the singing contest host...
+Tsugumi: Hmm~, yes...
+Chisato: Is there a problem?
+Tsugumi: Not quite... Well, I know this has nothing to do with you, but basically...
+(Black cut)
+Chisato: So she's looking for someone to be the host for the downtown New Year's singing contest...
+Tsugumi: The girl at the dry cleaner who does it every year isn't available because something came up suddenly...
+Chisato: I see... You don't have any interest in volunteering, Tsukushi-chan? I think your enthusiasm makes you a perfect fit.
+Tsukushi: Me?!
+Tsugumi: The thought also crossed my mind, but we've been asked to help out backstage on the day of the contest.
+Chisato: Oh. That would make things difficult.
+Tsugumi: A lot of people apparently signed up for the contest, and everyone's probably really looking forward to it too...
+Chisato: I wish I could help, but something like this would have to go through the agency... I'm very sorry.
+Tsugumi: Oh, it's okay! I'm sorry I just sprung it on you.
+Tsugumi: I'm trying to think if there's anybody that could be approached...
+Himari: Tsugu~! Tsukushi-chan~! Heya~! I'm here for the limited-time special dessert~!
+Himari: Ah, Chisato-san! I didn't know you were here too!
+Chisato: Fufu. Hello, Himari-chan.
+Himari: Hello~♪ So, what've you three been talking about? Ah, wait! Is it the new additions to the menu?!
+Tsugumi: N-no. We were talking about the New Year's singing contest. You see...
+(Black cut)
+Himari: Hmm~. It's the one they do every year, isn't it? And they need an emcee, huh~?
+Tsukushi: Being a host seems like something that would be very difficult. Whoever does it would have to be good at facilitating conversations...
+Chisato: That's certainly important, but I would say what's even more essential is the ability to create an exciting and fun atmosphere.
+Tsukushi: The woman from the fish shop did say something along those lines.
+Tsukushi: They want someone cheerful who would look like they're enjoying it... Someone that can fill you with energy just by watching them...
+Tsugumi: She also said it should be someone who smiles a lot...
+Tsugumi: ... Ah, I think I figured out who might be a good fit...
+Chisato: Fufu, I just did too... Himari-chan, why don't you try being the host?
+Himari: Huh? What~?! Me?!
+Tsugumi: Mm-hmm! You're always suggesting fun things for us to try out as a band!
+Tsukushi: And you're also a bandleader, so you have plenty of experience as a facilitator.
+Chisato: Those are both good points, but your ability to brighten the mood is what made me think you would be perfect.
+Tsugumi: Most importantly though, when you smile, it always makes me feel like I'm having a good time!
+Tsugumi: Himari-chan, do you think you could do it? It would mean a lot for everyone downtown!
+Himari: ...
+Himari: When you put it that way, Tsugu, there's no way I can say no now, is there? Okay~... I'll do it! I'll be the emcee!
+Tsugumi: Wow, thanks~! With you as the host, I just know it's going to be a great contest!
+Himari: Alright then~! I'm going to do my absolute best!
+Himari: ... But Chisato-san, could I ask for a small favor...?
+Chisato: A favor? What is it?
+Himari: Please teach me the secret to being an emcee!
+Chisato: ... Um, the secret...?
+Himari: I mean, you sometimes host All Fun and Games, right? You're so sophisticated, and I want to be able to emcee like you...!
+Chisato: W-well... We do have a script, so I'm not sure there's a whole lot I'd be able to teach you...
+Himari: But there has to be something, right~? Think of it as helping out a poor underclassman in need...!
+Chisato: Sigh~... I suppose I have gotten myself quite involved already. I'll see what I can do.
+Himari: Yay~! With your help, everything's going to be a piece of cake! Hehe~, my success is all but guaranteed!
+Himari: Now that I have nothing to worry about, I feel so hungry! The cake's tempting, but I think I'll have the sweet bean porridge♪ Would you also like some, Chisato-san?
+Chisato: N-no, thank you though...
+Himari: Alright~! I'm going to nail this emcee thing~! Hey, hey, hoh~!
+Chisato: I-I wonder if everything's going to be okay...
+(Black cut)
+(Background change)

@@ -1,0 +1,41 @@
+1033_Chiyu Tamade_R1 Cat-Eared Producer
+
+<Self-Introduction>
+
+(Character: Chiyu Tamade)
+
+[CHU²'s Penthouse - Studio]
+
+CHU² (Chiyu): Greetings! I am RAISE A SUILEN's producer, CHU².
+CHU² (Chiyu): As the strongest band, we are the trailblazers in this age of girl bands.
+CHU² (Chiyu): No other band compares to us. Come to one of our concerts, and you'll see for yourself.
+CHU² (Chiyu): Our overwhelming strength as a band is something the likes of which you'll never feel elsewhere... You won't be able to take your eyes off of us.
+CHU² (Chiyu): It doesn't matter where or what another band performs. Our music will drown out all of them!
+CHU² (Chiyu): We'll be releasing a concert schedule shortly, and it goes without saying that there'll be a new song.
+CHU² (Chiyu): It'll be another electrifying number by us, one that's the very definition of best!
+CHU² (Chiyu): Come and see us for yourselves. Are you ready?
+
+
+<The Greatest Music>
+
+(Character: Chiyu Tamade)
+
+[Park]
+
+CHU² (Chiyu): ... I already did this with that song. This would work better... but...
+CHU² (Chiyu): ... Ah, greetings, {{userName}}.
+CHU² (Chiyu): My apologies, I didn't realize you were there. I was too focused.
+CHU² (Chiyu): On what? Isn't it obvious? I was working on RAS' new song.
+CHU² (Chiyu): ... You don't need to tell me the park isn't the best place to do this! MASKING and the others kept nagging me to go out and get some sunlight!
+CHU² (Chiyu): Working at a different place also helps me come up with new ideas!
+CHU² (Chiyu): ... Yes, we did release a new song recently. What's your point?
+CHU² (Chiyu): Sigh... Listen. The world of music is constantly evolving. That's why we can't remain idle.
+CHU² (Chiyu): RAS also needs to constantly release the best music.
+CHU² (Chiyu): Yes, the best music. And that's why I'm always listening to the latest songs and studying them.
+CHU² (Chiyu): However, only a fool would neglect existing musical theory in the pursuit of the creation of new things.
+CHU² (Chiyu): Relying on instinct without proper knowledge is preposterous! That isn't how a true professional does things.
+CHU² (Chiyu): Only by knowing what's traditional can one truly break from tradition. That's why I listen to the latest music while still taking time to reflect on the positive qualities of classical music.
+CHU² (Chiyu): That's how I create the best music there is.
+CHU² (Chiyu): And what fully brings my music to life is RAS' ability to perform music and their flawless live performances at concerts!
+CHU² (Chiyu): If you finally understand, please leave me alone. I need to focus.
+CHU² (Chiyu): See you at our next concert. Farewell.

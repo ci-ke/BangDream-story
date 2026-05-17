@@ -1,0 +1,1161 @@
+1:226 [Station Entrance]
+
+(Character: Kasumi Toyama, Aya Maruyama)
+
+Kasumi: I wasn't expecting a pop quiz for math today...
+Aya: That teacher really likes doing them, doesn't she?
+Kasumi: It was the same for you too, Aya-senpai?
+Aya: Yeah. I could never relax during math class...
+Aya: But most of the questions that came up are from the textbook, so if you check before class it makes a world of difference!
+Kasumi: O-oh I see...!
+Kasumi: I think I can get a good score next time, thanks!
+
+
+2:248 [Station Entrance]
+
+(Character: Aya Maruyama, Chisato Shirasagi)
+
+Aya: You're amazing, Chisato-chan!
+Aya: You were able to handle that fan so naturally just now.
+Chisato: I just did what any entertainer would do.
+Chisato: We can't do anything that would ruin a fan's impression of us after all.
+Aya: I see. If a fan suddenly came up to me like that...
+Aya: I'd be so happy and surprised that I couldn't even talk properly...
+Chisato: I see... But that's the kind of person you come across as, so the fans would probably actually be happy with that.
+Aya: Ugh, that doesn't feel like a compliment at all...
+
+
+3:288 [Station Entrance]
+
+(Character: Hina Hikawa, Maya Yamato)
+
+Hina: The other day, I found a boppin' sport♪
+Maya: Ooh, what is it?
+Hina: Apparently, it's called bubble soccer!
+Hina: You get in this huge ball and play soccer!
+Maya: I-I can't quite picture it...
+Hina: Seeing is believing! Let's all go give it a try sometime~!
+
+
+4:289 [Station Entrance]
+
+(Character: Hina Hikawa, Maya Yamato)
+
+Hina: Maya-chan! You got any good books?
+Maya: What kind are you looking for...?
+Hina: Hmm~... The boppin' kind!
+Maya: I don't know if you'll find them boppin' or not...
+Maya: But sound equipment catalogs are interesting!
+Hina: Really? Catalogs~?
+Hina: Those sound fun! I'll check some out next time!
+
+
+5:290 [Station Entrance]
+
+(Character: Hina Hikawa, Maya Yamato)
+
+Maya: I think I'll go look at sound equipment again soon~...
+Hina: Is that fun?
+Maya: It is!
+Maya: I just go around to different music shops...
+Maya: But sometimes I find some really rare equipment!
+Hina: Wow, so it's like a treasure hunt.
+Hina: I wanna go too!
+Maya: Okay, then let's go together the next time we're free!
+
+
+6:309 [Station Entrance]
+
+(Character: Aya Maruyama, Eve Wakamiya)
+
+Eve: Is that... Aya-san?
+Eve: I wonder what she's doing...
+Aya: Oh, Eve-chan!
+Aya: Did you just see me? Oh my god how embarrassing~...
+Eve: What were you doing?
+Aya: Practicing my selfies... I'm trying to find the way to take the cutest picture possible...
+Eve: I see! Perseverance every day, that's great Aya-san!
+
+
+7:310 [Station Entrance]
+
+(Character: Aya Maruyama, Eve Wakamiya)
+
+Eve: Aya-san! Swing this stick down at my head!
+Aya: Huh? Wh-why?
+Eve: I need to practice catching a sword between my hands!
+Aya: What?! Th-that's dangerous! Y-you might get hurt...
+Eve: It's okay, I'm ready! Come on!
+
+
+8:408 [Station Entrance]
+
+(Character: Kokoro Tsurumaki, Kanon Matsubara)
+
+Kokoro: Roller coasters are so wonderful!
+Kanon: They're fun, aren't they? But where did that come from?
+Kokoro: I love roller coasters! Let's go on one sometime!
+Kanon: O-okay, sure...
+Kokoro: Great! I can't wait, Kanon-chan! Do you think ten times will do? Maybe we should go 20 times!
+Kanon: D-do we need to go so many times~?!
+
+
+9:558 [Station Entrance]
+
+(Character: Hina Hikawa, Lisa Imai)
+
+Lisa: Huh? What are you doing, Hina?
+Hina: Hey, Lisa-chi. I'm playing a game on my phone!
+Lisa: Ohh... A game, huh...?
+Hina: Yeah! I'm having a hard time getting 1st place. It's really interesting!
+Lisa: (Wow... So there is something Hina can't get 1st place at...)
+Hina: Argh, you little...! I see what you're up to...!
+
+
+10:10033 [Station Entrance]
+
+(Character: Tae Hanazono, Kanon Matsubara)
+
+たえ (Tae): 花音先輩、これあげます
+花音 (Kanon): ありがとう、たえちゃん。 これって……粘土のクラゲ？ わあ、可愛いね！
+たえ (Tae): クラゲじゃなくて、花音先輩です
+花音 (Kanon): え、これが……私？
+たえ (Tae): 髪の毛がクラゲっぽいから、そう見えたのかな？
+花音 (Kanon): そ、そんな〜
+
+
+11:10035 [Station Entrance]
+
+(Character: Himari Uehara, Lisa Imai)
+
+リサ (Lisa): ねえ、ひまり。 コンビニのふわもちクレープもう食べた？
+ひまり (Himari): まだ食べてないです。 名前からして美味しそうですね！
+リサ (Lisa): すっごく美味しかったから、 ひまりにも感想聞きたいって思ってね☆
+ひまり (Himari): ホントですか！ じゃあ、今から一緒に買いに行きませんか？
+リサ (Lisa): お、やる気だね〜！ もちろん付き合うよ！
+
+
+12:10291 [Station Entrance]
+
+(Character: Ran Mitake, Tsugumi Hazawa)
+
+Ran: Hey, have you always had that flower keychain for your bag?
+Tsugumi: No, I found it at the knick-knack shop the other day. I sort of bought it on a whim.
+Ran: Hmmm. That's a spiraea flower, right...?
+Ran: Good choice. I think it suits you.
+Tsugumi: Really? Hehehe. Thanks, Ran-chan.
+
+
+13:10295 [Station Entrance]
+
+(Character: Himari Uehara, Tomoe Udagawa)
+
+Himari: How can I be a better role model?
+Tomoe: Where did that come from?
+Himari: I don't think I'm very good at it, is all. You know, not reliable enough and all that...
+Himari: Tomoe, the underclassmen in your club all look up to you, right? Could you maybe give me some advice?
+Tomoe: Advice...? I guess it's all about passion!
+Tomoe: People want to follow those who have that burning fire in 'em! You just need to turn up the heat, and everyone will come running!
+Himari: Fiery passion... Could you maybe give me some actual steps to follow~?!
+
+
+14:10299 [Station Entrance]
+
+(Character: Aya Maruyama, Chisato Shirasagi)
+
+Aya: Chisato-chan, what do you have lined up for today?
+Chisato: We have that meeting at the agency this evening, but I have some free time before then, so I thought I would take Leon for a walk.
+Aya: Awww~! I want to take a walk with Leon-kun, too~! Can I tag along?
+Chisato: Fufu, I believe Leon would be thrilled to see your face.
+Aya: Yay! Where should we go? Maybe somewhere different from the usual route. I wonder what place would be best~...
+Chisato: (I think Aya-chan is more excited about this than Leon is...)
+
+
+15:10434 [Station Entrance]
+
+(Character: Arisa Ichigaya, Kanon Matsubara)
+
+Kanon: Oh, Kokoro-chan said she can't wait to play with Poppin'Party again soon~.
+Arisa: Yeah, Kasumi is always saying the same thing... "I can't wait to put on another street performance~!"
+Kanon: Should we go ahead and set up a date since they're both so excited about the idea?
+Arisa: Alright~. Hm, both bands in one place...
+Arisa: Wh-who knows what could happen...
+Kanon: Fueee... The show itself might be the easy part...
+
+
+16:10482 [Station Entrance]
+
+(Character: Mashiro Kurata, Toko Kirigaya)
+
+Toko: Hey, it's Shiro. What're you doing just spacing out in a place like this?
+Mashiro: Ah, Toko-chan. I was writing down a phrase that just popped into my head. I thought maybe I could use it in some lyrics.
+Toko: Hey, that sounds kinda cool! Maybe I should try!
+Toko: ... Ah, I don't know why, but the thought of crepes just popped into my head!
+Mashiro: Ahaha, maybe it's because you smelled the tasty crepes from that store over there?
+
+
+17:10483 [Station Entrance]
+
+(Character: Mashiro Kurata, Toko Kirigaya)
+
+Toko: Hmm... Maybe it would be cooler like this? Nah, it should be way more flashy... I'll write it down, just in case.
+Mashiro: Toko-chan, what are you drawing?
+Toko: Shiro, perfect timing! Look at this design! Cool, huh?
+Mashiro: Is this... a mic? The part where you hold it has a lot of decorations...
+Toko: Yeah! Mics are kinda plain, right? So I thought if you sang with a cooler mic, you might get more pumped too!
+Mashiro: That seems like it would be hard to hold though... Ehehe, thanks Toko-chan.
+
+
+18:10484 [Station Entrance]
+
+(Character: Mashiro Kurata, Rui Yashio)
+
+Mashiro: The fountain here has quite a few coins in it. I wonder if people are making wishes.
+Rui: I have not heard of this fountain having any kind of benefit.
+Mashiro: Still, there are a lot of foreign coins as well, so it's kind of interesting. I wonder what country that coin is from...
+Rui: That is an old one pound coin. The coin next to it with a hole in it is a one krone coin from Denmark.
+Mashiro: Rui-san, you sure know a lot...!
+Rui: I travel abroad on occasion, so I imagine that is why.
+
+
+19:10485 [Station Entrance]
+
+(Character: Mashiro Kurata, Rui Yashio)
+
+Mashiro: I've never listened to classical music before. Are there any songs that even I would be able to enjoy?
+Rui: Any song would be fine, so you should first give the genre a chance.
+Rui: Then, if you find any songs you like, I believe I would be able to recommend similar pieces.
+Mashiro: So you're saying I should give it a try first. Thanks, Rui-san. I'll try listening to some right away!
+
+
+20:10486 [Station Entrance]
+
+(Character: Mashiro Kurata, Tsukushi Futaba)
+
+Tsukushi: Don't you ever wish you could eat something other than a bento or cafeteria food for lunch?
+Mashiro: Now that you mention it, I do sometimes.
+Tsukushi: That's why, when I asked my father yesterday, he said he would send a food truck nearby tomorrow!
+Mashiro: You and your father both have a lot of drive...
+
+
+21:10487 [Station Entrance]
+
+(Character: Mashiro Kurata, Tsukushi Futaba)
+
+Tsukushi: Hey, Mashiro-chan. Let's bring crepes as a snack for everyone for today's practice!
+Mashiro: Okay! Then I think I'll have one with strawberries and cream. Have you decided what you want, Tsukushi-chan?
+Tsukushi: I picked something for myself, Toko-chan, and Nanami-chan, but not for Rui-san... Should we get her something sweet... Or salty? I know she said that she doesn't like foods with strong flavors...
+Mashiro: If that's the case... wh-what kind of crepe would she enjoy...?
+Tsukushi: I think this is the first time I've ever worried this much about a crepe...
+
+
+22:10488 [Station Entrance]
+
+(Character: Mashiro Kurata, Nanami Hiromachi)
+
+Nanami: Tsu-chan's late. I wonder what's up.
+Mashiro: Ah, I just got a message. It's from Tsukushi-chan.
+Mashiro: Umm... She said, "As I was helping guide an old woman, I got lost myself..."
+Nanami: Ahaha, that's so like her. Well then, shall we go get her?
+
+
+23:10489 [Station Entrance]
+
+(Character: Mashiro Kurata, Nanami Hiromachi)
+
+Nanami: Hey, Shiro-chan. Would you hang out with me again after school today?
+Mashiro: Okay. But didn't you say yesterday that you got all of the freebies for the new Lucky Set?
+Nanami: Yeah, I did, but starting today, they've got roasted sweet potato-flavored fries for a limited time!
+Mashiro: What does it even mean for potatoes to be sweet potato-flavored...?
+
+
+24:10490 [Station Entrance]
+
+(Character: Toko Kirigaya, Rui Yashio)
+
+Toko: Rui, did you know that face wash foam tastes super nasty...?
+Rui: While I believe that information is not necessary to know, how is that you know that?
+Toko: This morning I was pretty out of it and I confused it with toothpaste.
+Toko: Oh, the taste was the absolute worst, but it was kinda funny how much foam there was!
+Rui: ... I wonder if I should praise you for your positivity.
+
+
+25:10491 [Station Entrance]
+
+(Character: Toko Kirigaya, Rui Yashio)
+
+Toko: Sigh, it's seriously such a drag that I have to take supplementary lessons again. Hey, what do I need to do to get good grades on my tests?
+Rui: You simply need to memorize the entire scope of questions that will appear on the test.
+Toko: I keep telling you that's impossible! Ah, in that case, is there an easy way to remember them?
+Rui: There is no such way.
+Toko: Sigh... I wish there was...
+
+
+26:10492 [Station Entrance]
+
+(Character: Toko Kirigaya, Tsukushi Futaba)
+
+Toko: Whoa, you've got a lot of stuff today, Fusuke! What is all that stuff you brought?
+Tsukushi: As the leader of the band, I thought I should prepare all of this so that I am able to deal with anything!
+Tsukushi: I've got replacement drum sticks, bandages, medical tape, a folding umbrella, and towels. And these are snacks for when we're hungry!
+Toko: Wow! Fusuke, you're super reliable!
+Tsukushi: Fufu~! Aren't I? And yet I ended up forgetting my commuter pass instead...
+Toko: Actually, forget what I just said!
+Tsukushi: Don't say that!
+
+
+27:10493 [Station Entrance]
+
+(Character: Toko Kirigaya, Tsukushi Futaba)
+
+Toko: Fusuke, do your little sisters actually resemble you?
+Tsukushi: We look similar, but our personalities are completely different!
+Tsukushi: I guess you could say that, unlike me, they look dependable, but can be pretty careless at times...
+Toko: Ahaha, even your personalities are the same!
+Tsukushi: N-no, they aren't!
+
+
+28:10494 [Station Entrance]
+
+(Character: Toko Kirigaya, Nanami Hiromachi)
+
+Toko: Nanami, when I posted the accessory you made me, it was so popular! Why don't you try posting something on social media next time?
+Nanami: Hmmm, I think I'll pass.
+Toko: Huh, why?!
+Nanami: U-ummm... I guess I don't really want to stand out...
+Toko: Ah, I've got it! It's cooler if you make it seem like you're a mysterious designer, right?
+Nanami: Y-yeah, right! That's it!
+
+
+29:10495 [Station Entrance]
+
+(Character: Toko Kirigaya, Nanami Hiromachi)
+
+Nanami: Huh? What are you doing here?
+Toko: I thought if I did my homework in a different place than normal, maybe I could make some progress.
+Nanami: I see~. So, how's it going?
+Toko: It's not working at all. I can't get myself to do my homework no matter where I am.
+Nanami: Ahaha. At least you were able to figure that out.
+
+
+30:10496 [Station Entrance]
+
+(Character: Tsukushi Futaba, Rui Yashio)
+
+Tsukushi: The other day, you were talking to someone from the theater club, right? Did that have something to do with the student council?
+Rui: No, they were asking me to play Snow White. I turned them down, of course.
+Tsukushi: They must have asked you because you're so dignified, not to mention tall and pretty. I'm so jealous... I wish someone asked me to do something like that!
+Rui: If I recall, they said they would speak to you about a role. I believe they said it was for one of the Seven Dwarves.
+Tsukushi: That's not what I meant!
+
+
+31:10497 [Station Entrance]
+
+(Character: Tsukushi Futaba, Rui Yashio)
+
+Tsukushi: Rui-san, I'm sorry! I overslept and got here late!
+Rui: Being careless with the time is unacceptable. Did you not set your alarm clock properly?
+Tsukushi: I wanted to make absolutely sure I wasn't late, so I set up five alarm clocks around my bed...
+Rui: If that did not wake you up, then you must have been in a profoundly deep sleep.
+Tsukushi: Actually... I set up the clocks, but forgot to set their alarms...
+
+
+32:10498 [Station Entrance]
+
+(Character: Nanami Hiromachi, Rui Yashio)
+
+Nanami: Hey, Rui-rui. Want a bite of this crepe?
+Rui: No, thank you.
+Nanami: I see. That's a shame. This Burning Hot Inferno Crepe is pretty good...
+Rui: So there is someone who would actually order that item.
+
+
+33:10499 [Station Entrance]
+
+(Character: Nanami Hiromachi, Rui Yashio)
+
+Nanami: Ah, I forgot my pick today!
+Rui: Will you be alright?
+Nanami: Yeah! Yesterday I put an emergency pick in my bag in case I ever forget my main one!
+Rui: Before preparing that, would it not have been better to make sure you had your pick?
+
+
+34:10500 [Station Entrance]
+
+(Character: Nanami Hiromachi, Tsukushi Futaba)
+
+Tsukushi: I wish our school allowed for commute by car... Morning buses and trains are crowded, so they can be exhausting.
+Nanami: Apparently it used to be okay.
+Nanami: But on rainy days, the front of the school would get congested, so apparently commuting by car was prohibited.
+Tsukushi: If that's the case, they should just make a parking lot in front of the school.
+Nanami: Yeah, you have a point~.
+
+
+35:10501 [Station Entrance]
+
+(Character: Nanami Hiromachi, Tsukushi Futaba)
+
+Tsukushi: Hic! ... Hic!
+Nanami: Wh-what's wrong, Tsu-chan?
+Tsukushi: I suddenly- Hic! Got the hiccups... Hic!
+Nanami: Umm... Have some water! We have to stop your hiccups right away! They say if you hiccup one hundred times, you'll die...!
+Nanami: I mean, I'm sure that's just a superstition, but, you know, just in case!
+Tsukushi: D-don't say something- Hic! That scary~! Hic!
+
+
+36:10527 [Station Entrance]
+
+(Character: Mashiro Kurata)
+
+Mashiro: H-huh...?
+Mashiro: They're gone...! I can't find them anywhere in my bag...!
+Mashiro: My cough drops... I just bought them... Did I drop them somewhere?
+Mashiro: ... Oh.
+Mashiro: They were in my pocket...
+
+
+37:10532 [Station Entrance]
+
+(Character: Toko Kirigaya)
+
+Toko: ... Hm? I got a message from Rui.
+Toko: "Where are you?" ...?
+Toko: Ahaha, does Rui want to go hang out or something? Well, if she insists, I guess I can hang out~.
+Toko: "I'm at the plaza at the station entrance." And send.
+Toko: ... Oh, a reply. "Practice has started." ...?
+Toko: Oh man, I forgot!
+
+
+38:10537 [Station Entrance]
+
+(Character: Nanami Hiromachi)
+
+Nanami: Now that I really look at it, this fountain has coins in it... I wonder if people are making wishes.
+Nanami: I haven't heard of anyone saying their wish came true, but...
+Nanami: If everyone is doing it, then I'm sure that it's normal. I'll make a wish too~.
+
+
+39:10542 [Station Entrance]
+
+(Character: Tsukushi Futaba)
+
+Tsukushi: A-are those...?!
+Tsukushi: The extremely rare soft and creamy strawberry daifuku...?! They've always been sold out, so I've not been able to buy one!
+Tsukushi: What should I do...? There's a super long line... But...!
+Tsukushi: If I get some as snacks for practice, I'm sure everyone will be really happy! Okay, I'll line up!
+
+
+40:10547 [Station Entrance]
+
+(Character: Rui Yashio)
+
+Rui: ... The clock is five minutes late.
+Rui: Considering the time it takes to reach my destination...
+Rui: I will not arrive in time at my current pace.
+Rui: I had better hurry up a little.
+
+
+41:10581 [Station Entrance]
+
+(Character: Tae Hanazono, Rei Wakana)
+
+レイヤ (Rei): 花ちゃんって、バンドの練習がない時は何をしてるの？
+たえ (Tae): うーん、家でうさぎ達と遊んだり～
+たえ (Tae): うさぎカフェに行ったり、 うさぎグッズを探しに出かけたりしてるかな
+レイヤ (Rei): うさぎ三昧だね……
+たえ (Tae): うん、うさぎ三昧
+
+
+42:10589 [Station Entrance]
+
+(Character: Reona Nyubara, Chiyu Tamade)
+
+CHU² (Chiyu): Gasp! I've got an idea for some new lyrics! PAREO!
+PAREO (Reona): Yes, CHU²-sama. Your pen and paper.
+CHU² (Chiyu): Thanks... Wait, why is this pen pink?!
+PAREO (Reona): I thought this adorable shade of pink was a perfect fit for you, CHU²-sama. Which is why I prepared this pen just for you, as well♪
+PAREO (Reona): Plus, it's not just pink! It's glitter pink~♪
+CHU² (Chiyu): I-it’s really distracting is what it is...
+
+
+43:10709 [Station Entrance]
+
+(Character: Sayo Hikawa, Tsukushi Futaba)
+
+Tsukushi: S-Sayo-senpai!
+Sayo: ... Oh, Futaba-san. Hello.
+Tsukushi: Hello! A-are you going home now?
+Sayo: Yes. You seem to be doing so as well.
+Tsukushi: Yes! U-um... Uh...
+Sayo: ...?
+Tsukushi: I saw your last concert! It was really cool!
+Sayo: Well... thank you very much. Please come see us again.
+
+
+44:10717 [Station Entrance]
+
+(Character: Mashiro Kurata, Rui Yashio)
+
+Mashiro: Um, isn't that the place that Toko-chan was talking about last time?
+Rui: Ah, you mean the yakisoba crepe restaurant. It certainly seems to be popular.
+Mashiro: Yes. Do you want to go check it out...?
+Rui: No, I will decline. I prefer to avoid crowds.
+Mashiro: I-I see... I'm a little curious about their adzuki bean and rice flour dumpling crepe, though...
+Rui: Rice flour dumplings...? That is certainly unique. We should line up.
+
+
+45:10727 [Station Entrance]
+
+(Character: Ran Mitake, Toko Kirigaya)
+
+Toko: Hey, Ran-san~! What are you up to?
+Ran: Ah, Toko... I'm on my way to a flower arrangement gathering.
+Toko: Really?! That sounds super cool! By the way~, how long is it gonna last?
+Ran: ...? About two hours, I think...
+Toko: Ah, in that case, let's go hang out together after! I wanna hear about your band and stuff♪
+Ran: ... No, think I'll pass today.
+Toko: Okay then, let's meet here when you're done!
+Ran: So much for listening...
+
+
+46:10728 [Station Entrance]
+
+(Character: Toko Kirigaya, Nanami Hiromachi)
+
+Toko: Hey, Nanami, what's that...?
+Nanami: This~? It's a super rare freebie strap~. Cool, huh~?
+Toko: Hm~. You like some pretty weird stuff~.
+Nanami: Hey, you're one to talk. Your soba crepes and rainbow-colored smoothies are pretty weird too~.
+Toko: No way. If you gave them a try, you'd definitely get it! They're seriously hitting it big!
+Nanami: I-I see... Well, if you tried collecting freebies, you might see things differently too, you know~?
+Toko: Huh, good point! I'll think about it!
+Nanami: You really can be so adaptable~.
+
+
+47:10761 [Station Entrance]
+
+(Character: Aya Maruyama, Hina Hikawa, Chisato Shirasagi, Maya Yamato, Eve Wakamiya)
+
+Hina: Nice work, people! Today's shoot was such a blast!
+Chisato: Hina-chan, could you please at least warn us first before you go off-script? You caught me completely off guard when you started conducting those street interviews.
+Maya: Ahaha... The people she interviewed were pretty surprised, weren't they? About as surprised as us, in fact...
+Eve: However, it is also thanks to Hina-san that we were able to hear about some wonderful Christmas memories!
+Aya: Fufu. By the end, even the crew was saying our segment was shaping up great!
+Hina: ... Ah, I have a message from my sister! Whoa, she's asking us all if we want to get together for a Christmas party! Sounds fun! We're all in, of course, right?!
+Chisato: Since we only have a few jobs around the end of the year remaining, there should be no scheduling issues, at least.
+Eve: How exciting! I wonder if RAS will be present as well.
+Aya: You do enjoy hearing PAREO-chan's thoughts after shows, don't you, Eve-chan?
+Maya: And I'd like to talk about the drums with King! There's this certain band I've lately got my eye on...
+Hina: So we're all going then! Yippee~! I'm starting to feel boppin'♪
+Aya: You guys want to go shopping together later? We'll need to prepare presents and stuff!
+Eve: Yes! Preparation is the key to success, as the saying goes!
+Maya: I always have doubts about the presents I choose, so I'm glad I'll be able to get advice from all of you while trying to decide!
+Chisato: Okay, seeing as we still have the various things we used for the shoot, why don't we meet at the shopping mall once we're each ready?
+Hina: Roger that! I hope something fun also happens somewhere along the way~.
+
+
+48:10776 [Station Entrance]
+
+(Character: Arisa Ichigaya, Rei Wakana)
+
+LAYER (Rei): What did you do with those star stickers you got from music school back in the day? You had a lot of them.
+Arisa: A-ah, those...? Uh, I stuck them in a bunch of different places. Like in my house and around town.
+Arisa: Because of that, Kasumi followed them all the way to my house... I never imagined I'd meet someone that way.
+LAYER (Rei): Wow... Ah, right. The vocalist... is the star... Fufu.
+Arisa: Hm? Something wrong?
+LAYER (Rei): No, it's nothing.
+
+
+49:10782 [Station Entrance]
+
+(Character: Mashiro Kurata, Toko Kirigaya, Nanami Hiromachi, Tsukushi Futaba, Rui Yashio)
+
+Toko: Rui, we got the time settled. See you at my place at eight in the morning!
+Rui: ... ? What is this all about?
+Nanami: Our first shrine visit of the year~. We all talked about it before, remember?
+Rui: Ah... Kirigaya-san did mention something about borrowing kimonos from her place.
+Mashiro: The ones she showed us pictures of all had really pretty patterns.
+Tsukushi: What are we going to do about putting them on though? It'll probably be a lot of work for Toko-chan to handle by herself...
+Toko: Piece of cake! Grandma's trained me.
+Nanami: Oooh, that's the daughter of a kimono shop family for you~.
+Tsukushi: Okay. Then leave the hairstyling to me! I'll make sure everything goes perfectly with our kimonos.
+Toko: You, Fusuke? Seriously? You sure you can handle it~?
+Tsukushi: O-of course I can! It'll be my first time trying to coordinate looks for kimonos, but... I know I can do it!
+Nanami: Just let us know if there's anything we can do too~.
+Mashiro: I-I'll... be sitting in the corner so I don't get in the way.
+Rui: In any case, I now understand what is being expected of me on that day. I shall visit Kirigaya-san's residence at eight o'clock in the morning.
+Mashiro: I hope the weather's going to be nice... I'm really looking forward to our shrine visit.
+
+
+50:10810 [Station Entrance]
+
+(Character: Tsugumi Hazawa, Tsukushi Futaba)
+
+つくし (Tsukushi): お天気情報によると、もうすぐ雨が降ってくるみたいですね
+つぐみ (Tsugumi): 今はこんなに晴れてるのにね。 でも折りたたみ傘を持ってるから、降ってきても平気だよ
+つくし (Tsukushi): あ、それなら私も……って、あれっ？ いつもならこのバッグに入ってるはずなのに……！
+つぐみ (Tsugumi): 大丈夫っ、お店までもうすぐだし、 もし降ってきても、傘がひとつあれば充分だよ！
+つくし (Tsukushi): ううっ、すみません…… その時は、せめて私が傘を持ちますね！
+つぐみ (Tsugumi): うん、そのときはつくしちゃんに お任せしちゃおうかな
+
+
+51:10831 [Station Entrance]
+
+(Character: Sayo Hikawa, Toko Kirigaya)
+
+透子 (Toko): 紗夜さん、聞いてくださいよ～ この間のテストマジヤバくて…… おばあさまにめっちゃ怒られたんですよね～
+紗夜 (Sayo): まったく…… きちんと計画を立ててやらないからそうなるんです
+透子 (Toko): いやいや、あたしも完璧な計画立ててたんですって！ １週間前から毎日コツコツがんばって……
+透子 (Toko): でも、テスト範囲間違えてたんですよね…… はあ、やらかしちゃったな～
+紗夜 (Sayo): テスト範囲をちゃんと調べておくべきでしたね。 次は気をつけないと……
+透子 (Toko): あっ、でもこれで、次のテスト勉強しなくても いけるってことですよね！　あたしマジ天才じゃん！
+紗夜 (Sayo): 本当に大丈夫かしら……
+
+
+52:10832 [Station Entrance]
+
+(Character: Rui Yashio, Chiyu Tamade)
+
+チュチュ (Chiyu): Hello, ルイ！ こんなところで会うなんて偶然ね！
+瑠唯 (Rui): ごきげんよう、チュチュさん
+チュチュ (Chiyu): この間のライブ、見せてもらったわよ！ 悪くない出来だったけれど、まだまだワタシ達には 及ばないわね！
+瑠唯 (Rui): そう。 RASのプロデューサーから見て、どのあたりが 改善できるかしら？　率直な意見を聞きたいわ
+チュチュ (Chiyu): ……素直じゃない。 いいわ、教えてあげる！
+チュチュ (Chiyu): まず、全体の曲の構成だけど……
+
+
+53:10870 [Station Entrance]
+
+(Character: Rui Yashio, Masuki Sato)
+
+MASKING (Masuki): What're you thinkin' now, Rui?
+Rui: Sato-san, please explain the purpose of that question.
+MASKING (Masuki): I'm takin' the first step in gettin' to know you better. So what's the answer?
+Rui: ... I am perplexed as I am unable to understand your behavior.
+MASKING (Masuki): ... You really ain't cute, y'know...?
+
+
+54:10871 [Station Entrance]
+
+(Character: Chisato Shirasagi, Sayo Hikawa)
+
+Sayo: What are you looking at, Shirasagi-san?
+Chisato: A travel magazine. Looking at the photos during my spare time between jobs lets me feel like I've gone on a trip.
+Sayo: I see... I do believe trips help the mind and body relax.
+Sayo: ... If you would like, maybe all of us can go somewhere again.
+Chisato: Oh, that's a nice idea. I'll ask Aya-chan and Kanon about their plans.
+Sayo: Then I will ask Shirokane-san about hers.
+Chisato: Fufu, I'm looking forward to another trip together.
+
+
+55:10907 [Station Entrance]
+
+(Character: Mashiro Kurata, Toko Kirigaya, Nanami Hiromachi, Tsukushi Futaba, Rui Yashio)
+
+Toko: ... So, we're having a year-end party!
+Rui: ...? What are you talking about?
+Mashiro: Hmm... Were we even discussing that?
+Toko: I just decided it! When it comes to the end of the year, you've gotta have year-end parties, right?!
+Nanami: Ooh, sounds good! Enjoying the end of the year with friends... That's totally what teenagers do~.
+Tsukushi: It's going to be at the atelier, right? We should start preparing!
+Nanami: We've gotta buy a lot of snacks and drinks, huh~?
+Rui: ... It seems like it will be a lively end of the year.
+Mashiro: Ahaha... But I can't believe the year is about to end soon. It feels like it went by in a flash.
+Tsukushi: A lot of things happened~. We all went camping and played a VR game together.
+Nanami: We even did an atelier show. So many people came. It was the best.
+Toko: Don't forget about TOCO! It was super fire, and I can't wait for TOCO Day to be a national holiday next year!
+Rui: Are we looking back on the year now? I think that should be reserved for the party.
+Mashiro: You're right...
+Toko: Don't worry! There's lots of stuff to talk about during the party! It's gonna be awesome, for sure!
+Nanami: Fufu, I can't wait~. I want it to start already~.
+Tsukushi: In that case, let's go shopping together!
+
+
+56:11025 [Station Entrance]
+
+(Character: Anon Chihaya)
+
+Anon: Huh, looks like there's a fallen stuffed toy... There's a string on it too, so maybe it's a strap?
+Anon: Looks like it was attached to something like a bag when it fell off...
+Anon: Hmm... How can we find the owner... Ah, that's right! I can use MyGO!!!!!'s social media account...
+Anon: "Please spread the word! There was a lost stuffed toy in front of the station. It's waiting for its owner on the bench in the photo."
+Anon: Yep! Maybe that'll get the word out, and it might even help advertise the band!
+
+
+57:11040 [Station Entrance]
+
+(Character: Taki Shina)
+
+Taki: Ah, there's a food truck. Crepes, gelato...
+Taki: What would Tomori like...?
+Taki: ... Hmm, there's a flower shop there.
+Taki: I often see her collecting stones and fallen leaves, but... What about flowers...?
+
+
+58:11042 [Station Entrance]
+
+(Character: Tomori Takamatsu, Anon Chihaya)
+
+Anon: Tomorin, there's a lot of capsule toys over there.
+Tomori: ...?
+Anon: I thought maybe you might like stuff like that... Wanna go take a look?
+Tomori: ... Yeah... I want to see them...!
+Anon: Okay, I hope you find something you like!
+
+
+59:11043 [Station Entrance]
+
+(Character: Tomori Takamatsu, Rana Kaname)
+
+Rana: Stare...
+Tomori: Rana-chan, what are you looking at?
+Rana: Fountain.
+Tomori: ... It's pretty, isn't it.
+Rana: There's no fish.
+Tomori: Yeah... I don't think there's any here.
+
+
+60:11044 [Station Entrance]
+
+(Character: Tomori Takamatsu, Rana Kaname)
+
+Tomori: Rana-chan... You have a lot of straps on your bag.
+Tomori: Do you like them...?
+Rana: From the handicrafts club.
+Tomori: ...?
+Rana: They gave me lots. So I put them on.
+Rana: They give me sweets too. Nice people.
+Tomori: I see... That's nice.
+
+
+61:11045 [Station Entrance]
+
+(Character: Tomori Takamatsu, Soyo Nagasaki)
+
+Soyo: That train looked really packed. Are you okay?
+Tomori: ... It was a bit tiring.
+Soyo: I see. You're not good with crowds after all.
+Soyo: Hmm... Ah. There's a bench over there, why don't we take a break?
+Tomori: Yeah...
+
+
+62:11046 [Station Entrance]
+
+(Character: Tomori Takamatsu, Taki Shina)
+
+Taki: Umm... Here, for you, Tomori.
+Tomori: ...? Ah, a button...!
+Taki: I found it in an antique shop. I thought you might like something like this...
+Tomori: Yeah... It's cute...!
+Tomori: Thank you, Taki-chan.
+
+
+63:11047 [Station Entrance]
+
+(Character: Anon Chihaya, Rana Kaname)
+
+Anon: I did my best at practice today, so I bought myself a strawberry deluxe crepe♪
+Anon: What did you get, Rana-chan?
+Rana: Much matcha crepe.
+Anon: Much matcha...?
+Rana: Matcha dough with matcha cream, matcha ice cream, and matcha chocolate. Topped with lots of matcha sauce.
+Anon: You're right, it is definitely "much matcha"...
+Rana: Satisfied.
+
+
+64:11048 [Station Entrance]
+
+(Character: Anon Chihaya, Soyo Nagasaki)
+
+Anon: There's a lot of Tsukinomori students in front of the station... But don't you all usually get sent to school and back by car?
+Soyo: Pick-ups and drop-offs by car are prohibited in our school.
+Anon: Why?
+Soyo: It creates huge traffic jams in front of the school, and causes trouble for the neighboring buildings.
+Anon: I see~ And since the parents must be busy, it would be difficult to send them to school everyday.
+Soyo: You might not know this, Anon-chan, but those families would normally have designated staff for picking up and dropping off the children.
+Anon: Guh... This is truly the world of celebrities that us ordinary folk wouldn't know about...!
+
+
+65:11049 [Station Entrance]
+
+(Character: Anon Chihaya, Taki Shina)
+
+Anon: Hey hey, who do you think is the leader of MyGO!!!!!?
+Taki: Huh? It's obviously Tomori.
+Taki: Everyone is here because they were drawn by her songs.
+Anon: But you know, if I hadn't invited her in the first place, then MyGO!!!!! wouldn't have existed, right?
+Taki: ... Even so, I am absolutely against you being the leader.
+Anon: Hold up! So you're just against me then!?
+
+
+66:11050 [Station Entrance]
+
+(Character: Rana Kaname, Soyo Nagasaki)
+
+Soyo: Rana-chan, your hair's messed up from your sleep.
+Rana: It's fine.
+Soyo: Your ribbon's coming undone.
+Rana: It's still there so it's fine.
+Soyo: Your uniform's covered in twigs and leaves. Really, just where did you go to end up like that?
+Rana: Mm.
+Soyo: ... What?
+Rana: Fix it.
+Soyo: Do it yourself.
+
+
+67:11051 [Station Entrance]
+
+(Character: Rana Kaname, Taki Shina)
+
+Taki: Rana, do you normally take the train?
+Rana: No.
+Taki: ... How do you get around?
+Rana: Walking.
+Taki: ... I did get that feeling. How to put it... it does seem like you, Stray Cat.
+
+
+68:11052 [Station Entrance]
+
+(Character: Soyo Nagasaki, Taki Shina)
+
+Soyo: Taki-chan, you like pandas, right?
+Taki: ...!? How did you know...? I've never told anyone...
+Soyo: I mean, you have that keychain on your bag, and the juice you always drink has that packaging...
+Soyo: You're decked out in panda things, so I thought that might be the case. Am I wrong?
+Taki: ... No, you're not.
+
+
+69:60026 [Station Entrance]
+
+(Character: Saya Yamabuki, Arisa Ichigaya)
+
+Saya: It's rare for you to ask me to go shopping with you. Do you want to go to the mall?
+Arisa: No. There's a place near Lisa-san's college. She took me there the other day.
+Saya: Oh, okay. So it's a place that Lisa-san thinks is good, huh? I can't wait to see what they have~.
+Arisa: It has a lot of clothes you'd like too.
+Saya: Really? I'm excited to go. Since we're going together, why don't we get some matching outfits?
+Arisa: I-I'm not buying anything like that!
+
+
+70:60067 [Station Entrance]
+
+(Character: Hina Hikawa, Maya Yamato)
+
+Hina: Hey, Maya-chan! Let's go visit the university Aya-chan and the others go to next time!
+Maya: Ooh, great idea!
+Maya: Aya-san did say that their school cafeteria has good food, so what do you think of going there for lunch?
+Hina: Nice! I can't wait to see what kind of menu they have.
+Maya: Why don't we ask everyone for their recommendations? Is there anything that you'd like to try?
+Hina: Hmm, I wanna try caviar and truffles!
+Maya: Ahaha... Wouldn't that be kind of difficult...?
+
+
+71:60073 [Station Entrance]
+
+(Character: Tsugumi Hazawa, Eve Wakamiya)
+
+Eve: The new sweets are very popular with the customers!
+Tsugumi: They are! It's because you and Tsukushi-chan helped me think of them!
+Tsugumi: My mom and the others like them too. They said they were cute.
+Eve: Talking about them makes me want to eat something sweet.
+Tsugumi: Fufu. In that case, why don't you stop by? My mom might be making cakes!
+
+
+72:60083 [Station Entrance]
+
+(Character: Maya Yamato, Eve Wakamiya)
+
+Maya: Yawn~... I started tinkering with some sound equipment and ended up going to bed really late last night.
+Eve: You did not sleep enough? That is not healthy!
+Eve: We should go to that bench over there. You can rest your head on my lap!
+Maya: What?! There's no way I could trouble you like that...
+Eve: Please do not refuse! Warriors help each other in times of need!
+Maya: B-but... I'm too embarrassed to do something like that~! Thanks for offering, though...!
+Maya: Umm... I know, I'll have some coffee! Would you join me for a cup of coffee somewhere?
+Eve: I see. That would be nice! We should see if there is a vending machine nearby!
+
+
+73:60093 [Station Entrance]
+
+(Character: Kokoro Tsurumaki, Kanon Matsubara)
+
+Kokoro: Hrm? Kanon, whatcha ya reading?
+Kanon: This is a book about raising jellyfish as pets.
+Kokoro: Oh wow! So you're finally going to get pet jellyfish! That's fantastic!
+Kanon: No, taking care of jellyfish is extremely difficult... But when I read this book, I like to imagine my very own aquarium.
+Kokoro: Really? Then, why don't we build an aquarium at my house!
+Kanon: Y-you don't have to go that far. I have plenty of fun just imagining it...!
+Kokoro: Well then, let's think about your aquarium together! What if it was an aquarium where you could swim with the jellyfish?!
+
+
+74:60095 [Station Entrance]
+
+(Character: Kokoro Tsurumaki, Kanon Matsubara)
+
+Kokoro: Hrm? Hey, we had homework, didn't we? I better take care of that!
+Kanon: Do your best. If you have any questions, we can figure them out together.
+Kokoro: I'll let you know right away if I do. Laa lalalalaaa~...♪
+Kokoro: ...Hrm? What's that over there? I'm gonna go check it out!
+Kanon: Huh? Kokoro-chan?! What about your homework...?!
+Kanon: ... Huh? She's already finished... She really is amazing...
+
+
+75:60100 [Station Entrance]
+
+(Character: Hagumi Kitazawa, Kanon Matsubara)
+
+Hagumi: I've got a softball game next week! Come watch me play~!
+Kanon: Sure. I don't have any plans next week, so I'll come cheer you on.
+Kanon: Will the game be at Riverside Field like it usually is?
+Hagumi: Unh-unh. Some other teams said that they just had to play there that day!
+Hagumi: Our teams didn't know what to do, but then Kokoron came to the rescue! She said we could play in her backyard!
+Kanon: Oh. Kokoro-chan sure is helpful...
+
+
+76:60104 [Station Entrance]
+
+(Character: Kanon Matsubara, Chisato Shirasagi)
+
+Kanon: I know! When we get home, let's have some of that tea.
+Chisato: Do you mean the flavored tea we found recently? I was just thinking how I'd like a cup too.
+Kanon: It smells a little fruity and tastes really good.
+Chisato: Since we're going to have tea, maybe we could buy some small sweets to enjoy with it on the way home?
+Kanon: Let's do that. What kind of sweets would you like?
+Chisato: Well, I'd like to have...
+
+
+77:60130 [Station Entrance]
+
+(Character: Ran Mitake, Yukina Minato)
+
+Yukina: Hrm? Mitake-san, I see you have come to the flower shop as well.
+Ran: I was hoping to find some inspiration for a new piece. Did you come to look at flowers too?
+Yukina: Yes, I came to choose something to decorate my room with.
+Ran: Oh. By the way, what kind of flowers are you going to get?
+Yukina: I've already decided. I plan to buy a single blue rose and put it in a vase.
+Ran: I see... That sounds like something you might do.
+Ran: But having only a single flower would really make it stand out... That's not a bad idea.
+
+
+78:60143 [Station Entrance]
+
+(Character: Moca Aoba, Lisa Imai)
+
+Lisa: Moca~, thanks for covering my shift the other day~! You really helped me out~!
+Moca: No problemo~. Besides, you're always looking out for me anyway~. Lemme know anytime you need something~.
+Lisa: Ohh~, what a nice thing to say~...!
+Lisa: I'll definitely make it up to you for working that shift for me. Also, I made you some cookies to thank you. Please enjoy☆
+Moca: Wow~, this is the best reward~. Thank you~.
+
+
+79:60151 [Station Entrance]
+
+(Character: Hina Hikawa, Lisa Imai)
+
+Hina: I played shogi with Eve-chan the other day. It was pretty fun~!
+Lisa: You playing shogi, huh~? You must've been quite the chess master.
+Hina: Not really. We played a few times, but it was a draw.
+Hina: Whenever I was removing a chess piece from the pile, the other ones kept falling~...
+Lisa: Huh...? Hina, are you talking about shogi kuzushi? The one where you try to remove pieces without making any sound...?
+Hina: That's the one~! We should play sometime, Lisa-chii~!
+
+
+80:60155 [Station Entrance]
+
+(Character: Yukina Minato, Lisa Imai)
+
+Lisa: Our next concert is coming up soon♪ Maybe I'll do some extra practicing~.
+Yukina: In that case, you can join me, Lisa. I've already increased the amount of practicing that I do.
+Lisa: I had a feeling you would♪
+Lisa: Hey, Yukina. Seeing as it'll be our first time performing at the next place, I wonder what sights we'll get to see during our show~.
+Yukina: Fufu... Let's try to enjoy the experience.
+Lisa: ...! Yeah, let's make it a good show for sure♪
+
+
+81:60165 [Station Entrance]
+
+(Character: Ako Udagawa)
+
+Ako: I was so close to failing this quiz the other day... I only just managed to avoid having to take remedial classes.
+Yukina: Since you didn't fail, though, I see no issue.
+Ako: Y-yeah, it's fine, right...?
+Yukina: ... However, it will be a different story if it negatively affects the band.
+Ako: Uh... I think I'll review that quiz after all...
+
+
+82:60258 [Station Entrance]
+
+(Character: Hina Hikawa, Sayo Hikawa)
+
+Hina: Hey, hey, you should join the All Things Idols Club too~!
+Sayo: As I've said repeatedly, I have no intention of doing so. Idols don't have what I seek.
+Sayo: Isn't it enough that you enjoy being in the club?
+Hina: Aw~, but it'd be more boppin' if you were there too♪
+Hina: Oh, would you join if there was an idol who's like a puppy or who loves NFO?!
+Sayo: That's not exactly the issue...
+
+
+83:60264 [Station Entrance]
+
+(Character: Hina Hikawa)
+
+Hina: I wonder what I should do for lunch~.
+Hina: The cafeteria's definitely an option, but so is going to a café or restaurant.
+Hina: Oh, I know! Sis should also be on campus today, so we can do lunch together!
+Hina: Time to text her~!
+
+
+84:60282 [Station Entrance]
+
+(Character: Kaoru Seta, Maya Yamato)
+
+Maya: Kaoru-san! There's supposed to be an interesting play in a neighboring town. Would you like to go together?
+Kaoru: Fufu... certainly. For you to express such interest must mean it is fleeting indeed.
+Maya: Yes, people are praising the acoustics and staging quite highly!
+Maya: I happen to be free around this time next week. What about you, Kaoru-san?
+Kaoru: Ah, if it is that day, I am available as well. I shall be looking forward to this excursion together.
+
+
+85:60287 [Station Entrance]
+
+(Character: Tomoe Udagawa, Yukina Minato)
+
+Tomoe: Oh, Minato-san. Fancy seeing you here!
+Yukina: Udagawa-san, excellent. I have something Ako forgot.
+Tomoe: And you came all the way to deliver it? Thanks!
+Tomoe: So, what exactly did she forget?
+Yukina: ... This notebook here. I believe it contains her staging ideas.
+Tomoe: I see... Dragons and magic circles, huh...? Looks like Ako's been thinking a bunch.
+Yukina: Yes. It's hard to say if they will be doable... but please ask her to share her ideas with me once she finishes.
+
+
+86:60289 [Station Entrance]
+
+(Character: Tsugumi Hazawa, Hina Hikawa)
+
+Hina: Tsugu-chan, I tried out the bath salts you recommended to me before~!
+Tsugumi: Wow, how did you like it?
+Hina: It was really interesting~! I knew it was supposed to smell like chocolate, but I didn't expect it to smell that chocolatey~.
+Hina: If you know of any other interesting ones, tell me, okay? Personally, I'm curious about the ones with toys inside~.
+Tsugumi: Ahaha... I'm glad you seem to have enjoyed it! If I find anything good, I'll be sure to let you know.
+
+
+87:60293 [Station Entrance]
+
+(Character: Kanon Matsubara, Rinko Shirokane)
+
+Rinko: Matsubara-san... What did you have for lunch today...?
+Kanon: The cafeteria daily. Originally, Chisato-chan and I were going to prepare lunch though...
+Kanon: But we were going through our morning routine so thoroughly that we ran out of time...
+Rinko: I see... It's quite rare... for the two of you to lose track of the time...
+Kanon: Ahaha... We got a little carried away... Tomorrow, though, I'm hoping we can make lunch together.
+
+
+88:60304 [Station Entrance]
+
+(Character: Hina Hikawa, Maya Yamato)
+
+Hina: Hey, hey, Maya-chan, have you heard?
+Hina: There's a café nearby that's running a promo called A Taste of Space.
+Maya: A Taste... of Space...?
+Hina: Yeah, you get to eat space-themed desserts! Their Blackhole Cake is supposed to be all the rage!
+Maya: Blackhole...? I wonder what that tastes like... Hmm, I want to know.
+Hina: I knew you'd feel that way! Let's go see for ourselves then!
+Maya: Okay! That sounds good!
+
+
+89:60307 [Station Entrance]
+
+(Character: Kokoro Tsurumaki, Kanon Matsubara)
+
+Kokoro: Kanon! I have a really nice gift for you today! I want you to have it!
+Kanon: A gift? Whatever could it be...?
+Kokoro: Here! I bought a bunch of bread from the school store!
+Kokoro: Doesn't seeing them excite you? You must be wanting to eat them all again!
+Kanon: Wow, thank you, Kokoro-chan. This is such a wonderful gift.
+Kokoro: Mmm, that was such an amazing smile! It's enough to make me so happy!
+
+
+90:60313 [Station Entrance]
+
+(Character: Kasumi Toyama, Aya Maruyama)
+
+Kasumi: Oh, Aya-senpai~! Hi!
+Aya: Kasumi-chan! What a coincidence to run into you here.
+Kasumi: Yeah! If you'd like, wanna shop together?
+Aya: Sure! What are you looking for today?
+Kasumi: It's for tomorrow's basement practice... I need a... Uh... What did I need again...?
+Kasumi: Ngh, sorry...! I can't remember...!
+Aya: Ahaha, don't worry about it! I'm sure it'll come back to you once we've had a look around!
+
+
+91:60314 [Station Entrance]
+
+(Character: Aya Maruyama, Chisato Shirasagi)
+
+Chisato: Hm? Oh, Aya-chan. Your timing couldn't be better.
+Aya: Chisato-chan! Is there something you need?
+Chisato: I'm heading out for lunch later, and I'm wondering if you would like to join me.
+Aya: Nice! Of course I'd love to! So, what do you have in mind?
+Chisato: I'm thinking of going to this place I found that serves these delicious organic lunches.
+Aya: Oh, okay! I can't wait to see what they've got~.
+
+
+92:60323 [Station Entrance]
+
+(Character: Arisa Ichigaya, Rinko Shirokane)
+
+Arisa: Rinko-senpai, is it alright if we go to a bookstore later?
+Rinko: Of course... I just happened to be thinking...it would be nice to go and look for some new books...
+Arisa: ...! I found some that you might like. Is it alright if I recommend them to you?
+Rinko: Oh, I see... Fufu, you've given me something to look forward to...
+Rinko: I also happen to have... some books I want to recommend to you...
+Arisa: Wow... If they come with your recommendation, I'm sure they'll be great. Now I'm also looking forward to going to the bookstore.
+
+
+93:60328 [Station Entrance]
+
+(Character: Arisa Ichigaya, Kanon Matsubara)
+
+Kanon: I really love the cute teapot I found at Ryuseido the other day.
+Arisa: Oh, the teapot with the flower motif. How does it feel to use?
+Kanon: It feels just right when I'm pouring tea~. Chisato-chan really likes it too.
+Arisa: Huh, well I'm glad to hear it's been bought by people who are taking good care of it. I'll let my grandma know later.
+Kanon: Fufu, hearing you say that makes me even more attached to it~.
+
+
+94:60353 [Station Entrance]
+
+(Character: Kanon Matsubara, Eve Wakamiya)
+
+Kanon: I saw the magazine the other day, Eve-chan. I was surprised by just how different you seemed compared to usual.
+Eve: Thank you very much! The concept of that photoshoot was cool and stylish!
+Kanon: I see. It must've been quite a challenge.
+Eve: It was... but there is a trick. It is to imagine someone you know while going about the photoshoot!
+Kanon: Who did you imagine for that one?
+Eve: Kaoru-san! She is always very cool and dashing!
+Kanon: Kaoru-san... Cool...?
+
+
+95:60354 [Station Entrance]
+
+(Character: Tae Hanazono, Rei Wakana)
+
+Tae: Hey, Rei, what are your plans for the break?
+LAYER (Rei): Hmm~... I haven't really thought about it yet.
+Tae: Want to do a mini-concert at my place then?
+LAYER (Rei): A concert?
+Tae: Yeah. Let's let Oddie and everyone hear you sing.
+LAYER (Rei): Fufu, if we're doing that, we need to come up with a set list.
+
+
+96:80060 [Station Entrance]
+
+(Character: Kaoru Seta)
+
+Kaoru: ...
+Kaoru: ...
+Kaoru: ... Phew...
+Kaoru: It's not easy playing the role of a tree on the side of the road.
+
+

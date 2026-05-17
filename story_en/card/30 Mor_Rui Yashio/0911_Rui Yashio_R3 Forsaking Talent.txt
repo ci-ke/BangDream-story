@@ -1,0 +1,87 @@
+911_Rui Yashio_R3 Forsaking Talent
+
+Gacha phrase: You are the one responsible for your actions.
+
+<Intellectual Discourse>
+
+(Character: Mashiro Kurata, Toko Kirigaya, Nanami Hiromachi, Tsukushi Futaba, Rui Yashio)
+
+[After School]
+
+[Hiromachi Residence - Atelier]
+
+Tsukushi: All right then, let's take a fifteen minute break!
+Toko: Okay~! It feels like the last time we practiced together was ages ago!
+Nanami: The exam period was right after our concert, after all~.
+Mashiro: How did all of you do on your exams...? You have to do make-up exams if you fail, right?
+Rui: Correct. Students who fail are also required to study after school in a designated classroom.
+Toko: It's such a pain. They come after you if you speak even a tiny bit~!
+Tsukushi: It sounds like you've had first-hand experience... By the way, Toko-chan, did you manage to pass?
+Toko: Just barely! I would've bombed it if I got even one more answer wrong.
+Tsukushi: You were that close?!
+Mashiro: I-it was really close for me, too... Tsukinomori's tests are so hard because some questions require you to apply the stuff from class, instead of just testing you on the basics...
+Tsukushi: Come on, you two! You need to study more!
+Nanami: Tsu-chan, do you usually get good grades?
+Tsukushi: I do pretty well! Although, my grades this time around weren't as good as they usually are... What about you, Hiromachi-san?
+Nanami: My grades are pretty normal~. All my scores were the exact average~.
+Mashiro: Huh...? D-does that mean you got the average score for every single subject...?
+Toko: Isn't that pretty hard to do?!
+Nanami: I-it is...?! Oh, I'm sure it was just luck! It probably won't happen again~!
+Toko: Hm, so Yashio's the only one of us who gets good grades then. No surprise there... Oh, I guess there's Futaba.
+Tsukushi: What do you mean, "I guess?!" Luck just wasn't on my side this time!
+Mashiro: Ahaha... I can't imagine you ever getting a failing grade, Yashio-san. I heard you've always been ranked first in our grade ever since middle school...
+Rui: I have always aimed for first place, and I intend to keep getting first place.
+Tsukushi: It's one thing to try, but it's another thing entirely to actually do it...
+Toko: I wish I could get a good score at least once~! I've always had to look towards the bottom to find my ranking ever since middle school!
+Tsukushi: Toko-chan, you should try to do well more than just once! I'm worried you'll fail one of these days and won't be able to come to band practice...
+Toko: You're right! Hey, Yashio-sensei, mind helping me out with my next tests?
+Mashiro, Tsukushi & Nanami: ...?!
+Mashiro: (Oh no... I can just see the look on Yashio-san's face...)
+Rui: ...
+Tsukushi: (Huh? She actually seems to be considering it.)
+Rui: ... Very well, I will help you.
+Toko: Seriously?! Yashio, you're my savior! A total angel!
+Rui: I am not doing this out of the goodness of my heart. I merely weighed the cost of helping you against the cost to the band should you fail your tests.
+Nanami: Rui-rui, that reason is so you...
+Toko: C'mon, Yashio, there's nothing to be embarrassed about! I totally owe you one!
+Rui: ... You are free to think whatever you wish.
+Rui: Finish all the problems from pages twenty-seven to thirty-five of this workbook by this time tomorrow. Understood?
+Toko: Huh? Isn't tomorrow kinda early?! The next tests aren't for a while!
+Rui: If you wish to improve your grades, you must make sure there are no areas you do not understand, correct? Studying specifically for the tests will come later.
+Rui: You are, however, free to do as you wish. The results of the mid-term exams are on you.
+Toko: Ugh... You're seriously ruthless, Yashio-sensei...
+Tsukushi: I'll help you then!
+Toko: Hmm... Nah, I'll pass, Futaba.
+Tsukushi: Hey, what's that supposed to mean?!
+Mashiro & Nanami: Ahaha...
+
+
+<Plan and Actions>
+
+(Character: Rui Yashio)
+
+[Shopping Mall]
+
+Marina: Phew, we finally finished shopping. I can't believe our usual store is temporarily closed.
+Marina: I didn't think it would take so long to find another one... Hm?
+Marina: That person over there looking at the floor guide... I think it's Rui-chan. Hey~!
+Rui: Oh. Hello, Tsukishima-san, {{userName}}-san.
+Marina: Is there a store you're looking for? I could show you around if it's a place I know.
+Rui: Thank you, but that will be unnecessary. I am trying to determine the most efficient route to minimizing the time I spend shopping.
+Marina: Why don't you want to spend time shopping?
+Rui: I wish to have more time to spend on other essential activities.
+Marina: I-I see... You seem like the type who's very good at managing your schedule, Rui-chan.
+Rui: I have written my schedule for each day in this organizer. You may look through it if you wish.
+Marina: Thank you, don't mind if I do... Wow! Your schedule for each day is so detailed... Are you actually able to follow your schedule?
+Rui: That is the purpose of a schedule.
+Marina: That may be, but it's a lot easier to write down your schedule than it is to follow it.
+Rui: I make sure to account for any unforeseen events. Each task also has a priority, so the schedule can be adjusted when the need arises.
+Marina: I see. Fufu, I'm sure you'll be a very good worker once you're an adult.
+Marina: ... Oh, I'm sorry! We're not interrupting your plans, are we?
+Rui: ...? Why do you ask?
+Marina: Well, speaking to us isn't on your schedule...
+Rui: There is no need to worry. I would not make a schedule that could be disrupted by casual conversation.
+Marina: Gotcha. I guess we fall under the category of unforeseen circumstances, huh?
+Rui: Yes. That said, it is time for me to make my way to my destination.
+Marina: I enjoyed our little chat! From now on, we should properly plan out our shopping too, {{userName}}-san.
+Rui: Good day then, Tsukishima-san, {{userName}}-san. I will be going now.

@@ -1,0 +1,75 @@
+165_Hina Hikawa_R2 Backstage
+
+<Sister Troubles>
+
+(Character: Hina Hikawa, Chisato Shirasagi)
+
+[Talent Agency - Hallway]
+
+Hina: Chisato-chan~!
+Chisato: Oh, Hina-chan. Is everything okay?
+Hina: There was something I wanted to ask you~. Is now a good time?
+Chisato: Yeah. What is it?
+Hina: So the other day when we all went to the cafe, you said you have a younger sister... Do you guys get along?
+Chisato: Mhm, we do. We hang out a lot, and we share clothes and accessories.
+Chisato: Our tastes and style are similar, so it's easy to borrow from each other. And sometimes we'll get matching clothes but with different colors.
+Chisato: Of course, there are times when I don't realize she has something of mine and it makes for quite the headache.
+Hina: Wow! We can't do that since my sister and I like different things. You're so lucky~, I wish we could be more like you two!
+Chisato: I thought that sisters always shared the way we do... I guess that's not the case, huh?
+Hina: Hmm... My sister's not really a fan of sharing.
+Hina: You know, I love my sister so~ much, but if you asked me whether we got along or not... Hmm...
+Hina: Ah, but it's not like we hate each other or anything! We are hanging out a lot more nowadays! But... I want us to be even closer.
+Chisato: I see. So...?
+Hina: You're an older sister, Chisato-chan. What does your sister have to do to make you happy? I wanna hear from an older sister's point of view!
+Chisato: Huh? ... I've never really thought about it. But I don't really expect her to do anything in particular. I'm just happy when she's around.
+Hina: What?! That's it?!
+Chisato: Yeah, that's all it takes. For me, at least. I can't really speak for anyone else.
+Chisato: Not to mention, I approach her a lot of the time, so I don't think you'll get that many hints from our relationship.
+Hina: Ohh~. What kind of things do you ask her to do?
+Chisato: I'll invite her to go see a movie I think looks interesting, or I'll ask her if she wants to eat some sweets. Things like that.
+Hina: That's awesome~. If I didn't ask my sister to go places, we'd never do anything together...
+Chisato: Really?
+Hina: Really! That's why I've been trying so hard to think of what to do, but I haven't been able to come up with anything~.
+Chisato: In that case, why don't we think of a strategy?
+Hina: A strategy?
+Chisato: Yeah. We want to try to think of the best way for you and Sayo-chan to get closer.
+Hina: How do we do that?
+Chisato: I think we can figure out what will make her happy by thinking about her favorite things and the things that she cherishes most.
+Hina: Her favorite things~... That'd probably be guitar and fluffy doggies. Besides that, she likes candy, french fries, music magazines, and uhh...
+Chisato: Then why don't you invite her to a dog café? There are a few in town. And there are a number of cute candy shops just off the top of my head.
+Chisato: Oh, and if you want good fries, there are a lot of stores for that, too. Maybe we can stop by a few of them.
+Hina: Really?! Thanks!! Why do you know so much about these things?
+Chisato: A lot of the people I work with like to tell me about which places are good. Then, my sister and I go and check them out.
+Chisato: And sometimes people bring treats from certain stores. Not to mention we shoot at a lot of different locations, so before I realize it, I'm an expert in the field.
+Hina: Ohh~, I see! What else, what else? Do you have any recommendations?
+Chisato: Fufu, seems like this conversation could last a while, so why don't we find a place to sit and chat?
+Hina: Are you sure? Okay, let's get tea. I'll tell you everything there is to know about my sister~!
+Chisato: It's fine. I don't have any other plans today, so we can talk all we want.
+Hina: Yay~! Where to start~...? C'mon Chisato-chan, let's hurry!!
+
+
+<Hidden Hard Worker>
+
+(Character: Hina Hikawa)
+
+[Fast Food Store]
+
+Hina: C'mon, french fries~♪
+Hina: Ah, {{userName}}-san! Are you here for french fries too?
+Hina: I see~. Well, I'm waiting for the "fry" part!
+Hina: Chisato-chan and I are gonna go play soon, but I still have some time, so I decided to get some something to eat.
+Hina: Why don't we eat together? Two is better than one! And the food becomes even yummier!
+Hina: Yeah? Yay~! Okay, I have a story for you while we wait!
+Hina: So~, the other day, we went to see Chisato-chan during her theater rehearsal.
+Hina: The director was super strict, and he would make them do the same scene over and over and over~.
+Hina: And I thought, "Wow, actresses sure have it hard~." I could never do it.
+Hina: But Chisato-chan's been an actress for a while, so she must have had that same type of experience a number of times~.
+Hina: And I realized that even though everything is sunshine and flowers on the outside, they're actually practicing really hard behind the scenes.
+Hina: I'm not sure how the whole "effort" thing works, but maybe people that work really hard like Chisato-chan are best suited for that kind of job.
+Hina: Now that I think about it, Aya-chan is like that too~.
+Hina: Oh yeah, Chisato-chan invited us all to see her show on opening night, and we went together as a band! Isn't that nice?
+Hina: And during the curtain call, when it was her turn to bow, the audience gave her a huge round of applause! It was boppin'!!
+Hina: Having people recognize you after putting in all of that hard work must be nice~. Thinking about it like that, maybe effort is a good thing.
+Hina: Maybe I'll ask Chisato-chan about it next time I see her!
+Hina: ... Ah, looks like my fries are ready! {{userName}}-san, c'mon! We gotta eat them while they're still hot!
+Hina: Let's go find a seat~!

@@ -1,0 +1,92 @@
+1276_Eve Wakamiya_R3 Tray Master
+
+<Becoming a Grand Master>
+
+(Character: Tae Hanazono, Hagumi Kitazawa, Eve Wakamiya)
+
+[Hanazono Residence - Living Room]
+
+Eve & Hagumi: Hello!
+Tae: Welcome. I've got some juice ready.
+Eve: Thank you for inviting us over today! Let us work to finish our summer homework!
+Hagumi: I gathered up all the stuff that I didn't understand! I'll ask both of you a bunch of questions, okay?!
+Tae: I'll ask a lot too. Now then, before we start our homework...
+Tae: My mom got us cake, so why don't we have some?
+Eve & Hagumi: Yay! Thank you for the food!
+Hagumi: ...! This cake is delicious! I can really taste the eggs!
+Eve: Yes! It is like Tsukushi-san's Pao de Lo!
+Tae: Tsukushi? The one from Morfonica?
+Eve: That is her! She started working part-time at Hazawa Coffee several days ago.
+Hagumi: I knew that! Tsugu told me about it!
+Eve: Tsukushi-san is amazing. She became a tray master in a short matter of time.
+Tae: What's a tray master?
+Eve: That means she is a master at carrying food and drinks on a tray. I gave Tsukushi-san some special training!
+Eve: Carrying items on a tray is more difficult than it would seem.
+Eve: That is because, in order to skillfully carry something, it is necessary to have the stability of a ninja running across a roof!
+Tae & Hagumi: A ninja?!
+Hagumi: Cool~! I want to try carrying something like a ninja too!
+Tae: Eve, would you give us special training too?
+Eve: Of course! The two of you can strive to be tray masters as well!
+Tae: Yay! In that case... Let's use this tray and plastic bottle.
+Eve: Thank you very much! Now then, I shall show you a demonstration right away! Here I go!
+Tae & Hagumi: Oh~!
+Hagumi: Eve-chin, that's amazing! You were like a real ninja!
+Tae: Yeah! The way you carried it so smoothly was cool!
+Eve: Thank you very much! Now then, you two give it a try as well!
+Hagumi: Umm, first, I hold the tray and... Whoa! Having something placed on the tray makes it pretty hard.
+Tae: It's not balanced... If I move even a little bit, the plastic bottle seems like it will fall over.
+Eve: You must not let your palm stick to the tray! You have to raise up your fingers and lift it off your palm.
+Eve: Also, tall items like plastic bottles are easier to carry by placing them towards the front of the tray.
+Tae: You're right! It's gotten easier to carry, just like you said.
+Hagumi: That's our Eve-chin! It's no wonder that Tsu-chan became a tray master in no time.
+Eve: D-do you think so? Fufu... It is somewhat embarrassing to be praised like that.
+Tae: Are you practicing anything else with Tsukushi?
+Eve: Yes! I intend to teach Tsukushi-san everything I learned at Hazawa Coffee!
+Tae: Oh~. Then that means that you're Tsukushi's master.
+Eve: H-her master?! That is not true. I am still a novice!
+Eve: I am still learning many things from Tsugumi-san... It is discourteous to her to say I am a master!
+Tae: I see. In that case, Tsugumi is the grand master.
+Hagumi: Eve-chin is Tsu-chan's master, and Tsugu is Eve-chin's master... You're right! She is the grand master!
+Eve: You have a point... Tsugumi-san is a generous and open-minded person! She is most certainly a grand master!
+Hagumi: Eve-chin, do your best so you can be a grand master too someday!
+Eve: Yes! I will make sure to be diligent!
+Tae: I've gotten a bit hungry. But we've already eaten our cake...
+Hagumi: In that case, I brought some croquettes, so let's eat them together!
+Eve: They say one cannot fight on an empty stomach, so I agree with that!
+Eve: We shall resume our special training after eating the croquettes!
+Tae & Hagumi: Okay!
+
+
+<Dependable Help>
+
+(Character: Eve Wakamiya)
+
+[Shopping Mall]
+
+Marina: What a coincidence bumping into you here, {{userName}}-san. Are you going shopping as well? I've got an errand at the stor-
+Eve: Marina-san and {{userName}}-san! Hello!
+Marina: Eve-chan! Hello... Whoa, that's a lot of bags you have there.
+Eve: I have an overnight on-location filming starting tomorrow.
+Eve: After coming to buy the things that I need, I ended up with so many purchases...
+Marina: Ah~, I know how that goes. You might say you'll only buy the essentials, but then everything starts looking important.
+Marina: I have to say though, you and Pastel＊Palettes are really popular.
+Marina: The program you all appeared on recently was really interesting!
+Eve: So you watched it! Thank you very much!
+Eve: This is also thanks to Tsugumi-san and Tsukushi-san!
+Marina: It is?
+Eve: Yes. I have been fortunate to have more and more work recently...
+Eve: So I had no choice but to reduce my shifts at Hazawa Coffee.
+Eve: That was a very painful decision for me... But Tsugumi-san accepted it with a smile and even wished me good luck!
+Eve: And then it was decided that Tsukushi-san would work on the days that I was no longer able to!
+Marina: I'd heard that Tsukushi-chan started a part-time job there, but I didn't know that's how it happened.
+Eve: Yes. Tsukushi-san is working to her utmost ability so that she can be useful to the café as soon as possible!
+Eve: She has even been doing special training after work!
+Marina: That's amazing~. Tsukushi-chan really is a hard worker, isn't she?
+Eve: Yes, I think so! That is why I must also do my best!
+Eve: In order to repay their kindness, I will put forward even more effort with Pastel＊Palettes than I have before!
+Marina: We're rooting for you too. Good luck, Eve-chan.
+Eve: Thank you very much!
+Eve: ... Ah, it is already this late. I am sorry to have pulled you into a conversation...
+Marina: Not at all. We had fun, so don't worry about it.
+Eve: I will be visiting CiRCLE again! Now then, please excuse me!
+Marina: Yeah, see you later.

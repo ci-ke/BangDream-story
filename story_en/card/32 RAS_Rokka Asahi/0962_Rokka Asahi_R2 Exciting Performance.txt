@@ -1,0 +1,75 @@
+962_Rokka Asahi_R2 Exciting Performance
+
+<Music Never Lies>
+
+(Character: Rokka Asahi, Masuki Sato)
+
+[Asahi Bathhouse]
+
+LOCK (Rokka): Phew~... A hot bath after practice feels like heaven on earth~...
+MASKING (Masuki): Right? Especially since we were holed up in the studio for most of the day. The others shoulda come too.
+LOCK (Rokka): Ahaha... I'm not sure about LAYER-san and PAREO-san, but I know CHU²-san prefers to take showers...
+MASKING (Masuki): What a shame. This is so relaxin'. Maybe I'll drop by again after our next practice.
+LOCK (Rokka): Thank you for your continued patronage.
+MASKING (Masuki): You know... this kind of thing... It's nice, ain't it?
+LOCK (Rokka): Huh?
+MASKING (Masuki): Y'know, talkin' with a bandmate like this after practice.
+LOCK (Rokka): Y-yes! I wanted to be in a band for a long time now! So I am very happy!
+LOCK (Rokka): I wanted to join a band ever since I left my hometown. Then CHU²-san reached out to me...
+LOCK (Rokka): Everyone in RAS has been so good to me. I really think I have found a good band.
+MASKING (Masuki): Wh-what's gotten into you...?
+LOCK (Rokka): Still... Whether it's you, LAYER-san, PAREO-san, or CHU²-san, you all have skills that put professionals to shame...
+LOCK (Rokka): So sometimes I wonder if I can continue to keep up with you all like this...
+MASKING (Masuki): ... Huh~? Of course you can.
+MASKING (Masuki): We knew you were what RAS needed as soon as we heard your guitar.
+LOCK (Rokka): My... guitar?
+MASKING (Masuki): Yeah. It doesn't sound like someone tryin' to blend in, or someone doin' their own thing. It's a proper part of RAS's sound.
+MASKING (Masuki): I can hear your sound, loud and clear.
+LOCK (Rokka): Wow...! Do you really mean that, Masuki-san?!
+MASKING (Masuki): Yeah. Sound doesn't lie, right?
+LOCK (Rokka): I see... So that means my guitar really is a part of RAS's sound, doesn't it...? I'm so glad...
+LOCK (Rokka): Actually, during practice today, you know how you did some rather intense improvising?
+MASKING (Masuki): Yeah, what about it?
+LOCK (Rokka): When I first joined, I had to try my best to keep up with you... but today was somewhat different.
+LOCK (Rokka): I thought that it sounded like fun... and I guess I was eager to join in.
+MASKING (Masuki): Ahaha! Now that you mention it, you were really goin' for it today!
+LOCK (Rokka): I didn't mean to be so aggressive.
+MASKING (Masuki): But you can still do it without thinkin'. Ain't that why you're a member of RAS? In other words... you're one of us.
+LOCK (Rokka): Ahaha... When you put it like that...
+LOCK (Rokka): When I play alongside you, Masuki-san... the songs develop in directions I don't expect them to.
+LOCK (Rokka): You always make me realize new ways a song can be played... and I'm always excited to see what will happen next!
+MASKING (Masuki): ... Huh. So that's what you were doin' with my drums?
+LOCK (Rokka): Eep, s-sorry...!
+MASKING (Masuki): Nah, I think it's fine. That's what bein' in a band is all about. Probably.
+LOCK (Rokka): ... Yes. I think this is what it means to be a band!
+MASKING (Masuki): Haha! Alright, LOCK, let's go eat ramen! Come on, put your helmet on!
+LOCK (Rokka): What?! R-right now~?!
+MASKING (Masuki): ... Of course!
+LOCK (Rokka): Eek~!
+
+
+<Staff Privilege>
+
+(Character: Rokka Asahi)
+
+[Downtown]
+
+Marina: Hello, Rokka-chan.
+LOCK (Rokka): Ah, Marina-san, {{userName}}-san. Hello!
+Marina: Hey there. I see you're carrying your guitar... Are you going to practice?
+LOCK (Rokka): Ah, no, I'm not. Today I'm working at Galaxy.
+Marina: Is that so? Oh, then why the guitar...?
+LOCK (Rokka): Ahaha... If we finish cleaning up after a show early, they let us use the stage.
+LOCK (Rokka): Then I can play how I like in a wide-open space... Ah, that's not why I work there though!
+Marina: Fufu, it's okay. It's a privilege for the staff after a hard day's work.
+LOCK (Rokka): Yes! I am so glad that I can work at a live house!
+Marina: Fufu. As a fellow live house staff member, I'm happy to hear that.
+LOCK (Rokka): And that's not all! I love how I can see shows by many different bands!
+LOCK (Rokka): The time Poppin'Party performed was incredible! They sparkle so much more when you see them up close. I was so captivated by them...
+LOCK (Rokka): Ah! S-s-sorry! I just remembered it and got carried away-
+Marina: Don't worry. I understand the feeling. It's so different seeing your favorite band up close.
+LOCK (Rokka): It is! You can hear their phrases and think about how you would play them...
+LOCK (Rokka): There are so many things I can apply to my own band. It's like a learning experience!
+Marina: I see. Maybe you think that way now because you've joined a band, Rokka-chan.
+LOCK (Rokka): ...! Right, that must be it! I'm so glad I'm in a band~...
+LOCK (Rokka): Ah, it's almost time for my shift! Sorry, but I must go now~!

@@ -1,0 +1,98 @@
+1103_Rimi Ushigome_R3 Gentle Support
+
+Gacha phrase: I'm sure you'll be fine this time.
+
+<Judging a Book by Its Cover...>
+
+(Character: Rimi Ushigome, Ran Mitake, Toko Kirigaya)
+
+[Restaurant]
+
+Ran: Order whatever you want, Rimi. Consider it my thanks for hearing me out the other day.
+Rimi: You really don't have to do this, you know...
+Ran: I'm doing this because I want to, that's all. So don't worry about me.
+Rimi: Fufu, okay. Well, if you say so...
+Rimi: I've actually been wanting to try the new parfait here.
+Ran: Good to hear. Now, what do I want to get...?
+(Black cut)
+Clerk: ... Will that be all for your orders? Okay. Please wait a moment, we'll have your food out to you right away.
+Rimi: Thank you.
+Rimi: ... I want to congratulate you again, Ran-chan.
+Rimi: Your performance and Toko-chan's commentary were both really fun!
+Ran: Thanks. That means a lot to me.
+Rimi: And I'm definitely not the only one who thought so, you know! Toko-chan's posts have been really popular online.
+Ran: Really? I don't check that stuff much.
+Rimi: Fufu... How have things been with Toko-chan since then?
+Ran: Well... I don't really know why, but she's been constantly sending me messages.
+Rimi: Does she really send you that many?
+Ran: Yeah, probably about ten a day...
+Ran: It'd be one thing if they were important, but these messages are basically empty. Usually it's just a photo and some little phrase like, "Wow!" I don't get it at all.
+Rimi: Fufu, sounds like you're getting along.
+Ran: ... You think so?
+Toko: Huh~? Ran-san, Rimi-san! Who woulda thought I'd see you two here! It's gotta be some sorta miracle!
+Ran: Toko!
+Rimi: Ahaha... Are you here alone, Toko-chan? Where's the rest of Morfonica?
+Toko: I'm actually here to meet up with some friends from school. Do you mind if I hang out with you two until they get here?
+Ran: What...?
+Toko: Ahaha, c'mon, don't be like that. It's fine, right? We made it through that event together, didn't we?
+Rimi: I don't mind. I bet it would feel kind of lonely waiting alone by yourself...
+Toko: Rimi-san, you're such a sweetheart! Alrighty then, I'm just gonna squeeze in here~.
+Ran: Whoa, hey, why are you sitting on this side?
+Toko: It's closer to the soda machine! Isn't that why you sat here?
+Ran: I didn't order anything to drink...
+Toko: Huh? Really? But aren't the free refills one of the best parts of going to a place like this?
+Rimi: Fufu. Well, as long as we're all here, why don't we use the drink service, too?
+Toko: That's what I'm talking about! Hey, excuse me~! Three drink services, please!
+Toko: You know, Rimi-san, you're just like I imagined you to be! And Ran-san was completely different!
+Rimi: Wh-what kind of person did you think I was?
+Toko: Hmm... Kinda quiet, chill, and really nice~. If I had to guess, I'd have figured you to be the type that likes flower arranging, not Ran-san!
+Ran: Yeah, I can see that.
+Ran: But that’s just a common misconception. Real flower arrangement's a little different than what everyone thinks...
+Toko: I know, I know! Man, you really care about those little details.
+Ran: Hey...
+Rimi: (They might sound like they're fighting, but they look like they're having a lot of fun.)
+Clerk: Apologies for the wait. One super-extra-large chocolate parfait.
+Rimi: Oh, that's me!
+Ran & Toko: ... !
+Toko: I-it's huge...
+Ran: Look at all those slices of chocolate cake on top, too... You're going to eat all this by yourself?
+Rimi: ... ? Of course! You know, this parfait just got added to the menu this month!
+Rimi: I've been so curious, but I was too scared to come here and order it alone...
+Rimi: Okay, I'm digging in!
+Toko: Rimi-san... might not be as chill as I thought...
+Ran: Yeah...
+Rimi: Mmm~, it's so good~! I'm so happy right now~...
+
+
+<Overlapping Feelings>
+
+(Character: Rimi Ushigome)
+
+[CiRCLE Café]
+
+Rimi: Hello, {{userName}}-san.
+Rimi: Oh, no, I was just in the neighborhood, so I thought I would stop by and say hi...
+Rimi: But if you do have some time, would you like to talk?
+Rimi: Oh, thank you! To tell you the truth, I've been dying to talk about this flower arrangement event I went to the other day...!
+Rimi: Yes! The event at Aurum City...! That's right, there were posters for it at the station, weren't there?
+Rimi: Flower arrangement was one of the corners there and Ran-chan and Toko-chan were the ones running it!
+Rimi: They put on a live flower arranging show in front of the audience and... Ohh, it was incredible!
+Rimi: Toko-chan's mic skills were really good, and Ran-chan's flowers were so cute...!
+Rimi: I don't know very much about flowers, but even so, it was a lot of fun.
+Rimi: ... Actually, Ran-chan talked to me a bit while they were preparing for the event.
+Rimi: The event itself went really well, but Ran-chan had some trouble dealing with Toko-chan at first...
+Rimi: I didn't do anything except worry and listen to what she had to say, though.
+Rimi: Having someone you're able to vent to can really help you relax...?  Ehehe... Well, I'd be happy to know I helped in some way.
+Rimi: She might get mad at me if she knew I told you this, but... I was kind of happy to see a new side of Ran-chan.
+Rimi: She really loves flowers. And it's because of how much she loves them that she worries, gets angry... and ends up butting heads with people.
+Rimi: Seeing her be so serious in her own slightly awkward way was really inspiring.
+Rimi: She worked so hard to come up with a way for the event's patrons to have fun and help them learn to like flower arranging.
+Rimi: When I write music, I'm kind of the same way. I want people to have fun listening to our music and come to enjoy our sound.
+Rimi: It made me really happy to know I could understand how she was feeling.
+Rimi: No, I haven't told her any of that...! I-it'd be too embarrassing to say to her face...!
+Rimi: I'm sure she wouldn't know how to react, either...
+Rimi: But all the same, I would like Ran-chan to know that I had a lot of fun watching her.
+Rimi: That's probably the number one thing Ran-chan wants to hear.
+Rimi: Oh, I'm sorry! I've just been rambling on and on...!
+Rimi: Thank you so much for listening to me.
+Rimi: I'll be back here soon with Poppin’Party for practice. I'll see you then!

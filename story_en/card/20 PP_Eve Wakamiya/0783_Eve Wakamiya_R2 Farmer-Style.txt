@@ -1,0 +1,77 @@
+783_Eve Wakamiya_R2 Farmer-Style
+
+<Touring Crafts>
+
+(Character: Tae Hanazono, Eve Wakamiya)
+
+[Handmade Market]
+
+Eve: Tae-san, look at this! I think this rabbit doll is hand knitted!
+Tae: Ah, you're right... This one here looks like Oddie! And this one looks like Shiroppi!
+Eve: They're all so cute. I cannot stop looking at them!
+Tae: This place is amazing~. Everything here is handmade, right?
+Eve: Yeah! And there are so many booths, it's fun just looking at them all!
+Tae: Ah, this booth has lots of ornaments you'd probably like, Eve.
+Eve: I actually saw the Japanese-style ones before from a distance. I've been thinking about them this whole time!
+Eve: Wow, Tae-san, please look at this. The pattern on this wallet is so beautiful!
+Tae: Yeah, it's so stylish. It looks like a kimono pattern.
+Eve: Ah...! I-is that what I think it is...?!
+Tae: Hm, what's wrong?
+Eve: Tae-san, look! There's a... samurai!
+Tae: Whoa, there really is. I wonder how they made it? It looks so real.
+Eve: This powerful stance, eyes full of determination... And the sword is wonderfully crafted!
+Eve: I can feel the bushido very strongly from this doll!
+Tae: Eve, you really like that one, don't you?
+Eve: Yes!
+Eve: It is made so intricately. Maybe this booth is run by a professional craftsman.
+Eve: I most definitely want to talk to them! If they can make a samurai this well, they must know a lot about bushido!
+Tae: But I don't think they're here right now. There's a sign saying "back soon."
+Eve: That is unfortunate... Tae-san, let's come back again later! I want to ask them about bushido, no matter what!
+Tae: Yeah, sure. I do too.
+Tae: Ah, this booth over here is selling accessories. These earrings would suit you, Eve. They're pretty.
+Eve: Fufufu, hearing that makes me very happy! I think, uh... this one! I think this hairpin would really suit you, Tae-san!
+Tae: It would probably go well with normal clothes too.
+Eve: Yes! And I think it would look very nice with your black hair.
+Tae: Thanks, Eve! Maybe I'll wear this hairpin for our next show then.
+Tae: Ah, I think this scarf would suit Kaoru-san.
+Eve: It would! The way the stones shine on the transparent purple fabric. It's very beautiful.
+Eve: And this necklace would look good on Lisa-san...
+(Black cut)
+Tae: We got so carried away picking out what would suit everyone.
+Eve: Yeah! But even just browsing the market like this is fun. I'm afraid I'll lose track of time.
+Tae: Come to think of it, people seemed to like looking at what we made too.
+Eve: Yes, they did. All of our customers were smiling at me and commenting on our variety of products.
+Eve: They were also praising how cute all your clay rabbits were, Tae-san. Both the big ones and the small ones!
+Tae: Your samurai were popular too though, Eve. One person told me they could feel your passion.
+Eve: Really? I'm glad I challenged myself to make them!
+Eve: It's nice to have this kind of contact with people who have many different interests.
+Tae: Yeah! I'm happy there were so many fellow rabbit lovers.
+Eve: Seeing all of the wonderful items people have made makes me want to try and make more and more things.
+Tae: Then let's do it. And Hagumi can join us next time. I wanna make more rabbit goods!
+Eve: Anyhow, Tae-san. We still have a little time before it's our turn to run the booth. Why don't we explore that area over there next?
+Tae: Yeah, c'mon!
+
+
+<Souvenirs for Friends>
+
+(Character: Eve Wakamiya)
+
+[Downtown]
+
+Eve: Ah, hello, {{userName}}-san! Are you working today?
+Eve: I see~, so you are going shopping?
+Eve: I am on my way home, but I just went with Tae-san to deliver a souvenir to Hagumi-san.
+Eve: Yes! I actually participated in a handmade market with Tae-san, Misaki-san, Lisa-san, and Kaoru-san.
+Eve: And I bought something there as a present for Hagumi-san.
+Eve: It was a croquette strap, by the way! Tae-san and I chose it together.
+Eve: Apparently, these are called "plastic food models." I was surprised they look so real!
+Eve: Ah, also, there was a person selling samurai dolls! They were wonderful!
+Eve: The craftsman was very particular with the details on their swords, and you could feel a strong sense of bushido from their expressions!
+Eve: I am so glad I could participate in such a lovely event! And it's all thanks to Hagumi-san.
+Eve: I only had this opportunity because Hagumi-san told me that Misaki-san does needle felting.
+Eve: That is why I wanted to give her a present!
+Eve: ... Yes! Hagumi-san was very happy with our gift!
+Eve: I was able to meet all sorts of customers and craftsmen at the handmade market!
+Eve: Next time, I want to invite my Finnish friends too. I think they would be very surprised!
+Eve: You should come with us too, {{userName}}-san!
+Eve: I cannot wait!

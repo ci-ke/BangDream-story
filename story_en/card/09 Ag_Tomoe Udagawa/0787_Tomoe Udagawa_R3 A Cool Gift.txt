@@ -1,0 +1,98 @@
+787_Tomoe Udagawa_R3 A Cool Gift
+
+<Proper Execution>
+
+(Character: Saya Yamabuki, Tomoe Udagawa, Hagumi Kitazawa)
+
+[Downtown - Kitazawa Meats]
+
+Tomoe: Ugh~, actually... No wait, maybe...
+Hagumi: Ah, Tomo-chin~! What brings you here?
+Saya: Are you doing some shopping? We're selling a new type of bun, so feel free to stop by.
+Tomoe: ... You can make excuses and say it's not possible... But if you leave things as they are, then...
+Saya: Tomoe~? Are you there~? No good... She's totally spaced out.
+Hagumi: Tomo-chin~! Earth to Tomo-chin~!
+Tomoe: Whoa...!
+Tomoe: O-oh. Hagumi, Saya... Don't scare me like that~.
+Saya: Sorry about that. Hey, what's wrong? You seemed lost in thought.
+Tomoe: Huh?! I-it's nothing. What made you think that?
+Saya: It's hard to believe you when you won't even look at us...
+Tomoe: Urgh...
+Saya: Well, I won't pry if it's personal.
+Saya: But if you're struggling with something, we'd be more than happy to help.
+Hagumi: Yeah! You can talk to us anytime!
+Tomoe: Saya... Hagumi...
+Tomoe: ... A-actually...!
+Tomoe: I, uh... Oh, yeah! My friend's sister has this problem and she came to me for advice.
+Hagumi: Your friend's sister? Whoops, and here I thought it was you that had the problem!
+Tomoe: N-nope! Definitely not me! Anyway, my friend's sister has a friend who is clearly worried about something, and her sister wants to help out.
+Tomoe: She just isn't sure how...
+Hagumi: Why? Can't she just ask what the problem is?
+Tomoe: Her friend isn't the kind of person that talks about herself much.
+Tomoe: Another of her friends tried your approach, Hagumi, but she just dodged the question.
+Hagumi: Hmmm...
+Saya: I see. It can be hard to think of the right approach to help a friend in need.
+Tomoe: You're telling me... It makes you wonder if a direct approach is even the right call to begin with.
+Saya: Wouldn't it be best to wait until the other side comes around and wants to talk about it?
+Tomoe: I'm pretty sure the friend would keep it bottled up forever. She's not the type to ask for help when in trouble.
+Hagumi: Hmmm...!
+Saya: Hagumi? What is it?
+Hagumi: Here's what I think! Your friend's sister should do whatever she can!
+Tomoe: Whatever she can...?
+Hagumi: Yup! I went through something like that a while back.
+Hagumi: But I realized I couldn't help Mii-kun- Ah, I mean... that person. They had to figure out their problems on their own.
+Hagumi: Instead, I decided to focus on what I could do! That way, it'd be easier for that person to come back when they decided they were ready!
+Tomoe: ...
+Saya: You know, I think Hagumi is right.
+Saya: In the end, your friend's sister should do what she thinks she needs to do.
+Hagumi: Exactly! Think long and hard, then go with the best idea that pops into your head!
+Tomoe: Yeah... You're right!
+Tomoe: Alright, then! I'm going to go fix this right now! Hagumi, one croquette please! The freshest one you've got!
+Hagumi: Hm? Why are you going, Tomo-chin? Isn't this about your friend's sister?
+Tomoe: Huh?! W-well, you see~...
+Saya: I believe Tomoe wants to encourage her friend's sister by bringing her a tasty croquette.
+Saya: Eating something tasty can really cheer a person up, right?
+Hagumi: Ah, that's true~! I get it now~!
+Hagumi: Okay, then! I'll go ask Dad if we've got a fresh batch! Wait right here, Tomo-chin...!
+Tomoe: Th-thanks, Hagumi~!
+Tomoe: ... And thank you, Saya. You knew from the beginning, huh?
+Saya: Hm? What are you talking about?
+Tomoe: Hahaha. Never mind.
+Saya: Fufu. Tomoe, get out there and show us how cool you are.
+Tomoe: You bet! I'm gonna rock this thing!
+
+
+<Head-to-Head>
+
+(Character: Tomoe Udagawa)
+
+[Downtown]
+
+Tomoe: Oh, {{userName}}-san. I can't remember the last time I saw you here at this hour.
+Tomoe: Nice, so it's your day off.
+Tomoe: Me? I'm on my way to the studio.
+Tomoe: Yeah, another round of rehearsals. Actually, Ran won't be there, so there will only be four of us.
+Tomoe: No, she's not sick or anything. She's got something going on for her flower arranging.
+Tomoe: Uh, what was it again? An evaluation? Or maybe a judged event?
+Tomoe: It's for something like that. I can't imagine how stressful it must be, what with having just finished her exhibition and all~.
+Tomoe: Yeah, of course we went and checked it out. Man, was I impressed!
+Tomoe: There were a ton of awesome entries there. It was all so cool!
+Tomoe: Having said that, Ran's was still the best one there.
+Tomoe: And I'm not just saying that because she's my friend! Her art just nails the whole flower arranging thing.
+Tomoe: Here, check out this photo I took. See? Elegant, right?
+Tomoe: Now that I think about it, Ran's work was the only one that stood out. It's like, "bam!" You know what I mean?
+Tomoe: That's because we're friends? That makes sense.
+Tomoe: Although friends don't always understand each other, you know.
+Tomoe: If anything, the hidden stuff outweighs what we share with one another~.
+Tomoe: I actually went through something like that recently.
+Tomoe: I worried myself sick over how to handle the situation. I kept wondering what they were thinking and if I should ask them about it or not..
+Tomoe: In the end, I got tired of worrying and straight up asked them how they felt.
+Tomoe: I always wind up taking the direct approach in the end.
+Tomoe: Yeah, there are times when my style works best, but that's not always the case.
+Tomoe: But hey, I think that's fine. Because I'm not doing it alone.
+Tomoe: I've got Ran, Moca, Himari, and Tsugu right there with me.
+Tomoe: We're all different in many ways, so when one of us can't do something, the others fill in the blanks.
+Tomoe: In other words, we put our heads together and press on as a team. Nothing can stop us!
+Tomoe: ... Oh, my bad. Here I am, taking up all your free time.
+Tomoe: I'd better get going. Can't keep the others waiting.
+Tomoe: Catch you at the studio later! Hope you have an awesome day off!

@@ -1,0 +1,95 @@
+1426_Rei Wakana_R3 Magnificent Interlude
+
+Gacha phrase: Let's make some happy memories.
+
+<The Sounds I Enjoy>
+
+(Character: Rei Wakana, Masuki Sato)
+
+LAYER (Rei): Those were some beautiful fireworks, weren't they?
+MASKING (Masuki): Uh-huh...
+LAYER (Rei): Everyone else is back inside.
+MASKING (Masuki): Yeah...
+LAYER (Rei): Wanna head back too?
+MASKING (Masuki): Sure... why not.
+LAYER (Rei): Fufu.
+MASKING (Masuki): ... What?
+LAYER (Rei): Rui-chan's violin was nice, wasn't it? I get why you're feeling the way you are.
+MASKING (Masuki): Ah... Got me figured out, huh?
+LAYER (Rei): Well, we have known each other for a while.
+MASKING (Masuki): Haha, I'm no match for you, Rei.
+LAYER (Rei): ... I had a lot of fun today. It felt like a school culture festival. Plus, I got to talk a lot with Seta-san and Tomoe-chan and got to know them better.
+LAYER (Rei): Then there's you...
+MASKING (Masuki): ...?
+LAYER (Rei): I got to see how much you've grown, Masuki.
+MASKING (Masuki): O-okay...?
+LAYER (Rei): I'm really glad we got on this ship. We'll have to thank Seta-san for inviting us.
+MASKING (Masuki): ... Yeah, we should.
+MASKING (Masuki): ... Rui's violin was nice and all, but...
+LAYER (Rei): Hm?
+MASKING (Masuki): I dig this sound too. The sound of waves hittin' the ship. It's like nature's drum.
+LAYER (Rei): Nature's drum?
+MASKING (Masuki): Yep. Natural sounds have no regular rhythm or pitch, right?
+MASKING (Masuki): But I can keep listenin' to them forever. Now that's some cool stuff.
+MASKING (Masuki): I hear all kinds of sounds when I ride my bike as well.
+LAYER (Rei): Huh. Hey, tell me more about what else you hear.
+MASKING (Masuki): Well... when I'm racin' through the mountains, the wind whistles in my ears.
+MASKING (Masuki): Also, the weather up there's always changin', so when it suddenly rains, the raindrops make this sound when hittin' the leaves.
+MASKING (Masuki): Then there's... the chirpin' of different bugs for each season. That's another one of nature's sounds.
+MASKING (Masuki): Bet CHU² would freak out over the bugs though.
+LAYER (Rei): Ahaha, probably. Still, it sounds nice. Wish I could hear all that.
+LAYER (Rei): Maybe you could take me along one of these days.
+MASKING (Masuki): Yeah, sure thing. It's a promise.
+LAYER (Rei): Thanks, I'm looking forward to it then.
+LAYER (Rei): ... Now it's my turn to tell you the sounds I enjoy.
+MASKING (Masuki): Huh?
+LAYER (Rei): ...
+LAYER (Rei): LOCK's guitar. A sound that screams "I'm the center of the universe!" with an incredible intensity you only see when she's on the guitar.
+LAYER (Rei): PAREO's keyboard. A playful, dancing sound that's guaranteed to make you happy.
+LAYER (Rei): CHU²'s typing. The sound being made when she's arranging our songs and taking them to the next level.
+LAYER (Rei): And finally... your drums, Masuki. A powerful sound that says, "I've got your back."
+MASKING (Masuki): Rei...
+LAYER (Rei): These are my favorite sounds.
+MASKING (Masuki): .. Well, that goes for me too. Along with your vocals, Rei. The gripping sound of that voice of yours leaves a lasting impression.
+MASKING (Masuki): ... Man, I wanna bang my drums.
+LAYER (Rei): I hear you.
+LAYER (Rei): How about we visit CHU²'s place once we get back?
+MASKING (Masuki): Sounds good.
+(White cut)
+
+
+<Lingering Changes of That Night>
+
+(Character: Rei Wakana)
+
+[Edogawa Music]
+
+LAYER (Rei): Ah, I've never used these bowstrings before...
+Marina: LAYER-chan, hello.
+LAYER (Rei): Hello, Marina-san, {{userName}}-san.
+LAYER (Rei): ...? Umm... {{userName}}-san, why are you giving me that curious look?
+Marina: Oh? Now that you mention it, LAYER-chan does look different somehow...
+Marina: Ah, I've got it. It's the good posture.
+Marina: You always stand up nice and straight, LAYER-chan, but you're looking even more beautiful than usual.
+LAYER (Rei): Thank you very much. It's probably because of what happened the other day.
+Marina: What exactly happened?
+LAYER (Rei): I helped out on a cruise ship as a waiter because Seta-san asked me to, and I might be unconsciously following the posture advice I got.
+Marina: Wow, you worked as a waiter. I'm sure you looked very cool.
+LAYER (Rei): I wouldn't know, but I wouldn't complain if I did.
+Marina: So, did you enjoy the cruise?
+LAYER (Rei): Yes, but... we did run into some trouble.
+Marina: Really?
+LAYER (Rei): Well, maybe trouble's not quite the right word. There was some friction between Masuki and Morfonica's Rui-chan.
+Marina: Something happened... between those two, huh?
+LAYER (Rei): They're total opposites, so Masuki kept taking issue with how Rui-chan did things.
+LAYER (Rei): I'm not praising Masuki's behavior... but it was kind of rare to see her act that way.
+LAYER (Rei): When Masuki disagrees with someone, she usually backs off instead of putting up a fight.
+LAYER (Rei): There's something to be said for being willing to just kinda ignore the other person, and it keeps things from getting out of hand, but it's still a little sad in a way.
+Marina: But that's not how things went with Rui-chan, right?
+LAYER (Rei): Yes. Masuki made a conscious effort to understand what Rui-chan was thinking.
+LAYER (Rei): I've never seen her deal with someone that way before...
+LAYER (Rei): ... Masuki's changed.
+Marina: You're probably right, but she's probably not the only one that's changed either.
+LAYER (Rei): Oh...?
+LAYER (Rei): ... Well, I hope I have too.
+LAYER (Rei): Even if it's only something small like standing a little taller.

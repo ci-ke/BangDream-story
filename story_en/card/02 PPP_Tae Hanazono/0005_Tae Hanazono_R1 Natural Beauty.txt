@@ -1,0 +1,45 @@
+5_Tae Hanazono_R1 Natural Beauty
+
+<Self-Introduction>
+
+(Character: Tae Hanazono)
+
+Tae: Hello, my name is Tae Hanazono. I'm the lead guitarist for Poppin'Party.
+Tae: Everyone calls me O-Tae.
+Tae: It's a nickname Kasumi made for me. Isn't it great? O-Tae.
+Tae: I started guitar pretty long ago, and I played by myself for a while...
+Tae: But Kasumi asked me to be part of a band, and we all decided to make Poppin'Party.
+Tae: Performing as a band is pretty hard. If we're not all listening to each other, the songs don't turn out very well.
+Tae: Also, our shielded cables tend to get tangled. Y'know, the cords?
+Tae: To wrap the cables, you should go underhand, then overhand. The over-under method. I'm pretty good at it.
+Tae: Being a part of Poppin'Party is really fun. We rehearse, write songs, eat together, and sometimes even have sleepovers.
+Tae: If you come to our concert, I think you'll really enjoy it.
+Tae: Hope to see you there. Poppin'Party is looking forward to all of your cheering and support.
+
+
+<Sing For Supper>
+
+(Character: Tae Hanazono)
+
+Tae: Come on, eat up. Ah, you've had enough. Let your friend have some.
+Tae: Good birdies.
+Tae: ...? Did someone just say my name?
+Tae: Oh, {{userName}}-san.
+Tae: What a nice surprise. Are you here to feed the birds too, {{userName}}-san?
+Tae: ... I was just feeding them myself. This is one of the places where it's allowed.
+Tae: Would you like some too, {{userName}}-san? No? ... Oh, okay.
+Tae: You were staring, so I thought you might be hungry.
+Tae: Watching these birds eat so happily is starting to make me a little bit hungry.
+Tae: Hm? Do I like birds? I guess so, but I like cows more because of sukiyaki.
+Tae: ...? You don't like sukiyaki? That's too bad.
+Tae: I actually wasn't just sitting here feeding them. I was thinking up lyrics for our new song too.
+Tae: Usually I do it while I'm in the bath, but that didn't work this time, so I decided to try something different.
+Tae: We don't always get to play live, after all, so I thought I'd try and write a new song.
+Tae: I hope I can find some ideas out here... Oh... your hair is sticking up.
+Tae: You've got a bit of bed hair on the top of your head. You look like rockhopper penguin.
+Tae: Yep, it's sticking right up.
+Tae: Up... Hmm, maybe if I up the tempo in the intro...
+Tae: Huh? I'm just thinking about our new song. I knew mixing things up would be a good idea.
+Tae: Thanks for giving me a good idea.
+Tae: We're going to put on a really good show next time. I hope you're looking forward to it.
+Tae: ... Phew. I'm definitely hungry now.

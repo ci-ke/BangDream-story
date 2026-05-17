@@ -1,0 +1,80 @@
+1277_Chisato Shirasagi_R2 Waitress' Errand
+
+<A Regular’s Insight>
+
+(Character: Chisato Shirasagi, Tsukushi Futaba)
+
+[Hazawa Coffee]
+
+Tsukushi: Welcome! ... Ah! Chisato-senpai, hello!
+Chisato: Tsukushi-chan, hello.
+Tsukushi: Right this way! I'll lead you to a seat.
+Chisato: Yes, thank you.
+Tsukushi: Here is a menu. Today's special i-
+Chisato: ... Yawn...
+Tsukushi: Chisato-senpai...?
+Chisato: Ah... I'm sorry. I was at an overnight on-location filming until yesterday...
+Chisato: It would seem I'm still somewhat tired from that.
+Tsukushi: An overnight on-location filming...?! I guess entertainers really have it hard.
+Chisato: It's normally not a problem, but the travel time was rather long this time around...
+Tsukushi: I see... Ah! In that case, how about having something sweet?
+Tsukushi: They say that sweets are good for when you're tired!
+Chisato: Yes... I suppose I'll do that.
+Chisato: Fufu. I was actually planning on only having tea, but... it would seem your sales pitch has worked.
+Tsukushi: Huh?! I-I'm sorry. That's not what I was trying to do...
+Chisato: Fufufu, I'm joking. You recommended that because you were worried about me, right?
+Tsukushi: Y-yes! Of course!
+Chisato: I appreciate the concern. In that case, I will have this deluxe chocolate cake.
+Chisato: For my drink, I would like tea... Which tea variety do you recommend?
+Tsukushi: Ah, this chocolate cake is fairly bitter, so tea leaves with less bitterness would be best.
+Tsukushi: Among these, I think the Assam or Dimbula would pair well.
+Chisato: Tsukushi-chan... You're quite knowledgeable about tea varieties.
+Tsukushi: Customers often asked me what drink would pair well with a certain sweet, so I studied the teas!
+Tsukushi: Tsugumi-senpai and Eve-senpai would always help me before, but I felt like I had to change that.
+Chisato: I see... You really are quite the hard worker, Tsukushi-chan. Fufu.
+Tsukushi: Th-that's not true! I'm just doing what's expected of me.
+Tsukushi: I'm a Hazawa Coffee employee too, after all! I want to increase the number of things I can do and be useful to the café!
+Chisato: Is that so...? In that case, what about turning the achievements from your studies into something tangible?
+Tsukushi: What do you mean?
+Chisato: You said that you are often asked about sweets and drink pairings by customers, right?
+Chisato: I think that if you listed those pairings on the menu, customers would really appreciate it.
+Tsukushi: ...! You have a point! There are some people that don't like asking others questions, so that's a really good idea!
+Chisato: I am glad to have been of some help.
+Tsukushi: You really are amazing, Chisato-senpai! I hadn't thought of that idea at all!
+Tsukushi: When Tsugumi-senpai gets back, I'll try suggesting it to her right away!
+Chisato: I'm not amazing. I just thought of that after hearing what you said.
+Chisato: Also, I'm the one who should be thanking you.
+Tsukushi: Huh?
+Chisato: After seeing you doing your best at work, my fatigue has disappeared.
+Tsukushi: Really?! Thank goodness~.
+Chisato: Fufu... Well then, today I will go with Assam tea.
+Tsukushi: Understood! Please wait while I bring that out to you.
+Chisato: ... Fufufu. I have to do what I can as well.
+Chisato: First, I'll start with checking the script for tomorrow...
+(Black cut)
+(Background change)
+
+
+<The Tsukushi Effect>
+
+(Character: Chisato Shirasagi)
+
+[Station Entrance]
+
+Chisato: {{userName}}-san, hello.
+Chisato: It is unusual for us to meet at this hour. Do you perhaps have the day off?
+Chisato: I see. I hope you have a relaxing day.
+Chisato: I finished work sooner than scheduled, so I was thinking of relaxing at Hazawa Coffee.
+Chisato: {{userName}}-san, you were just there a short time ago, weren't you?
+Chisato: Don't you think the atmosphere at Hazawa Coffee has been more cheerful recently?
+Chisato: I am certain that is thanks to Tsukushi-chan.
+Chisato: I often see other customers smiling after they've spoken with her.
+Chisato: I know how they feel.
+Chisato: Tsukushi-chan is a hard worker that is always eager, so watching her makes me feel like cheering her on.
+Chisato: Having someone like her nearby makes you feel like you have to do your best as well, doesn't it?
+Chisato: When she first started her part-time job, there were many things she did that put me on pins and needles. However...
+Chisato: Now, if Tsukushi-chan's not in the café, something feels like it's missing.
+Chisato: ... Ah, I'm sorry. I ended up talking longer than I had intended to.
+Chisato: Now then, I should be going.
+Chisato: Please enjoy your day off.
+Chisato: See you again at CiRCLE. Goodbye.

@@ -1,0 +1,120 @@
+133_Tae Hanazono_R3 Bunny Strategy
+
+<Working In Unison>
+
+(Character: Tae Hanazono, Arisa Ichigaya, Eve Wakamiya)
+
+[Park]
+
+Arisa: Mmm~...!
+Arisa: Ahh~, what a nice day~.
+Tae: Yeah.
+Arisa: Blue skies, white clouds... The perfect time to take a walk.
+Tae: Doesn't that sound kinda like the lyrics to a song?
+Arisa: Hm? You think so? I wasn't really thinking about that though...
+Tae: Ah, that cloud...
+Arisa: ... Cloud? Which one?
+Tae: Right in front of you... Look.
+Tae: Doesn't it look like a rabbit?
+Arisa: Ahh... Yeah, now that you mention it...
+Eve: Boo! If it isn't Tae-san and Arisa-san!
+Arisa: Wah!
+Tae: Ah, it's Eve.
+Arisa: Don't sneak up behind us like that! Are you trying to give me heart attack?!
+Eve: Fufufu... Greetings. I am the shinobi known as Eve-nin!
+Arisa: E-Eve-nin? What are you saying...?
+Eve: What are you two up to? A stroll?
+Tae: I'm walking Arisa.
+Arisa: Hey! I'm not a dog!
+Tae: Oh, sorry. I meant, "Walking with Arisa."
+Arisa: Don't mess that up...
+Tae: Got it. I'll be careful next time.
+Tae: Oh, yeah. Eve, thanks for the other day.
+Eve: Hm? What happened the other day?
+Tae: The rabbits. You helped us catch them.
+Eve: Ah! A few days back! You're welcome!
+Eve: We must help each other in times of need. Companionship for the road and compassion in life!
+Eve: Those rabbits were so cute and cuddly!
+Tae: Mhm, and snuggly and warm. Makes me wanna pet them again.
+Arisa: Now that you mention it, you were smiling a lot more than usual that day, O-Tae.
+Arisa: But I do know what you mean by snuggly and warm. They were nice and fluffy...
+Arisa: ... But that doesn't mean I plan on running around and chasing them again. You can count me out next time.
+Tae: We were able to catch them as a team that day...
+Tae: Like we were all sync. Thanks for helping out, too, Arisa.
+Arisa: It's no big deal... I had to since everyone else was doing it...
+Arisa: It's not like I was chasing them because I liked it.
+Eve: Fufu, Arisa-san. You don't have to hide your true feelings.
+Arisa: Huh?!
+Tae: Arisa, your face is red. Do you have a sunburn?
+Arisa: N-no! Forget about it...!
+Eve: Oh, I have an idea! Let's all go to the zoo some time!
+Arisa: That came out of nowhere.
+Eve: There are so many different types of animals. It'll be fun!
+Tae: The zoo...
+Tae: They have bears, pandas, grizzlies...
+Arisa: Those are all bears...
+Tae: I wonder if they have rabbits.
+Eve: I'm sure they do!
+Tae: I see. I want to go... With Kasumi, Saya and Rimi, too.
+Tae: Arisa, are you gonna come?
+Arisa: ...! I-if you really wanna go that much, I guess I can't say no...
+Tae: Then it's decided. Let's all go as a group, Eve.
+Eve: Okay! Let's invite Chisato-san and the others, too~. It'll be a great day!
+Tae: I can't wait.
+Tae: Do zoos have mascots?
+Eve: I wonder. I think there have to be people dressed in costumes, no?
+Tae: Costumes... Oh, right...
+Tae: What happened with the rabbit costumes? We were all gonna wear one. Right, Arisa?
+Arisa: You were being serious about that?!
+Tae: You don't want to, Arisa of Wonderland?
+Arisa: G-give me a break...
+
+
+<Soft & Fluffy>
+
+(Character: Tae Hanazono)
+
+Tae: Ah, {{userName}}-san.
+Tae: Hey, do you like fluffy things?
+Tae: Like, rabbits, for example...
+Tae: You do, right? I do too.
+Tae: Rabbits are cuddly and warm, and they have a nice scent.
+Tae: They're like cotton candy, and they're cute.
+Tae: I just wanna pet them again. Those snuggly bunnies.
+Tae: Huh? Why am I talking about rabbits?
+Tae: So the other day, the rabbits at school escaped from their room.
+Tae: That's when Arisa and I started chasing them, but we had a pretty hard time catching any.
+Tae: Luckily we ran into Eve, Chisato-senpai and Kanon-senpai. They gave us a hand.
+Tae: We were all trying, but rabbits are really fast, so we couldn't keep up...
+Tae: But in the end, we were able to work together and bring them all back to their room.
+Tae: Because of that, we were all worn out, but afterward, we were able to play with the rabbits.
+Tae: Petting them was so relaxing, and it woke us right up.
+Tae: We played and we played, and we left them in the pet room once we were done.
+Tae: I don't think I would have been able to catch them alone.
+Tae: Arisa was making a big fuss about it, but she helped along with Eve, Chisato-senpai and Kanon-senpai.
+Tae: Yeah, I'm thankful for everyone's help.
+Tae: The girl in charge of the pet room was grateful as well, and we got to pet fluffy bunnies. I'm glad everything worked out.
+Tae: That time spent playing with the rabbits was a reward for our ability to work so well together.
+Tae: {{userName}}-san, have you ever worked as a group to get something done?
+Tae: Being in unison as a group is a really nice feeling.
+Tae: It's kind of like performing with a band. Being able to play in sync with everyone else is great.
+Tae: You get what I'm saying? Mhm, that's good.
+Tae: That reminds me, there was one rabbit that jumped on top of Arisa, and she screamed.
+Tae: Fufu... Just thinking about it makes me laugh.
+Tae: Huh? Do I think she'd get mad if she heard me talking about it?
+Tae: Yeah, probably...
+Tae: Ah, but you know, Arisa is kinda like a rabbit. Like how they purr.
+Tae: She makes a lot of noise, just like them, right?
+Tae: Fufu, you should listen closely next time. She'll be making a lot of noise, I'm sure.
+Tae: Oh, yeah. There was actually one more thing I got out of that day. Cuddling with the rabbits gave me an idea.
+Tae: I thought that a song that's snug and warm like when you're holding a rabbit... A song like that might be good.
+Tae: Unfortunately, the lyrics aren't really coming to me. Does anything come to mind?
+Tae: ... You can't write lyrics on the spot? Ahaha, that's fair.
+Tae: Hmm... How about a song with almost no lyrics? Just cuddly, cuddly~, snuggly, snuggly~, and that's it. What do you think?
+Tae: Yeah, sounds like fun, right? ... Huh? What if we wear an animal costume while singing it...? Hmm...
+Tae: An animal costume... Yeah, that's an interesting idea.
+Tae: Thanks, {{userName}}-san.
+Tae: Maybe our band can wear animal costumes at our next performance.
+Tae: Poppin'Party wearing fluffy rabbit costumes. Mhm, that's cute.
+Tae: I'm sure they'll all agree. And maybe Arisa will... make a lot of noise about it, as usual.
+Tae: Fufu... I can't wait.

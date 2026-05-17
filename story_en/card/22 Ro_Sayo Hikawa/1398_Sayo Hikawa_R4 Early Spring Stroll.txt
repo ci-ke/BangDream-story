@@ -1,0 +1,100 @@
+1398_Sayo Hikawa_R4 Early Spring Stroll
+
+Gacha phrase: ... Would you perhaps like to go together then?
+
+<Afterword of a Journey>
+
+(Character: Tsugumi Hazawa, Sayo Hikawa)
+
+[Train]
+
+Tsugumi: That was a fun trip, wasn't it, Sayo-san?
+Sayo: Yes. There were many beautiful sights, and it was quite relaxing.
+Sayo: And... I think going to that town has helped improve my understanding of the story.
+Tsugumi: Same here! I feel like I better understand the feelings of the two friends!
+Tsugumi: ... Ah, look. The sea's so pretty!
+Sayo: The way the sunset reflects off of the water is truly spectacular...
+Tsugumi: Very... It would probably look even better from the beach...!
+Sayo: ... Shall we get off and go look?
+Tsugumi: Really?! Are you sure though? You'll get home late...
+Sayo: Do not worry about me. I have intended to spend most of my time today over here anyway. Not to mention, I would like to take a closer look too.
+Tsugumi: Sayo-san... In that case, I'd love to go!
+Sayo: Fufu, then let us do so.
+Tsugumi: Okay!
+(Black cut)
+(Background change)
+
+[Beach]
+
+Tsugumi: The sea really is beautiful, isn't it?
+Sayo: Quite. The air is so refreshing... And it is just us in this quiet place.
+Tsugumi: The sound of the breeze and the waves feels nice... This is so soothing.
+Tsugumi: ... Um, Sayo-san. Thank you very much, by the way.
+Tsugumi: For putting up with everything I wanted to do today, that is.
+Sayo: What do you mean? I did not feel like I had to put up with anything...
+Tsugumi: It's probably one of those things the person forced to go along doesn't even notice, but I'm still really grateful.
+Tsugumi: So, thank you. You made today amazing for me.
+Sayo: You do not need to thank me. I simply did what I wanted to do, and our desires just so happened to match.
+Sayo: Also, it is because of your suggestions that I enjoyed the trip as much as I did, so thank you.
+Tsugumi: Fufufu... It makes me really happy to hear you say that.
+Sayo: And I have to say, deviating from one's plans like this is not so bad.
+Sayo: Sometimes, choosing the best available path at a given moment is more important than trying to stick to a path one has chosen beforehand...
+Sayo: It is thanks to you, many others, and my experiences that I am capable of feeling this way.
+Tsugumi: Oh, I completely get what you mean!
+Sayo: Always be flexible. Because nothing is ever a waste.
+Tsugumi: Be flexible... Um, in that case, could I maybe ask you to adapt to my request...?
+Sayo: A request? What do you have in mind?
+Tsugumi: I'd like to take a picture here. Of us.
+Tsugumi: It's such a pretty ocean, so I want something that'll remind me of today...
+Sayo: ... Are you sure that is all you would like?
+Tsugumi: I am. We have a lot of pictures of the town, but not very many of us two together...
+Tsugumi: So... do you think you'd be okay with that...?
+Sayo: ... Fufu. Of course. Shall we then?
+Tsugumi: Oh, wow! Thank you so much!
+Tsugumi: All right, could you come next to me, and we can have the sea behind us? After all, we are at the beach, so I also want a picture of the water...
+Sayo: Understood... Will this do?
+Tsugumi: Um... Maybe a little closer... I can't get both of us to fit.
+Sayo: O-okay... How about this?
+Tsugumi: Perfect! I'm taking the picture. Say cheese!
+(White cut)
+(Background change)
+
+
+<By Spending Time Together>
+
+(Character: Sayo Hikawa)
+
+[CiRCLE - Lobby]
+
+Sayo: Hello, Marina-san, {{userName}}-san.
+Marina: Hi, Sayo-chan. Here to practice on your own, right?
+Sayo: Yes. I must make up for the time spent on my trip the other day.
+Marina: Fufu, always so disciplined. Anyway, what's this about a trip?
+Sayo: Hazawa-san and I went to the town that served as the setting for a novel we both like.
+Sayo: Our purpose was to eat the chocolate roll cake served at a café there, but along the way, we were able to see many wonderful sights.
+Marina: Huh~, that sounds great!
+Sayo: Yes, the air was refreshing, and the town was very quiet... But despite how peaceful it was, the thought that it was where the story takes place filled me with excitement.
+Marina: I see! Fufu, it must've been a lot of fun to feel like you were inside the story. So, how was the chocolate roll cake?
+Sayo: Unfortunately, the café we intended to visit was temporarily closed on that day...
+Marina: Oh, really? Sorry to hear that.
+Sayo: It was a shame, yes... However, Hazawa-san suggested that we attempt to recreate the roll cake in the story on our own, and we did precisely that.
+Marina: Interesting~, now that sounds really fun!
+Sayo: It was. And rereading the story to figure out the recipe allowed me to deepen my understanding.
+Sayo: However, what I gained the most from the experience was the fulfilling time we spent enjoying baking together.
+Marina: Fufu, it sounds like you managed to turn that bit of misfortune into something positive you'll look back at fondly.
+Marina: I have to say though, Tsugumi-chan's suggestion to make the roll cake yourselves sounds a lot like something she would say.
+Sayo: Yes, that positivity of hers is something I have a lot to learn from.
+Sayo: But that is not all. There is her attentiveness. When there were plum blossoms that had started to bloom, she noticed them when most people would not have.
+Sayo: And when we were making the roll cake, she told Toyama-san and the others that she enjoyed teaching them because they were enjoying themselves.
+Sayo: She truly is very good at noticing the little changes in everyday life and discovering the good qualities in others...
+Marina: Fufu...
+Sayo: ...? Did I say something strange?
+Marina: Oh, it's not that. It's just that you seemed to enjoy gushing about Tsugumi-chan's good qualities just now.
+Sayo: I-I did...? I did not notice...
+Marina: Maybe that side of her has rubbed off on you because of all the time you've spent together.
+Sayo: Has it...? If it has, I certainly will not complain.
+Marina: Well, I hope you and Tsugumi-chan get to keep spending time together and going places.
+Sayo: I do as well. But a proper balance of work and play is necessary, so I will dedicate myself to practice today.
+Marina: All right, good luck!
+(Black cut)
+(Background change)

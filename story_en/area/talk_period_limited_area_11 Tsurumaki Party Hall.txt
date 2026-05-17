@@ -1,0 +1,492 @@
+1:30060 [Tsurumaki Party Hall]
+
+(Character: Kasumi Toyama, Hagumi Kitazawa)
+
+Kasumi: Wow, this Christmas tree is so sparkly! Just like the stars~!
+Hagumi: You're right! It's so pretty~!
+Kasumi: Hagu, look at all this food! Mmm~, it smells great♪
+Hagumi: Cool~! I wonder if they have any croquettes.
+Kasumi: I'm so glad everyone made it to the party♪ This is going to be so much fun!
+
+
+2:30061 [Tsurumaki Party Hall]
+
+(Character: Tae Hanazono, Kanon Matsubara)
+
+Kanon: Huh? Tae-chan, what are you looking at?
+Tae: I just noticed that giant rabbit over there.
+Kanon: What rabbit...?
+Tae: The shiny one over there. Isn't it cute?
+Kanon: Tae-chan... That's not a rabbit. It's a reindeer...
+
+
+3:30062 [Tsurumaki Party Hall]
+
+(Character: Rimi Ushigome, Himari Uehara)
+
+Rimi: Did you bring a present for Kaoru-san?
+Himari: I sure did. What about you?
+Rimi: Yeah, but when I tried to give it to her, I got really nervous...
+Himari: I totally understand~...! Kaoru-senpai's just so cool~!
+Himari: Oh! Why don't we go give her our gifts together?
+Rimi: Yeah, I should be alright if you're there with me...!
+Himari: We've got this! Watch out, Kaoru-senpai, here we come... Hey, hey, hoh~!
+
+
+4:30063 [Tsurumaki Party Hall]
+
+(Character: Saya Yamabuki, Ako Udagawa)
+
+Ako: Saya-chan, this is amazing~! It's like we're in a castle!
+Saya: Yeah, it really is pretty. It's not often you get to go to a place like this, is it? It sure does get your heart racing.
+Ako: I think I've seen something like this in a movie before!
+Saya: That makes sense. I could see filming a big ballroom scene here.
+Ako: ... Tonight, our extravagant ball with the queen of darkness will... uhm... bring lots and lots of people!
+Saya: Ahaha. It sure will. Now's our chance to dig into some delicious food and catch up with everyone.
+
+
+5:30064 [Tsurumaki Party Hall]
+
+(Character: Arisa Ichigaya, Misaki Okusawa)
+
+Arisa: Merry Christmas, Okusawa-san.
+Misaki: Ah, Ichigaya-san. Merry Christmas to you too.
+Arisa: Here. I'm giving these out to everyone. It's just something small.
+Misaki: A present? Wow, thanks... Wait, why are there two here?
+Arisa: Ah, one is for you, and the other's for Michelle. Think of them as thank-you presents.
+Misaki: Ahaha. Thanks. I'm sure she'll love it.
+
+
+6:30065 [Tsurumaki Party Hall]
+
+(Character: Ran Mitake, Yukina Minato)
+
+Yukina: Oh, Mitake-san, so you're here as well.
+Ran: Ah, Minato-san... Hey.  I didn't expect to see you here.
+Yukina: I can see why. The old me would never have come to something like this. However, I wanted to know what kind of things everyone would be doing here.
+Ran: I see... Ah, right. I haven't said it yet. Uhm... Merry Christmas.
+Yukina: ... Merry Christmas.
+
+
+7:30066 [Tsurumaki Party Hall]
+
+(Character: Saya Yamabuki, Moca Aoba)
+
+Saya: I brought a bunch of buns from our bakery. Dig in, everyone.
+Moca: What did you just say~? Thank you, Saya, this is the best present ever~.
+Saya: Fufu. We'll have some after cake, okay?
+Moca: Hmm~... I think I'll have one as an appetizer first, then cake, and then I'll finish off the meal with more buns!
+Saya: Ahaha. Well, as long as you're happy. Good thing I brought them.
+
+
+8:30067 [Tsurumaki Party Hall]
+
+(Character: Arisa Ichigaya, Himari Uehara)
+
+Himari: Merry Christmas, Arisa♪ Here's your present!
+Arisa: Wow, you didn't have to get me anything. Thanks.
+Himari: I just know you're going to love it!
+Arisa: Really? Now I'm curious. Can I open it?
+Himari: Go right ahead! When I saw this, I had to get it for you♪
+Arisa: A bonsai postcard set! This is amazing! Thanks, Himari-chan.
+
+
+9:30068 [Tsurumaki Party Hall]
+
+(Character: Tomoe Udagawa, Kokoro Tsurumaki)
+
+Kokoro: If it's snowing on Christmas, then it's called a "white Christmas," right?!
+Tomoe: Yup, it sure is. It really puts you in the Christmas mood~!
+Kokoro: Do you think we'll have any this year? Making a snowman together would be oodles of fun!
+Kokoro: I've got it! We should beat the taiko drums to get it to snow!
+Tomoe: Ahaha! If we played hard enough, I'm sure we'd get some.
+Kokoro: Alright, I'll have them bring in some taiko drums right away!
+Tomoe: Huh?! Uh, Kokoro?! A-are we really going to do this...?!
+
+
+10:30069 [Tsurumaki Party Hall]
+
+(Character: Tsugumi Hazawa, Eve Wakamiya)
+
+Tsugumi: I made a cake for all of us!
+Eve: Wow, that looks delicious! I brought something as well! Cookies!
+Tsugumi: Look at all the different shapes... Santa, bells, and snowmen. How adorable.
+Eve: I'm just so glad I got to spend Christmas with all of you! Time with your friends is something we should treasure.
+Tsugumi: Fufu, it sure is. The best gift you could get during the holidays.
+
+
+11:30070 [Tsurumaki Party Hall]
+
+(Character: Kasumi Toyama, Aya Maruyama)
+
+Kasumi: Having a Christmas party with everyone is so much fun!
+Aya: Yup! Would you say it's... sparkling and heart-pounding?
+Kasumi: Absolutely! It's super sparkling and heart-pounding♪ Hey, why don't we all sing together?
+Aya: Wow, that sounds like fun! It'll be like we're caroling!
+Kasumi: Right?! Come on, let's go get everyone!
+
+
+12:30071 [Tsurumaki Party Hall]
+
+(Character: Hina Hikawa, Sayo Hikawa)
+
+Hina: This place is amazing! I've never seen such a big tree before!
+Sayo: It certainly surpassed my expectations...
+Hina: Check it out, Sis! Look at all this food and candy!
+Sayo: Candy canes... How nostalgic.
+Hina: We used to eat a bunch of them as kids, didn't we? Now that brings back memories~! Ah, hey, there's a reindeer over there! Come on!
+Sayo: Ah, wait, Hina...! ... Sigh.
+
+
+13:30072 [Tsurumaki Party Hall]
+
+(Character: Kaoru Seta, Chisato Shirasagi)
+
+Kaoru: Fufu... To think I'd be able to enjoy such a fleeting estate during this season of joy... Ah... How fleeting...!
+Chisato: I'm not sure I'd call it fleeting, but I am happy we get to spend Christmas with everyone.
+Kaoru: Ah, yes, I had almost forgotten. My present to you all.
+Kaoru: It is a gift worthy of such a wondrous time of the year, a photobook of me. There has never been anything more fleeting than this... Please, take it!
+Chisato: ... What was going through your head when you made this?
+
+
+14:30073 [Tsurumaki Party Hall]
+
+(Character: Maya Yamato, Rinko Shirokane)
+
+Maya: You make such amazing costumes, Shirokane-san! It's always fun to see what you'll make next!
+Rinko: Th-thank you... very much...
+Maya: By the way, if you were going to make a Christmas costume, how would you design it?
+Rinko: Well... I suppose I'd look at... the white snow, or... the lights... that decorate the Christmas trees...
+Maya: I see~... All I can think of is Santa! I should have known your costumes come from that incredible imagination of yours...!
+Rinko: N-no... It's nothing... that impressive...
+Maya: Would it be alright if I asked for your help with the theater club again sometime? Ah, if not, I'd love to just ask  a few questions!
+Rinko: ... Sure...! Although... I'm no expert...
+
+
+15:30074 [Tsurumaki Party Hall]
+
+(Character: Rimi Ushigome, Eve Wakamiya)
+
+Rimi: Those people-shaped cookies you see around this time of year are so cute, aren't they?
+Eve: Do you mean gingerbread men? I love those!
+Rimi: They're so tasty. I would never have thought of adding ginger to cookies.
+Eve: I suppose you're right! Adding ginger to a dish really gives it a good flavor though. What a wonderful spice.
+Rimi: Ginger makes you feel all warm inside. I wonder if the same thing happens when you eat a gingerbread man...
+Eve: We should find out! I'll make some for us next time!
+
+
+16:30075 [Tsurumaki Party Hall]
+
+(Character: Moca Aoba, Yukina Minato)
+
+Moca: Ah~, if it isn't Minato-san. Are you trying to decide what to eat~?
+Yukina: I am... Do you have any recommendations?
+Moca: I sure do~. This bun here is sweet, but not overly so~. Oh, and this one, this one, and this one are all super tasty~.
+Yukina: A-Aoba-san, I don't think I can eat all of this.
+Moca: Really~? Well, that's no good~.  Why don't I eat some of this with you then?
+Yukina: Y-yes... That would be very much appreciated...
+
+
+17:30076 [Tsurumaki Party Hall]
+
+(Character: Tsugumi Hazawa, Sayo Hikawa)
+
+Sayo: Merry Christmas, Hazawa-san.  I'd like you to have this... I baked some cookies.
+Tsugumi: Wow, thank you so much! ... Yum, these are delicious!
+Sayo: I-is that so? That's good to hear.
+Tsugumi: Hm? Who's that second bag for...?
+Sayo: Well... I want to give them to Hina, but I haven't had the chance... I'm not sure I'll be able to before the party ends...
+Tsugumi: I'm sure you will, Sayo-san! Hina-senpai will love them for sure.
+Sayo: Thank you. Fufu. It's strange how convincing that sounds when it's coming from you.
+
+
+18:30077 [Tsurumaki Party Hall]
+
+(Character: Ran Mitake, Lisa Imai)
+
+Lisa: Hey, Ran~. What were you and Yukina talking about before?
+Ran: You saw that? It wasn't anything special. We just wished each other a Merry Christmas.
+Lisa: ... Ahaha!
+Ran: Huh? Wait, why are you laughing?!
+Lisa: Ahaha, sorry, my bad. You two were just being so awkward. Is that really all you two said~?
+Ran: I mean... It's not like I know what to talk about with her...
+Lisa: You just have to learn to think on your feet! Come on, let's find Yukina and give it another go!
+
+
+19:30078 [Tsurumaki Party Hall]
+
+(Character: Tomoe Udagawa, Ako Udagawa)
+
+Tomoe: ... Ah, would you look at the time. We should head home soon. Ako~, start saying goodbye to everyone~!
+Ako: What~? Already?! I don't wanna leave yet~!
+Tomoe: Mom and Dad are going to get mad if we're late, you know.
+Ako: Then I'll call Mom and tell her! Please? Just a little longer!
+Tomoe: Alright, I guess staying a little longer won't hurt. I'll call home to let them know. But we're leaving soon, got it?
+Ako: Okay!  Thanks, Sis!
+
+
+20:30079 [Tsurumaki Party Hall]
+
+(Character: Hina Hikawa, Lisa Imai)
+
+Hina: Hey, Lisa-chi!  You've got to try these cookies! They're so good!
+Lisa: Ahaha, really? Aw, shucks~. Actually, I'm the one who made those♪
+Hina: What, really?! You could have told me they were from a bakery and I wouldn't have questioned it.
+Lisa: That's good to hear! Sayo and I made them together. This time, we put-
+Hina: My sister made cookies with you?! Which ones are hers?!
+Lisa: They're not here. She wanted to give you her cookies in person... Wait, weren't you two just talking? Didn't she give them to you then?
+Hina: Huh?! I haven't gotten any cookies yet! I better find my sister and ask for them right away!
+Lisa: Ahaha, and there she goes... She really loves her sister.
+
+
+21:30080 [Tsurumaki Party Hall]
+
+(Character: Kokoro Tsurumaki, Rinko Shirokane)
+
+Kokoro: Oh, if it isn't Rinko! What are you up to?
+Rinko: Ah, Tsurumaki-san... I was looking at the decorations on this tree...
+Kokoro: So that's what you're doing! There are so many things on this tree, aren't there?! I like the red orb thingies!
+Rinko: Th-those are... supposed to represent... apples...
+Kokoro: I didn't know that! You're so smart! Tell me about the other decorations!
+Rinko: O-okay... I'll tell you... everything I know...
+
+
+22:30081 [Tsurumaki Party Hall]
+
+(Character: Kaoru Seta, Maya Yamato)
+
+Kaoru: Ah, Christmas... Snow-filled streets, smiling faces, and laughter coming from every house... It's almost as fleeting as the day to celebrate my birth.
+Maya: I don't really know what happens on your birthday, but I suppose a white Christmas is pretty fleeting.
+Kaoru: ... Ah! Maya, I just had the most marvelous idea. My fleeting self, and this fleeting season... Why don't we combine the two and make the most fleeting stage performance ever?
+Maya: A play set during Christmas, huh...? That could be interesting!
+Maya: Costumes wouldn't be that hard to find either... Plus, I'm pretty sure we have something we could use for snow... I'll start looking for a script right away!
+Kaoru: I knew you'd approve, Maya. Together we shall give my little kittens the most magnificent present of all!
+
+
+23:30082 [Tsurumaki Party Hall]
+
+(Character: Tae Hanazono, Hagumi Kitazawa)
+
+Hagumi: Whoa! The carrots in this cream stew are shaped like stars!
+Tae: Ah, and this one's shaped like a pine tree.
+Hagumi: Ehehe, it's like the stew is celebrating with us~!
+Tae: Agreed. Ah, that reminds me, I saw a croquette shaped like a snowman before.
+Hagumi: What?! Really?!
+Tae: Yes, someone put two croquettes on top of each other and then drew a face on it... Now, if only they had rabbit croquettes.
+Hagumi: Wow, now I really want to see it for myself! Where was it, O-Tae?!
+
+
+24:30083 [Tsurumaki Party Hall]
+
+(Character: Kanon Matsubara, Chisato Shirasagi)
+
+Kanon: Wow, look, Chisato-chan. There's so much cake here! Ah, and there are so many types of tea too. I don't know where to start. Which one are you going to have?
+Chisato: Fufu, well, aren't you in a good mood today♪
+Kanon: Ehehe, I suppose I got a little too excited there. Although, if I eat everything I want now, I won't have room for anything else later...
+Chisato: Then why don't we pick out what we want to eat together and split it?
+Kanon: Is that okay with you? Ehehe, thank you, Chisato-chan.
+
+
+25:30084 [Tsurumaki Party Hall]
+
+(Character: Misaki Okusawa, Aya Maruyama)
+
+Aya: Isn't this party great, Misaki-chan?
+Misaki: Yeah. When I first heard we were having it at Kokoro's place, I was a little worried about what kind of party this would be. Thank goodness it's normal.
+Aya: Wait, this is normal? Kokoro-chan really is something else... If I didn't have everyone else here with me, I'm sure I'd be shaking like a leaf.
+Misaki: So you get nervous at parties too? I always thought professional entertainers were used to big parties.
+Aya: Hmm~... I'm sure someone like Chisato-chan is, but I like parties like this where I get to have fun with all my friends!
+Aya: ... Ah, still, maybe learning to like extravagant parties would make me seem like more of an idol...
+Misaki: Ahaha, I think you're fine just the way you are.
+
+
+26:30085 [Tsurumaki Party Hall]
+
+(Character: Kokoro Tsurumaki, Kanon Matsubara)
+
+Kokoro: This party is so much fun! I just wish Michelle could have been here.
+Kanon: I do too, but Misaki-chan told us she's really busy.
+Kokoro: What could she be doing that kept her from coming to our party though...? Ah! I know!
+Kanon: Wh-what is it, Kokoro-chan?
+Kokoro: I bet Michelle's helping Santa right now! That has to be it, right?!
+Kokoro: In that case, next time we see Michelle, we should ask her to tell us all about Santa!
+Kanon: Fufu, sounds good to me.
+
+
+27:30086 [Tsurumaki Party Hall]
+
+(Character: Kasumi Toyama, Saya Yamabuki)
+
+Kasumi: Hey, Saya! Look, look! Aren't these buns amazing?!
+Saya: Ahaha, what's going on, Kasumi? You sure are excited.
+Kasumi: This bun looks just like Santa's face! And they've got ones shaped like reindeer and Christmas trees too!
+Saya: Ahaha, I'm glad you like them. Those are from our bakery.
+Kasumi: Huh? Really?! But they weren't for sale when I was there last time...
+Saya: They're limited seasonal items. We'll have them out until next week, so feel free to stop by and grab a few.
+Kasumi: Yeah! I'm gonna buy a whole bunch!
+
+
+28:30087 [Tsurumaki Party Hall]
+
+(Character: Moca Aoba, Tomoe Udagawa)
+
+Tomoe: I figured this place would be insane, but I still didn't expect anything like this!
+Moca: Really~? I guess I got distracted by all the tasty treats~.
+Tomoe: Did you see all those buns over there? I know you love that stuff.
+Moca: Fufufu~. I've already completed my investigation~. I promised I'd bring some home with me~.
+Tomoe: Ahaha, classic Moca. You always have preferred food over anything else. No wonder you'd choose buns over a Christmas tree.
+Moca: Oho~, I couldn't have said it better myself~.
+
+
+29:30088 [Tsurumaki Party Hall]
+
+(Character: Hina Hikawa, Chisato Shirasagi)
+
+Hina: I'm so glad we finished early today! If not, we wouldn't have been able to come to this party!
+Chisato: That's true. I'm happy we could all be here. However...
+Hina: Hm? What's wrong, Chisato-chan?
+Chisato: Today's the day they broadcast the Christmas special we were in, correct? I'm just wondering how it's going...
+Hina: Come on, forget about that! It's a recording, remember? You could watch it anytime you want. If you don't take full advantage of your time off, you're just wasting it!
+Chisato: ... Fufu, I suppose you're right. It's important to relax when we can.
+
+
+30:30089 [Tsurumaki Party Hall]
+
+(Character: Lisa Imai, Ako Udagawa)
+
+Ako: Mmm~, this one's tasty too~! I think I'll go grab another piece~.
+Lisa: Hold it right there~. All you've been eating is cake. You need to have some salad too...
+Ako: What~?! But this is a party, I should be able to eat all my favorite foods to my heart's content!
+Lisa: I know how you feel, but~...
+Ako: Come on, this tiramisu was really good! And this shortcake's cream was so fluffy and sweet. I could eat it all day!
+Lisa: Argh~! Seeing you enjoy all this food makes me want to try some too! That does it! Today I'm eating whatever I want~!
+Ako: That's the spirit! Time to dig in!
+
+
+31:30090 [Tsurumaki Party Hall]
+
+(Character: Tae Hanazono, Rimi Ushigome)
+
+Tae: This Christmas tree is huge, isn't it?
+Rimi: It really is. And it's so pretty and bright... It must have taken a lot of work to decorate.
+Tae: I wonder if it'd be hard to climb.
+Rimi: Huh? O-Tae-chan, you're not going to climb it, are you...?
+Tae: Not me. Rabbits. They like to climb up my arms, so I'm wondering if they'd enjoy tree-climbing too.
+Rimi: Thank goodness~... I thought you might try it yourself.
+
+
+32:30091 [Tsurumaki Party Hall]
+
+(Character: Saya Yamabuki, Arisa Ichigaya)
+
+Arisa: Tsurumaki-san was just saying how she wanted to have an even bigger tree.
+Saya: Ahaha. That sounds like Kokoro.
+Arisa: As soon as she said that, the people dressed in black started running around and talking...
+Saya: You mean the people who serve her family, right?
+Arisa: Yeah, I could have sworn I heard them say they were going to prepare a new tree right away.
+Saya: Huh? Wait... So what happened after that?
+Arisa: Tsurumaki-san said, "Well, we all got to decorate this tree together, so that makes this tree the very best!" Then all the suits got quiet again.
+Saya: I-I see. They sound busy.
+
+
+33:30092 [Tsurumaki Party Hall]
+
+(Character: Ran Mitake, Himari Uehara)
+
+Himari: This chicken is so juicy, and this pasta is scrumptious! No matter what I eat, it's all so good~!
+Ran: How long have you been eating?
+Himari: Ooo... Well, what am I supposed to do~...? This delicious food just keeps coming! But it's fine, I'm full, so I'm stopping right now!
+Ran: Ah, looks like they brought out the desserts.
+Himari: What?! Ah, they've got chocolate cake...! It looks so tasty~!
+Ran: ... Wanna get some?
+Himari: W-wait a minute, Ran! Let me think about it...!
+
+
+34:30093 [Tsurumaki Party Hall]
+
+(Character: Moca Aoba, Tsugumi Hazawa)
+
+Moca: Tsugu~, I just thought of something~.
+Tsugumi: What is it, Moca-chan?
+Moca: It must be really hard on Santa to have to remember every single gift for every single child, right?
+Tsugumi: Now that you mention it, I suppose so. If you send him a letter I'm sure it's easier, but not everyone writes one.
+Moca: Plus, if you wrote him a letter the day before, that's gotta be stressful for Santa~. That's why I think we should start decorating our trees with pieces of paper that say what we want on them.
+Tsugumi: You mean... like Tanabata?
+Moca: I think it's a great idea~. Now we just gotta get everyone on board~.
+
+
+35:30094 [Tsurumaki Party Hall]
+
+(Character: Chisato Shirasagi, Maya Yamato)
+
+Maya: The spices really add something to this tea, and it smells amazing!
+Chisato: Agreed. They said it's called Christmas tea.
+Maya: Christmas tea, huh...? Ah! I think I've read about this before! You add some spices and dried citrus peels to some tea, and you're done. I believe it's good for preventing colds as well.
+Chisato: It certainly does warm you up... Right down to your very core.
+Maya: Huhehe... Now that we're sitting here, everything that's happened over the year comes rushing back. Chisato-san, thanks for everything. I'm sure I'll be coming to you a lot next year too.
+Chisato: Fufu. Maya-chan, it's a little early for New Year's formalities.
+
+
+36:30095 [Tsurumaki Party Hall]
+
+(Character: Hina Hikawa, Eve Wakamiya)
+
+Hina: I had no idea Kokoro-chan's house was so big~!
+Eve: It's just like a European castle! It reminds me of the hotel we filmed at a while ago!
+Hina: Hey, Eve-chan! Why don't we explore this place a little?
+Eve: W-we can't do that! We might cause trouble for Kokoro-san if we wander around her house without permission.
+Eve: What's more, large mansions like this almost always have secret traps designed to catch intruders! I saw it in a historical drama!
+Hina: Secret traps?! That's sounds interesting! Come on, let's go!
+Eve: Ah, Hina-san! We can't!
+
+
+37:30096 [Tsurumaki Party Hall]
+
+(Character: Yukina Minato, Ako Udagawa)
+
+Ako: Whoa, Kokoro's house is huge! Everyone's here, but it doesn't feel cramped at all!
+Yukina: Indeed. I'd heard it was a large mansion, but this is beyond my expectations.
+Ako: I was so surprised when you said you were coming to the party, Yukina-san!
+Yukina: Well, I suppose it's because I've learned that interacting with the other bands can inspire changes in our own music.
+Ako: I get it now...! I'll make sure to get lots and lots of inspiration from everyone around me and become the coolest drummer ever!
+Yukina: I'm looking forward to it.
+
+
+38:30097 [Tsurumaki Party Hall]
+
+(Character: Sayo Hikawa, Rinko Shirokane)
+
+Sayo: Shirokane-san, are you enjoying yourself?
+Rinko: Y-yes... I used to be bad at... things like this... but now... I think they're fun...
+Sayo: Same goes for me. I always thought events like this were a waste of time, but I have a different opinion these days.
+Rinko: It sounds like... we're both changing... little by little...
+Sayo: Yes, I'm sure that's what's happening.
+
+
+39:30098 [Tsurumaki Party Hall]
+
+(Character: Kaoru Seta, Kanon Matsubara)
+
+Kanon: Kaoru-san, have you seen Misaki-chan?
+Kaoru: Misaki? I believe I saw her by the table where all the cakes are set up.
+Kanon: Okay, I think that was... this way, right? Thank you, Kaoru-san!
+Kaoru: K-Kanon! Where exactly are you going?
+Kanon: Huh? I'm headed to the cake table...
+Kaoru: That, my dear, is the exact opposite direction of your destination. I suppose I have no choice. I shall accompany you.
+Kanon: Ooo... Sorry, Kaoru-san. I can't believe I'm getting lost here of all places...
+Kaoru: Worry not, my dear. It is my duty to escort my cute little kittens.
+
+
+40:30099 [Tsurumaki Party Hall]
+
+(Character: Hagumi Kitazawa, Misaki Okusawa)
+
+Hagumi: Ah, there you are! Here, Mii-kun, take this!
+Misaki: This is the food from the table, right? Why did you put it in a bento box?
+Hagumi: Michelle couldn't make it today, remember? I thought it'd be nice if she at least got to try all the food, so I went around and grabbed a little bit of everything!
+Hagumi: You see Michelle the most out of all the other members, so could you please give it to her the next time you see her?
+Misaki: Gotcha. Alright, I'll take it with me.
+Hagumi: Ehehe, do you think Michelle will like it?
+Misaki: Oh yeah, I'm sure she will.
+
+

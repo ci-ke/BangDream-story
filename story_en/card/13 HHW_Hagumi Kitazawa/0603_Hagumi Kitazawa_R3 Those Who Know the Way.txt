@@ -1,0 +1,92 @@
+603_Hagumi Kitazawa_R3 Those Who Know the Way
+
+Gacha phrase: ... I know!  We can just take a shortcut! 
+
+<Ninja Skill - Pierce Through>
+
+(Character: Hagumi Kitazawa, Eve Wakamiya)
+
+[Downtown]
+
+Hagumi: ...
+Eve: Uhm... I thought I saw her a minute ago...
+Eve: But where did Hagumi-san go...?
+Hagumi: Eve-chin! What are you doing here?
+Eve: H-Hagumi-san...?! How did you get behind me...?!
+Hagumi: ...? What do you mean? I just got here.
+Eve: I just saw you ahead of me, though. I even tried to catch up to you so I could say hello.
+Eve: But when I took my eyes off of you, suddenly you were gone.
+Eve: And then you appeared behind me! You really surprised me!
+Hagumi: So that's what happened! Hmm~, I was just running around like normal though...
+Eve: So you're able to disappear just by running... Ah! Does that mean you're a ninja?!
+Eve: To think you could sneak up on me from behind like that... That's amazing, Hagumi-san!
+Hagumi: Wow, a ninja, huh?! That sounds cool! Zoom!!
+Eve: Yes! Disappearing in thin air, approaching your enemy through their blind spots, and then taking them down with a single strike... You were just like a ninja!
+Hagumi: But I'm not a ninja, so I don't know how to do all of that.
+Eve: Then why did I lose sight of you like that...?
+Hagumi: Hmm... Ah! Maybe it's because I entered a side road.
+Eve: A side road?
+Hagumi: Yup! There are tons of tiny streets downtown! I use them all the time~!
+Hagumi: I saw a cat in one of them just now, so I went over there to play with it!
+Eve: I see! That must have been when I lost sight of you!
+Hagumi: Yup, that's gotta be it!
+Eve: Are there really a lot of small roads like that?
+Hagumi: Yeah! Tons and tons!
+Hagumi: I can barely fit in some of them, but they come in all sorts of shapes and sizes!
+Eve: That sounds so fun!
+Hagumi: Plus~, some of them are a lot faster than taking the main road!
+Eve: I had no idea such things existed here.
+Eve: With secret passageways like that, it's almost like a samurai household! How cool!
+Hagumi: Right?! Everyone downtown knows all about them, and I've been using them since I was a kid~!
+Hagumi: And I know all the shortcuts and side streets!
+Eve: Running around in secret shinobi passages only you know... You really are a ninja, Hagumi-san!
+Hagumi: You think so?! Could I really become a ninja?
+Eve: Yes! You're the ninja of the downtown area!
+Hagumi: Okay~! Then from now on, that's exactly what I'll be!
+Hagumi: Alright, then I'm off to one of my secret passageways!
+Eve: Wait, Hagumi-san! Please teach me about these shinobi paths!
+Hagumi: Okay, will do! Then today we'll go through all the different shortcuts together!
+Eve: Thank you, Master! I'm officially the student of a ninja... It's like a dream come true!
+Hagumi: Wow, so I'm your master now, right?!
+Hagumi: ... Alright, try to keep up with me then!
+Eve: Yes, Master! Please, lead the way!
+Hagumi: Okay, here we go~! Ninja skill, pierce through~!
+
+
+<Side-Street Tour>
+
+(Character: Hagumi Kitazawa)
+
+[Shopping Mall]
+
+Hagumi: Huh? That's weird... It should be here...
+Marina: Ah, Hagumi-chan, hello!
+Hagumi: Ah, Marina-san and {{userName}}-san! Hello!
+Marina: Fufu, you're as energetic as ever. What are you doing here?
+Hagumi: There's a store I really want to go to today, but now I'm lost...
+Marina: That's not good. Should we help you find it?
+Hagumi: Would you?! Thank you!
+Marina: No problem! Then... why don't we look at the map over there? You can tell us which store you want to go to using that.
+(Black cut)
+Hagumi: Uhm... Ah, here it is! This is the store I'm looking for!
+Marina: Ah~, I see what happened. This part of the mall is pretty over-crowded, so it can be hard to tell the halls from the shops.
+Marina: I'm going to guess that you thought this part was another shop, but it's actually the hallway to the store you were looking for.
+Hagumi: What~? Really?! No wonder I couldn't find it...
+Hagumi: But now I know where it is! Thanks!
+Marina: This building is like a maze, so it's easy to get lost when you're not used to it. I get lost all the time~.
+Hagumi: Yeah. I don't come here very often, so it's really easy for me to lose track of where I am...
+Hagumi: If we were downtown, I'd be able to figure it out easily.
+Marina: Really? Does that mean you know where all the shops are?
+Hagumi: Yup! I also know about all the side streets and shortcuts too!
+Marina: Now that sounds helpful... Ah, you think so too, don't you, {{userName}}-san?
+Hagumi: If we played hide and seek downtown, I know I'd win for sure!
+Marina: Fufu, that sounds like fun.
+Marina: Although it is pretty amazing that you're so knowledgeable about the downtown area. It's like you’re an expert.
+Hagumi: You think so? Okay, then I'll give you a tour of all the shortcuts downtown sometime!
+Hagumi: I'll guide you through all the side streets! Then you'll love going downtown even more!
+Marina: Wow, that sounds fun! I'd love to!
+Hagumi: Those shortcuts are really cool too. Some of them are really tiny, to the point where I can barely get through them!
+Marina: ... Did I just sign up for more than I bargained for?
+Hagumi: Ah, I need to get to that store! Thanks again, Marina-san, {{userName}}-san!
+Hagumi: We'll have to figure out when you want to do our tour later!
+Marina: Ahaha... Yeah! I'm looking forward to it!

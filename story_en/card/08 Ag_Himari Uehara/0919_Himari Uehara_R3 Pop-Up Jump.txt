@@ -1,0 +1,87 @@
+919_Himari Uehara_R3 Pop-Up Jump
+
+<It's All Fun!>
+
+(Character: Ran Mitake, Moca Aoba, Himari Uehara, Tomoe Udagawa, Tsugumi Hazawa)
+
+[CiRCLE Café]
+
+Himari: Sigh~, Ran's words were so cool~.
+Ran: Huh? Where'd that come from?
+Tomoe: You're talking about what she said before, right? You know, how our songs become Afterglow songs through our conversations!
+Himari: Yeah, that! Those words really hit it right on the head!
+Tsugumi: Right?! What a lovely way to put it.
+Moca: That's what you get with Afterglow's spectacular lyricist~.
+Ran: C-cut it out...
+Himari: What we find fun about the band, huh~? What do I find fun about it?
+Ran: Didn't you say everything was fun?
+Himari: That's true, but if a bunch of people looking to start a band are gonna read it, I feel like I should've come up with something more specific.
+Moca: What you said was fine by me~.
+Ran: You should've answered the questions more seriously yourself.
+Tsugumi: It's hard to be specific though, isn't it? I think it's all fun too~.
+Tomoe: Yeah, that's true. Coming up with something concrete would just lead to a long list of examples.
+Himari: Exactly! Practice is fun and so is discussing what we're gonna do for our next concert. Ah, eating lunch together and passing notes in class are fun too!
+Tomoe: Uh, Himari... You're moving away from the music.
+Himari: Huh...?
+Tsugumi: I understand what you mean though. It's always fun when we're together, whether it's in the band or at school!
+Himari: Yes! That's it! I knew you'd understand, Tsugu~!
+Tomoe: Even when we fight, it just makes our friendship stronger. Then all the fun stuff feels even better!
+Ran: I guess so.
+Moca: You know~, we talk all the time, but doesn't it feel like we talk with our music too~?
+Tsugumi: Yeah, I know what you mean. I feel connected to you guys in a different way than when we're just talking normally.
+Himari: Huh...? You guys are all saying the same thing...!
+Moca: I think it's fine that you said everything is fun, Hii-chan~.
+Tomoe: Yup, that's your same as always, after all!
+Tsugumi: Right? It's always a relief to have Himari-chan with us, the same as always.
+Ran: Yup, because that's our same as always.
+Himari: Come on, you guys! Those words are gonna lose their meaning if you say them too much!
+Moca & Ran & Tomoe & Tsugumi: Fufu. Ahaha!
+Himari: Well, I guess it's fine. Everything's fun with you guys around!
+Moca: Oho~, the serious Hii-chan is gone, and our happy Hii-chan has returned~. Whoosh~.
+Ran: Well, having you around is what makes everything fun.
+Himari: Hm? Did you say something?
+Ran: Nothing important.
+Himari: Mmm~, I feel much better now! I know! Why don't we all get crepes to celebrate a job well done?!
+Tomoe: Yeah, that sounds great! Let's go!
+Himari: Yay~! I worked really hard today, so I'm gonna get extra strawberries and whipped cream!
+
+
+<To Everyone Looking Up to Us♪>
+
+(Character: Himari Uehara)
+
+[CiRCLE - Lobby]
+
+Himari: Thanks for your help today, Marina-san, {{userName}}-san!
+Marina: Ah, Himari-chan. Are you done with practice?
+Himari: Yup! We were really focused today, so we made great progress!
+Marina: I see~. You guys sure do work hard.
+Himari: Ah, that reminds me! I saw the new home page and interview section!
+Himari: Everything looks so clean and stylish! It's great!
+Marina: Fufu, hearing that makes all that work worthwhile.
+Himari: It's so weird seeing us on the website. It's also kind of exciting.
+Himari: I read our interview and the interviews with the other bands as well!
+Marina: Thank you! What did you think?
+Himari: I learned a lot from the other bands' interviews! I had no idea some of those viewpoints even existed!
+Himari: I think anybody looking to start a band will enjoy what we have to say.
+Marina: I'm glad you like it. I couldn't have done it without your help.
+Marina: I kept thinking back to my time with my band while I was interviewing you all.
+Marina: Sitting around and talking about your own band felt so nostalgic to me.
+Himari: Wow~, I had no idea! I wish I could've seen an interview or video of your band~.
+Himari: Ah, speaking of videos! My eyes really were a little red, weren't they~? How embarrassing~!
+Marina: That's right. Ran-chan's words made you choke up, didn't they? You can't really tell. I promise!
+Himari: Are you sure~? I feel like Moca and the others will notice for sure...
+Marina: Still, I'm sure the new bands that see it will think Afterglow is a cool band.
+Himari: Really? Ehehe, I hope so.
+Himari: Afterglow has always been focused on making our own music.
+Himari: So it was a surprise to realize that we're now seen as a role model for newer bands.
+Marina: Time sure does fly, doesn't it? Well, that's what you get with such cool music! Who wouldn't look up to you guys?
+Marina: Ah, hey, if someone came up to you and ask you to teach them about music, what would you do?
+Himari: Oh~! I don't know, but I'd be so happy!
+Himari: I'd want to teach them anything they don't understand. Actually, I get the feeling I'd get worried and try to help out a little too much.
+Himari: I'm sure Ran would know just when to tell me to lay off, though~.
+Marina: Fufu, yeah, I can see that.
+Himari: Right~...? I do think it'd be nice to see a bunch of new bands though!
+Himari: Ah, looks like everyone's left the studio. I better get going too.
+Marina: Alright, be careful on your way back. Thanks for letting me know what you think of the site!
+Himari: No problem! See you later, Marina-san, {{userName}}-san!

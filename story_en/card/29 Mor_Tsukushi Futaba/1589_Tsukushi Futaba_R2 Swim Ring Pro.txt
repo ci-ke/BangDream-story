@@ -1,0 +1,72 @@
+1589_Tsukushi Futaba_R2 Swim Ring Pro
+
+<Tsukushi’s Restaurant>
+
+(Character: Tae Hanazono, Saya Yamabuki, Tsukushi Futaba)
+
+[Downtown]
+
+Tsukushi: Hrm~, I ended up with a lot more bags than I expected...
+Tae: Ah, it's Tsukushi.
+Saya: Hiya. You've got a lot of bags there. Are you okay? Were you shopping for dinner?
+Tsukushi: Tae-senpai! Saya-senpai! Yes, I was. Are the two of you going somewhere?
+Saya: Yeah, we're on our way home from band practice.
+Tsukushi: I see. I hope you had a nice practice!
+Saya: Fufu, thanks.
+Tae: You've got carrots, potatoes... and curry roux... Are you having curry for dinner tonight?
+Tsukushi: Y-yes...
+Saya: Oh, come on... She's got curry roux, so that's obviously what she's going to have.
+Tsukushi: Ahahahaha... Actually, I'll be going on a trip to a river with Morfonica soon.
+Tsukushi: So I was thinking of making my mother's curry!
+Tae: Tsukushi...
+Tsukushi: Huh? Wh-what is it...?
+Tae: ... That's awesome.
+Tsukushi: Th-thank you very much...
+Saya: Sorry about her, Tsukushi. Would you let us hear the rest of what you were trying to say?
+Tsukushi: O-okay! Um~... So I asked my mother to let me practice making the curry for a while starting today...
+Tsukushi: Her curry is the best in the world. So I want the others to try it too!
+Saya: Fufu. You'll have to work hard and practice the recipe then.
+Tsukushi: Yes, I'll do my best!
+Tae: I'd like to try some of your mom's curry.
+Tsukushi: Oh...? Really?!
+Tae: Yeah. Hearing you talk about it made me want to have some.
+Saya: Fufu, it's the best in the world, after all.
+Tsukushi: In that case, I'd like to have both of you try some next time, too!
+Tsukushi: To tell you the truth, I asked Tsugumi-senpai and Eve-senpai to try some as well after our next shift.
+Tsukushi: If you'd like, please come and join them then!
+Tae: Of course! I'll even bring my personal spoon.
+Saya: Fufu. I can't wait to try your mom's curry.
+Tae: Hey, would it be okay to invite Kasumi and the others?
+Tsukushi: Of course! My mother always says that making lots of curry makes it taste even better!
+Tsukushi: What do you think about doing it on this day?
+Tae: I'm available whenever.
+Saya: Hold on, we've got practice that day. Don't just go answering so willy-nilly.
+Saya: I'll check our schedule and give you a couple of days that we can probably go. Would that be okay?
+Tsukushi: Yes! Thank you very much! Please look forward to it!
+
+
+<So That My Future Self Can Shine>
+
+(Character: Tsukushi Futaba)
+
+[Residential Area]
+
+Tsukushi: Ah... {{userName}}-san, hello.
+Tsukushi: Are you heading to CiRCLE right now? I'm on my way to hang out with Mashiro-chan.
+Tsukushi: What? Ah, that's right. All of Morfonica took a trip out to a river the other day...
+Tsukushi: Huh? You heard about it from Toko-chan? That's just like her. She's so quick to tell others~.
+Tsukushi: Yes, we played in the river and went fishing. It was a lot of fun.
+Tsukushi: We all made dinner together too. It was under my guidance, of course! I am Morfonica's leader, after all!
+Tsukushi: We had meunière and paella made from the fish we caught... And I also made some curry!
+Tsukushi: It was my mother's special curry, the pride and joy of my family. It was really popular among the others too.
+Tsukushi: I normally help my mother cook at home, so I was able to make use of that experience while we were camping!
+Tsukushi: I never intentionally decided to learn how to cook, but I'm happy that something I normally do without much thought turned out to be so beneficial!
+Tsukushi: ... Ah, I see. It's the same way with the band.
+Tsukushi: When I first started, I couldn't even play a simple song, but after practicing every day, I'm now able to play lots of songs.
+Tsukushi: It doesn't just apply to things I do at home or in the band either... I'm sure that for everything else I do, if I keep at it, it will become second nature to me.
+Tsukushi: I want to continue challenging myself like this from now on.
+Tsukushi: And through that, I want to be able to do all sorts of things as if they come naturally to me.
+Tsukushi: I'm certain that that's how I'll find the version of myself that can shine with pride.
+Tsukushi: Ehehe, thank you very much. Having someone cheering for me makes it so I can work even harder!
+Tsukushi: Ah, it's almost time for me to meet with Mashiro-chan.
+Tsukushi: Well, {{userName}}-san, I'll see you again at CiRCLE. Thank you so much for listening to what I had to say!

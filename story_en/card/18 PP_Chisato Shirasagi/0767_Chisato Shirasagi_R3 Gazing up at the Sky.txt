@@ -1,0 +1,99 @@
+767_Chisato Shirasagi_R3 Gazing up at the Sky
+
+<Caring For Those Who Work Hard>
+
+(Character: Tae Hanazono, Hagumi Kitazawa, Kanon Matsubara, Aya Maruyama, Chisato Shirasagi, Eve Wakamiya)
+
+[Hanasakigawa Girl's Academy - Hallway]
+
+Eve: Chisato-san! Hello there!
+Chisato: Oh my, if it isn't Eve-chan, Tae-chan, and Hagumi-chan. What are you three doing here together?
+Hagumi: I forgot that my mechanical pencil was out of lead, so I'm going to buy some at the school store!
+Tae: We're all in the same class, so we decided to come along.
+Hagumi: Chisato-senpai, don't you share a class with Kano-chan-senpai?
+Chisato: Yes, that's right. You really know your stuff.
+Hagumi: Kano-chan-senpai talks about you a lot! Like about how you guys go to cafes and stuff!
+Chisato: It's nice to know that she talks about me with other people.
+Eve: Fufu... Ah, what's this? Hagumi-san, is this the poster you mentioned before?!
+Hagumi: Yep, that's the one for the One Hundred Poems tournament! I'm really looking forward to it!
+Eve: I have decided to participate as well! The One Hundred Poems are an important part of Japanese culture! They embody the true spirit of Japan!
+Tae: The whole school is talking about it. Kasumi even brought it up during our rehearsal the other day. She said she wants to play too.
+Tae: I'm only familiar with the poems that are covered in class, but... if everyone else is taking part, then maybe I will too.
+Hagumi: You should! It'll be even more fun if we all play together!
+Chisato: This may be a tournament in name, but the focus of this event is on enjoying classical literature, not winning. So you don't have to take it super seriously.
+Eve: Are you also assisting with the event planning, Chisato-san?
+Chisato: Not really... but as far as I'm aware, Aya-chan and Kanon are working with the student council. They've even created guidebooks for the event.
+Eve: The event has a guidebook as well?! I would very much like one of my own!
+Chisato: If you ask Aya-chan or the student council, they will most certainly set one aside for you. From what I've seen, they have gone out of their way to make it an enjoyable reading experience.
+Hagumi: Uh-huh! The guidebooks they made are super-duper fun to flip through! This tournament is going to be a huge hit!
+Hagumi: Hey, I know! What if we invite Kaoru-kun, Afterglow, and Roselia to come join us?
+Tae: That does sound exciting!
+Chisato: It may be difficult to have students from other schools participate.
+Chisato: Be that as it may, it's very obvious that you are all looking forward to the event. I will be sure to let Aya-chan and the student council know how you feel.
+Eve: Thank you very much! Please tell them that I am tingling with excitement!
+Chisato: Yes, I will.
+(Black cut)
+(Background change)
+
+[Hanasakigawa Girl's Academy - Class 3A]
+
+Chisato: What a positive response... Fufu. Aya-chan will be very pleased to hear this.
+Kanon: You're in a good mood today, Chisato-chan. What happened?
+Chisato: Huh? How could you tell?
+Kanon: Come on, I saw how you were smiling. I figured something nice must have happened during our break.
+Chisato: It wasn't anything noteworthy... I just ran into Eve-chan, Tae-chan, and Hagumi-chan in the hallway, and we spoke to each other briefly.
+Chisato: Our conversation drifted towards the One Hundred Poems tournament. The three of them are very much looking forward to it, even more so than I expected.
+Chisato: I think this is all thanks to the effort you and Aya-chan put into the guidebooks and making this event as memorable as possible.
+Kanon: I only helped out a little here and there... It's Aya-chan who deserves all the credit.
+Kanon: She's the one who wanted to help her peers learn to enjoy classical literature. She came up with all sorts of ideas and gave us all the push we needed.
+Chisato: That's true. The posters and guidebook responsible for drumming up interest would not have been possible without her input.
+Chisato: I think Aya-chan's simple desire to have fun and bring fun to others really warmed the hearts of the student body.
+Chisato: This sort of thing is just like her too... She's always like this, even regarding Pastel＊Palettes.
+Kanon: Aya-chan sure is amazing, doing all of this without even a second thought.
+Chisato: I agree... It is not something that anyone could do.
+Kanon: This upcoming tournament is starting to look like it will be much more exciting than we thought. It would be cool if it became an event that happened every year.
+Chisato: That would depend on the success of the event itself, but given the response so far, I could certainly see it happening.
+Chisato: Although I am primarily watching from the sidelines, I really do hope the tournament is successful. Oh my, speaking of Aya-chan...
+Aya: Ah! Chisato-chan, Kanon-chan!
+Kanon: Fufu, Aya-chan is as lively as ever. Seeing her like that puts me in a good mood too.
+Chisato: Yet another thing she excels at.
+Chisato: Aya-chan really is... someone special.
+
+
+<Where She Stands>
+
+(Character: Chisato Shirasagi)
+
+[Residential Area]
+
+Chisato: Hello, {{userName}}-san. Are you using your break to stretch your legs?
+Chisato: The weather is very nice today, so I understand why you would want to take a walk.
+Chisato: I am planning to meet some friends at a café. This time, I will be joined by not only Kanon, but also Aya-chan, Sayo-chan, and Hagumi-chan.
+Chisato: Yes, it is strange for us to get together, isn't it? Fufu.
+Chisato: We had a One Hundred Poems tournament at our school the other day... and those are all the people who helped with the preparations.
+Chisato: Sayo-chan was the head of the project, Aya-chan and Kanon made the guidebooks, and Hagumi-chan took part in the practice matches.
+Chisato: I simply watched from the sidelines, so I do not feel like I helped in any meaningful way.
+Chisato: Today, we're meeting up to celebrate everyone's hard work. They invited me to join as well, so I took them up on the offer.
+Chisato: {{userName}}-san, did you learn about the One Hundred Poems when you were in school?
+Chisato: Yes, I believe most people only know what little they learn during their classes on the subject.
+Chisato: As far as I know, there were not many interested individuals at our school either.
+Chisato: Our tournament was made specifically to encourage people like that to take part. However, participation alone wasn't going to get them interested in classical literature.
+Chisato: Which is why Aya-chan and Kanon made guidebooks with easy-to-understand explanations for the poetry.
+Chisato: They included not only modern translations but also illustrations and their personal impressions of the content. And this was done for each and every single poem.
+Chisato: It sounds easy to do on paper, but the actual process required a lot of time and effort.
+Chisato: I was just as surprised when I first heard about it. Nevertheless, I knew the project was in good hands with Aya-chan working on it.
+Chisato: Actually, she and Kanon received help from several different people, including Sayo-chan, and they eventually finished everything in time.
+Chisato: Sayo-chan was able to steer Aya-chan in the right direction and use her enthusiasm for fun efficiently.
+Chisato: And Kanon and the others were able to feed off Aya-chan's energy and push through their tasks...
+Chisato: Given the enthusiasm of the people involved, I think it would be impossible to not have a good time at that event.
+Chisato: The guidebooks themselves were distributed before the tournament date and became the talk of the school.
+Chisato: Everyone said they were easier to follow than their actual lessons... The teachers seemed a little troubled by that fact.
+Chisato: The number of participants increased dramatically, and the competition was far more lively than any of us could have imagined.
+Chisato: Aya-chan's desire to make things enjoyable turned a seemingly boring event into something memorable.
+Chisato: I see that side of her all the time, but it never ceases to amaze me.
+Chisato: Perhaps it is because I lack those same qualities... While I envy her talents, she has also earned my trust.
+Chisato: Because I know that wherever she goes, there is almost certainly fun to be had.
+Chisato: Ah, my apologies. I have been talking for quite a while. You probably need to return to your work soon.
+Chisato: We can continue this conversation later at the studio. Even if I don't bring it up, I have no doubt that Aya-chan will.
+Chisato: I'm sure you can already picture her dancing about while she excitedly tells you her story. Fufu.
+Chisato: I'll be taking my leave now. Until we meet again.

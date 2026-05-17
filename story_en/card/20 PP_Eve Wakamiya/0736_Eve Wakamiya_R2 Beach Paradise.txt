@@ -1,0 +1,74 @@
+736_Eve Wakamiya_R2 Beach Paradise
+
+<Treasure Chest of Memories>
+
+(Character: Tsugumi Hazawa, Kanon Matsubara, Eve Wakamiya)
+
+[Hazawa Coffee]
+
+Eve: Ah, Kanon-san! I did not know you were here! Welcome!
+Kanon: Thank you, I just got here. It's really hot out today, so I wanted to cool off.
+Tsugumi: Fufu, please have a seat and relax! Here is your usual tea.
+Kanon: Thanks, Tsugumi-chan. Eve-chan, I heard from Chisato-chan about the nice time you had at the beach.
+Eve: That's right! Every member of Pastel＊Palettes went and enjoyed a wonderful day together!
+Eve: ... Oh, that reminds me! You came at the perfect time, Kanon-san! I wanted to give souvenirs to the both of you!
+Eve: I wish to share with you the lovely memories we had on that day! I do hope you will accept them!
+Tsugumi: Wow, thank you!
+Kanon: Hehehe, I wonder what's inside. How exciting.
+Tsugumi: Let's have a look~... Ah! What a beautiful accessory~! I love the color of this stone! What is it...?
+Eve: Sea glass! As soon as I found them, I knew that they would suit you and simply had to buy some!
+Tsugumi: I see! I'll be sure to wear them the next time I go out! Thank you, Eve-chan!
+Eve: This one is for you, Kanon-san! I knew it would be perfect for you!
+Kanon: A jellyfish plushie! How adorable~! It's so soft and cuddly... Sigh, it feels amazing~...
+Kanon: Thank you, Eve-chan! I'll take good care of it.
+Eve: I am glad that you both enjoy your gifts!
+Tsugumi: So, Pastel＊Palettes spending a day at the beach~... What did you do there?
+Eve: We played around in every way we could think of! We went swimming and searched for various ocean creatures!
+Kanon: Oh, how about Chisato-chan? Did she have a good time?
+Eve: Yes, she really seemed to be enjoying herself!
+Eve: At first, she appeared to be somewhat uncomfortable... but Aya-san's persistence paid off, and we were all able to play together!
+Kanon: Fufu, I see. That's good to hear.
+Eve: Oh, please have a look at these photos! I had so much fun taking them!
+Tsugumi: Wow, that's a huge sandcastle! Is that Aya-san and Maya-senpai standing there...?
+Eve: Yes, a collaboration shot! They wished to see how large of a castle they could make!
+Kanon: You're right, that is really big! If you tried hard enough, you might have been able to fit some people in there.
+Eve: Maya-san is very meticulous in what she does. All the effort she put in is what brought about that colossal size!
+Tsugumi: And the next photo is... Hm? Wh-what is going on with this one?
+Kanon: Ch-Chisato-chan is running from something... I've never seen her face like that before. Is that Hina-chan behind her?
+Eve: Yes, Hina-san found a strange sea creature, and Chisato-san is fleeing from it...
+Kanon: Ah, I see... Yeah, she's pretty bad with stuff like that...
+Eve: I have shots of everyone swimming, eating lunch together, and many others!
+Tsugumi: Everyone is having so much fun... Seeing these photos has me wanting to take my friends to the beach, too.
+Kanon: Fufu, same goes for me. Look at all those lovely smiling faces.
+Eve: In that case, we should go together! Our summer vacation is far from over!
+Tsugumi: Count me in! Let's find a day that fits our schedules!
+Kanon: Sounds good. Ah, I'll need to buy a new swimsuit, though.
+Tsugumi: I would like to come along! Care to join us, Eve-chan?
+Eve: Absolutely! Fufu, there are still so many exciting summer activities awaiting us!
+
+
+<Fully Powered Bushido>
+
+(Character: Eve Wakamiya)
+
+[Riverside]
+
+Eve: Ah, {{userName}}-san! Good afternoon! Are you on your way home now?
+Eve: Yes, so am I. From my club activities, that is!
+Eve: I participated in Kendo Club today!
+Eve: This recent heat wave has lowered my motivation to step outdoors... but I still have my club activities, my part-time job, and many other responsibilities to uphold!
+Eve: ... Thank you for your concern! You need not worry, though! I enjoy every one of my duties, and I am careful not to overwork myself!
+Eve: The other day, everyone in Pastel＊Palettes took a trip to the beach to relax!
+Eve: I went swimming with Hina-san and Maya-san, had Aya-san teach me some photography techniques, and took some selfies with Chisato-san!
+Eve: Time really flies when spending time with them... It was a very eventful day filled with so many exciting activities!
+Eve: Doing one's best in not only clubs and work but also recreation! That is the path of bushido!
+Eve: ... Huh? Yes, it is true that spending days off playing too hard means there is no time to recover one's strength!
+Eve: Accumulating too much stress can result in a lack of energy that could cause our fans to worry!
+Eve: Understood! I have a day off tomorrow with no work or club activities, so I will use that time to rest!
+Eve: Perhaps it would be best if I went ahead and began preparing some relaxation methods to help with that!
+Eve: Lying down on my comfortable sofa with soothing music, sweets and tea in hand, sounds ideal!
+Eve: All while wearing a pair of cozy pajamas in a room filled with the sweet aroma candles I borrowed from Hina-san...
+Eve: ... Are you alright, {{userName}}-san? Did I say something strange?
+Eve: Yes, I do take my holidays very seriously! I put forth my utmost effort in anything I do, for that is my personal path of bushido!
+Eve: {{userName}}-san, you must also make certain to rest properly! Try not to work too hard, rest your body, and drink plenty of fluids!
+Eve: Let's both strive for a summer of excitement! Until next time!

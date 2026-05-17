@@ -1,0 +1,77 @@
+event142-04 Chapter 3: Ramen Awaits!
+
+LOCK helps out at Galaxy Ramen. While doing her best to serve customers, who shows up but...!
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Galaxy Ramen]
+
+MASKING (Masuki): One ramen comin' up! It's for the customer on the far end!
+LOCK (Rokka): E-eek~, got it~! Ahh, I'm getting dizzy~...
+MASKING (Masuki): You're dealin' with the customers just fine. No need to panic. You wanna take a short break?
+LOCK (Rokka): I-it's okay! I'd like to see what work is like for you.
+LOCK (Rokka): (Even if it's not much, I want to learn what I can about Masuki-san so that we can play together better...)
+MASKING (Masuki): LOCK, once you're done with that, go clear the counter over there, will you?
+LOCK (Rokka): O-okay~!
+MASKING (Masuki): Sigh... And I just told her she can take it easy.
+Shopkeeper: She's a good kid.
+MASKING (Masuki): Right?
+LOCK (Rokka): Masuki-san, I got the bowl! Next is, umm... Ah, orders! I'll go get the orders.
+(Black cut)
+MASKING (Masuki): Phew... Looks like we finally managed to get through all the customers.
+LOCK (Rokka): We did?! You're right, nobody's here...! I was so preoccupied, I didn't even notice...
+MASKING (Masuki): Just when you think you can relax, the place will start fillin' up, though...
+???: Hello~.
+MASKING (Masuki): See...? Huh, you guys?!
+LOCK (Rokka): Wh-what are all of you doing here?
+LAYER (Rei): Fufu, you told us LOCK's working with you, Masuki. That's why we came.
+PAREO (Reona): Greetings~♪ It is a good thing we were able to come when there are no other customers, CHU²-sama.
+CHU² (Chiyu): Why should I care? I've been brought here against my will.
+PAREO (Reona): Now, now~. You were wondering how Massu-san and LOCK-san are getting along, were you not~?
+CHU² (Chiyu): Quiet, PAREO...! So, where exactly am I supposed to sit?
+MASKING (Masuki): You can sit wherever as long as the counter's clear. LOCK.
+LOCK (Rokka): O-oh! This way, please!
+CHU² (Chiyu): Hey... This seat... It's a bit too high, isn't it?
+MASKING (Masuki): Want me to give you a hand?
+CHU² (Chiyu): I'm perfectly capable of sitting on my own!
+PAREO (Reona): CHU²-sama, I will gladly assist you♪ Please allow me!
+CHU² (Chiyu): PAREO... Not another word.
+LAYER (Rei): Behave, you two... I'm so sorry for all the commotion.
+Shopkeeper: It's totally fine! It's not every day that all of you show up at the same time. We've got no other customers either, so feel free to enjoy yourselves.
+LOCK (Rokka): ... It feels really strange to see everyone here.
+LOCK (Rokka): The first time I came was when you brought me after the RAS audition... Back then, it was just the two of us.
+MASKING (Masuki): Ah, I remember that.
+LAYER (Rei): You sure like to find every excuse to bring people here, Masuki.
+MASKING (Masuki): So?
+LAYER (Rei): I didn't say it was bad.
+PAREO (Reona): I understand why~. I also like to share what I love with other people. That is why we should go to that Pastel＊Palettes concert together, CHU²-sama~.
+CHU² (Chiyu): You told me it was for gathering information. I see now what you've really been after...
+PAREO (Reona): Oh~, you look so cute even when you are angry~♪ Don't you all agree?
+LAYER (Rei): And now you're sharing CHU²... You sure have a lot of sharing to do...
+MASKING (Masuki): Hey, how long do you guys plan to keep yappin'? You orderin' or what?
+LAYER (Rei): I think I'll have ramen.
+PAREO (Reona): I wish to have the same thing as CHU²-sama♪ What would you like, CHU²-sama?
+CHU² (Chiyu): Fried rice. No green onions or pickled ginger.
+LOCK (Rokka): You really don't want any vegetables, do you...?
+PAREO (Reona): CHU²-sama, you should at least eat green onions. Your diet will be too unbalanced if you do not~.
+MASKING (Masuki): Sheesh... I'll do it for you this once, but as far as I'm concerned, fried rice without green onions ain't real fried rice.
+CHU² (Chiyu): Stop criticizing my choice and just make me my fried rice!
+MASKING (Masuki): Fine, fine. What about you, LOCK?
+LOCK (Rokka): It's alright. Work isn't over yet...
+MASKING (Masuki): You should take a short break, at least. You don't mind, do you, boss?
+Shopkeeper: Go right ahead, but could you dry the dishes that have been washed first?
+LOCK (Rokka): Th-thank you very much. I'll get right to it!
+(Black cut)
+MASKING (Masuki): Despite all the complaining, CHU² ate all of her fried rice.
+LOCK (Rokka): She did seem to enjoy it.
+MASKING (Masuki): ... Well, not that I'd consider it real fried rice since it had no green onions.
+LOCK (Rokka): Fufufu, I ate my green onions. As always, your special cooking was really delicious. Thank you for preparing it for me!
+MASKING (Masuki): I-it's not such a big deal. Ah, you can come over here to wash everyone's dishes. I'm gonna go take out the trash.
+LOCK (Rokka): Phew... I had no idea things could get so busy at a ramen store...
+Shopkeeper: Thanks for the help. It was pretty lively when all of you were here.
+LOCK (Rokka): I-I hope it wasn't too much trouble. I'm really sorry.
+Shopkeeper: It's okay. I haven't seen Masuki-chan smile that much in a while. Take care of her, will ya?
+LOCK (Rokka): O-of course.
+MASKING (Masuki): LOCK, I'm almost done. I'll take you home afterward... Hm? You guys talkin' about somethin'?
+LOCK (Rokka): Oh, just a bit. We were talking about when everyone was here.
+MASKING (Masuki): I see... Oh yeah, come by my place on your next day off. I'll let you have some freshly baked apple pie.

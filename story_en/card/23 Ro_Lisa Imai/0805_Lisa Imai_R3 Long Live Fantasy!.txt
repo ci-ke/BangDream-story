@@ -1,0 +1,89 @@
+805_Lisa Imai_R3 Long Live Fantasy!
+
+<Live Strong>
+
+(Character: Moca Aoba, Lisa Imai)
+
+[After School]
+
+[Walking Home]
+
+Lisa: ... And seriously, the scenery was super gorgeous!
+Lisa: We all took a commemorative picture at the end... Let me see if I can find it... Ah, here it is!
+Moca: Lemme see~... Hm~...
+Moca: Ooh~, this was the theme park you guys went to, huh~? I know this place too~.
+Moca: It's that real deep theme park with the super detailed world-building, right?
+Lisa: That's the one! The streets and everything else were amazing!
+Moca: Wow~, sounds nice~. Just looking around would be fun~.
+Lisa: It was! But as fun as it was, it was also a pain.
+Lisa: There was an event for this game Ako and Rinko play that we all signed up for, and it was really hard!
+Lisa: There were strict time limits and no hints whatsoever... I thought we were going to fail so many times.
+Moca: I see~. I guess you could say you had to, "Live strong~."
+Lisa: "Live strong?" What's that?
+Moca: Oh~? You don't know? I heard it was a pretty popular phrase at that theme park.
+Moca: I also heard that instead of saying "like a god", they say, "like a demon". Stuff like that~.
+Lisa: Oh~, I didn't know that!
+Lisa: Inside the park, they used this weird sort of writing system, too. They really thought things out, down to the tiniest details.
+Moca: Right~. That's why they're so popular.
+Moca: Everyone says it feels like you're really in a fantasy world~. It's so romantic~.
+Lisa: Ahaha, right?!
+Lisa: "Live strong," huh? Seems like it'd be a pretty useful phrase.
+Lisa: It sounds like something you'd wanna say when you're trying to cheer someone up! I think it'd feel more encouraging than just saying it normally.
+Moca: "Even though we've got tests coming up, I took extra shifts for my part-time job~."  "Live strong!"
+Moca: Like that~?
+Lisa: Ahaha, just like that!
+Moca: "I used up all my allowance this month~."
+Lisa: "Live strong!"
+Lisa: That's what I'm talking about! Yeah! I think I can use this!
+Moca: Ooh. Am I sensing a new trend...?
+Moca: Should we first try getting it to catch on at the convenience store~?
+Lisa: That sounds good! We can start today!
+Moca: Aye, aye, captain~.
+Moca: Alrighty, time to get to work~. Oh, but first, gotta stay hydrated...
+Moca: Ah...
+Lisa: Hm? What's up, Moca?
+Moca: I forgot my wallet at home~.
+Moca: Now I'm gonna shrivel up and die of thirst in the middle of my shift~. Boohoohoo~.
+Lisa: Ooh, sounds like you're in a bit of a pinch, huh?
+Lisa: Moca! Live strong!
+Moca: H-how could you~?
+Lisa: Ahaha, I'm just kidding! It's a joke, a joke!
+Lisa: I'll help you out, so go ahead and pick whatever you like!
+Moca: Ooh, the great Lisa-sama has descended~.
+
+
+<Crossroad Reflections>
+
+(Character: Lisa Imai)
+
+[Convenience Store]
+
+Lisa: Welcome to the store~! Oh, it's {{userName}}-san!
+Lisa: What's up? Are you on your break right now? Must be nice~. My break's still a long ways off~.
+Lisa: As you can see, there are no customers, so I'm kinda bored~.
+Lisa: Oh, that's right! Hey, {{userName}}-san, do you play any video games?
+Lisa: Ahaha, sorry, my bad. I can't expect you to follow along if I don't explain everything.
+Lisa: Just the other day, everyone in Roselia went to a theme park.
+Lisa: I guess they were doing some sorta collaboration event with that NFO game Ako and Rinko are always playing... But it was seriously tough!
+Lisa: Mind if I tell you about it?
+Lisa: Hm? What was the event about? Oh, the event was super simple. We just had to complete a bunch of missions. You know, the kind of event you see all the time.
+Lisa: As for the missions themselves... We had time limits starting from the very first one.
+Lisa: They didn't give us any hints, and we had to walk all over the park. It was really tough.
+Lisa: My muscles were sore for a while after that.
+Lisa: It still looks like I had fun? Ahaha, you got me there.
+Lisa: I don't know, it just made me... happy.
+Lisa: When I think back to how Roselia was before, it was kinda awkward, you know?
+Lisa: Everyone was super careful around each other, and we'd all keep things to ourselves... It was like we were all trying to meet each other halfway, but still keeping our distance.
+Lisa: Of course, I think that awkwardness was good for us at first!
+Lisa: However, this time at the theme park, it wasn't uncomfortable at all. We weren't holding ourselves back anymore.
+Lisa: Ako and Rinko were really counting on us, and while we made it seem like a hassle on the outside, we didn't think twice about helping them out.
+Lisa: Each of us did everything that we could and worked together to reach the same goal. And once we got there, we all celebrated together...
+Lisa: Stuff like that being normal for us makes me really, really happy.
+Lisa: It makes me think, "So this is what growing as a group feels like," you know?
+Lisa: Ahaha. I say that, but we've still got a long way to go.
+Lisa: From here on out, we're gonna experience a bunch of things that'll bring us closer as a group.
+Lisa: And I'm just really looking forward to that♪
+Lisa: I hope you're excited for Roselia's future exploits too, {{userName}}-san!
+Lisa: Yeah! Thanks!
+Lisa: You know, I ended up talking way more than I was planning to. {{userName}}-san, you're a really good listener.
+Lisa: Seriously, thanks for everything. Alrighty then, time to get back to work!

@@ -1,0 +1,117 @@
+12_Rimi Ushigome_R4 Time for Chocolate Cornets
+
+Gacha phrase: Band practice is so much fun, every day is a good day!
+
+<Rimi-Sensei & Saya-Sensei>
+
+(Character: Tae Hanazono, Rimi Ushigome, Saya Yamabuki)
+
+Rimi: So, this is my room.
+Tae: It's so Rimi-like.
+Saya: Haha, I think I know what you mean.
+Rimi: We have a test coming up, so let's study hard!
+Tae: I don't want to have to take extra classes because of a bad grade.
+Tae: Rimi Sensei, Saya Sensei, if you could help, that would be great.
+Rimi: My grades are average, and I'm not very good at teaching... It'd probably be better to ask Saya if you don't understand something.
+Saya: I'm probably not that much better than Rimi-rin, though... But hey, if there's something I can help with, I'll explain it to you.
+Rimi: Alright, let's start then!
+Tae: I can't go on.
+Tae: Sugar levels, down. Can't move.
+Rimi: Haha... Maybe we should take a break.
+Saya: It hasn't even been 30 minutes since we started!
+Tae: It's not good to overwork yourself.
+Rimi: It's the same for studying and rehearsal.
+Rimi: Hold on. I'll get some black tea and cake.
+Saya: This chocolate cake is delicious!
+Rimi: I got it from the cake shop at the station entrance.
+Saya: I see. Maybe I'll go buy some for Sana and Jun next time.
+Tae: This blend... It was made using high quality leaves.
+Saya: O-Tae, you can tell?
+Tae: Bold taste, yet so smooth... I can tell this flavor is Rimi's "cup of tea."
+Rimi: Uhm... I made it with a regular tea bag, though. And I don't really have a preference...
+Tae: You know what they say: "fake it 'til you make it."
+Saya: What are you talking about?!
+Tae: Anyway... Rimi, how's school been lately?
+Saya: Changing the subject, I see.
+Rimi: School? Everyday is so fun...
+Rimi: Because I get to see everyone from the band!
+Rimi: And I like rehearsal. Yeah, I'm having a good time!
+Saya: Me too! Being together makes each day an enjoyable one!
+Rimi: Tehehe.
+Saya: Hehe.
+Tae: I've had my eye on this since we came in, but...
+Rimi: Hm?
+Tae: Over on your bookshelf. Is that a music magazine... and a horror novel?
+Rimi: Oh, yeah. I like horror novels.
+Saya: Huh... Didn’t see that coming.
+Rimi: Really?
+Tae: How about instead of studying, we watch a horror movie?
+Rimi: ... Maybe we should get back to studying.
+Tae: I can't go on.
+Saya: Again?!
+Tae: This problem is too hard. It's like the last boss.
+Rimi: Uhh, that problem is... Sorry, I'm also not sure.
+Saya: That one's pretty hard to explain... Hmm...
+Rimi: Oh, why don't we go ask Arisa-chan?
+Saya: Yeah! Let's do that!
+Tae: Could also be a good chance to ask Arisa about the parts you guys don't get.
+Rimi: It does seem like studying will be faster that way.
+Rimi: Okay, let's go to Arisa's house!
+
+
+<Favorite Horror Novel>
+
+(Character: Rimi Ushigome)
+
+Rimi: Umm, {{userName}}-san.
+Rimi: Good morning. You came to the library today too?
+Rimi: Is there a book that you want to read, {{userName}}-san?
+Rimi: ... Huh? You're studying today?
+Rimi: Oh, I see. I'm here to do the same.
+Rimi: I sometimes come here because they have a study space.
+Rimi: Um, would you mind if we studied together?
+Rimi: ... Really? Thank you!
+Rimi: Okay, let's go to the study space.
+(Black cut)
+Rimi: I guess there's no one here because it's still so early in the morning.
+Rimi: I'm glad you're here too.
+Rimi: I might've felt lonely studying in here by myself.
+Rimi: ... I have a test tomorrow, so I need to study really hard today.
+Rimi: It's easy to concentrate in libraries, don't you think?
+Rimi: When I had a study session at my house with Saya-chan and the others recently, we started chatting and eating cakes straight away...
+Rimi: We didn't get much study done.
+Rimi: It's a nice memory though.
+Rimi: ... Huh? That sounds just like us?
+Rimi: I guess you're right, fufu.
+Rimi: ... You think we should have come to the library instead?
+Rimi: I came here once with Kasumi-chan before...
+Rimi: It seems she gets really sleepy inside libraries... Fufu, I don't think this is her kind of place.
+Rimi: I've also studied here with O-Tae-chan as well.
+Rimi: In the beginning we got a lot done...
+Rimi: But after about 30 minutes, O-Tae-chan said it was "nice and quiet" and then fell asleep.
+Rimi: The library staff came up and warned us that sleeping wasn't allowed in here...
+Rimi: ... Oh, if we talk too much the staff will warn us to keep it down.
+Rimi: Let's start studying.
+(Black cut)
+Rimi: I got a lot of study done!
+Rimi: You did too? I'm glad to hear it. Fufu.
+Rimi: Umm, do you still have time, {{userName}}-san?
+Rimi: Would you like to browse some books together?
+Rimi: This is the library, after all.
+Rimi: This library has all kinds of books, doesn't it?
+Rimi: ... What kind of things do I like to read?
+Rimi: I like horror novels. Saya-chan said I was the last person she expected to like horror.
+Rimi: But I like horror movies and games too, not just books.
+Rimi: They're scary, but that's what makes them fun, don't you think?
+Rimi: ... Oh, this book looks interesting.
+Rimi: I think I might borrow it. I won't be able to read it until after the test though.
+Rimi: ... Huh? You want me to recommend you a book?
+Rimi: Umm, in that case...
+Rimi: This one was really interesting, I definitely recommend it.
+Rimi: But it was also really scary, so if you don't like horror, it might not be a good idea...
+Rimi: ... Oh, you're still going to borrow it? Ehehe, that makes me kind of happy.
+Rimi: ... It's getting late.
+Rimi: I should get going soon.
+Rimi: I have band practice after this.
+Rimi: ... Thanks for your encouragement! I'll give it my best today. Ehehe.
+Rimi: Let me know what you think of that book when you're finished, {{userName}}-san!

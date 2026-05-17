@@ -1,0 +1,85 @@
+569_Eve Wakamiya_R3 A Lucky Find
+
+<Putting to Good Use>
+
+(Character: Arisa Ichigaya, Eve Wakamiya)
+
+[Hanasakigawa Girls' Academy - Class 1A]
+
+Arisa: Sorry I'm late. Let's head home... Huh? Wh-where is everyone?
+Arisa: Did they get sick of waiting for me and leave...?
+Eve: Oh, Arisa-san!
+Arisa: Eve! Nice timing. Do you know where Kasumi and the others are?
+Eve: Oh, they were called over by the teacher just now. I think they will be a little late.
+Arisa: Oh, okay. What a relief... I guess I'll just wait at Kasumi's seat and read a magazine.
+Eve: Oh, that magazine! I believe this month's issue has my interview published in it.
+Arisa: Huh? Oh... R-really? I didn't know~... Hahaha.
+Eve: Speaking of which, I believe you were reading another one with my interview just a while back, right? It is an absolute delight to see!
+Arisa: I-it was just a coincidence! I bought a magazine and it just happened to be that one!
+Eve: Fufu, coincidence or not, I am still glad.
+Arisa: You can stop freaking out now...
+Arisa: Anyway, this interview says you've been really into collecting pennants recently. Is that true?
+Arisa: Those are like those triangular flags you find in souvenir shops and whatnot, right?
+Eve: Yes! You are quite in the know!
+Arisa: Well, I just see them a lot in souvenir shops. I've never bought one, though...
+Eve: They are intriguing because the designs change depending on where they are being sold!
+Eve: The different designs sometimes reflect famous areas and sights. They are not only great as souvenirs but perfect for vacation mementos, too.
+Eve: Every time you look at them, you can think back on those precious vacation memories and be in a good mood.
+Arisa: You sure like pennants a lot...
+Eve: Yes! Oh, but...
+Arisa: Hm? What's wrong?
+Eve: Well, the thing is... I usually buy them when I go on vacation or film on location, but I'm starting to run out of places to display them.
+Eve: I have a few that are put away, even though I really want to put them all up.
+Arisa: Ahhh~... I can certainly imagine that they'd take up a lot of space.
+Arisa: But there's not much that can be done about that, right?
+Arisa: Even if some of them are put away, they're still precious items to you. It's not like you did anything bad or anything...
+Eve: Arisa-san...! Thank you very much.
+Arisa: I-it's fine, you don't have to thank me. It's not like I did anything.
+Arisa: Still, there's not much else you can do with pennants except put them up, huh? If there's another way to use them, it might be better than just putting them away.
+Eve: Other ways to use them, huh...? Now that you mention it, I haven't really thought about that.
+Arisa: Well, I mean, I can't think of any usages other than decorating with them either.
+Arisa: You can't really use them to wrap things since they're in such a unique shape... But then if you were to cut them up, they'd lose their significance as pennants.
+Eve: Cut or use them to wrap... Oh! Then how about mixing them with other things to give them a new look?!
+Arisa: A-a new look...? Using pennants...?
+Eve: Yeah! You could sew them onto a plain handbag or a stole!
+Eve: I think it'd be fantastic because you can still show off your fondness of the place represented by the pennant... What do you think?
+Eve: Or perhaps you could do the same thing with clothes. If the designs are simple enough, you can even use a couple of different pennants!
+Arisa: Y-you're really excited about this, aren't you?!
+Arisa: Those do seem like pretty stylish ways to use them, but maybe I'm just being sucked in by all this hype...
+Arisa: Really? Pennants on a handbag...? H-how would that turn out...?
+
+
+<Such a Waste>
+
+(Character: Eve Wakamiya)
+
+[Cafeteria]
+
+Eve: It's so crowded here today~... I wonder if there are any empty seats...
+Eve: Hm? That looks like... {{userName}}-san!
+Eve: Hello, {{userName}}-san! Can I share a table with you?
+Eve: Thank you so much! All the other seats have been filled up, so you're doing me a huge favor!
+Eve: Are you on break right now? ... I see! Well, you deserve it!
+Eve: I'm actually meeting up with Himari-san and Rimi-san, but I got the meeting time wrong...
+Eve: Now I have some time to waste before they come.
+Eve: ...~♪ ... Fufu.
+Eve: Huh? It seems like I'm in an extra good mood today? Because I'm humming...? A-am I? I wasn't even aware I was doing that!
+Eve: Well, you see... Just the other day, Himari-san, Hagumi-san, Rimi-san, Chisato-san and I participated in a flea market downtown.
+Eve: For it, I provided things like chopstick rests and pennants to sell!
+Eve: I sincerely cherished all of those items... But I just have too many and I can't use all of them...
+Eve: So I made up my mind and decided to sell them at the flea market.
+Eve: I have no doubt that those items are serving their purpose to the people who bought them as we speak! And it makes me feel proud of them!
+Eve: Yes! I think flea markets are wonderful because they allow items to have another life, instead of being wasted.
+Eve: {{userName}}-san, have you ever participated in a flea market before?
+Eve: That's right! They're so lively... Most importantly, it's exciting because you get a chance to see how much people care for their things.
+Eve: It's wonderful coming across items you've never seen before and interacting with all sorts of people.
+Eve: Oh, you get what I'm saying? Actually, I came across a really lucky find♪
+Eve: It's a shame I can't show it to you right now... But I found this T-shirt that says "Sushido" on it!
+Eve: It's such a playful thing to change the "bushi" to "sushi," and I really appreciate it.
+Eve: From the moment I laid my eyes on it, I knew I had to have it. I believe this is precisely what they call a once in a lifetime encounter...!
+Eve: Where's the T-shirt now? I put it up in my room.
+Eve: I wore it to practice once, but Chisato-san told me that I should probably not wear it outside... I wonder why that is?
+Eve: But I'm content with just having it displayed in my room anyway. I'll take a picture to show you next time!
+Eve: Anyway, if there's ever a chance, {{userName}}-san, you should join us in participating in a flea market.
+Eve: I think you'll most certainly come across something you'll like!
+Eve: Yes! I hope you'll let me accompany you at that time! I'll be looking forward to it!

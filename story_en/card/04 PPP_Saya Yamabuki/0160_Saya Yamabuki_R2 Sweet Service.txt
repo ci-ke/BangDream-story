@@ -1,0 +1,76 @@
+160_Saya Yamabuki_R2 Sweet Service
+
+<Tomoe's Favorite Buns>
+
+(Character: Saya Yamabuki, Ako Udagawa)
+
+[Downtown]
+
+Ako: Huff... Huff... Huff... Go, go, go~!
+Saya: Huh? Ako? What's up? What's the rush?
+Ako: Ah, Saya-chan!
+Ako: Okay, so... Huff... My sister, she... Huff... She was at school...!
+Saya: H-hold on. Just relax for a second. Try to catch your breath first, okay?
+Ako: R-right...! Fuu~... Haa~... Fuu~...
+Saya: Looks like you're good now. So, what happened to Tomoe?
+Ako: Yeah, so my sister... I heard she caught a cold at school and has a super high fever!
+Saya: What?! Tomoe hardly ever gets sick...
+Ako: I'm so worried about her... Hey, Saya-chan. She'll be okay, right? She's gonna get better soon, right?
+Saya: Ako... Yep, everything will be fine! Especially since you care so much. She'll be better in no time!
+Ako: R-really?! Ehehe, great.
+Ako: Okay, Ako's gotta go! Bye-bye, Saya-chan!
+Saya: Ah, wait! Ako!
+Ako: Hm? What happened?
+Saya: I'm a bit worried about Tomoe too, so I'll bring some bread later. What kind of buns should I bring?
+Ako: Hmm, let's see...
+Ako: I think as long as she knows you chose it for her, she'll be happy. Besides, she'll eat anything really...
+Saya: I see. Alright, I guess I'll just choose based on how easy it is to eat when you're sick.
+Saya: Oh, but a lot of the buns are easy on the stomach...
+Saya: Okay, here's a different question. Ako, does Tomoe have a favorite food?
+Ako: Pork broth and soy sauce ramen!
+Saya: Pork broth... and soy sauce ramen... Don't think that question got me a helpful answer either...
+Saya: (Is it possible to make that into a bun...? I'd like to try since it's Tomoe's favorite food.)
+Saya: (If I were gonna make it... First I'd take roasted pork and bamboo shoots and put it between the bread... Wait, no. That's still just regular bread...)
+Ako: ... Saya-chan?
+Saya: (Alright, what if I mix noodles in with the flour? Then I can take chopped pork and seaweed and put in on top...)
+Saya: (Yeah, that seems like it'd work! That just leaves the flavor... How would I get it to taste like pork broth and soy sauce...?)
+Saya: (Ah, if I mix the soup and the noodles into the flour, then-)
+Ako: Saya-chan!
+Saya: ... Huh? Ah, wh-what??
+Ako: You've been talking quietly to yourself about the taste of pork broth and soy sauce and stuff... Are you gonna make bread out of ramen...?
+Saya: Y-yeah. I wanted to see if I could think of anything good, but nothing really came to mind...
+Saya: Ah-ahaha, sorry. I guess it's just a bad habit, being a baker and all. We're always thinking about whether something can be turned into bread...
+Ako: I'd love some bread made of pork broth and soy sauce ramen!
+Ako: It'd be really yummy, I'm sure! And I know my sister would like it too!!
+Saya: Y-you think so? Alright, then once Tomoe is feeling better, maybe I can have you two try out the recipe I thought of.
+Ako: Yay~! I can't wait~!
+Saya: For now, I'll grab something that's easy to eat that I think she'll like and bring it over. Sorry to stop you. I'll see you later!
+Ako: See ya~!
+
+
+<Sisterly Love>
+
+(Character: Saya Yamabuki)
+
+[Yamabuki Bakery]
+
+Saya: Welcome to Yamabuki Bakery.
+Saya: Ah, {{userName}}-san. Good afternoon. Are you here to pick up something for lunch?
+Saya: Ah, you are. Well, today I recommend the sandwiches.
+Saya: Here you go. Thank you for your continued support♪
+Saya: Ah, actually... I'm about to take a short break. Do you mind if I tell you about something that happened recently?
+Saya: So the other day, Tomoe caught a cold.
+Saya: I ran into Ako downtown by chance, and she told me...
+Saya: Ah, no need to worry. Ako took excellent care of Tomoe, and she was completely cured the next day.
+Saya: When I heard that, all I could think about was how much Ako has matured.
+Saya: I've known Ako for a while, and ever since I can remember, she's been stuck to Tomoe like glue. But she's become so dependable.
+Saya: I mean, she was really flustered and way too worried...
+Saya: It was kinda like the blood was rushing to her face and she was thinking, "An SOS from Tomoe! Ako's gotta take care of her!"
+Saya: But... To have a little sister who cares about you that much... Tomoe sure is lucky.
+Saya: Don't you think so, {{userName}}-san?
+Saya: That's right. Beautiful sisterly love.
+Saya: Ako and Tomoe have a great relationship. It feels like they're always supporting each other.
+Saya: It's not one-sided at all, just mutual respect for one another... That's the kind of vibe they give off.
+Saya: It's nice to imagine the day when my little brother and sister might be able to look after me... Fufufu.
+Saya: Ah, looks like my break's almost over.
+Saya: {{userName}}-san, thanks for listening. I'm gonna get back to work.

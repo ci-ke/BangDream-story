@@ -1,0 +1,89 @@
+834_Saya Yamabuki_R3 We're Collecting Toys!
+
+<Toys for a Happy Kokoro>
+
+(Character: Saya Yamabuki, Kokoro Tsurumaki)
+
+[Hanasakigawa Girls' Academy -  Hallway]
+
+Saya: Wow~, it's full of toys again~. Maybe we should consider getting a bigger collection box...
+Kokoro: Saya! I knew you'd be here!
+Saya: Whoa! What's up, Kokoro?
+Kokoro: You guys are collecting old toys, right?
+Saya: Yeah, we are. We're going to donate them to the community center for other kids to play with.
+Kokoro: What a stupend-erific idea! I never would have thought of collecting and donating old toys!
+Saya: Fufu, thanks. Well, actually, Kasumi was the one who came up with the idea.
+Kokoro: Does it matter who came up with it? It's a super-duper awesome plan that's going to bring smiles to everyone's faces!
+Kokoro: I want to help too, so I brought a bunch of toys from home!
+Kokoro: They're in this bag. All I have to do is put them into this box, right?
+Saya: Wow, that's a really big bag... What kind of toys did you bring, Kokoro? I'm really curious~.
+Kokoro: I brought blocks!
+Saya: Wow~, that's great! Are you really okay donating all of these?
+Kokoro: We've still got plenty more at home, so it's no problem!
+Saya: Thanks, Kokoro. I know the kids will love them.
+Saya: I used to play with blocks like these~. My little brother and sister love playing with them too.
+Saya: My brother still likes building complicated stuff like cars and planes, so I still get to play with them occassionally~.
+Kokoro: That sounds like bunches of fun! Could I join you next time?
+Saya: Fufufu. Good idea. Next time, we'll play with them together. I'm looking forward to it♪
+Saya: Time really flies when you start playing with blocks, doesn't it? The other day, we spent an entire day building a house. We even made sure to add a garage!
+Kokoro: Wow! Saya, you can even make a garage? You must be a block master!
+Saya: Fufufu. I wouldn't go that far.
+Kokoro: I mean, I've made houses before, but I've never thought of adding a garage.
+Kokoro: All I've ever done is eat inside mine.
+Saya: ... Huh? Eat inside...? You mean, you ate inside the house you built?
+Kokoro: Yeah, I did. Is there something weird about that?
+Saya: No, I guess not... I was just a little surprised. What you're describing is a little different from what I was imagining, that's all...
+Saya: But I should have known better... Everything is on a grander scale with you. Fufufu.
+Kokoro: What sort of toys did you bring, Saya?
+Saya: Oh, me? I brought this.
+Kokoro: Ooh, it's so cute! What is it?
+Saya: It's a toy cash register.
+Saya: I used to play pretend with it when I was younger. I ran a pretend bakery, of course.
+Kokoro: Saya, this is amazing! I've never seen a toy like this before!
+Kokoro: There are so many buttons on it! Can I try pushing one?
+Saya: Of course. Go ahead.
+Kokoro: Wow~, it opened! Saya! Look, look! If you push this button, this thing down here pops open!
+Saya: I-is it really that surprising...?
+Kokoro: What else?! What else can this thing do?!
+Saya: Um... Well, if you hit this button here...
+Kokoro: Wow~, now some numbers lit up! Now this is a fantast-erific toy!
+Kokoro: This definitely will bring smiles to people's faces! The kids will love this toy, I'm sure of it!
+Saya: Fufufu, I never thought you'd be so happy playing with one of my toys, Kokoro.
+Kokoro: I'd love to play with this toy along with the kids sometime!
+Saya: Oh, then how about this? Why don't we visit the community center during playtime? Then we can play blocks together, too!
+Kokoro: Mmm~! That's a great idea!! We abso-positively have to go!
+
+
+<Kasumi's Roots>
+
+(Character: Saya Yamabuki)
+
+[Station Entrance]
+
+Saya: Oh, {{userName}}-san, hello. Are you out shopping?
+Saya: Me? I'm waiting for Kasumi and the others.
+Saya: Have you heard of the "Toy Museum?" We're all planning on going there.
+Saya: I guess you could say there's something that we want to see.
+Saya: We actually donated a toy we found in Arisa's basement there.
+Saya: It was a tin wind-up bunny holding a drum, and even though we only found the one at Arisa's place...
+Saya: It turns out that the museum we went to had the other two from the same set, so we donated ours. That way all three could be put on display.
+Saya: Today we're going to go visit them again.
+Saya: While we might not be able to play with the toys, since it's a museum and all...
+Saya: It still makes me happy seeing others get joy out of looking at our little buddy.
+Saya: Kasumi was saying she was sure that it's making everyone who comes to see it happy, so she wanted to check up on it.
+Saya: She's kind of like a soccer mom who's always there to support you, don't you think?
+Saya: Fufufu. She's such a sensitive soul.
+Saya: I'm sure she really is cheering on that toy from the bottom of her heart.
+Saya: Isn't that amazing?
+Saya: It's as if she can hear the toys' voices.
+Saya: I'm sure that sensitivity of hers comes out in the songs we play as Poppin'Party, too.
+Saya: Whenever I read the lyrics she writes, I always think, "How on earth did you come up with that...?"
+Saya: It makes me feel like the world that Kasumi sees, hears, and feels is completely different from mine.
+Saya: And that's what makes Poppin'Party so special!
+Saya: So I really respect that part of Kasumi a lot.
+Saya: By helping that tin toy bunny, we all got a little glimpse of where Kasumi gets that "sparkling, heart-pounding" nature from, and...
+Saya: I think I've gotten to know Kasumi a little better.
+Saya: It's nice to learn new things about your friends, right?
+Saya: Fufufu, I really am lucky to be surrounded by such fun people!
+Saya: Oh, Kasumi and the others should be arriving soon. I'm going to go meet them.
+Saya: Have fun with your shopping, {{userName}}-san! Goodbye!

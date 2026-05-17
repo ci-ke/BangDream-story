@@ -1,0 +1,73 @@
+870_Chisato Shirasagi_R2 Country Flower
+
+<Walking with a Camera>
+
+(Character: Saya Yamabuki, Chisato Shirasagi)
+
+[Riverside]
+
+Chisato: Oh? Saya-chan?
+Saya: Chisato-senpai! Hello. Are you out and about today?
+Chisato: Yes, just enjoying the nice weather. I thought a little stroll would be a good change of pace.
+Chisato: So, Saya-chan... How are you enjoying your new hobby?
+Saya: When I told my parents about taking up photography, they pulled this little item out of storage for me.
+Saya: It's kind of old compared to the one Moca had, but it still gets the job done.
+Chisato: All things considered... Fufu. You are certainly the spitting image of a photographer.
+Saya: Huh? D-do you really think so? Thank you very much.
+Saya: I plan on buying a camera of my own eventually, but I'd like to practice with this one for the time being.
+Chisato: Practice makes perfect, no matter the activity. What sort of pictures did you take today?
+Saya: Mostly landscape shots since I was on my own. The playground at the park, the route I take to school, and I even stopped by the studio.
+Saya: Those same old views somehow feel special when looking through the lens of a camera.
+Saya: It's hard to explain, but my finger can't help pushing the shutter button... It really is a lot of fun.
+Chisato: Fufu. Saya-chan, you've truly become something wonderful. That is the smile of someone who is enjoying life.
+Chisato: Seeing that side of you makes me happy as well.
+Saya: I am so grateful for what everyone has done for me. I don't believe I could have found this sort of hobby on my own.
+Chisato: I am not too familiar with photography myself, but wouldn't a change in camera enable different styles of shooting?
+Saya: Oh, um... I'm... not really at that level quite yet...
+Saya: No, I'm still content with learning as I go... so I'd like to get used to this camera first.
+Chisato: And as you do, the joys of photography will slowly but surely come to you.
+Saya: Slowly but surely... I see, so cameras are like musical instruments in that way.
+Saya: As you come to understand the differences in sound and performance, it becomes even more fun to play.
+Saya: And the more you improve through practice, the more you want to share those sights and sounds with others.
+Chisato: Interesting. It makes sense when you put in that light.
+Chisato: Maybe I will broach the subject with the photographer at our next Pastel＊Palettes shooting.
+Saya: Ah! Please let me know what they say! I'm very, very interested!
+Chisato: Fufufu, but of course.
+Saya: Walking around and taking pictures like this is nice and all, but having someone around to discuss cameras and photography is even more fun!
+Saya: I'm always wishing I could find someone to talk with about this and that~.
+Chisato: Oh my. Would you perhaps like me to join you for a cup of tea and a nice chat, then?
+Saya: Huh? Ah... Y-you don't mind?!
+Chisato: Not at all. I would love to join you, Saya-chan. Do show me the photos you have taken.
+Saya: I'm still not used to this camera, so my pictures aren't very good yet.
+Chisato: I very much doubt that. With that enthusiasm of yours, I am certain they are beyond gorgeous.
+Saya: You're expecting way too much from me~. Now I'm feeling kind of nervous.
+Chisato: Fufu, let us go, then.
+Saya: Okay♪
+
+
+<Repeating the Past>
+
+(Character: Chisato Shirasagi)
+
+[Residential Area]
+
+Chisato: Good afternoon, {{userName}}-san. Are you on your break?
+Chisato: I am on my way back home. Today is my day off.
+Chisato: Speaking of leisure time, did you hear about Saya-chan searching for a new hobby?
+Chisato: I went along to lend a hand. Well, I only helped a little.
+Chisato: I invited her to join Aya-chan and me in doing some bouldering. We had a great time, though it had been a while in my case.
+Chisato: Saya-chan had also tried out many other activities, and she was ultimately able to discover a hobby that truly suited her tastes.
+Chisato: Although I was not much help in the end, assisting in her search was a rewarding experience for me as well.
+Chisato: Reaching out into the unknown, going deep into thought, rushing headlong into new challenges.
+Chisato: Seeing that side of Saya-chan reminded me of my early days as a child actress.
+Chisato: I did not have much experience back then, and every step forward felt like two steps back... I was almost certainly a very unreliable talent.
+Chisato: It was so embarrassing to think of how useless I was... but even then, I kept giving it my all.
+Chisato: What kept me going were all the people around who supported me, and that's how I came to discover my cooperative side.
+Chisato: Moca-chan and Maya-chan, Yukina-chan and Kokoro-chan... Not to mention Kaoru and the others.
+Chisato: Everyone pooling their efforts to aid Saya-chan as she reached into that unknown... glowing brightly from her efforts...
+Chisato: Each shining star coming together, drawing in new experiences to treasure... That is how I see it, anyway.
+Chisato: Do you think I'm, perhaps, exaggerating a bit?
+Chisato: Fufu, I had a feeling you would respond that way, {{userName}}-san. Thank you very much.
+Chisato: With this opportunity to re-examine my past self, I now feel more confident in my ability to handle what lies ahead.
+Chisato: I believe I have, without a doubt, grown since those times long ago... thanks to all of the wonderful friends who support me.
+Chisato: Fufu, thank you very much for taking the time to speak with me. Please keep up the good work.

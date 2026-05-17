@@ -1,0 +1,89 @@
+412_Misaki Okusawa_R3 A Solid Player
+
+<Enjoying Tennis>
+
+(Character: Kasumi Toyama, Misaki Okusawa)
+
+[Park]
+
+Misaki: Hup! Hah! Hmm, just as I thought, hitting the ball off the wall isn't really cutting it...
+Kasumi: Huh? What are you doing here, Misaki-chan?
+Misaki: Wah!! T-Toyama-san?!
+Kasumi: Hello~! It's just you today, huh~?
+Misaki: Yeah... It's my day off for both band practice and my part-time job.
+Kasumi: Oh, okay! So, whatcha doing?
+Misaki: Just hitting the ball against this wall. I'm in the Tennis Club, so sometimes I'll practice by myself like this.
+Kasumi: What?! You're in the Tennis Club?!
+Misaki: Hold on, haven't I told you this before? And I feel like you're this surprised every time I tell you, too.
+Kasumi: Did you? Ah! Did I tell you about the time I almost joined the Tennis Club?!
+Misaki: ... Yeah. You have. Multiple times now.
+Kasumi: Ehehe... Sorry. Oh well, no use sweating the small stuff!
+Misaki: I can only pray that you'll be able to remember what we're talking about now.
+Kasumi: Hey, Misaki-chan, what made you join the Tennis Club anyway?
+Misaki: Ahh~... Good question.
+Kasumi: Huh?! What do you mean? What was it?
+Misaki: I've always liked physical activity, so that's probably got something to do with it. I don't remember why I chose tennis though...
+Kasumi: I see! Ah, now that I think about it, the way Michelle moves is pretty similar to how tennis players move, isn't it?
+Misaki: ... You think so? Hmm~. If it is, it's not something I'm doing on purpose. Can you give me an example?
+Kasumi: Uhm... An example... Sorry, nothing's really coming to mind... Ehehe.
+Misaki: Living in your own world, I see... Oh yeah, speaking of Tennis Club.
+Misaki: I actually remember watching you from afar when you came to our practice that day.
+Kasumi: Huh?! You were there?!
+Misaki: Sure was. The older students were teaching the newcomers, right? I was there, but I was just practicing as usual~.
+Kasumi: Ehehe... Now I'm worried I did something embarrassing.
+Misaki: Ah, I don't know about that. I remember seeing you and thinking you were doing pretty well.
+Misaki: You seemed like you could go far if you ended up joining.
+Kasumi: Do you think I'm some sort of tennis genius?! Hearing all this praise makes me feel like I am~.
+Misaki: Ah, there was one more reason I was watching you that day...
+Kasumi: Really? What?! What was it?!
+Misaki: Every time you swung your racket, you would go "Ooh~!" or "Wah~!"
+Kasumi: A-are you sure about that...?
+Misaki: Definitely am. You looked like you were having a lot of fun. I've been playing tennis since middle school, so I kinda forgot that feeling.
+Kasumi: Well, yeah! Starting something new is super fun and exciting! I felt the same way with Poppin'Party and the guitar!
+Misaki: Ahaha, I can see that... Ah, I know. Toyama-san, would you like to play tennis with me?
+Kasumi: Can I?! Yeah! I wanna play, I wanna play!
+Misaki: Sure. I happen to have an extra racket anyway. Plus, playing against you will make for good practice.
+Kasumi: Fufu~, you don't want to underestimate me, Misaki-chan~. You'll regret it once I win~.
+Misaki: You took the words right out of my mouth~.
+Kasumi: ... Fufu! Alright, here I come! ... Ah...
+Misaki: Hm? What's up?
+Kasumi: How do you hold the racket again...?
+Misaki: ... Alright, let's start from the beginning. First...
+
+
+<How I Changed>
+
+(Character: Misaki Okusawa)
+
+[Shopping Mall]
+
+Misaki: Ah! Hello, Marina-san, {{userName}}-san.
+Marina: Hey~, Misaki-chan! Are you doing some shopping?
+Misaki: Yeah, the strings on my racket have gotten pretty messed up, so I came to buy some new ones.
+Marina: Strings...? Ahh, you're in the Tennis Club, right?
+Misaki: Yeah. Ah, that reminds me...
+Misaki: Rinko-senpai came to one of our practices the other day!
+Marina: Huh?! Our Rinko-chan?
+Misaki: Yeah, she said she wanted to see what being in a club was like.
+Misaki: From what I heard, she also went to meetings for the Tea Ceremony Club, Kendo Club, and Archery Club.
+Misaki: She didn't end up joining any of them, but honestly, I don't see a problem with that.
+Marina: Is that so? I wonder why she decided not to join anything.
+Misaki: I heard the main reason she wanted to join a club was so she could change herself...
+Misaki: I don't think you have to go through so much trouble though. I feel like change is something that happens when it happens, you know what I mean?
+Misaki: It may not be as obvious as she'd expect, but there are probably plenty of opportunities for change in her everyday life.
+Marina: I suppose so. There are many times where you realize how much you've changed only after the fact.
+Misaki: Exactly. That's how it was for me, anyway.
+Marina: Really? What about you has changed?
+Misaki: When Hello, Happy World! first started, I was just rolling with it, but before I even noticed it... I started considering myself a member of the band.
+Marina: Ahaha, oh yeah! That's a good thing though, right?
+Misaki: Yeah... probably. Still, going back to Rinko-senpai... Just the fact that she decided to turn over a new leaf is already pretty impressive, in and of itself...
+Misaki: Usually you'd get anxious or think it was too much of a pain, wouldn't you? Yet here's Rinko-senpai taking that first step forward.
+Misaki: And if you think about it, that's not necessarily the kind of thing you can do just because you decide to do it.
+Marina: Very true~. Changing and adapting both require a lot of effort.
+Misaki: So you two think so too, huh?
+Marina: Yup. I agree with you.
+Misaki: Rinko-senpai said she's going to enter a piano competition soon. Man, is she incredible...
+Misaki: Ah, when she does, I really want to go cheer her on.
+Misaki: How would you two feel about attending together?
+Marina: I'd love to! You, me and {{userName}}-san should all go!
+Misaki: She's taken her first step... Now let's show her our support.

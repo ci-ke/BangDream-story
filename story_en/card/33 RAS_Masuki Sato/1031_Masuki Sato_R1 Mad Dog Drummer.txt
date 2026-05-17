@@ -1,0 +1,43 @@
+1031_Masuki Sato_R1 Mad Dog Drummer
+
+<Self-Introduction>
+
+(Character: Masuki Sato)
+
+[CHU²'s Penthouse - Studio]
+
+MASKING (Masuki): The name's Masuki Sato... CHU² calls me MASKING. I'm RAISE A SUILEN's drummer.
+MASKING (Masuki): Before joinin' RAS, I temporarily worked with other bands as a drummer... and well, other stuff. Rei, our vocalist, and I have known each other since that time.
+MASKING (Masuki): I've been playin' the drums since I was little. My old man's an ex-drummer.
+MASKING (Masuki): He's the owner of a live house called Galaxy. When I wanna get in some practice alone, that's where I usually am.
+MASKING (Masuki): RAS is my first real band, so it's all so new. It's a blast.
+MASKING (Masuki): Doin' stuff like goin' to a public bathhouse and eatin' together... It's not half bad.
+MASKING (Masuki): Oh, yeah. I also work part-time at this ramen joint called Galaxy Ramen.
+MASKING (Masuki): Been workin' there for quite a bit, so my cookin' ain't half bad either. I also bake cakes 'n stuff 'cause CHU²'s got a sweet tooth.
+MASKING (Masuki): If you need something to fill you up, drop by Galaxy Ramen. I'll whip you up a ramen or something else.
+
+
+<First Band>
+
+(Character: Masuki Sato)
+
+[Downtown]
+
+MASKING (Masuki): ... Hm? 'Sup, {{userName}}.
+MASKING (Masuki): What's so strange about me wanderin' around downtown? I live right on top of Galaxy. My old man's the owner of it.
+MASKING (Masuki): He used to be the drummer for a band called Death Galaxy, you know.
+MASKING (Masuki): He was real awesome, and I always looked up to him.
+MASKING (Masuki): I think I was only two or three when I tried to copy him and grabbed some drumsticks.
+MASKING (Masuki): Haha. Oh, yeah. My feet couldn't even reach the pedals.
+MASKING (Masuki): Pretty much not a day's gone by since then that I haven't been on the drums.
+MASKING (Masuki): I've played one-offs as a member of backup bands and helped out at studios as a drummer, but RAS is the first band I've actually joined.
+MASKING (Masuki): Honestly, I figured I'd never join one.
+MASKING (Masuki): Why...? Just never quite fit in, that's all. I mean, people even called me Mad Dog.
+MASKING (Masuki): That's why I totally didn't see it comin' when CHU² asked me to join.
+MASKING (Masuki): At first, I thought she was just some little shrimp.
+MASKING (Masuki): But it turned out her passion and senses were the real deal. When I saw the music and gave it a go, I thought joinin' RAS was worth a shot.
+MASKING (Masuki): Now that we've got a full crew, I'm startin' to see glimpses of the strongest band that CHU² wants to turn us into.
+MASKING (Masuki): Everyone she's recruited is serious about music. LOCK only joined recently, but she's already starting to adapt to our style.
+MASKING (Masuki): Hey, thanks. Bein' shown support ain't half-bad.
+MASKING (Masuki): Anyway, I think I'm gonna go.
+MASKING (Masuki): Sorry to keep you. Later.

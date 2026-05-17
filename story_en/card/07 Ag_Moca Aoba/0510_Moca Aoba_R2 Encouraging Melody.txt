@@ -1,0 +1,73 @@
+510_Moca Aoba_R2 Encouraging Melody
+
+<Routine Work>
+
+(Character: Ran Mitake, Moca Aoba, Lisa Imai)
+
+[Convenience Store]
+
+Ran: Oh... Looks like they changed the candy lineup. They sure do that a lot here.
+Moca: Uhm~, this is pretty normal for a convenience store~.
+Ran: Really? Working here must be pretty tough then.
+Moca: No~, that's not true~. Our tasks are decided for us, so all we do is just repeat the same actions every single day~.
+Ran: Huh... Is that so?
+Lisa: Ack, a customer! Welcome to-... Oh, it's just Moca and Ran~. What's up? Are you on your way to the studio?
+Ran: ... Hey.
+Moca: Yeah~, that's the plan~. We're just picking up some supplies beforehand~.
+Lisa: Gotcha. Ah, that reminds me, Moca. Do you remember that customer you mentioned before? They came in again today!
+Moca: A customer...? What customer~?
+Lisa: You know, the one who said they wished we had cuter paper bags! I placed an order for some right after you told me. That customer came back today and was totally thrilled!
+Lisa: They even said, "I was just making small talk, I never expected you to actually take my words to heart! What amazing service!"
+Lisa: I suppose a lot of people buy gifts here at the convenience store, so we should really have some nicer bags available for them.
+Moca: Are you sure I said something like that~?
+Lisa: Yup, definitely! I remember it clearly! Bravo, Moca~!
+Ran: Sounds like you're more serious about your job than you look.
+Moca: Come on~, I'm pretty sure Lisa-san was the one who talked to that customer before~?
+Moca: And even if it was me, it's all just a coincidence~. Yep, a coincidence~.
+Ran: A coincidence, huh...?
+Moca: Now about the new candy that just came in, Lisa-san~. It looks like it's really popular with little kids, so we should probably place it a bit lower for them~.
+Moca: Also~, I think it'd be a good idea to make a sign telling people our pen and pencil selection has increased~.
+Lisa: So change the candy layout and make a sign. Okay~, leave it to me!
+Moca: Oh yeah, you know how we're focusing on our cup noodle sales this month? It'd be nice if you could think about next month's focus~.
+Lisa: Uh-huh, got it. I'll talk to our boss about it.
+Moca: Thank you~.
+Moca: ...? Something wrong, Ran~? You're grinning ear to ear~.
+Ran: I am not. And it's nothing... I'm just wondering if all this is just a coincidence too.
+Moca: Uh-oh... Looks like I've been found out~. You're right~. I'm actually so good at my job that every convenience store in town is trying to recruit me~.
+Ran: Okay, now that's gotta be a lie.
+Moca: Ran~, you're too quick to judge~.
+Lisa: Ahaha. That's Moca for you. The minute you try and praise her, she finds some way to get out of it~.
+Ran: Looks like it. I guess you could say that's just Moca... being Moca.
+
+
+<I Know Everything>
+
+(Character: Moca Aoba)
+
+[CiRCLE - Lobby]
+
+Marina: Mmm~, it's so nice outside. Looks like I'll get lots of cleaning done today~.
+Marina: ...~♪
+Moca: Hello~.
+Moca: ... Oho~. Marina-san, that song you're humming wouldn't happen to be... the High School Part-Timer Rally Song we made a while back, would it~?
+Marina: Huh? A-ahaha... I've been listening to it so much lately, I guess it just slipped out.
+Marina: Hearing that song when you're tired gives you the extra boost you need. It's really good.
+Moca: Hoho~... What do you think, {{userName}}-san?
+Moca: Okay, mhm. It makes you feel appreciated for all your hard work, huh...? I see~.
+Marina: Ah, I know what you mean! It's almost like proof that someone out there noticed how much effort you put into your job. It makes you really happy!
+Marina: You know, I actually think it's kind of difficult to express that appreciation in a song. You really have to know your audience. Not just anyone can pull it off.
+Marina: But this song manages to do just that, making it extra impressive~.
+Moca: So you noticed, huh~? That's Marina-san and {{userName}}-san for you.
+Moca: You hit it right on the nose. You see, The Great Moca-chan knows everything~, especially her audience. Yay~, that's what you get with The Great Moca-chan~.
+Marina: Ahaha. You would say something like that.
+Moca: Fufufu~. Well, it's not like we just came up with that theme and ran with it~.
+Moca: It took us a long time to figure out what we wanted to do. Our journey was filled with many trials and tribulations~.
+Moca: We all racked our brains for hours at a time. Sigh~, if it hadn't been for The Great Moca-chan's epiphany, I don't know what we would have done~.
+Marina: An epiphany? That sounds interesting. Could you tell us more?
+Moca: Oh~, curious, are we~? Too bad. It seems like we're out of time~.
+Moca: Everyone behind the High School Part-Timer Rally Song is meeting in the studio today. We wanted to perform together again~.
+Marina: Aw, that's unfortunate... Would it be alright if I stopped by later to hear you guys play instead?
+Moca: Go right ahead~. Feel free to join in too, {{userName}}-san~.
+Moca: Alright, I'll make sure we give you a performance that fills you with plenty of motivation~.
+Marina: Fufu. Okay, show us what you've got! We're looking forward to it!
+Moca: Just leave it to me~. See you later~.

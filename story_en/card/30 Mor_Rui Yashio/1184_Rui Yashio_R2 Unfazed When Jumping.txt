@@ -1,0 +1,93 @@
+1184_Rui Yashio_R2 Unfazed When Jumping
+
+<An Introduction to Arcades>
+
+(Character: Mashiro Kurata, Toko Kirigaya, Nanami Hiromachi, Tsukushi Futaba, Rui Yashio)
+
+[Hiromachi Residence - Atelier]
+
+Toko: Sorry to keep you guys waiting~! You won't believe it, but I forgot my tuner at my place~!
+Toko: ... Huh? Shiro? Rui? Is it just you guys?
+Mashiro: Mm-hmm, we're taking a break right now. Nanami-chan and Tsukushi-chan have gone to get drinks.
+Mashiro: We can start practice once they come back.
+Toko: Okay~... Wait, what's that thing in your arms, Shiro? That stuffed animal!
+Mashiro: I got it from a crane game the other day when I was with Ako-chan and LOCK-chan.
+Toko: Huh~! Not bad! Hey, can I hold it?
+Mashiro: Yes, here you go.
+Toko: Thanks! Whoa, it's so fluffy~!
+Rui: ... This crane game was mentioned during our conversation at the restaurant, but what exactly is it?
+Mashiro: Hm...? A crane game is a crane game...
+Toko: Huh? Seriously? Rui... You never been to an arcade or something?
+Rui: I am aware of the existence of such facilities, but I have never stepped foot in one.
+Toko: Oof~, you have no idea just how much you're missing out on life!
+Mashiro: I'm not sure if I'd go that far...
+Rui: I was merely curious. If it is difficult to describe, there is no need to do so.
+Mashiro: Um, you see, it's this game where you try to grab prizes by controlling a crane with a claw on the end.
+Mashiro: And if you manage to drop the prize in this hole, you get to keep it.
+Toko: Exactly, and you have no idea how seriously fun it is~!
+Rui: ...? Are you claiming it is entertaining to use a crane to acquire a stuffed toy?
+Rui: Can you not simply purchase the stuffed toy in the first place? I fail to see the need for such additional work.
+Toko: Sheesh~, it's about the thrill of not knowing whether or not you'll actually be able to get something~!
+Rui: That makes it all the more perplexing. Why would one spend time and effort on a chance to acquire something when there are more efficient, guaranteed methods for doing so?
+Toko: You're so dense~, Rui. You're missing the point.
+Rui: At least I have now learned that crane games are of no interest to me.
+Rui: Nor do I expect arcades to have anything that will be worth my attention.
+Toko: Whoa, you have no idea how fun they can be! What about kirapuri then? I bet even you'd be interested!
+Rui: Kirapuri?
+Toko: It's this machine you enter where you take photos of yourself to turn them into these little stickers!
+Toko: You can apply effects and even scribble on them... It's super fun to do with your friends~!
+Rui: A machine one enters for photos...? And how does this differ from a photo booth?
+Toko: Huh? A photo booth...? They're totally not the same!
+Rui: I fail to see the purpose of scribbling on them either. Why would one go about ruining perfectly good photos?
+Toko: How can you not get it~?! It's not just scribbling, it's using stickers and words to decorate them, and it's really fun~!
+Mashiro: Um, Rui-san... Why don't we go to an arcade together?
+Mashiro: Once you try, you might understand what makes it fun...
+Rui: That will be unnecessary. I do not believe I will understand.
+Toko: No way~! I am so taking you to one, and I'm gonna make you admit it's fun!
+Tsukushi: We're back~! Ah, Toko-chan, you arrived!
+Nanami: Hm~? You're all huddled together. Were you just talking about something?
+Toko: We were talking about hitting the arcade after practice!
+Nanami: Oh~, nice~. Let's go, let's go. We can take kirapuris together.
+Tsukushi: Now that I think about it, I don't think we've taken any together yet!
+Rui: ... Sigh.
+Rui: Enough about kirapuris. Let us begin practice, shall we?
+
+
+<Unshakeable Judge>
+
+(Character: Rui Yashio)
+
+[Residential Area]
+
+Marina: Phew, it's pretty late after all of that shopping... Hm? Is that Rui-chan over there?
+Rui: Hello, Tsukishima-san, {{userName}}-san.
+Marina: Hi. Are you on your way back from school?
+Rui: Yes. I am running somewhat late because of my student council duties, but I am on my way to band practice.
+Marina: I see. You seem eager to practice. Is it because you went to the Poppin'Party concert?
+Rui: I did not know you were aware that I attended it.
+Marina: Mm-hmm. I heard about it from Ako-chan and the others. I'll admit I was a bit surprised.
+Rui: May I ask you to clarify what you mean by surprised?
+Marina: Sorry, it's just that I assumed you weren't very interested in the other bands.
+Rui: It is true that I did not go purely for entertainment.
+Rui: I merely accompanied Kurata-san so that I could acquire information that could be of use to Morfonica.
+Marina: I see. I heard you were together with some girls you normally don't hang out with... Were you able to become friends with Ako-chan and Rokka-chan?
+Rui: I would not say so... I did, however, find them to be rather lively.
+Marina: O-oh. What about CHU²-chan then?
+Rui: I cannot say. My aim was not to foster relationships.
+Rui: What I can say is that she appears to possess a deep knowledge of music.
+Rui: This is pure conjecture on my part... but based on the way she was studying the concert, I believe she was seeking to understand what lies beyond technique.
+Marina: Beyond technique...?
+Rui: While it goes without saying that one needs to be skilled at performing, skill alone is not what music is rated on.
+Rui: There is something beyond skill... As for what that something is, I do not understand yet...
+Rui: Whatever it may be, I sensed it during Poppin'Party's performance.
+Rui: And I believe she too sensed what I did...
+Rui: That is the likely reason for her interest in them.
+Marina: I see... It sounds like you and CHU²-chan might have a similar perspective when it comes to music.
+Marina: I'm sure Poppin'Party would love it if you two realized you were similar and became friends as a result.
+Rui: ...? I do not consider us to be similar.
+Rui: While I will acknowledge her musical knowledge and sense, remove those qualities and what remains is a childish individual.
+Rui: I feel no desire to foster a relationship, and it is a desire that is likely mutual.
+Marina: A-ahaha... You don't hold back, do you...?
+Marina: But since you're both in bands, you might end up performing with her. Who knows, the two of you could end up becoming closer.
+Rui: ... Yes, I will not deny that possibility
+Rui: However, when that time comes, I shall do as I always have... give the best performance that I am able to.

@@ -1,0 +1,98 @@
+1028_Chiyu Tamade_R3 Tears in the Closet
+
+<Bare Companionship>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Asahi Bathhouse - Changing Room]
+
+CHU² (Chiyu): Jeez~... I'm so hot...
+PAREO (Reona): Are you alright, CHU²-sama? I shall bring you some water.
+LAYER (Rei): Are you okay? You didn't have to stay in that long if you were overheating.
+CHU² (Chiyu): We were counting to one hundred, so what else could I do?
+MASKING (Masuki): Man, that felt great~! That freshly drawn bath was the best!
+LOCK (Rokka): Agreed! Baths always make everyone happy.
+CHU² (Chiyu): I don't see the appeal. A shower is more than enough for me.
+MASKING (Masuki): You really don't get it. Baths are way more liberatin'~.
+CHU² (Chiyu): By the way, what was with that mountain painted on the wall?
+MASKING (Masuki): That's Mt. Fuji, obviously!
+CHU² (Chiyu): I know that! I'm asking why it was there!
+LOCK (Rokka): Well... I suppose that mountain is considered a quintessential Japanese image... Ah, but I heard only the Kanto region has murals like that, so it might be specific to regions that can see it.
+CHU² (Chiyu): Hmmm, so it's part of traditional culture.
+PAREO (Reona): I'm back, everyone~! The bathhouse hostess told me to bring these to you!
+LAYER (Rei): Whoa... Coffee milk. Thank you. We'll have to thank her later.
+PAREO (Reona): Indeed♪ They're nice and cold too~♪
+MASKING (Masuki): Ahhh~! Nothin' better than a drink after takin' a bath!
+LOCK (Rokka): Huh?! You drank it already?
+MASKING (Masuki): You bet! It was delicious!
+CHU² (Chiyu): Coffee milk? Is that different from a café au lait?
+LOCK (Rokka): Um, well... A-anyway, it's really good! Our coffee milk is the best!
+CHU² (Chiyu): How do I open this paper cover...?
+LOCK (Rokka): Ah, sorry! This tool should open it easily... There you go.
+CHU² (Chiyu): Th-thank you...
+LOCK (Rokka): Now give it a try!
+CHU² (Chiyu): Coffee milk, huh...? Mm! ... Sweet!
+CHU² (Chiyu): I-I mean, it's not bad.
+MASKING (Masuki): You say that, but you downed the whole thing in one go.
+CHU² (Chiyu): I was thirsty!
+CHU² (Chiyu): We should get going. We're losing out on practice time.
+LAYER (Rei): We can't go yet, CHU². Your hair is still wet in the back. You're going to catch a cold.
+PAREO (Reona): She's right♪ I'll dry it for you~.
+CHU² (Chiyu): It's fine. Just leave it.
+PAREO (Reona): I can't do that! If we don't dry it, your hair cuticles will-
+MASKING (Masuki): Ah~, this massage machine felt great~. CHU², you gotta try this~.
+CHU² (Chiyu): I'm good.
+MASKING (Masuki): Come on, it'll really do a number on your sore body~.
+LAYER (Rei): Wow, that does sound nice. Maybe I'll give it a try.
+MASKING (Masuki): Hey, we should come here again sometime.
+LOCK (Rokka): Yes, please do!
+PAREO (Reona): I also highly recommend the bath at CHU²-sama's penthouse!
+CHU² (Chiyu): What?!
+PAREO (Reona): I do believe it is around the same size as this bathhouse!
+MASKING (Masuki): Oh~! Now that sounds good! I'd love to!
+LAYER (Rei): I agree. Maybe we could take a bath after practice.
+LOCK (Rokka): That sounds like so much fun~!
+PAREO (Reona): I think they also have a hot tub~♪
+MASKING (Masuki): Seriously?! Now I gotta see this!
+LOCK (Rokka): The decor must also be spectacular, judging from the rest of the penthouse~!
+PAREO (Reona): Yes♪ I can personally guarantee it.
+CHU² (Chiyu): Stop! Stop! Stop! Don't just invite yourselves into someone else's home!
+LOCK (Rokka): I-I'm sorry! We got carried away. This is your home, after all. If you don't want us there, we should respect that.
+PAREO (Reona): Agreed, although I am a little disappointed... Oh well...
+CHU² (Chiyu): Grrr... You guys are playing dirty! Fine, but just this once!
+LOCK (Rokka): Yay~! Thank you!
+MASKING (Masuki): Looks like we've got something to look forward to, huh, LOCK?
+LOCK (Rokka): Yes!
+
+
+<My Headphone's Secrets>
+
+(Character: Chiyu Tamade)
+
+[Edogawa Music]
+
+Marina: Huh? Isn't that CHU²-chan?
+CHU² (Chiyu): ...
+Marina: She's really inspecting those speakers. I don't want to bother her, so we'll have to talk to her next time.
+CHU² (Chiyu): Be quiet...! ... Marina?
+Marina: Whoa! You surprised me. H-hey there, CHU²-chan.
+CHU² (Chiyu): Hi, Marina, {{userName}}.
+Marina: Are you looking for a speaker?
+CHU² (Chiyu): I wanted to compare these speakers to the ones we have.
+Marina: I see. You were inspecting it really closely.
+CHU² (Chiyu): I do most of my shopping online, but with music, I prefer to see and hear things for myself. I suppose it's part of my job as the producer.
+Marina: Wow, that certainly sounds like you! Can you hear them even with headphones on?
+CHU² (Chiyu): Don't compare my headphones to other cheap imitations. I had them custom made by a company I trust!
+Marina: Oh~, I didn't know they were custom. That's so cool~.
+CHU² (Chiyu): You're looking at the producer of RAS, the band pursuing the best sound ever. These headphones are one of a kind and fit all my extensive criteria!
+CHU² (Chiyu): With their closed design, low impedance, built-in amplifiers and superior noise-canceling abilities, I know I'm not losing out on resolution or surround sound.
+Marina: Wow, those are some pretty impressive headphones then. Can I ask you one more thing?
+CHU² (Chiyu): By all means! Ask whatever you like.
+Marina: Was there a reason you had cat ears added?
+CHU² (Chiyu): W-well, that's because...
+Marina: Huh? I'm sorry, I didn't hear you. What did you say?
+CHU² (Chiyu): It's because they're cute!
+Marina: I see~! Cute things do give you energy, don't they? That must mean you like cats, right~?
+CHU² (Chiyu): So what if I do?! What's the big deal?!
+Marina: Ah, wait, CHU²-chan! Aren't you going to buy a speaker?
+CHU² (Chiyu): I just stopped by to check today! I'll be going now! See you later!

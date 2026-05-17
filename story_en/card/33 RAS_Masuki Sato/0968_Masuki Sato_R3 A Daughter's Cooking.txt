@@ -1,0 +1,111 @@
+968_Masuki Sato_R3 A Daughter's Cooking
+
+<Burn, Boil, Roar!>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato)
+
+[dub - Lobby]
+
+LOCK (Rokka): Sigh~.
+LAYER (Rei): LOCK? That was quite the sigh... Is everything okay?
+LOCK (Rokka): Ah, I was... just thinking about our show.
+LAYER (Rei): Ah, I see. Roselia's concert was fantastic, wasn't it?
+LOCK (Rokka): Yes... It really was. I couldn't take my eyes off of them the entire time...
+LOCK (Rokka): I can't believe we actually beat them...
+LAYER (Rei): I know what you mean, but let's save the reflecting for our post-show meeting. CHU² and PAREO have already left.
+LOCK (Rokka): That's fair... I'll bring it up again once we're all together.
+LAYER (Rei): Anyway, we should head home. Are you coming, Masuki?
+MASKING (Masuki): ...
+LAYER (Rei): Masuki? Are you thinking about Roselia's show too?
+MASKING (Masuki): Nah.
+LOCK (Rokka): Then what is it...?
+MASKING (Masuki): We formed a huddle before our show, right?
+LOCK (Rokka): We did! I've always wanted to do one ever since I saw Poppin'Party do it, so I was thrilled!
+MASKING (Masuki): Yeah, that felt like somethin' a band would do. It really pumped us up.
+MASKING (Masuki): Still, that chant needs a little work.
+LAYER (Rei): The chant...? Do you mean what we said during our huddle?
+MASKING (Masuki): Yeah, that. I mean, the chant said durin' a huddle is like... the heart of the band, right?
+MASKING (Masuki): I figure we needed somethin' set in stone, so I've been mullin' it over.
+LAYER (Rei): Heh... Fufu, fufufu.
+MASKING (Masuki): Huh? What's up, Rei?
+LAYER (Rei): Nothing... You looked so serious before, so I expected you to be thinking about something more important.
+MASKING (Masuki): What's that supposed to mean? This is important~.
+LAYER (Rei): Fufu, I'm sorry.
+LOCK (Rokka): Did you come up with anything?
+MASKING (Masuki): Yeah, I've got two ideas.
+LAYER (Rei): What are they?
+MASKING (Masuki): Well, the first one is...
+MASKING (Masuki): You guys ready for war?! Then get out there and shred like your life depends on it!
+LOCK (Rokka): Eek~!
+MASKING (Masuki): That's just one idea! The other is...
+MASKING (Masuki): Burn! Boil! Roar! RAISE A SUILEN~!
+MASKING (Masuki): ... At least, that's what I've got so far.
+LAYER (Rei): I see... They're both a little too violent...
+MASKING (Masuki): You think? I figured somethin' with spirit would be better.
+LOCK (Rokka): I-I'm sorry... I also think they're really scary...
+MASKING (Masuki): You too...?!
+MASKING (Masuki): G-gotcha... Alright, then why don't you guys give it a go?
+LOCK (Rokka): U-us?
+MASKING (Masuki): Yeah. What kinda chant do you want?
+LAYER (Rei): Isn't this a little sudden?
+MASKING (Masuki): What's the big deal? Just say what comes to mind. Well, any ideas, LOCK?
+LOCK (Rokka): W-well~... Ummm... Hm... Hm~... Hmmm~...!
+LOCK (Rokka): L-let's work hard to help the audience have fun~...
+LOCK (Rokka): H-how was that...?
+MASKING (Masuki): Now that was cute.
+LOCK (Rokka): Huh...? Cute?
+LAYER (Rei): Your sincerity really came through, LOCK. I thought that was a fine chant.
+MASKING (Masuki): It's way too cute though... Alright, you're up, Rei!
+LAYER (Rei): Hm~... Nothing comes to mind...
+MASKING (Masuki): Whatever's fine. Don't you got any messages for your fellow bandmates?
+LAYER (Rei): Messages, huh...? Ah.
+MASKING (Masuki): Alright, show me what you've got.
+LAYER (Rei): Right. Let's see...
+LAYER (Rei): Please watch your step when it's dark!
+LAYER (Rei): Or something like that...
+MASKING (Masuki): So serious...
+LOCK (Rokka): That seems more like a disclaimer than a chant... It is important to remember though.
+LAYER (Rei): ... Chants are hard. I'll have to think of something better.
+MASKING (Masuki): Yeah~, good chants don't come to mind that easily~. I mean, it is the heart of our band, after all.
+LOCK (Rokka): I don't think we need to rush either. As we play together, I'm sure we'll find the perfect words for RAS.
+MASKING (Masuki): For sure. Alright, let's grab some ramen on the way home!
+LAYER (Rei): Huh? You mean now?
+MASKING (Masuki): Yeah, nothin' beats ramen after using your body and mind~. Come on, let's get goin'!
+
+
+<Masking Tape>
+
+(Character: Masuki Sato)
+
+[Downtown]
+
+Marina: Did we forget anything...? Nope, doesn't look like it. I think we've got all the equipment we need.
+Marina: Alright, let's get back to CiRCLE.
+MASKING (Masuki): Ah, if it ain't Marina-san and {{userName}}.
+Marina: Hi there, Masuki-chan! Are you on your way home from school?
+MASKING (Masuki): Yep. You guys out shopping?
+Marina: Yeah, we're grabbing some equipment for the studio. Ah, by the way, your show for the Girls Band Challenge was incredible~.
+Marina: I couldn't take my eyes off of your band the entire time~. You could really feel the power of RAS!
+MASKING (Masuki): Hehe, thanks! I thought we did pretty good too...
+MASKING (Masuki): Especially when we played "EXPOSE 'Burn out!!!'" It felt great to jam out to that song~.
+Marina: The atmosphere at that event changed in an instant with that song.
+Marina: Actually, didn't the music video surpass 10,000 views?
+MASKING (Masuki): Seems like it. PAREO was pretty thrilled.
+Marina: That music video sure was cool~. And the quality was amazing. Was filming that video hard?
+MASKING (Masuki): Well~... I've never acted before, so I guess that part was kinda rough.
+MASKING (Masuki): Especially when PAREO blew up at me.
+Marina: Huh? Why was she mad?
+MASKING (Masuki): PAREO was in charge of our makeup for the video. I guess my pillow left an imprint on my face or something...
+Marina: An... Imprint...?
+MASKING (Masuki): She was really pissed at me for that... She made me wear a face mask until the mark disappeared.
+MASKING (Masuki): I had to sit there and look up at the ceiling for an entire hour~.
+Marina: Fufu, sounds like your shoulders got a real workout.
+MASKING (Masuki): Some other stuff happened too, but as hard as it all was, it was worth it when we saw the completed video.
+MASKING (Masuki): I might've had to sit around with my eyes close, and there were times where I didn't get why we were shooting a scene, but that video set me straight. Everything we did had its purpose.
+MASKING (Masuki): We went through a lot to film that sucker, and seeing it come together like that made me really happy.
+Marina: That sounds like the feeling you get when you make a song together, doesn't it?
+MASKING (Masuki): Now that you mention it, yeah... You know, making music and videos from scratch with my band is kinda nice.
+Marina: Fufu. I think that's the appeal of bands.
+MASKING (Masuki): Yeah, for sure!
+MASKING (Masuki): Heh... Talkin' about bands like this makes me wanna do some drummin'.
+MASKING (Masuki): I'm gonna call LOCK and jam out with her! See ya later, {{userName}}, Marina-san...!

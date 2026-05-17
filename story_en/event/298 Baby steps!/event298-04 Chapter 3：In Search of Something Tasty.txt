@@ -1,0 +1,92 @@
+event298-04 Chapter 3: In Search of Something Tasty
+
+RAS goes shopping for dinner. The group gets fired up over what to buy...
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Supermarket]
+
+LAYER (Rei): Wow, it’s way bigger than I expected. Looks like they’ve got everything here.
+LAYER (Rei): Aside from the barbecue and the dried fish PAREO brought, does anyone want anything else?
+LOCK (Rokka): Yes! I’d love some white rice!
+LAYER (Rei): Fufu, totally essential. Anyone else?
+MASKING (Masuki): Hmm... maybe I’ll think of something while we walk around, but nothing comes to mind right away.
+PAREO (Reona): Everyone, I found carts~. Are two baskets enough?
+LAYER (Rei): For five people, that should be fine for now. Thanks, PAREO.
+CHU² (Chiyu): You’re awfully used to this.
+LAYER (Rei): Yeah, I cook for myself sometimes. Anyway, let’s start with the veggie section.
+PAREO (Reona): Yes, PAREO~♪
+MASKING (Masuki): Oh, they’ve got corn. Should we grab some?
+LOCK (Rokka): Wow, they're still in the husk! Is there a trick to picking good ones?
+MASKING (Masuki): Go for ones with dark green husks and lots of brown silk... Like this one!
+LAYER (Rei): Wow, then let’s go with that. Masuki, can you grab some other barbecue veggies too?
+MASKING (Masuki): Leave it to me! Bell peppers, onions... eggplant sounds good too.
+PAREO (Reona): Massu-san, I’d love some cabbage too, please!
+MASKING (Masuki): Cabbage, huh? Then~... this one should do. The core’s nice and clean.
+PAREO (Reona): Kya~♪ Thank you so much!
+LAYER (Rei): A whole head? Think we can finish that just with the barbecue?
+LOCK (Rokka): If there’s leftovers, how about we make yakisoba?
+LAYER (Rei): That might work. I don’t remember if we have a griddle, but there’s definitely a frying pan in the kitchen.
+LAYER (Rei): Alright, that’s it for the veggies. We’ve got dried fish, so that’s covered... Now we just need something like rice and some meat.
+MASKING (Masuki): Ah!!
+CHU² (Chiyu): What was that all of a sudden!? You scared me!
+MASKING (Masuki): I found something awesome! It’s not a barbecue without this!
+PAREO (Reona): Biscuits and marshmallows... Are you thinking s’mores?
+MASKING (Masuki): Yeah! I had some when we went camping with Maya-san and the others—super good.
+LOCK (Rokka): Then let’s add chocolate too!
+MASKING (Masuki): Alright, let’s grab a couple bars. One... no, better make it two.
+LAYER (Rei): Hmm~... yeah, that sounds about right based on how many biscuits we’ve got. Go ahead and toss them in the basket.
+LOCK (Rokka): Yay, thank you!
+CHU² (Chiyu): ......
+LAYER (Rei): What’s up, CHU²? Is there something you want from the snack aisle?
+CHU² (Chiyu): Not really. I’m just bored.
+LOCK (Rokka): What!? But we’re shopping for dinner! Isn’t thinking about what to eat super fun!?
+CHU² (Chiyu): That’s just you. I’m heading into the store, so you all can do whatever you want.
+LOCK (Rokka): No, CHU²-san~...!
+CHU² (Chiyu): I’ll check messages in the meantime. Bye.
+PAREO (Reona): Ah... There she goes.
+LAYER (Rei): Well, if you’re not into food, this kind of thing probably does get dull.
+LOCK (Rokka): No way... This is a total culture shock...
+MASKING (Masuki): No use complaining—let’s just finish up ourselves. So, what else do we need?
+LAYER (Rei): Let’s see... meat, rice, and some yakisoba noodles, I think.
+LOCK (Rokka): Then I’ll go grab the rice! The microwave kind’s okay, right?
+LAYER (Rei): Yeah, please. Masuki, can you get the yakisoba noodles?
+MASKING (Masuki): Got it, I’m on it.
+LAYER (Rei): Alright, let’s go pick out the meat. PAREO, is the cart getting too heavy?
+PAREO (Reona): Not at all. Leave it to me♪
+(Black cut)
+LAYER (Rei): Hmm~... I wonder how much meat everyone’ll eat.
+PAREO (Reona): If there’s leftovers, we can use them for lunch tomorrow. How about this value pack?
+LAYER (Rei): Good idea. Let’s grab that one.
+PAREO (Reona): Okay~♪
+LOCK (Rokka): LAYER-san, I found the instant rice!
+LAYER (Rei): Thanks, LOCK.
+LAYER (Rei): Hm...? What’s that in your hands? Mochi...?
+LOCK (Rokka): Um, I found it on the rice shelf and... Is it no good...?
+LAYER (Rei): Hmm... We probably wouldn’t be able to finish it, so I think we’ll have to pass...
+PAREO (Reona): They’re still selling mochi this time of year, huh.
+LOCK (Rokka): If plain mochi’s no good, then how about some with sweet red bean paste...!
+LAYER (Rei): That’s not really the issue here...
+MASKING (Masuki): Hey, I found the yakisoba noodles! I also grabbed some yaki ramen while I was at it—
+LAYER (Rei): Put it back.
+MASKING (Masuki): What the heck, I haven’t even said anything yet!
+LAYER (Rei): You don’t need to. ...Hm?
+CHU² (Chiyu): ...
+LAYER (Rei): What’s up, CHU²? We’re still gonna be a while with shopping.
+CHU² (Chiyu): Ugh... r-right. But it’s not that...
+PAREO (Reona): CHU²-sama, did you bring jerky with you...?
+LAYER (Rei): Wait, really?
+CHU² (Chiyu): W-What, is that a problem!? It’s a brand I liked when I tried it before! And dinner’s still a ways off, right? I just brought it in case I got a little hungry, that’s all!
+LAYER (Rei): Hmm... Well, it’s not like you have to finish the whole thing once it’s open... Jerky should be fine.
+LOCK (Rokka): Ehhh?! Why!?
+MASKING (Masuki): That’s not fair! Jerky gets a pass!?
+LOCK (Rokka): She’s right~! The mochi is individually wrapped, so it’s fine even if we don’t finish it all at once!
+LAYER (Rei): Mmm~~... okay, okay!
+LAYER (Rei): If it’s something we can finish in one go, or something that doesn’t have to be eaten all at once, and it’s not too bulky to carry back, then it’s fine. But only one item per person, alright?
+MASKING & LOCK: Yeah! Woohoo!
+MASKING (Masuki): Let’s go, LOCK!
+LOCK (Rokka): Yeah!
+CHU² (Chiyu): What was that? They’re like a pair of little kids.
+LAYER (Rei): You can go too, PAREO. Pick something out for yourself.
+PAREO (Reona): Really? I haven’t done this since I was little. What snack should I choose♪
+LAYER (Rei): Fufu, have fun.

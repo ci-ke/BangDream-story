@@ -1,0 +1,108 @@
+1638_Rui Yashio_R3 Argumentative Demon
+
+Gacha phrase: Am I dressed... as a butler?
+
+<Optimal Town Building>
+
+(Character: Mashiro Kurata, Toko Kirigaya, Tsukushi Futaba, Rui Yashio)
+
+[Goblin Village]
+
+Mashiro: Tsukushi-chan, I've brought the Soft Water like you asked.
+Tsukushi: Thanks! With this I'll be able to cut the hard stones~.
+Mashiro: I think when you pour Soft Water on something, it will soften an object no matter how hard it is, right?
+Tsukushi: That's right. I was thinking of using it to make a super hard stone soft enough to cut through.
+Tsukushi: It's really hard. The teeth on the saw were ruined as soon as I tried using it.
+Mashiro: Th-that's incredible.
+Tsukushi: By the way, I think Rui-san said she also wants to use hard stones for building materials. I'll need to share some of this Soft Water.
+Tsukushi: Let's see, where is Rui-san...?
+Mashiro: Ah, there she is. It looks like she's talking with Toko-chan. Something doesn't seem right, though...
+(Black cut)
+Rui: Kirigaya-san, if you are indeed free, I would like you to help with building the town.
+Toko: I am helping. I'm super busy doing things like thinking of the café menu and t-shirt designs for the shop~.
+Rui: I do not think that is what our priority should be. Right now, our first goal is to finish the town.
+Rui: You are aware that the next event will not occur until the goblins' living facilities are in place, right?
+Toko: But isn't coming up with café menus and t-shirt designs important too?
+Toko: I mean, you say we should prioritize building the town, but you're doing a terrible job at it.
+Rui: What do you mean?
+Toko: You built this house, right? There's no furniture or anything else inside. It's completely empty. A person couldn't live here.
+Rui: I had not thought of building furniture at this point.
+Toko: What? Why? I don't know why you'd put it off... Ahh~, I see what's going on~.
+Rui: ...?
+Toko: You know. You don't know how to build furniture, do you?
+Rui: ...
+Toko: I knew it~. In that case, you should've just been honest with me in the first place! I'll show you how it's done!
+Toko: Listen up, good~. First, you get a mirror ball~...
+(Black cut)
+Toko: Then you slap some shiny rocks on it, and then you have yourself indirect lighting! See? Easy, right?
+Rui: Mirror balls and indirect lighting are not exactly essential furniture.
+Toko: Nah nah nah, we need to be thinking about the décor too, shouldn't we? People feel better in rooms that have style!
+Rui: As I said before, the purpose of building the town is to create a better living environment for the goblins.
+Rui: What we need are things like desks, chairs, and beds; furniture that is more closely related to their daily lives. Not decoration.
+Rui: However, I know that you are very good at making furniture.
+Toko: Of course I am! It's me we're talking about. There's nothing I can't make!
+Toko: Desks, chairs, beds, I can make that stuff eeeasy. It would only take me a few seconds!
+Rui: Oh? That is amazing.
+Toko: Isn't, though~? So you've finally noticed how capable I am!
+Toko: I guess I don't have a choice. For you, I'll just have to use my genius to lend you a hand!
+Toko: I'll make the greatest desks, chairs, and beds~. Hey~, goblins, gather 'round~!
+Rui: ...
+Tsukushi: Um... Rui-san?
+Rui: Futaba-san, Kurata-san. Is there something I can help you with?
+Tsukushi: We heard you two talking... You asked Toko-chan to build furniture.
+Rui: No, I never asked her to do that.
+Mashiro: Huh? But just a moment ago...
+Rui: I only asked if she could make it. Not once did I say I wanted her to do so.
+Rui: First, I was going to make as many houses as needed. After that, I was thinking of making furniture...
+Rui: It would be much more efficient if Kirigaya-san built it for me instead. That way, I can concentrate on building the rest of the houses.
+Tsukushi: Ah... Rui-san, were you purposely trying to nudge Toko-chan to build the furniture...?
+Rui: ... In the end, that is only how it turned out.
+Rui: Well then, I will return to my work. See you later.
+Tsukushi: That's what she says, but is that really the truth...?
+Mashiro: I wonder...
+Toko: Alright! We're gonna make some killer furniture that's gonna knock Rui's socks off~.
+Goblins: Yeah~!
+Tsukushi: She even used Enthusiast... She's really excited about this.
+Tsukushi: Well, Toko-chan looks like she's having fun, so we probably don't need to worry about the details, right?
+Mashiro: Yeah... I guess not.
+
+
+<Chance Study on Another World>
+
+(Character: Rui Yashio)
+
+[Shopping District]
+
+Marina: Sigh~, I didn't think it'd be sold out.
+Marina: Oh? Over there, is that...? Hey~, Rui-chan~!
+Rui: Tsukishima-san, {{userName}}-san, hello.
+Marina: Hi. You have your violin, so I guess that means you're going to band practice now.
+Rui: Yes. I am on my way to Hiromachi-san's atelier.
+Marina: Right. Today's my day off, so I came to buy Special Fantasy.
+Marina: I ran into {{userName}}-san when I stepped out of the game store.
+Rui: Special Fantasy? ... Oh, yes, I played that with Kurata-san and the others a day or so ago.
+Marina: Yes, I wanted to play it after hearing the others talk about it, but it's all sold out.
+Marina: Hey, tell me what you thought of the game. I want to know what to do when I actually play it.
+Rui: Well... I do not have anything in particular to say about it, but there were many areas where I felt the creators had carefully considered the players.
+Marina: Really? Like what?
+Rui: I am not very knowledgeable about games, so I can only give my opinion...
+Rui: If the players do not know what they are supposed to do as soon as they start the game, I think they would likely feel stressed.
+Marina: Ah, I think I kind of know what you mean. When I started working at CiRCLE I was nervous because there were things I didn't know.
+Rui: That game was very considerate of this.
+Rui: We were immediately provided with an explanation of the world and the situation. After that, we met characters that would lead us to the next development.
+Rui: Thanks to that, I think we could become a part of the game world at a good pace.
+Marina: It's true that the beginning is the key to everything. If you get stuck there, you'll lose motivation.
+Marina: It must be a very caring game to consider things like that.
+Rui: Overall, yes. However, I personally feel there were some areas that could use a little more consideration.
+Marina: Really?
+Rui: Yes. I felt that was most true about the fact that you cannot choose your character.
+Rui: That game is designed so you will not know what kind of character you will be until you start playing it.
+Rui: Some may enjoy the unpredictable nature of a system like that, but there must be a number of others who would like to choose their characters as well.
+Rui: For those people, I think it would be good to provide them with that option.
+Marina: I see. Recent games put a lot of effort into things like character creation. I'm sure there are people who enjoy that aspect.
+Marina: Anyway, do you like games? I'm surprised at how much you've analyzed this one...
+Rui: No, not particularly. This was only my opinion after actually playing that game.
+Rui: I do not think I will look to play more games in the future.
+Marina: O-oh...
+Rui: It is almost time for me to catch my train. If you will excuse me.
+Marina: Ah, sorry for holding you up. Thanks for talking with us! See you~.

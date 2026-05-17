@@ -1,0 +1,45 @@
+1030_Rokka Asahi_R1 Indomitable Guitarist
+
+<Self-Introduction>
+
+(Character: Rokka Asahi)
+
+[CHU²'s Penthouse - Studio]
+
+LOCK (Rokka): H-hello! I'm Rokka Asahi... Ah, I'm also called LOCK! I'm RAISE A SUILEN's guitarist.
+LOCK (Rokka): Until recently, I was only a temporary member, though...
+LOCK (Rokka): But CHU²-san acknowledged me, so I'm now an official member of RAS!
+LOCK (Rokka): I'm really happy I get to play music with everyone... with this band.
+LOCK (Rokka): Please come listen to us perform live so that you can hear what the greatest music sounds like!
+LOCK (Rokka): Umm, was that okay...?
+LOCK (Rokka): Oh, too short? Uhh, what else should I-...? Ah, I know!
+LOCK (Rokka): I'm a huge fan of Poppin'Party! The reason why I moved from Gifu is because of a Poppin'Party concert and-...
+LOCK (Rokka): Oh, I don't need to talk about things like that?! I'm almost out of time~? Uhh...
+LOCK (Rokka): I'll keep doing my best, so I hope you'll follow us! This has been RAISE A SUILEN's LOCK!
+
+
+<Tokyo-Bound Girl>
+
+(Character: Rokka Asahi)
+
+[Downtown]
+
+LOCK (Rokka): Uhh, where's that shopping list...?
+LOCK (Rokka): Ah, {{userName}}-san! Hello!
+LOCK (Rokka): I'm about to buy some household goods!
+LOCK (Rokka): I have family that lets me live and work at their place, but I try to get the little odds and ends on my own.
+LOCK (Rokka): Can you see that large chimney over there? That's the Asahi Bathhouse I live at. Masuki-san goes there a lot.
+LOCK (Rokka): Hmm... I guess there are times when I feel lonely living away from my family...
+LOCK (Rokka): But I've gotten pretty used to life in Tokyo, and I'm enjoying my time here every day!
+LOCK (Rokka): Hm? What do I enjoy the most...? I guess it would be joining a band.
+LOCK (Rokka): You see, when I was a third year in middle school, I hadn't figured out what I wanted to do with my future. That was when I saw Poppin'Party's concert at SPACE.
+LOCK (Rokka): I was so blown away! That feeling was so great that I kept seeing it the scene in my dreams!
+LOCK (Rokka): I couldn't play in the band I was in during middle school because of entrance exams.
+LOCK (Rokka): That was what made me decide to form my own band here in the hometown of the wonderful Poppin'Party, so that I could someday get up on the same stage as them.
+LOCK (Rokka): However, when I first moved, things were difficult because I couldn't find anyone to form a band with...
+LOCK (Rokka): Poppin'Party did invite me, but I politely refused even though I love them so much. The current five members are what makes them who they are, after all...
+LOCK (Rokka): That was when I was scouted by CHU²-san.
+LOCK (Rokka): Things were a little uncertain for a while, but I'm really glad I get to practice and do concerts now with RAS.
+LOCK (Rokka): It makes me realize just how fun music and being in a band is...!
+LOCK (Rokka): Oh, I'm sorry. I got a bit carried away there, ehehe... Thank you for listening to me ramble.
+LOCK (Rokka): I should probably start shopping. Goodbye!

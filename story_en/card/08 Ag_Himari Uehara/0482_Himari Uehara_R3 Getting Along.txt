@@ -1,0 +1,91 @@
+482_Himari Uehara_R3 Getting Along
+
+<I'm Being Serious!>
+
+(Character: Himari Uehara, Tomoe Udagawa)
+
+[Station Entrance]
+
+Himari: Tomoe, it's about time~! You're late~!
+Tomoe: Sorry, my bad!
+Himari: Alright, our day of fun begins now~!
+Tomoe: So where are we going?
+Himari: Oh yeah... Do you have any ideas, Tomoe?
+Tomoe: There's a bunch of leaflets and stuff over there. Why don't we check them out? We might find somewhere we wanna go.
+Himari: Good idea, Tomoe~! Alright, flyers, here we come~!
+(Black cut)
+Himari: Wow~! Look at them all! And they're all for different shops too! Which one should I look at first~?
+Tomoe: (Oh, they're doing a photobook fair at the book store in the shopping mall...)
+Himari: Ah, they opened up a new café in the next town over! And all the shops around the station are doing a holiday fair?! That sounds amazing~! Did you find anything you were interested in, Tomoe?
+Tomoe: Uhm~... Nope, not really. I'm fine with wherever you wanna go.
+Himari: Sounds good to me~! Off we go~!
+(Black cut)
+(Background change)
+
+[4 Hours Later]
+
+[Station Entrance]
+
+Himari: Ahhh~, that was so much fun~!
+Tomoe: Yeah. Going a little farther away every once in a while isn't so bad.
+Tomoe: Plus we found a ton of tasty-looking ramen shops on the same street as the café!
+Himari: Fufu~, be grateful that I found the flyer that brought us there~!
+Tomoe: Haha~, thank you, Himari-sama~.
+Himari: Hahaha~! ... I'm just glad you're doing bette- Ah!
+Tomoe: Ahaha, I thought so. You invited me out today because you were worried, right?
+Himari: You mean you already figured it out?! Since when?!
+Tomoe: I had a feeling that was the case right from when we met up.
+Himari: Ooo... So you knew this whole time. You read me like a book. Talk about frustrating...
+Tomoe: I'm your childhood friend, right? I should be able to figure out at least that much.
+Tomoe: ... Still, thanks. For today, and the other day.
+Himari: Huh?
+Tomoe: Thanks to you and everyone else, I was able to fix things with Ako.
+Himari: That's not true, Tomoe. You and Ako made up because you were able to talk to her.
+Himari: All we did was be there for you when you were down.
+Tomoe: But I was only able to face her because you guys were there for me. Seriously, thank you.
+Himari: You're welcome! Just make sure you come to us next time something's bugging you, okay?
+Tomoe: Ah~... Yeah. I'll try...
+Himari: You won't just 'try', you will come to us, got it?! If you don't, next time I'll be the one who gets mad~.
+Tomoe: You? Mad? Ahaha! Now that sounds scary!
+Himari: Argh~! I'm being serious!
+Tomoe: My bad, my bad! Okay, next time I'll be sure to come to you guys.
+Himari: Good! ... Now that I've got your word,  should we move on to the next place?
+Tomoe: Sure! Where are we going?
+Himari: The bookstore! You wanted to go to that photobook fair, right?
+Tomoe: ...! You mean, you noticed?
+Himari: Fufu~♪ You're not the only one with a couple tricks up their sleeve~.
+Himari: I'm your childhood friend, after all!
+Tomoe: Ahaha! That's right!
+Himari: Okay, let's go~!
+
+
+<What's a Big Sister?>
+
+(Character: Himari Uehara)
+
+[Station Entrance]
+
+Himari: Ah, {{userName}}-san! Are you out shopping?
+Himari: Me? Ehehe~, I'm going to hang out with my big sister!
+Himari: Yep, she's meeting me here after she finishes up with work.
+Himari: We're going to get tea together at one of my favorite cafés♪
+Himari: And this time~, I'm. The one. Who's. Paying~!
+Himari: I suppose you could say this is a thank-you gift for all the stuff she does. I know my sister has a lot to deal with.
+Himari: As the younger one, I tend to overlook everything she goes through. But something happened lately that made me realize how hard being a big sister is.
+Himari: Did you hear about this, {{userName}}-san? Tomoe and Ako-chan hit a bit of a rough patch a while back.
+Himari: I know, right?! You'd never expect those two to have any problems...
+Himari: I heard about it from Tomoe along with the rest of the band. She told us she wanted to be there for Ako-chan, as her cool big sister.
+Himari: We're childhood friends, but I'm a little sister at home, so I can't really say I understand what it means to be the older sibling like her...
+Himari: But seeing Tomoe try her hardest to be there for Ako-chan, I started to wonder if my sister was doing something like that for me, and I just never noticed.
+Himari: So I really wanted to do something for her~.
+Himari: Ah, not that I think I cause my sister that much trouble.
+Himari: Yup! Tomoe and Ako-chan made up right away!
+Himari: I was really worried about them too. It was such a relief to hear they'd worked things out~.
+Himari: Actually... now that it's all over, there's one thing that makes me glad this happened.
+Himari: You know how Tomoe is. She's the reliable and cool one...
+Himari: And because of that, she's the one I go to when I need someone to talk to. It's like I'm always relying on her.
+Himari: But that also means that she'd never come to me with any of her problems.
+Himari: This time, though, she did! That really made me happy.
+Himari: Ahaha... Don't tell Tomoe, okay?
+Himari: ... Ah! That's my sister!
+Himari: Alright, see you later, {{userName}}-san! Thanks for listening~!

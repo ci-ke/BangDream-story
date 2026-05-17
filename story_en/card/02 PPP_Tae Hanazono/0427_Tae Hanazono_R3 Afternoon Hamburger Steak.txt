@@ -1,0 +1,65 @@
+427_Tae Hanazono_R3 Afternoon Hamburger Steak
+
+<Poppin'Party Has Five Members>
+
+(Character: Tae Hanazono, Kanon Matsubara, Chisato Shirasagi)
+
+[Hanasakigawa Girls' Academy - Hallway]
+
+Tae: Uhhh, I'm pretty sure class 2-A was over here...
+Chisato: Oh? Tae-chan?
+Tae: Ah, Chisato-senpai.
+Chisato: You're hanging around the second-year classrooms? I never see you around here. Do you need something?
+Tae: I have a quick question. How does one make flyers for a show?
+Chisato: ... Huh? That came out of nowhere... What's going on? Why do you need to know how to do that...?
+Tae: I wanted to make some, and I just sort of went for it. This is how it came out. Does it look okay?
+Chisato: S-sure... Anyway, at the very least, you're making flyers. I got that part.
+Chisato: I, however, don't really know much about that sort of thing. Why don't we ask Kanon about it?
+Chisato: She makes flyers and stuff for Hello, Happy World!, so I'm sure she'll be a better person to ask. I'll call her over.
+Tae: Thank you.
+Chisato: Hey, Kanon? Could you come here for a moment?
+Kanon: Hm? Yes, Chisato-chan?
+Chisato: It seems Tae-chan has something she'd like to ask you.
+Kanon: Ah, Tae-chan... What's wrong?
+Tae: This flyer... Do you think it looks okay? Is there something I should write on it that I'm forgetting?
+Kanon: Uhm... This is fairly sudden, so I can't say for sure, but... this is for a concert, correct?
+Tae: Yes, Poppin'Party will be performing on the last day of exams.
+Kanon: In that case, shouldn't you put the location and starting time on it?
+Tae: Location? Starting time? Ah, that's right. Those are easy ones to miss.
+Chisato: Really? I kind of feel like those are the most important pieces of information though...
+Tae: Okay, I'll put it right here, and... now I just have to reserve some equipment by the end of the day...
+Kanon: What? Tae-chan, are you taking care of all the preparation by yourself?
+Tae: Yep. I'm about to head over to CiRCLE. It's pretty hard preparing for a concert all on your own, isn't it?
+Chisato: Say, Tae-chan... If you're having a hard time getting things done on your own, you might be better off asking Kasumi-chan and the others for help.
+Tae: I bet Kasumi is having an even harder time than I am right now, so I'll do my best to take care of all this stuff alone.
+Tae: You know, since I'm a member of Poppin'Party too, just like Kasumi and all the others are. Our band is made up of five people, after all.
+Chisato: I-I see... I don't know what you guys are going through, but... nevertheless, good luck.
+Kanon: Tae-chan, if something else comes up, feel free to ask. I'll help you out in whatever way I can.
+Tae: Okay! Thank you so much!
+
+
+<Did I Say Something Weird?>
+
+(Character: Tae Hanazono)
+
+[Station Entrance]
+
+Tae: Ah, hey there, {{userName}}-san.
+Tae: Me? The girls from Poppin'Party and I are about to go hang out. I'm waiting to meet up with them.
+Tae: Speaking of the band, thanks a lot for all the help with our basement concert. Please tell Marina-san I said thanks too.
+Tae: Mhm. Because of you guys, our show was a success.
+Tae: I wish you were there to hear us. Rimi's new song was so good, and everyone played much better than they usually do.
+Tae: Mhm! I was most definitely vibing.
+Tae: And Kasumi was sparkling and heart-pounding. It was such an awesome show.
+Tae: ... Ah, {{userName}}-san. Quick question: what time is it right now?
+Tae: Thanks. Kasumi and the others should be here soon then.
+Tae: Hm? My phone? Oh, I forgot it at home.
+Tae: ... Nah, I'm not really worried about it.
+Tae: Is there a reason I should be?
+Tae: They said they were gonna come here around this time, so I don't think there's any need to worry...
+Tae: That's basically what it means to meet up, right? It's about making a promise.
+Tae: And they wouldn't break their promise, so I'm sure they'll be here soon.
+Tae: Huh? Why do you look so amazed? Did I say something weird?
+Tae: ... Ah, look. Right there. See, they came, just like I said.
+Tae: Alright, I'm gonna go.
+Tae: Again, thank you so much for everything you guys helped with. If I ever need anything else, I'll be sure to let you know.

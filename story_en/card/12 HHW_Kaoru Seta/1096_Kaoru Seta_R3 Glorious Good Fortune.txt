@@ -1,0 +1,86 @@
+1096_Kaoru Seta_R3 Glorious Good Fortune
+
+Gacha phrase: Hmm... A... great blessing.
+
+<New Year's Spirit>
+
+(Character: Kaoru Seta, Maya Yamato)
+
+[Residential Area]
+
+Kaoru: Ah, if it isn't Maya.
+Maya: Ah, Kaoru-san! What a coincidence.
+Maya: Oh. Happy New Year. I look forward to another year with you!
+Kaoru: Indeed, Happy New Year. Let us work together to put on more fleeting shows this year.
+Maya: Yes! You can leave the backstage stuff to me!
+Maya: Did you go somewhere during New Year's?
+Kaoru: I did. Hello, Happy World! and I went to our first shrine visit of the year on New Year's Day.
+Maya: Ah, your first shrine visit, huh? That sounds nice! It was part of work, but I got to visit one with the rest of Pastel＊Palettes as well.
+Maya: I just love how lively shrines are during New Year's!
+Kaoru: Indeed. I had a most fleeting time surrounded by many smiling faces.
+Kaoru: You, however, seem like you were rather busy right from the start of the year.
+Maya: You could say that~. We had to film some videos, and we even got invited to a show that was filmed live.
+Maya: But I'm always grateful whenever we get work! And I enjoyed spending New Year's with the rest of Pastel＊Palettes.
+Kaoru: Heh... I am pleased to hear that. Spending New Year's with members of the same band is always a lively and fleeting experience.
+Kaoru: I myself am on my way to practice and attend a meeting with Hello, Happy World! I can not wait to see what melodies I will conjure from my fingertips.
+Maya: I see! I'm actually on my way back from lessons too~. It was fun to get to play music together with everyone after so long!
+Maya: Ah, wait a minute... I guess it means today will be the first performance of the year for both of us!
+Kaoru: First performance of the year?
+Maya: Yes! You'll sometimes see people marking the occasion for instruments such as the koto and piano.
+Maya: Ah, but in my case it's drumming, so I guess I could also call it the first drumming of the year. Huhehe...
+Kaoru: The first performance of the year... What a most refined concept... How very fleeting...
+Kaoru: I suppose our conversation today would be our first conversation of the year then.
+Maya: Our first conversation of the year?
+Kaoru: Indeed. Whenever you do something for the first time in a year, you are supposed to add "first," are you not?
+Maya: I think so. They do say the first calligraphy of the new year, so...
+Kaoru: That must mean our band practices will be the first practices of the year.
+Maya: That's true! Oh, but I don't think you need to use a special expression when it comes to practice~.
+Kaoru: How fortunate I am that my first Hello, Happy World! meeting, my first day of school, and my first concert also await me...!
+Maya: Huhehe... If you look at it that way, I guess you can add first to anything you do for the first time at the beginning of the year!
+Kaoru: The existence of such a tradition is surely proof of the importance placed on beginnings.
+Kaoru: Now that I think about it, it is so in the world of theater as well.
+Maya: How so?
+Kaoru: The first cheers when the curtain rises give momentum to a theatrical performance.
+Kaoru: Similarly, when we want to have a wonderful year, we try to start things off on the right foot.
+Maya: I see your point. I guess when you remember that you're doing something for the first time in a given year, it also makes you more motivated!
+Kaoru: I have decided, Maya.
+Maya: Hm? Decided what?
+Kaoru: In this new year, I, too, shall embark on a fresh start and value the beginning of everything I do.
+Maya: That's such a great attitude!
+Kaoru: Then let us straighten our postures so that we may start the year off properly and treasure it!
+Maya: Yes! Let's make this a worthwhile year for both of us!
+
+
+<Guided by the Divine>
+
+(Character: Kaoru Seta)
+
+[Station Entrance]
+
+Kaoru: A great blessing... How fleeting...
+Marina: Ah, Kaoru-san. Happy New Year. I look forward to seeing you this year.
+Kaoru: Greetings, Marina-san, {{userName}}-san. Happy New Year. I, too, look forward to the pleasure of your company this year.
+Marina: Hm? Is that an omikuji you're holding...?
+Kaoru: Indeed. It is the one I drew during my New Year's shrine visit the other day. It is a valuable treasure that has guided me.
+Kaoru: I was just pondering where it intended to guide me next.
+Marina: Uhh... what do you mean?
+Kaoru: When I went to the shrine with the rest of Hello, Happy World!, cruel fate tore us apart.
+Kaoru: While I was alone, I drew an omikuji on a whim, and written on it were the words, "The one you seek: Will appear."
+Kaoru: I decided to put my faith in my fortune, and I was reunited once again with my comrades.
+Marina: Huh, I guess mysterious things like that do happen~.
+Kaoru: I am certain it is the work of the spirits. As proof, while waiting for Misaki and the others, I had many wonderful encounters.
+Kaoru: I am certain that their guidance will lead me on many new ventures that I am unaware of.
+Kaoru: Inspired by those new discoveries, I shall evolve and become better able to satisfy my little kittens.
+Marina: Fufu, you really do care about your fans.
+Kaoru: Without an audience, there can be no theater. It is... but that.
+Marina: Say, what else does your omikuji say?
+Kaoru: "Direction: Good fortune lies to the southeast..."
+Marina: Southeast? I wonder which way that is. Do you know?
+Kaoru: What lies beyond where {{userName}}-san points is an... udon noodle restaurant.
+Marina: Oh, an udon place~! I wonder what's there? Maybe it means you'll be able to have some delicious udon.
+Kaoru: Hm? Something is written on the advertising flag.
+Marina: Ah, you're right. Let's see... Delicious ozoni soup now available.
+Kaoru: ... I see. Fufu. It seems the spirits are indeed guiding me...
+Kaoru: Then I shall follow their instructions and go to the udon restaurant. A most fleeting encounter may await me there.
+Marina: Okay, enjoy the ozoni soup!
+Kaoru: Thank you. I bid you farewell. May good fortune bless you both.

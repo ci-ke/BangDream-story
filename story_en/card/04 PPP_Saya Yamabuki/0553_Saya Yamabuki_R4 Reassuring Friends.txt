@@ -1,0 +1,85 @@
+553_Saya Yamabuki_R4 Reassuring Friends
+
+Gacha phrase: When you want to sigh, you should let out as many as you please.
+
+<Planning A Downtown Tour>
+
+(Character: Saya Yamabuki, Tsugumi Hazawa)
+
+[Hazawa Coffee]
+
+Tsugumi: Here you are, Saya-chan. One café au lait.
+Saya: ... Ahhh, Hazawa coffee's café au lait is practically therapeutic~.
+Tsugumi: Hehehe, thank you. Did you have band practice today?
+Saya: Yep, and everyone was really fired up. We didn't even finish until a short while ago.
+Tsugumi: Poppin'Party is like that, too? Our practice sessions have slowly been getting longer and longer as well.
+Tsugumi: Remember how I told you about our joint concert with Roselia? Since that day, it's as if a switch was flipped in all of our heads...
+Saya: Oh yeah! You guys did have a show like that, didn’t you? I wasn't able to go, but... I really wanted to~.
+Saya: There was no way of getting out of store duties that day. Sorry about that.
+Tsugumi: I'm just glad to hear that you wanted to come! If we decide to do it again, I'll be sure to invite all of Poppin'Party.
+Tsugumi: What about your band? Any performances scheduled?
+Saya: Not any actual plans at the moment, no, but we've been discussing it since we have a new song we want to perform.
+Tsugumi: You mean the downtown rally song? I've heard nothing but praise for it. And I'm a big fan, myself!
+Saya: Fufu, hearing you say that means a lot. Rimi-rin poured her heart into that song.
+Tsugumi: It's not only me who thinks so. Our customers sometimes talk about it, too!
+Saya: Really?! That's great~.
+Saya: Things were different this time around. It was a song for the downtown district, not just a Poppin'Party song. Rimi-rin seemed a tad stressed out by it...
+Saya: So what you said is a huge relief. I'd better let Rimi-rin know~.
+Tsugumi: Everything from the melody to the lyrics perfectly captured how much you all treasured each part of the downtown district when making the song!
+Saya: Hahaha, Kasumi stopped by every day right up until the track was finished.
+Tsugumi: My mother mentioned that, actually. "I've seen Kasumi-chan around here every day lately..."
+Saya: Oh, really? Hahaha, you could say Kasumi sightings have been on the rise around these parts.
+Saya: I'll have you know that her knowledge of this area had me shocked.
+Tsugumi: The way she perceives things, everyday sights and sounds, is completely different from those of us who live here.
+Saya: It's hard to say exactly how, but I've grown somewhat envious of her.
+Tsugumi: Uh-huh, yeah. I think I know what you mean.
+Tsugumi: The very fact that this is our home makes it so that we don't notice some of the things going on around us.
+Saya: Say! How about the three of us take a walk through downtown sometime?
+Saya: That way, she can tell us about all the things we didn't realize we've been overlooking. Sound good? I think it might be interesting.
+Tsugumi: Oh, that does seem like a lot of fun!
+Saya: Doesn't it? What would you say to inviting Tomoe and Hagumi, as well?
+Tsugumi: Mhm, those two would probably be interested!
+Tsugumi: Feels like some sort of downtown tour service.
+Saya: Kasumi the Tour Guide~. That's one tour guaranteed to be filled with non-stop laughs.
+Tsugumi: Yeah, I could see it being a real treat.
+Tsugumi: Makes you wonder what Kasumi-chan's always looking at, doesn't it? I can't wait to find out!
+Saya: Fufu, here's to working hard to uncover the secret of Kasumi's mystery downtown knowledge.
+Tsugumi: Okay! A few of those places are sure to be ones that we already know about too.
+Saya: Yep! So, when would be good for you?
+Tsugumi: I'm available on either Saturday or Sunday of next week!
+Saya: Roger that! I'll talk it over with Kasumi and the others, then I'll get back to you once the date's been decided!
+
+
+<The Song Played Downtown>
+
+(Character: Saya Yamabuki)
+
+[Yamabuki Bakery]
+
+Saya: Welcome to- Oh! Marina-san, {{userName}}-san! Fancy meeting you here!
+Marina: Good afternoon, Saya-chan~. Are you tending the store today? Hard at work I see!
+Saya: Thank you very much! Are you two on your break? A fresh batch of melon bread just came out of the oven!
+Marina: So they have! And they're still warm~. In that case, I'll go with that for today. Have you decided yet, {{userName}}-san?
+Saya: Hahaha, I think {{userName}}-san is still thinking.
+Marina: Oh, congratulations on finishing the downtown song! We heard it playing earlier.
+Saya: Me too! May I ask what you thought of it?
+Marina: It's absolutely wonderful! Walking through downtown feels all the more exciting because of it.
+Saya: Fufu, I'm glad to hear that. We're pretty big fans of it ourselves.
+Saya: Sana and Jun have also taken a liking to it and have been singing it on our walk home.
+Marina: Go, Rimi-chan! Look at her, making a song that even children can enjoy.
+Saya: Fufu, you can say that again. Rimi-rin worked herself to the bone, so it's good to hear that her efforts paid off.
+Marina: Oh, really? Did she have a hard time coming up with a melody or something?
+Saya: Well, yes, but more than that was how she felt like Yuri-senpai's influence was creeping into her work.
+Marina: So that's what happened... I think I know how she felt.
+Marina: There was a time when I also felt like, no matter what I did, I was copying someone else.
+Saya: Maybe we all have times like that in our lives. Oh, you've had a similar experience, {{userName}}-san?
+Marina: However, willingly accepting those influences allows them to slowly become a part of what can be called your own style of music.
+Saya: Fufu, I agree. That's why I feel that this song is another accomplishment to add to our collection.
+Marina: Mhm, it's yet another spectacular single with that Poppin'Party vibe.
+Marina: And you know, your song might just be having an impact on someone out there.
+Saya: Our song...?! I wonder... I suppose that does make sense though.
+Saya: That's something... that I hadn't considered. I'll probably have that in the back of my mind during our next concert and become a nervous wreck.
+Saya: What I want more than anything is to be a good influence on the fans who come all the way out to hear our performances.
+Marina: You should have no problem pulling that off.
+Marina: And with any luck, everyone at CiRCLE, present company included, is a good role model for you all.
+Saya: Fufu, of course you are! Marina-san, {{userName}}-san, please continue teaching us everything you can!

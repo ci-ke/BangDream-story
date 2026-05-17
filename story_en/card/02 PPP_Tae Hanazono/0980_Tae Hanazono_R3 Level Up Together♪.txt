@@ -1,0 +1,84 @@
+980_Tae Hanazono_R3 Level Up Together♪
+
+<Gift From an Esper>
+
+(Character: Kasumi Toyama, Tae Hanazono)
+
+[Lunch Break]
+
+[Athletic Field - Hallway]
+
+Kasumi: Lunch time♪ Lunch time♪
+Tae: You're in a good mood, Kasumi.
+Kasumi: Well yeah, that's because it's finally time to eat~. I'm starving~.
+Tae: I had my mother make me a lot of Hamburg steaks. I've got five whole pieces.
+Kasumi: No way! Well, guess what? I had my folks make me a ton of fried chicken~.
+Tae: Want to trade?
+Kasumi: You bet! Let's hurry and get our drinks. Then we can get back to Arisa and the others!
+Tae: Right.
+(Black cut)
+Kasumi: Vending machine ahoy~! Eeny, meeny, miney, mo~.
+Tae: ... Hm? What's this?
+Kasumi: What did you find, O-Tae?
+Tae: An animal card. Look, it has an elephant drawn on it.
+Kasumi: How cute~. It's bathing itself with its trunk~.
+Tae: We'll need to drop it off at the committee room after lunch... Hm? I found another card over here.
+Kasumi: And there's one over there too...! Wow, and there!
+Tae: Let's gather them all up.
+Kasumi: Alright... That takes care of all the ones over here.
+Tae: All clear on this end... We've got quite the haul.
+Kasumi: And they're all animal cards... Ah, this little penguin is drinking a glass of milk~.
+???: Oh, good. You found them.
+Tae: Um... are you referring to these cards?
+Student from Another School: Exactly. I'm the owner. I wouldn't be able to complete my experiment without them. Thanks for that.
+Kasumi: Experiment?
+Student from Another School: My experiments involve a type of ability no normal human could manifest... Something equal to the supernatural.
+Tae: Supernatural powers?!
+Kasumi: Huh?! Can you do magic and stuff?!
+Student from Another School: ... I am training myself to become a wielder of such abilities.
+Tae: I see. Here's hoping you can make it happen. Good luck!
+Student from Another School: Thanks... I'll let you have one of my cards.
+Tae: Are you sure?
+Student from Another School: In return for your support, I wish to show you the fruits of my labor. This card should have a picture of your favorite animal. Goodbye for now.
+Kasumi: Do you think it'll really be a rabbit?
+Tae: Let's see... Ah, a rabbit! And it looks exactly like Oddie!
+Kasumi: It does~! That's amazing~!
+Tae: So she did use supernatural powers. Fufu, I'll be sure to treasure this card.
+Kasumi: You're so lucky~. I want one too~.
+Tae: ... It's a text from Arisa. "Where are you guys~? Lunch is gonna be over soon~."
+Kasumi: Really?! Let's hurry back, O-Tae...!
+Tae: Okay.
+
+
+<How to Recover From Mistakes>
+
+(Character: Tae Hanazono)
+
+[Residential Area]
+
+Tae: Hello, {{userName}}-san.
+Tae: Are you out buying supplies? I'm here to pick up some food for Oddie and the others.
+Tae: Oh, actually, I have something to show you.
+Tae: Here... It's a champion's badge! Cool, huh?
+Tae: There was a joint sports festival the other day, and Rimi and I entered the three-legged race.
+Tae: No, the other players were all very skilled. We actually fell flat on our faces right at the start.
+Tae: Rimi and I trained for the race by using a song to help stay in sync...
+Tae: But we unfortunately messed up the timing of the guitar and bass.
+Tae: After that bad start, we made it to the goal without another mishap.
+Tae: Yeah, we were perfectly in sync! Kasumi and the others said we did a great job.
+Tae: You know... it kind of felt like the sensation we get when performing.
+Tae: I mean, we all make mistakes when up on stage, right?
+Tae: The important thing is to not let it get to you.
+Tae: You need to listen closely to how your bandmates are playing and adjust your own style accordingly.
+Tae: Oh, and eye contact is also key.
+Tae: I did exactly what I would during a concert, and because of that, I was able to keep a good rhythm with Rimi.
+Tae: Ah, that's also part of it. Having been together for so long helped us naturally sync up.
+Tae: Honestly, I feel like that timing training Rimi and I did with the song gave us a big level-up.
+Tae: That's right, a level-up.
+Tae: I guess you could say that song really gave us a leg up on the competition.
+Tae: More like three perfect legs up.
+Tae: ... Ah, look at the time.
+Tae: I need to head home now.
+Tae: Good luck with the rest of your work, {{userName}}-san.
+Tae: See you again at CiRCLE.
+Tae: Bye-bye.

@@ -1,0 +1,86 @@
+529_Aya Maruyama_R3 The Director's Assistant
+
+<Special Terminology>
+
+(Character: Aya Maruyama, Chisato Shirasagi, Eve Wakamiya)
+
+[Rehearsal Studio]
+
+Eve: Good morning!
+Aya: Morning, Eve-chan!
+Eve: You're the first to arrive again today, Aya-san!
+Aya: Yup. The theater club has the day off  so I didn't have to help out.
+Eve: Right, I heard from Maya-san! You're working as part of the stage crew, right?
+Aya: Yeah, I am! Some parts are difficult, but I'm having a blast! Plus, there's so much to learn!
+Aya: Even for the shows we perform, many people work behind the scenes to get the stage and everything ready. Thinking about that makes me feel like I need to work harder!
+Eve: The people behind the scenes are really the unsung heroes! So tell me, what kind of jobs do you have to do?
+Aya: I mostly do whatever I can to support Maya-chan. Since she is the stage director, she has a lot on her plate.
+Eve: When you say 'stage director'...?
+Aya: You know how when we have to rehearse for a performance, there's always someone giving the rest of the staff members orders? That person!
+Eve: Ohh! I understand now! The person who's always really busy!
+Aya: Yup, that one! The stage director is responsible for everything behind the scenes. That includes props, sets, lighting, and other stuff too!
+Eve: That's a lot for one person! Maya-san had to handle all of that by herself?!
+Aya: Yeah, she's amazing! She is very prompt when giving instructions, and she puts a lot of effort into meeting the requests of the performers.
+Eve: Fufu, I can just imagine Maya-san hustling and bustling about! I'm really looking forward to the actual performance!
+Aya: Right! But look at the time! We should get started on our practice session!
+Aya: ... Hmm? What's this claw hammer doing here...? Well, that's just dangerous~.
+Eve: Claw hammer...? Why is it called that?
+Aya: Oh, a claw hammer is the most commonly used hammer in stagecraft. It has two sharply curved claws for removing nails.
+Eve: I see! Since you've been helping out with stage production, you're learning all these technical terms!
+Eve: The fact that you can use them so naturally makes you so cool!
+Aya: Ehehe... You think so?
+Eve: Are there any other terms you picked up? If so, I would like to know more!
+Aya: Uhm, let's see... There are also strip lights, I guess?
+Eve: Strip lights... What exactly are those?
+Aya: You probably have a good idea of what they look like. They're the most basic type of lighting fixture that's used to light up the stage.
+Eve: I see! Claw hammer and strip lights... Those terms are incredibly interesting!
+Aya: Right? I think so, too! Oh, and there's-
+Chisato: Good morning.
+Eve: Oh, Chisato-san! Good morning!
+Aya: Morning, Chisato-chan!
+Chisato: Oh my. So you've been here, Aya-chan. A staff member was just looking for you.
+Aya: Looking for me? Why?
+Chisato: Well, you took the hammer out of the toolbox from the office, right?
+Chisato: It seems they would like to use it. So, once you're done with it, make sure to bring it back, okay?
+Aya: Uh... Errr...
+Chisato: Speaking of which, Aya-chan. What are you even doing with a hammer?
+Aya: So... Well, you see...
+Eve: Oh, I get it now. Aya-san was trying to teach me the things she learned from the theater club. She brought the hammer all the way here to show me!
+Aya: Haha... Ahahaha... Yup, That's right! Stage terminology and tools are really fascinating, right?!
+Eve: Thank you very much! I sure learned a whole lot from you!
+Aya: (S-sorry, Eve-chan... I just wanted to try using some of the terms I learned...)
+
+
+<Thanks to You>
+
+(Character: Aya Maruyama)
+
+[Station Entrance]
+
+Aya: Hey, {{userName}}-san! Nice to see you here!
+Aya: I'm actually heading to work right now! I've got time before my shift, but I wanted to get there early to pass out treats to the staff members!
+Aya: Ta-da~! These are my homemade treats! I sure worked hard on them!
+Aya: It's all thanks to them for supporting us through each show that we're able to even perform on stage.
+Aya: You see, I asked Maya-chan to let me help out at her school's theater club.
+Aya: After giving it a try, I realized how tough it actually is! I never thought that for a single performance, there would be so many things to consider and so much work that has to be done.
+Aya: That was when it occurred to me. Every performance we do as a band requires a lot of people working behind the scenes to make it a success.
+Aya: I'm hoping these cookies will help me express my gratitude! They're homemade, though, so I'm not too sure how good they taste...
+Aya: But a while ago, Sayo-chan told me she made some cookies, so I had her give me the recipe!
+Aya: It's really comforting to have a person who has it all together like Sayo-chan as a classmate!
+Aya: Anyway, let's see... I think I made enough for about twenty people? That's probably around the number of staff members there today.
+Aya: Yeah! I had a great time making them! All I could think of was how much I wanted the staff members to be happy when they get them. So in that sense, it wasn't a hassle at all!
+Aya: Besides, compared to all the things involved in producing a performance, I think making cookies is nothing!
+Aya: ... Huh? How do they taste?
+Aya: Well... I followed the recipe Sayo-chan gave me, so I think they should taste fine…
+Aya: And of course, I've given them a taste myself. But I guess I'd like to hear an objective impression too.
+Aya: Oh, I know! If you would like, you can try one too, {{userName}}-san!
+Aya: You're always helping me out, so yes! Please, go ahead!
+Aya: A-and also, I want to know what you think of them...? It'd be great if you could tell me how they taste...
+Aya: N-no! I mean, just in case, right? I just wanted to have an objective opinion on them!
+Aya: ... So, how are they?
+Aya: Ohh~! You think they're delicious?!  Really?! Oh, that's such a relief!
+Aya: Now I feel confident giving them to the staff members! Thank you so very much~!
+Aya: Oh, you have to head back to work now? Then I'd really appreciate it if you could take some with you!
+Aya: They're for Marina-san, of course! I'd like her to have some, too!
+Aya: I'll have to ask her what she thought about them the next time I see her!
+Aya: Anyway, I should get going! Have fun at work!

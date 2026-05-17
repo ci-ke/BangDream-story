@@ -1,0 +1,71 @@
+756_Yukina Minato_R2 Toward The Light
+
+<With The Person I Admire>
+
+(Character: Yukina Minato)
+
+[A Day Off]
+
+[Minato Residence - Yukina's Room]
+
+Yukina: (... Phew.)
+Yukina: (It's been a while since I've been able to space out and think about nothing.)
+Yukina: (Time to rest is quite important though. If I want to give my best effort, I need to save my energy...)
+Yukina: (Especially after making it this far...)
+Yukina's Dad: Yukina, you there?
+Yukina: Yes, I'm here. You can come in.
+Yukina's Dad: Sorry to intrude.
+Yukina: Is something the matter?
+Yukina's Dad: What do you mean? I'm here for one reason. Congratulations on winning the contest.
+Yukina: Thank you. But this was as expected. We spent a lot of time putting in the necessary rehearsal for this purpose.
+Yukina's Dad: Oh, I know. I have been keeping an eye on you.
+Yukina's Dad: So no rehearsal today?
+Yukina: Correct. We've reached the perfect point to take a break.
+Yukina's Dad: Good. Resting is important too, you know. If you want to give your best effort, you need to save your energy.
+Yukina: Fufu, I know. That's what I'm doing. The reason we made it this far is the strength everyone brings to the table...
+Yukina: The contest is just a point we're passing through. The real show is the fes coming up.
+Yukina: Lisa's kindness that envelops everyone...Sayo's sincerity that pushes her to pursue her own sound...
+Yukina: Rinko's bravery that advances her forward despite her timidity... Ako's innocence that reminds us all of our strength...
+Yukina: I wish you could see that Roselia now.
+Yukina's Dad: I'm sorry I couldn't make it to the contest.
+Yukina's Dad: I really did want to go, but I thought it would be better if I didn't until you came to me and invited me yourself.
+Yukina: I appreciate that. When it comes to musicians, we only see the result. I only want you to see us when we're standing on the fes stage.
+Yukina: I will stand on that same stage as the musicians worthy of respect, and I want you to evaluate me the same way you would those musicians...
+Yukina: That's what's important. The result. All of the effort and worrying that leads up to that do not come into consideration when being judged, right?
+Yukina: I don't want you to see the process. I want you to see the outcome that remains.
+Yukina: That is why I would like for you to come to the fes. That's where I want you to hear my... to hear Roselia's music.
+Yukina's Dad: Okay then. I'll be there. You have my word.
+Yukina's Dad: And I'll listen as if you were just another musician.
+Yukina's Dad: The performance you put on, the music you play... I look forward to it all.
+Yukina: You'll be glad you did.
+Yukina's Dad: Yukina...
+Yukina's Dad: I want to see your best performance. Good luck.
+Yukina's Dad: That... is coming from your father.
+Yukina: Thank you, father.
+
+
+<The Path I Believe In>
+
+(Character: Yukina Minato)
+
+[Record Shop]
+
+Yukina: ...
+Yukina: ...? {{userName}}-san...? Sorry, I couldn't hear you over the music.
+Yukina: You want to know which band I was listening to?
+Yukina: No, I wouldn't say I'm a fan. It's something the shop is recommending.
+Yukina: We don't have rehearsal today, so I came to look at some new records. I was hoping to find a song that might give me some ideas or motivation.
+Yukina: I want to give back the little bit I can to the band before we stand upon that stage we've been aiming for as Roselia...
+Yukina: ... Congratulations?
+Yukina: Oh, yes. Thank you. So you know about the contest, then.
+Yukina: We haven't achieved our goal yet, though.
+Yukina: We aim to perform on the Future World Fes stage.
+Yukina: If we put on a show I'm satisfied with and convinced by, we will have accomplished what we set out to do.
+Yukina: We can't get complacent before that.
+Yukina: ... After the fes?
+Yukina: I see. So you're also worried that we will have nothing to aim for in the future.
+Yukina: No, we don't have anything that we would call a goal that would follow at the moment. We don't, however, feel uncertainty because of that.
+Yukina: Whatever comes in the future is something that our future selves will find.
+Yukina: It's been one year since that last contest. During the period that followed, we were able to overcome our weaker selves. We learned how to look straight ahead.
+Yukina: With the way we are now, we can overcome whatever we're faced with in the future. I believe in the future of Roselia... I believe in the future of us five.
+Yukina: So, {{userName}}-san. Follow along as we lead.

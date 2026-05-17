@@ -1,0 +1,85 @@
+556_Kasumi Toyama_R3 Downtown's Call
+
+Gacha phrase: It's really happening!  They're playing our song downtown!
+
+<The Next Festival Is...>
+
+(Character: Kasumi Toyama, Tae Hanazono, Rimi Ushigome, Saya Yamabuki, Arisa Ichigaya)
+
+[Downtown]
+
+Kasumi: Hmhmhmmm~♪ Another fun-filled day of school behind us~!
+Tae: You said it. We had hamburg steak for lunch, after all.
+Arisa: Is that where your standards begin?
+Tae: It's an essential part of any day. And today, we were blessed with two big, juicy ones.
+Arisa: Alright already! I get it! Hamburg steaks are oh so important!
+Saya: Hahaha. ... Ah. Listen, everyone. It's playing.
+Kasumi: The downtown rally song! Yay! I can't get enough of it!
+Rimi: Hearing a song that we made being played all through the district is still kind of unreal.
+Saya: I feel the same way. It's somewhat embarrassing but also fills you with a sense of pride...
+Kasumi: I've been listening to it on my way to school every day! It's very energizing, and I feel like I can handle whatever life throws my way~!
+Arisa: Yeah, you were skipping your way through the front gate the other day...
+Kasumi: Hehehe~♪ This is definitely the song I want to sing during the next downtown festival~.
+Saya: I agree. It's sure to put everyone in a great mood.
+Arisa: Hit the brakes, guys. Isn't the next festival a long way off?
+Rimi: A festival~... I want to make more star candies together.
+Kasumi: Star candies! Great idea! I'd love to! There were a lot of food stalls last time, too~! Saya, will your family be setting up something?
+Saya: Sorry, we haven't made any concrete plans yet. My family mentioned wanting to do something, though.
+Kasumi: Bread specifically for the festival would make for a nice item! Okonomiyaki bread, cotton-candy bread, grilled-corn bread... What else could they put out?
+Tae: Hamburg-steak bread, obviously.
+Arisa: That's only because you want some, isn't it? And what on earth is cotton-candy bread?!
+Saya: Hahaha. Don't worry, we'll almost certainly be making bread specifically for the festival, so I'll be asking you for suggestions when the time comes.
+Kasumi: ... Ah!!
+Arisa: Whoa! What're you yelling for, Kasumi?
+Kasumi: Guess what I came up with~!
+Arisa: Spit it out, already!
+Kasumi: Okay, here's the plan. We gather up everyone. Roselia, Afterglow, Hello, Happy World!, and Pastel＊Palettes... And hold a group performance that'll rock this town!
+Rimi: Wow, so it'd be like the joint concert that we held before.
+Kasumi: Exactly! And just like last time, we'll shuffle the members in and out. It'll be amazing!
+Tae: Sounds nice. I'd be interested.
+Arisa: A joint concert for the festival... It'd be a pretty crazy event, if we actually pulled it off.
+Saya: All five bands in one place would be something special. The audience would go wild.
+Kasumi: And to top it off, at the end of the concert, everyone joins in singing the downtown rally song! Even the audience!
+Rimi: Kasumi-chan, I think you've hit the jackpot with this one!
+Saya: It should work. By the time the festival has arrived, everyone should already be familiar with the lyrics.
+Saya: The whole reason we made the song was to support the district and its people. I hope we'll be able to brighten their lives.
+Kasumi: Alright~! I'll get started on talking with the other bands, then we can swing by the community center and tell our idea to the nice man there!
+Rimi: I hope the other bands will want to participate.
+Kasumi: Me, too! We'll have the chance to fill the hearts of every single person here with sparkling, heart-pounding joy!
+Saya: Sparkling and heart-pounding, huh? Hahaha, should've seen that coming from you, Kasumi.
+Kasumi: Oh boy, I can already feel myself getting excited~! Let's do everything we can to make this one amazing festival!
+
+
+<Strolling Downtown>
+
+(Character: Kasumi Toyama)
+
+[Downtown]
+
+Marina: Hm? It's Kasumi-chan! Hey, Kasumi-chan~!
+Kasumi: Ah! Marina-san, {{userName}}-san! Hello~!
+Marina: Good afternoon, Kasumi-chan. Are you doing some shopping?
+Kasumi: No shopping to be had today. The weather is so nice that I decided to head out and take a little stroll!
+Marina: Mhm, it's a perfect day for taking a walk. Is that something you do often?
+Kasumi: It is! Especially when I don't have plans. You can often find me wandering around downtown!
+Marina: Fufu, sounds nice. ... Oh? The song that's playing right now... Isn't that the one Poppin'Party wrote?
+Kasumi: You bet it is! A track made specifically to help liven up the district.
+Marina: It's so nice to be able to actually hear a song you girls made when I'm here!
+Kasumi: Hehehe. The truth is, my walks last for much longer than intended because I wanna be able to hear them playing our music...
+Marina: Hahaha, you don't say. I can get behind that, though. Having the opportunity to go out and listen to your own music must be a rare treat.
+Kasumi: Yep! It really brightens my day!
+Kasumi: Not sure if you know, but... I spent time wandering around downtown while thinking of ideas for this song.
+Kasumi: Which led to all sorts of wonderful new discoveries that I had never noticed before!
+Marina: Wow, new discoveries? What kind?
+Kasumi: I guess one example would be that a cat often frequents that path over there! It's a real cutie, and you can sometimes find it laying about, basking in the sun.
+Kasumi: And the sign for that general store has a clock that not only chimes when it hits five o'clock but also occasionally puts out a little white dove from a tiny window!
+Marina: Wow. I had no idea. Did you, {{userName}}-san?
+Kasumi: Whenever I'm here, I'm always looking forward to what fun new discovery is out there waiting for me.
+Marina: Fufu. Your ability to notice the small but lovely details in life, the ones that others miss, is one of your strong points, Kasumi-chan.
+Marina: Alright, then! Here's a question for your observant mind. What do you like most about CiRCLE?
+Kasumi: That's easy! It's how the chairs and flowers and stuff in the café are changed depending on the season!
+Kasumi: And I can't forget how much I love the star-shaped window on the studio door!
+Kasumi: Don't worry, I have more! I adore how the sign near the entrance always has an adorable illustration on it when the live house is closed! It really brightens my mood!
+Marina: Whoa, nothing escapes your eye, does it? But that's a good thing~! I'm thrilled to know that CiRCLE means so much to you.
+Kasumi: Hehehe♪ CiRCLE is important to both me and Poppin'Party... No, it's an important place that so many people love with all their hearts!
+Kasumi: Marina-san, {{userName}}-san! I hope you'll continue being there for us!

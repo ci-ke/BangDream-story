@@ -1,0 +1,78 @@
+354_Hina Hikawa_R2 A Sparkling Stage
+
+<Let the Operations Commence>
+
+(Character: Hina Hikawa, Eve Wakamiya)
+
+[Talent Agency]
+
+Hina: Mornin'~!
+Eve: Good morning, Hina-san!
+Hina: Huh? Is it just you, Eve-chan? So we're not all gonna do our fittings together?
+Eve: Nope! Apparently, Aya-san and the others have things they have to take care of.
+Hina: Oh, gotcha~. Aren't you excited for our new outfits?!
+Hina: The design we saw sure was boppin'!
+Eve: Yes, I know they'll make fantastic costumes! I can't wait!
+Hina: Ohh~! The wait is killing me~!
+Hina: ... Oh yeah, listen to this, Eve-chan!
+Eve: What is it, Hina-san?
+Hina: I heard Roselia's making new stage outfits too!
+Eve: That's right! I wonder what they'll be like?
+Hina: Me too~. I tried asking my sister, but she wouldn't tell me anything!
+Hina: So I thought I'd see if you had any ideas on how to get her to show me her outfit!
+Eve: Hmm, let me see...
+Eve: Ah, that might work!
+Hina: Oh! Whatcha thinking?
+Eve: What if you sent Sayo-chan a picture of you wearing your new outfit first?
+Eve: When she sees it, she might send you a picture of her outfit in return!
+Hina: Oh! Nice idea, Eve-chan!
+Hina: ... Ah! Looks like they're ready for us! Alright, I'm gonna try out your suggestion!
+Eve: Okay. Good luck!
+(Black cut)
+
+[10 Minutes Later]
+
+Hina: All done, Eve-chan! And I sent my sister the picture!
+Eve: Oh~! Have you gotten a reply yet?
+Hina: No, not y- Oh! I just got a message from her!
+Eve: Did she send a picture of her new stage outfit?
+Hina: Y-yeah, she did, but...
+Eve: Is something wrong?
+Hina: All she sent was this~...
+Eve: ... That's... just a picture of it on her desk...
+Hina: Come on, Sis! I wanted a picture of you wearing your outfit~!
+Eve: How unfortunate...
+Hina: I even did a cute pose when I took this picture and everything! No fair~!
+Eve: Mission failed...
+Hina: Well, the fact that she sent it shows that we made progress!
+Eve: That's right! You just need to push a little bit more!
+Hina: And now, it's time! Let's come up with our next game plan!
+Eve: Y-you mean right now?!
+Hina: Of course! We'll get something to eat and come up with another boppin' plan of action~!
+
+
+<My Design>
+
+(Character: Hina Hikawa)
+
+[Shopping Mall]
+
+Hina: Ah, {{userName}}-san! What're you doing here?
+Hina: Errands for the studio? Wow, you're a really hard worker!
+Hina: Me? I'm just reading this fashion magazine!
+Hina: You heard we got our new stage outfits, right?
+Hina: Well, I thought I'd give costume design a shot!
+Hina: ... Oh! I actually have my design with me. Check it out!
+Hina: Well? Isn't it boppin'?
+Hina: Hmm~, so you don't like it either, huh...?
+Hina: I showed it to my sister too, but she took one look at it and said, "There's no way I would wear that"...
+Hina: Aw man~. And I thought the candy on the sleeves looked really cute, too!
+Hina: Hmm~, so I guess this is pretty hard~! But it's fun too!
+Hina: I've always picked up skills really fast, so I'd get bored pretty easily. But being an idol isn't like that at all! It's super interesting!
+Hina: I figured I'd get tired of it and quit sooner or later, but surprisingly, that never happened!
+Hina: I'm even excited about our new outfits! I bet there'll be a lot of boppin' things in the future too!
+Hina: Ah, you should give costume design a try sometime!
+Hina: It'll be fine~! I bet it'll be fun once you start giving it some thought!
+Hina: ... Ah. Look at the time! I'm meeting up with Chisato-chan, and she told me I'm absolutely not allowed to be late!
+Hina: I mean, I might be late anyway, but whatever~! Welp, I better get going!
+Hina: See ya, {{userName}}-san! I look forward to seeing your design!

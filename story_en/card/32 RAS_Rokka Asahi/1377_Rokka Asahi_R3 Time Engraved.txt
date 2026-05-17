@@ -1,0 +1,96 @@
+1377_Rokka Asahi_R3 Time Engraved
+
+Gacha phrase: This moment is also going to be engraved into me as proof of my time with RAS.
+
+<Sharing Thoughts Over Tea>
+
+(Character: Ako Udagawa, Mashiro Kurata, Rokka Asahi)
+
+[Café]
+
+LOCK (Rokka): Wow...! Th-this is such a classy café~.
+Ako: Yeah~! A lot of the customers look really fancy too. Mashiro, are you sure this is a place for high schoolers?
+Mashiro: Fufu, it's just a regular café, so don't worry.
+Mashiro: I come with my bandmates a lot. Oh, we sometimes even review our performances here.
+Ako: I can't believe you come to a place like this so often...! You're amazing, Mashiro~!
+Mashiro: You think so...? Ehehe...
+LOCK (Rokka): Morfonica does reviews at a place like this... I can just imagine everyone elegantly sipping tea while chatting and being all sophisticated-like...
+LOCK (Rokka): Fufu, I wonder if our reviews would feel any different if we did them somewhere this fancy.
+Ako: Huh~, so, what are RAS' reviews like anyway?
+LOCK (Rokka): Hmm~... There's usually some shouting between CHU²-san and Masuki-san.
+Mashiro: Sh-shouting...?!
+LOCK (Rokka): Mm-hmm. Just the other day, CHU²-san told Masuki-san to play harder, so Masuki-san snapped back and told her she already was playing as hard as she could...
+Mashiro: W-wow... If Morfonica was like that, I might be too scared to go to practice...
+Ako: We also sometimes get critical, but we've never had a shouting match before~.
+LOCK (Rokka): Ahaha... Y-yeah, I think it's pretty normal not to...
+Mashiro: A-are you okay with it, LOCK-chan...?
+LOCK (Rokka): Ah, I'm sorry. I didn't mean to make you two worry! I totally don't mind. It's just how we do things.
+LOCK (Rokka): I was a little shocked at first, but these days, it feels like something's missing when things don't get as heated.
+Ako: I think I know what you mean~! People only get worked up like that because of how serious they are about music, right?
+LOCK (Rokka): Exactly! Everyone cares so much about music that it sort of just naturally happens...
+LOCK (Rokka): Even when it almost sounds like fighting, I've realized recently that it's something we can only do because of how much we trust each other.
+Mashiro: I see. I guess doing reviews that way is what allowed you to put on such an amazing show at the festival.
+Ako: Yeah, you guys were really great!
+LOCK (Rokka): Ah, I almost forgot! I wanted to thank both of you today!
+LOCK (Rokka): I-I know this is a little late... but thank you so much for coming to the festival.
+Mashiro: You don't need to thank me. I'm really grateful I got invited to such an incredible event.
+Ako: The way you guys played was super awesome~! I had goosebumps the whole time~!
+Mashiro: Yes. Each note carried so much emotion that my skin tingled... It was like being in the middle of a storm.
+Mashiro: I couldn't even move for a while after the performance because it felt like the energy of your music still hadn't left my body...
+Ako: I was stunned too~! Like after being boomed with a super powerful offensive spell!
+LOCK (Rokka): So that's how you both felt... I'm so happy to hear that~.
+Mashiro: It wasn't just your music that was incredible, though. There was also the way the mood at the venue changed.
+Ako: Yeah! People didn't seem that excited at first because they didn't know you guys~.
+Mashiro: But then you started playing, and the fire of your music rippled out and engulfed everyone almost instantly... It was amazing...!
+Ako: Ah, that reminds me~! That woman next to us was super into it!
+Mashiro: Yes, she was. I was a little surprised because I never expected someone like her to be like that. She seemed so calm and dignified.
+LOCK (Rokka): Oh~, really?
+Mashiro: Her eyes were sparkling like a child's... You could tell she was really enjoying the concert.
+Ako: But before the show started, she felt so different... Like she was someone extraordinary.
+LOCK (Rokka): A dignified, extraordinary woman... Wait a minute...
+LOCK (Rokka): (Could it have been CHU²-san's mom...?)
+Ako: Hmm? Do you know her?
+LOCK (Rokka): N-no. Not exactly...
+LOCK (Rokka): (Well, it was a large event with a lot of people, so there's no guarantee it was her...)
+LOCK (Rokka): (But if it really was CHU²-san's mom who was enjoying our music, then...)
+LOCK (Rokka): (No, that's not good enough at all! Next time, we're going to make her go even more wild~!)
+Ako: Hey~, Rokka~?
+LOCK (Rokka): Ah, sorry! I was just thinking about something...
+LOCK (Rokka): By the way, could you tell me more about what you thought? I don't remember a whole lot about how we played.
+Mashiro: Oh, sure. There's a lot that I actually want to tell you.
+Ako: Me too, me too~! Um, first there's...
+
+
+<A Certain Employee’s Thoughts>
+
+(Character: Rokka Asahi)
+
+[CiRCLE Café]
+
+Marina: Brr~, it's so cold... I can't believe this temperature. Let's hurry up and finish cleaning.
+LOCK (Rokka): Hello, Marina-san, {{userName}}-san!
+Marina: Ah, Rokka-chan! Hi! Thanks for using our studio the other day.
+LOCK (Rokka): No, no, thank you! It was a huge help since Galaxy happened to be fully booked.
+LOCK (Rokka): And because we got to work on improving our new song that day, we were able to turn it into something mighty amazing, so thank you so much!
+Marina: I see. I'm glad we were able to help.
+LOCK (Rokka): Yes! I also never really had the opportunity to practice at CiRCLE until that time...
+LOCK (Rokka): So I got to see why people with more band experience than me like to practice here.
+Marina: Oh? Now I'm curious~. Care to go into some details?
+LOCK (Rokka): The equipment's very well-maintained, the staff here is friendly and nice, and most importantly, it's very comfy!
+LOCK (Rokka): A lot of effort seems to go into making it hospitable for the guests. I can see why so many people like CiRCLE!
+Marina: Fufu. Gee, thanks. It's a bit embarrassing to be showered with so much praise.
+LOCK (Rokka): Oh, but it's all true! I also work at a live house, so you can be sure of that!
+Marina: Fufu, if you like our place that much, how would you feel about working here part-time?
+LOCK (Rokka): What?! Me work at CiRCLE~?!
+Marina: Having someone so passionate like you would be a huge help~! You agree too, don't you, {{userName}}-san?
+LOCK (Rokka): I-I really appreciate the offer, I really do...! But I'm not sure I'd be able to juggle three jobs...
+Marina: Fufu. Sorry, I was just joking.
+Marina: If I tried to recruit you, I'd have Yoshiko and, even worse, Galaxy's owner getting mad at me and telling me not to poach their valuable employee.
+LOCK (Rokka): O-oh~. You scared me a bit right there~.
+Marina: Sorry, I didn't mean to. But it'd be nice if you could come use our facilities every now and then when you feel like it.
+LOCK (Rokka): Ah, that reminds me! I actually came today to book a studio.
+LOCK (Rokka): I asked CHU²-san if we could practice here for a change of scenery, and she said she wouldn't mind doing so every now and then.
+LOCK (Rokka): So, do you have any available slots sometime next week?
+Marina: Wow~, that's great. Thanks, Rokka-chan! I'll look into it immediately. Hold on a bit, will you?
+Marina: Ah, it's cold out here. Come on inside with us. Do you mind waiting in the lobby?
+LOCK (Rokka): Thank you very much! Fufu... I do really love this hospitality~.

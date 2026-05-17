@@ -1,0 +1,92 @@
+823_Eve Wakamiya_R3 Treasure by the River
+
+Gacha phrase: We discovered so much. It was like a treasure hunt!
+
+<Discovery! An Interesting Stone☆>
+
+(Character: Ran Mitake, Hagumi Kitazawa, Eve Wakamiya)
+
+[Riverbed]
+
+Eve: Fufu, the sound of running water is so sublime♪ Even in winter, the riverbed is oh-so delightful, Ran-san!
+Ran: Well, I guess it's alright. All the rocks make it hard to walk, but it's not so bad once you get used to them.
+Eve: Huh? Tae-san and Himari-san have begun walking towards the river...
+Ran: Think they spotted a fish or something? Maybe we should have a look too.
+Hagumi: Wooow~!
+Eve: Wh-what is it, Hagumi-san?!
+Hagumi: Eve-chin, Ran-ran! Look, look! I found something really cool! This rock is super sparkly~!
+Eve: Wow, this dazzling display of colors is so very beautiful!
+Ran: Hey, nice job finding that under all these other rocks.
+Hagumi: Hehehe, I thought there might be some other exciting stuff around here, and I just happened to find one~!
+Hagumi: There might be some other cool rocks nearby. I'll keep looking!
+Eve: I will do the same! Ran-san, you should join us!
+Ran: Who, me...? Sure, I guess.
+Hagumi: Let the hunt begin! Where could they be hiding~? Ah~...! Found one~!
+Ran: Huh? Already?
+Eve: I-incredible...! Hagumi-san, what kind of stone have you found this time?!
+Hagumi: Ta-da~! See for yourselves! Pretty good, right? I've never found a rock as round and smooth as this one!
+Eve: Very good! Round and smooth... with a nice glossy layer♪
+Ran: I suppose it is rare to find a pristine rock like that in a riverbed like this.
+Hagumi: I'm starting to think today is my lucky day! They even let me handle class duties at school today!
+Ran: ...? How is getting stuck with class duties lucky?
+Hagumi: During homeroom this morning, our teacher went on about how pretty the blackboard looked~.
+Eve: It is true that you leave the blackboard with a sparkling shine, Hagumi-san. The students in the later classes are often pleased with how easy it is to write on!
+Hagumi: Really?! Hehehe, glad to hear it~.
+Hagumi: I think I'll show this stone to Kokoron tomorrow~♪ I hope it'll fit in my pocket~.
+Ran: There is no way a rock that big will fit, you know. Ah...
+Eve: Ran-san, what is it? Something at your feet...?
+Hagumi: Oh, did you find a cool-looking rock too?!
+Ran: I'm not sure if it's cool or whatever, but... Look. Doesn't this one look like a guitar pick?
+Hagumi: Yeah, it totally does!
+Eve: Well done, Ran-san! I hope to find one of my own.
+Eve: I must not fail in my search~. To never falter is the way of bushido!
+Hagumi: Keep at it, Eve-chin! I'm rooting for you!
+Eve: Thank you very much! Hm...? Ah! Hagumi-san, there, by your feet...!
+Hagumi: Huh? By my feet?
+Eve: Yes! Look, that stone perfectly resembles the magatama!
+Hagumi: Whoa~! So cool~!
+Ran: It's definitely got a weird curve to it...
+Eve: Fufu, I did it! I found an interesting stone of my very own!
+Hagumi: I bet that stone popped up when it felt your bushido spirit gushing out, Eve-chin!
+Eve: Fufu, how wonderful!
+Eve: I believe I will take it home as a way to remember this day!
+Hagumi: Ah, me too, me too! It'll look great right next to Monkey~♪
+Ran: Wouldn't it be better to leave the round one here, though? It's a little big if you ask me.
+Hagumi: Hmmm, maybe you're right~. Okay, as much as I hate to, I'll stick with just the shiny one!
+Eve: Why not leave the round one in an easy-to-find place and return to fetch it some other time?
+Hagumi: Nice idea, Eve-chin! I'll do that!
+Himari: Ran~! Hagu~! Eve-chan~! What are you doing~? Don't get left behind~!
+Eve: Ah, my apologies~! Hagumi-san, Ran-san. Himari-san is calling us! Let's go!
+
+
+<Because I Love You>
+
+(Character: Eve Wakamiya)
+
+[Hanasakigawa Girls' Academy - School Path]
+
+Eve: Good afternoon, {{userName}}-san! Those bags... Are you on your way back from shopping?
+Eve: Ah, they are supplies for the CiRCLE studio. I have just finished my tea-ceremony club activities.
+Eve: I feel like I learned many new things today!
+Eve: Um, the rest of Pastel＊Palettes and I have a magazine interview later.
+Eve: It has been a while since our schedules have lined up like this.
+Eve: We have much to catch up on, so I am looking forward to it.
+Eve: Huh...? No, I do not feel particularly stressed! I enjoy both my job and my club activities!
+Eve: Tae-san said something similar the other day.
+Eve: How she continues to go jogging because she enjoys it. I believe we are alike in that aspect.
+Eve: Participating in events with Pastel＊Palettes, hearing the sound of the cheering fans when we play on stage...
+Eve: They are all areas of the idol industry that I love so much!
+Eve: And I feel the same way about my clubs and my part-time job. No matter how busy I become, I never feel stressed by it.
+Eve: Being able to spend every day doing the things that I enjoy makes me happy beyond words.
+Eve: Fufu, thank you for the concern!
+Eve: The secret to good health is a balanced lifestyle... Yes, that is yet another part of the bushido mentality!
+Eve: Oh, that reminds me! Here, please accept this!
+Eve: This is a sample from one of Himari's secret unique recipes: melon bun in the form of rusk. It is quite delicious!
+Eve: All you need to do is place the melon bun in the toaster. I have been taking some with me to work lately.
+Eve: Our staff is also very fond of it. I am so glad that it is to their liking!
+Eve: Thanks to this rusk, the atmosphere at the agency is even warmer than before, and our work has become even more enjoyable!
+Eve: I hope to follow in Himari-san's footsteps to learn recipes of my own so I can create many more of these types of gifts!
+Eve: I'll be sure to provide you with a sample of my new repertoire, {{userName}}-san♪
+Eve: Eating many delicious types of food. Yes, that is yet another secret to keeping in good health!
+Eve: Ah, pardon me! I lost track of the time with all of my rambling.
+Eve: Okay, I should be on my way now. Please have a wonderful day at work, {{userName}}-san!

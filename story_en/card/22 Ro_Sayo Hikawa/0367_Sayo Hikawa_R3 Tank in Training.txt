@@ -1,0 +1,99 @@
+367_Sayo Hikawa_R3 Tank in Training
+
+Gacha phrase: There seems to be something large coming this way...
+
+<Quest Marker>
+
+(Character: Yukina Minato, Sayo Hikawa, Ako Udagawa, Rinko Shirokane)
+
+[Departure Village]
+
+Demon Princess Ako (Ako): Alright, we're off to Rogolo Mine~!
+Sayo: He said west, right? So, that way? I don't see anything that looks like a mine though...
+RinRin (Rinko): It'll come into view once we leave the village (｀･ω･´)ゞ
+Yukina: Really? Just doing that will allow us to see something that we currently can't? That's bizarre.
+Sayo: Well, in that case, why don't we head out... then?
+Yukina: Sayo? What happened?
+Sayo: That person standing there has an exclamation point over their head.
+RinRin (Rinko): That indicates that there's a quest. Anyone who has one over their head needs help. They ask players to do jobs for them and to assist with various things (*´∨`*)
+Demon Princess Ako (Ako): If you talk to one of them, they'll ask if you can defeat some monsters, or deliver a package, or something like that!
+Demon Princess Ako (Ako): Then, when you finish the quest, you get a reward!
+Sayo: I see. So those people want to ask us for help, or in other words, they're having trouble with something, correct?
+RinRin (Rinko): I suppose you could put it that way ('ω'*)
+Sayo: Alright, then let's hear what they have to say.
+Demon Princess Ako (Ako): Huh?! Ah... There she goes...
+RinRin (Rinko): I kind of remember that man's quest being a long one... ヾ(。>д<)シ
+Sayo: I talked to him. He said he would like for us to search for his dog in the forest south of here. That's a different direction from the mine.
+Demon Princess Ako (Ako): Why don't we start by delivering Jake-san's letter? Then we can do that quest afterward!
+Sayo: I cannot allow that. That man's dog is very important to him.
+Sayo: He has cherished it since before he can remember and loves it from the bottom of his heart. We must head to the forest immediately...!
+Demon Princess Ako (Ako): Sayo-san, Sayo-san... It's okay, that quest doesn't even have a time limit.
+Sayo: So if you put this off and something happens to that poor dog, what do you plan to do about it? He mentioned that there are a lot of monsters there, too.
+Demon Princess Ako (Ako): We can just go to the mine first. The dog will still be okay. Besides, aren't there a lot of steps to complete that quest...?
+RinRin (Rinko): There are (´･ω･｀;) Once we find it, it'll run away,  and then we'll have to go to the canyon on the other side of the forest...
+Demon Princess Ako (Ako): And the monsters in the canyon are super strong, which means we should start by going to the mine...
+Sayo: But that man needs help.
+Yukina: ... A moment, you guys. This conversation is just going in circles. At this rate, it'll never end. You need to decide whether we're going south or west. And quickly, please.
+Sayo: I want to go south.
+Demon Princess Ako (Ako): If we do that quest first, we won't be able to start Jake-san's before our computer time runs out!
+RinRin (Rinko): If that happens, the campaign weapon will be lost...
+Yukina: Right, and that's the whole reason we're here. Sayo, let's look for the dog afterward.
+Sayo: Are you saying you don't feel bad for that man? We're the only ones he can count on.
+Demon Princess Ako (Ako): Sayo-san, Sayo-san. Look, some other travelers just started talking to him. It should be fine now!
+Sayo: ... I see. You're right. Okay, I suppose we'll leave that job to those people then.
+RinRin (Rinko): Okay. Let's get back on track and make our way to the mine... Hm? Hikawa-san...?
+Sayo: There are people over there who have exclamation points over their heads. In there, too. Everyone seems to be having some sort of trouble.
+Sayo: Shouldn't we try to help these people solve their problems since none of the other travelers are talking to them?
+Sayo: I'm going to go talk to the person in blue. You guys go talk to the rest of them.
+Demon Princess Ako (Ako): What~?! You're gonna accept all of those quests?!
+Sayo: Let's hear what everyone has to say, then create a priority list for the order in which we should deal with each request.
+RinRin (Rinko): If we accept every quest in town, we might not be able to finish them even if we extended our computer time (ﾟдﾟ；)
+Demon Princess Ako (Ako): Yeah. Let's just start by playing until we have the campaign weapon!
+Sayo: But...
+Yukina: Sayo... You're not... becoming addicted to this game, are you...?
+Sayo: Of course not. However, whether it's a game or not, I can't just ignore someone who needs help...
+Yukina: There, you just said it. This is a game. Stop worrying about that, and let's do what we came here to do.
+Sayo: ... Understood. We just have to go to the mine west of here, right?
+RinRin (Rinko): She says she understands, but... Hikawa-san looks like she's still thinking about it, Ako-chan (´･ω･｀;)
+Demon Princess Ako (Ako): She really does has a sweet side, huh?
+Yukina: I think she's just taking things too seriously.
+Sayo: ...? Guys, hurry up. Let's go to the mine already.
+Sayo: Once we're done there, we can hear what all of these people have to say. Let's get a move on.
+
+
+<A Serious Personality>
+
+(Character: Sayo Hikawa, Ako Udagawa)
+
+[CiRCLE Café]
+
+Sayo: Looks like we arrived a bit early. Udagawa-san, let's wait for everyone else at the café
+Ako: Yeah, alright!
+Sayo: Hm? Is that {{userName}}-san over there?
+Ako: It is! Hello, {{userName}}-san! Mind if we join you?
+Sayo: Thank you. I suppose I'll sit here then.
+Ako: Coming through~! Oh, hey! {{userName}}-san, listen to this! The other day, all the members of Roselia hopped online and played a video game together!
+Sayo: She's been telling this story to everyone we run into...
+Ako: I have to! Doing that as a group was just so much fun!
+Ako: Especially with how dead set you were on doing those quests!
+Sayo: Again with that...? {{userName}}-san, this story isn't of any importance. You can pretty much ignore her. It's fine.
+Ako: Sayo-san, don't say things like that~! {{userName}}-san, you wanna know, right?
+Sayo: ... If you insist. I'll do the talking though. No need to waste time with unnecessary details.
+Sayo: In the game, indicators appear over the heads of people who want to ask travelers for help.
+Sayo: They have a system in place where you receive rewards for accepting and completing these types of requests.
+Ako: You don't have to agree to do all of them, but that's exactly what Sayo-san wanted to do.
+Sayo: It bothered me that those indicators were left there... Actually, I couldn't stop thinking about it, so I went back to the internet café and kept playing.
+Ako: What~?! You're totally addicted!
+Sayo: I'm not addicted. It was just bugging me, that's all. Wouldn't something like that bug you too, {{userName}}-san?
+Sayo: ... No? I think if you played, you would understand.
+Ako: So did you accept all of the quests?
+Sayo: No, there wasn't enough time for that. I did realize one thing though. When you complete a quest, you get a stamp of some sort in this journal-looking thing.
+Ako: Yeah! Once you have enough, you can trade those for items!
+Sayo: Right. I don't care much about the items. However, it's really unsettling to see all of those empty spaces where a stamp is supposed to go.
+Sayo: I can't just have one stamp. I want all of them to be nicely lined up together in their boxes, which means I would have to complete every single quest.
+Sayo: Having only some of the stamps filled in just wouldn't feel right, would it, {{userName}}-san?
+Ako: Hmm~... It doesn't really bother me though... Not to mention, if you tried to fill them all in, you'd be playing forever...
+Sayo: ... Oh... But it still makes me feel uneasy...
+Ako: You're even serious when you're playing a video game, Sayo-san. You know, if you care that much, we can play again sometime!
+Sayo: It's true that I can't get it off my mind, but whether or not I'll play again is another story. After all, I haven't forgotten about my guitar.
+Ako: What~?! Aww, man~...!

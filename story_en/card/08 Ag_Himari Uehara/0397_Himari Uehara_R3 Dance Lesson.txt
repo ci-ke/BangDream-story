@@ -1,0 +1,95 @@
+397_Himari Uehara_R3 Dance Lesson
+
+Gacha phrase: Kaoru-senpai, you're so cool...!!
+
+<Future Actress?>
+
+(Character: Himari Uehara, Tomoe Udagawa)
+
+[Haneoka Girls' Academy]
+
+Himari: Hmhmhmm~♪
+Tomoe: Ahaha, looks like you're enjoying yourself, Himari. Was that step you just did from Seta-senpai's musical?
+Himari: That's right~! Hmhmm~♪ Left, right, left, right~♪
+Tomoe: Hey, man, it's dangerous to dance while you walk.
+Himari: It'll be fine~! Right, left, and turn~...♪ Whoa!
+Tomoe: Himari! Yo! You alright?!
+Himari: Ow... Ohh, I lost my balance~...
+Tomoe: Jeez. Why do you think I was warning you? C'mon, gimme your hand.
+Himari: E-ehehe... Thanks, Tomoe!
+Tomoe: ... You know, no matter how many times I look back on it, I still can't get over how fun that musical was.
+Himari: Mhm! We got to do singing, dancing and acting! And the audience clapped so much for us!
+Himari: Not to mention we got to do a theater performance together with Kaoru-senpai... That's something you remember for the rest of your life right there~!
+Tomoe: The place was buzzing like crazy. The crowd even cheered when you and I were dancing and acting and stuff too.
+Himari: Yeah! It was like becoming a star! That was a nice feeling! Ehehe♪
+Himari: Maybe I can become an actress in the future~... Just kidding!
+Tomoe: Ahaha... There's no way it'd be that easy.
+Himari: You think~? I feel like it'd go surprising well!
+Tomoe: Ahaha. Well, aren't you confident!
+Himari: You could say that~. Think about it. At first, I was really bad at acting, and I just made everyone else's job harder, but...
+Himari: By the day of the show, I think I was pretty good!
+Himari: And I bet I made some fans of my own by being in Kaoru-san's musical~! Ehhehe~♪
+Student: E-excuse me! You two... You were in Kaoru-sama's musical, right?!
+Himari: Huh? Yes! We were!
+Himari: (... A-an actual fan?! What do I do~?! I wasn't ready for this...!)
+Student: ... Tomoe Udagawa-san! You were so cool up there, standing next to Kaoru-sama...!
+Tomoe: Wh-what?! M-me...?! Uhhh... Uhm, th-thanks... I'm happy to hear you enjoyed it.
+Student: I'm gonna be sure to go to your next concert! Okay, see you later...
+Tomoe: Th-thank you... H-haha... Man, how do I even respond to that...? So I was cool, huh...?
+Himari: ... To~mo~e~!
+Tomoe: H-hey... There's no reason to glare at me like that~!
+Himari: But I was standing there all nervous thinking I might have actually made a fan~!
+Himari: Well, I guess you've always been super popular with the girls~.
+Himari: Sigh... I wonder if I made any fans like that~.
+Student: Uhh, excuse me. You two were in Kaoru-sama's musical, right?
+Himari: Yes we were~! Himari Uehara and Tomoe Udagawa, in the flesh!
+Student: I'm so glad to meet you! You were both absolutely wonderful up there!
+Himari: Ehehe~! Thank you very much!
+Student: Especially you... Tomoe-san!
+Himari: What~?!
+Student: You were just so cool, both when you played the drums and when you were dancing...! I was a fan before I even knew it!
+Tomoe: I-I see... Thank you. If you have the time, please come to Afterglow's next concert as well.
+Student: Yes, I'd love to!
+Tomoe: ... This makes me pretty happy. It seems like we'll get more people to come listen to our music because of that musical.
+Tomoe: Now I'm really excited for our next show! Aren't you, Himari?!
+Himari: I-it's no fair, Tomoe~! You can't take all the fans~! I want them to scream and cheer for me too, you know~!
+Tomoe: What do you want me to do about it...? Ahaha...
+
+
+<A Greeting Card>
+
+(Character: Himari Uehara)
+
+[Station Entrance]
+
+Himari: ... Eh heh heh~♪ I've got a picture next to Kaoru-senpai~!
+Himari: No matter how many times I look at it, it still makes me smile~! Ehehehe~♪
+Himari: Ah, {{userName}}-san! Hey hey~!
+Himari: I was just looking at this poster I got! This one! Here, take a look!
+Himari: So I put on a musical with Kaoru-senpai and the Haneoka theater club. This is the poster for it!
+Himari: And this is the main thing you should be looking at! Next to Kaoru-senpai! That's right! I'm standing next to her~!
+Himari: Right next to her! Side by side! Ahhh! It's like a dream come true~!
+Himari: Once it was decided that I would be the new bass player, they fixed the poster right away. Oh, the emotions I felt!
+Himari: Ah, I got a copy of the original one too. Look, the plan was actually to have Hagu be in the show, but...
+Himari: ... Oh, I'm sorry! You're right. I can't just suddenly show you posters and expect you to know what I'm talking about.
+Himari: So~, the other day, Kaoru-san put together a musical as a White Day gift to give something back to her fans.
+Himari: And Hagu was supposed to be in it as their bass player, but I ended up standing in for her since she hurt herself.
+Himari: It was pretty tough because the role didn't only need a musician! I had to dance and act too! When I actually tried it out, though, it was a lot of fun!
+Himari: And our lead, Kaoru-senpai, was so lovely...
+Himari: It was such a good show! All of the people in the audience enjoyed it, too!
+Himari: I even got this from Kaoru-san as thanks!
+Himari: Ta-da~! It's a card! She wrote a personal message, too~!
+Himari: Do you wanna know what she wrote, {{userName}}-san~?
+Himari: Jeez~, I guess I have no choice now~! But don't tell anyone, okay?
+Himari: Alright, here we go... Ahem. "Himari-chan, I appreciate everything you do. Every time your radiant smile showers us with a fleeting air, a fleeting sigh escapes me..."
+Himari: "Ahh, you're like an angel who descends upon us during a spring day... So fleeting... Cheers to your smile. With love, Kaoru Seta."  You hear that?! Ahh... So beautiful~!
+Himari: Uhm... Well, I can't tell you what it means because I'm not sure...
+Himari: But that's okay! I just know she's complimenting me! I think...
+Himari: On top of that, Kaoru-senpai gave a card to all of the kids she invited, and not a single one of them has the same thing written in it!
+Himari: She wrote something specific for each and every person!
+Himari: So this one I'm holding right now was written just for me~! Amazing, isn't it?!
+Himari: It's nice to know that it was made with only me in mind! I'm gonna have to make this a family treasure!
+Himari: Ehehe... Yeah, I know, right? But hey, it's only natural that we love her as much as we do! Kaoru-senpai is just so cool~!
+Himari: Ah, speaking of, have you been to one of her shows before?
+Himari: I'd recommend going to at least one if you haven't yet! I know for sure you'd become a fan of hers too.
+Himari: I'll invite you the next time she's having one! We can go together!

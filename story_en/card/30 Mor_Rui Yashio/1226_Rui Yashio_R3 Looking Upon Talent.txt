@@ -1,0 +1,98 @@
+1226_Rui Yashio_R3 Looking Upon Talent
+
+<Talent Should Be Utilized>
+
+(Character: Nanami Hiromachi, Rui Yashio)
+
+[Shopping Mall]
+
+Rui: (... There is a considerable crowd. Perhaps I should have come later...)
+Nanami: Hm? Ah, Rui-rui.
+Rui: Hiromachi-san? Good day. That cardboard box... It seems you have purchased something of considerable size.
+Nanami: Oh, this? I bought a canvas. It's been a while.
+Rui: Would it not have been better to have it delivered?
+Nanami: I thought about it, but I really want to paint right now.
+Nanami: That's why I'm taking it home with me. Having it delivered would take time.
+Rui: I see... Did something happen?
+Nanami: Hm?
+Rui: If I recall correctly, you had quit painting.
+Rui: Just as I had quit playing the violin.
+Rui: Yet, I took up the violin once again because I wished to see what would happen when one prioritizes one's emotions.
+Rui: I thought perhaps that you, too, had found a reason to resume.
+Nanami: A reason, huh~...? To be honest, I don't really know myself.
+Nanami: But... Remember the t-shirt Toko-chan made?
+Rui: I assume you mean the one with your painting.
+(White cut)
+(Background change)
+Nanami: Mm-hmm. Everyone looked so happy when they saw my painting...
+Nanami: And I just can't seem to forget that moment.
+Nanami: Maybe the reason I want to paint again... is because I want to see how they'll react this time.
+(White cut)
+(Background change)
+Rui: I see. That must be your reason then... I have to say, I do not understand it.
+Rui: You have a talent for art. That has already been demonstrated by you becoming the youngest winner of the grand prize in the past.
+Rui: It is only natural that your talent be acknowledged... Yet everyone's praise somehow brought you joy. I cannot understand why.
+Nanami: Oh... I'm sorry, I can't really think of another way to explain...
+Rui: You do not owe me any further explanation. It is merely a case of your reason being one that I cannot comprehend.
+Rui: In any case, I approve of your decision to resume painting.
+Nanami: Oh... you do?
+Rui: That is because talent is meant to be utilized.
+Rui: Unused talent simply languishes, and that is wasteful.
+Rui: Every talent should have a place where it is meant to shine.
+Nanami: Umm~... So, you're basically saying...
+Nanami: You look forward to seeing my painting?
+Rui: I will not deny that I am curious to see what you can paint now.
+Nanami: Oh... I see~.
+Rui: Why are you smiling?
+Nanami: No real reason~. I was just thinking about how you're also looking forward to my painting.
+Rui: ... I merely stated that I was curious to see what you can paint.
+Rui: In any case, I should be going.
+Nanami: Ah, wait. Why don't we shop together~?
+Rui: But you are already done shopping.
+Nanami: Not yet. I might end up wanting to buy something while looking around.
+Rui: I see. Very well. In that case, I have no particular reason to refuse.
+Nanami: Yay! Hurry up, let's go then.
+Nanami: Ah, I should store this in a locker first, though.
+Rui: True. Let us go and find one then.
+(Black cut)
+(Background change)
+
+
+<Making Miracles Happen>
+
+(Character: Rui Yashio)
+
+[Station Entrance]
+
+Marina: Hm, there's a solo art show here... I wonder how long it's been going on. Did you know about it?
+Rui: Greetings, Tsukishima-san, {{userName}}-san.
+Marina: Ah, hi, Rui-chan. Are you on your way somewhere?
+Rui: Yes, there is something I must take care of.
+Marina: I see. We were just looking for a place to do lunch when we came across the solo art show right there.
+Rui: Solo art show...?
+Marina: See, over there. The one with all kinds of pictures on display.
+Marina: They all look so nice. I find myself being drawn to them...
+Marina: This reminds me of the t-shirt Toko-chan showed us. That was a nice picture too~.
+Rui: Are you referring to the painting that was printed on the back of Kirigaya-san's t-shirt...?
+Marina: Yeah, I really liked that one as well. The moment I saw it, I couldn't take my eyes off.
+Rui: That painting was awarded the grand prize at an art competition. It is only natural that you rate it highly.
+Rui: The artist wished for the painting to remain out of the public eye, but Kirigaya-san took a liking for it and managed to get their permission to use it for her t-shirt.
+Marina: Grand prize... You mentioned it so casually.
+Marina: I have to say, Toko-chan's initiative is impressive as always. It's one thing to like a painting, but it's something else entirely to turn it into a t-shirt just because you like it.
+Rui: Whether or not her actions are impressive is debatable, but I will admit that her actions can yield unexpected results.
+Rui: And sometimes, the results are even positive.
+Marina: Well, there are times where it's better to act rather than worry and do nothing.
+Rui: Indeed. However, those are the exceptions, not the rule.
+Rui: Action without thought can produce unforeseen results, but the risk of failure also increases.
+Rui: Therefore, it is best for one to formulate a proper plan and act in accordance with it.
+Rui: At least that way, the outcome will always be consistent.
+Marina: You do have a point...
+Marina: But I think when it comes to Toko-chan, I don't think there's any need to worry about the risk.
+Rui: May I inquire as to why you believe that to be the case?
+Marina: Because if it looks like she might fail, you and everyone else will be there to help her, right?
+Rui: As a fellow member of the same band, I do intend to provide assistance to a certain degree so long as it concerns the band's activities.
+Rui: That said, I would prefer that she not cause any trouble in the first place.
+Marina: Fufu, I think that's more than she could ask for.
+Rui: ... My apologies. It is almost time for my train, so I must take my leave.
+Marina: Ah, sorry to have kept you. Guess we should get going too.
+Rui: Good day.

@@ -1,0 +1,72 @@
+194_Lisa Imai_R2 Romantic
+
+<A Close Friend's Growth>
+
+(Character: Yukina Minato, Lisa Imai)
+
+[Haneoka Girls' Academy - Hallway]
+
+Lisa: Alrighty~. Now that my shift is over, I think I'll take a quick look around the other classrooms♪
+Lisa: What are the other classes doing...? Uhh, program, program... Here we go.
+Lisa: Ran's class... A maid café?! Himari's class is doing face painting, huh...? Wow, sounds fun♪ You go, first years!
+Lisa: While I'm at it, maybe I should ask Yukina to join me. Last year she was saying how stupid Culture Festivals are, so she didn't go with me... Wanna try to avoid that happening again...
+Yukina: Fortune-telling. Feel free to stop by.
+Lisa: Ah, Yukina! There you are~.
+Yukina: Lisa. What happened?
+Lisa: My shift ended, so I figured I'd check out the other booths and stuff♪ What are you up to?
+Yukina: My class is doing fortune-telling, so I'm handing out flyers. Do you want to give it a try?
+Lisa: Huh...? You're handing out flyers...?!
+Yukina: ...? Is there something wrong with that?
+Lisa: No no, nothing wrong! Not at all! Is that your only job, Yukina?
+Yukina: Yes. My classmate and I are taking turns handing them out.
+Lisa: Th-the word "classmate"... From Yukina's mouth...?!
+Yukina: Is everything okay, Lisa?
+Student A: Ah, it's Minato-san!
+Yukina: Hey. Did something happen?
+Student A: About the flyers... Apparently, it's better if they're distributed outside. If you don't mind, could you do it out there?
+Yukina: I see. Which area would be best?
+Student A: It seems right outside the gate is a good spot. If you get tired, you can come back in right away... So, could you?
+Yukina: Alright, understood... Lisa.
+Lisa: ...
+Yukina: Lisa? What's wrong? You've been acting weird.
+Lisa: Huh?! Ah, s-sorry!
+Yukina: Didn't you come here because you had something to tell me?
+Lisa: Yeah, that's right... I did, but it's okay.
+Yukina: ...? If you have something to say, I'd like you to say it.
+Lisa: Nah, it's nothing! Really! Man, oh man... You're really doing it, huh...?
+Yukina: If you say so... I have to go out to distribute these now, so I'm gonna go.
+Lisa: Okay! Good luck, Yukina!
+Lisa: Wow, Yukina handing out flyers~... I see... People really do change...
+Lisa: ... I wonder if this is thanks to Roselia too...
+Lisa: Looks like I didn't avoid a second year without Yukina, but...
+Lisa: I guess this is okay too♪
+
+
+<A Touching Moment>
+
+(Character: Lisa Imai)
+
+[Station Entrance]
+
+Lisa: Ah, {{userName}}-san! Hey!
+Lisa: Me? Because of the Culture Festival the other day, I was given free time today! And it's been a while, so I thought I'd do some shopping♪
+Lisa: Yep, Haneoka's Culture Festival was the other day. Have you been?
+Lisa: Ours is big enough to be the number one festival out of all the schools in the area! I'm sure if you came, you'd enjoy yourself as well!
+Lisa: This year's festival was fun too! And our class was a big hit.
+Lisa: We ran a café! We even thought of our own original drinks! It was great!
+Lisa: Not to mention, there was something I saw this year that really moved me...
+Lisa: Yukina was handing out flyers for her class! That Yukina! Isn't that amazing?
+Lisa: At first, she was handing them out in front of the classroom, but someone came by and asked her to distribute them in front of the school gate where there were more people.
+Lisa: I watched to see how she would react, but all she said was, "Understood"!! Crazy, right?!
+Lisa: I couldn't believe my eyes, seeing Yukina help her class out like that.
+Lisa: Last year, she wasn't cooperative at all... Actually, she didn't even come to school on the day of the Culture Festival.
+Lisa: I'm talking about that very Yukina, you know. Doesn't that just touch your heart?
+Lisa: It made me think, Yukina might have changed because of Roselia.
+Lisa: And that even though there were a lot of bumps along the way, it seems like putting together the band was the right move.
+Lisa: Mhm, mhm, you think so too, right? Wow, it's just so amazing. To think Yukina would come to this point...
+Lisa: ... Wait, I'm starting to sound like a grandma! Spending all this time thinking about the old days...
+Lisa: But that's just because I'm happy about how Yukina has changed!
+Lisa: And I'm sure she'll continue to change in many positive ways. I just have a feeling.
+Lisa: I plan on watching over her, supporting her... and sometimes being tough on her!
+Lisa: So, {{userName}}-san. I want you to watch over us too.
+Lisa: ... Mhm, that'd be great. Thank you, {{userName}}-san.

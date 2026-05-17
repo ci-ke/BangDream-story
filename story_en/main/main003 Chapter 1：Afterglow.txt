@@ -1,0 +1,65 @@
+main003 Chapter 1: Afterglow
+
+Kasumi and Saya go to scout for Afterglow when they run into someone they know.
+
+(Character: Kasumi Toyama, Saya Yamabuki, Ran Mitake, Moca Aoba, Himari Uehara, Tomoe Udagawa, Tsugumi Hazawa)
+
+[CiRCLE - Lobby]
+
+Marina: Hmm~. I guess Roselia were a tough start after all...
+Kasumi: I'm sure they'll come around, though! Once they hear our performance, I know they will...! We just need to practice hard. Right, Saya?
+Saya: Exactly. That's as far as we can get with Roselia for now... Maybe we should get started on some of the other bands.
+Marina: Saya-chan's right, we should continue scouting. I thought we could try asking Afterglow next, which is why I called you down here.
+Marina: They're in the same studio they always use. You should go and pay them a visit. That means you too, of course, {{userName}}-san!
+Kasumi: I wonder what they're like. I can't wait to meet them! Let's go, Saya!
+Saya: Ah, Kasumi...! That girl, really... Come on, {{userName}}-san. Let's go after her.
+(Black cut)
+(Background change)
+
+[Studio]
+
+Kasumi: Afterglow, Afterglow... Where are they...?
+Saya: Huh? Is that...?
+Tomoe: Saya?
+Saya: It is! Tomoe!
+Tomoe: Hey. Surprised to see you here.
+Kasumi: Do you two know each other?
+Saya: Yeah, we both live in the shopping district downtown. This is Tomoe Udagawa-san. She's a freshman, like us. Tomoe, this is Kasumi Toyama. We're in a band together.
+Tomoe: Huh. Nice to meet you. These are our band members, Ran, Moca, Himari and Tsugumi.
+Kasumi: Nice to meet you all!
+Saya: Your band here, Tomoe. It's not called Afterglow, is it?
+Tomoe: Yeah, it is. Why do you ask?
+Kasumi: Lucky break!! Hey, do you guys wanna join a live event?!
+Saya: Kasumi! That's a little sudden!
+Ran: A live event? Tell us more.
+(Black cut)
+Tomoe: Hmm... It does sound interesting. What do you all think?
+Himari: I like it! It sounds like fun! I say we join. What about you, Tsugu?
+Tsugumi: I want to take part, too! Let's do it!
+Moca: Well if Tsugu says we do it, then we do it~. I'm kinda interested in it, too~.
+Saya: Hmm...? Moca-chan... I feel like I know you from somewhere...
+Moca: Yeah~, I guess I'm just that famous already~. You'll have to speak to my agent, I'm afraid~. ... You're from the bakery, right?
+Saya: Hahaha... Right, yeah, that's it! You come to our shop a lot, huh. Thanks for all your custom.
+Ran: Oh, the girl from Yamabuki Bakery...?
+Saya: Yeah, that's me. Great to meet you all.
+Kasumi: Why does Saya get to know everyone~?!
+Saya: Well, a lot of people do come by the bakery... But anyway, we're off track. Does this mean you'll be able to perform at the event?
+Ran: ... Is this person a staff member or something?
+Kasumi: Yeah! {{userName}}-san!
+Ran: {{userName}}-san. I want you all to make this decision based on our music. We'll perform for you right here and now, if you'll listen.
+Moca: Wow, Ran, that sounded really cool. Really cool~.
+Tomoe: Good point. Better that you accept us for our music, than just because we know each other. Sound fair?
+Himari: Of course! Let's give them a show to remember!
+Tsugumi: Yeah!
+(Black cut)
+Saya: That was amazing, Tomoe! So incredibly cool!
+Kasumi: Amazing, amazing! Just really amazing!
+Tomoe: Hahaha, thanks. What did you think of our performance, {{userName}}-san?
+Himari: It was the best? Really? Thank you so much~!
+Saya: I guess this means you can perform at the event, then?
+Ran: ... I guess it does.
+Kasumi: Hooray! That's another band decided already~! This is going to be so exciting!
+Tomoe: We're glad to be taking part.
+Saya: We think we'd like to get everyone together once all the bands have been decided. We'll contact you again then, okay?
+Ran: Understood.
+Kasumi: Mmm~, it's all going so well already, Saya! {{userName}}-san! Let's keep this pace and go find ourselves some more bands!

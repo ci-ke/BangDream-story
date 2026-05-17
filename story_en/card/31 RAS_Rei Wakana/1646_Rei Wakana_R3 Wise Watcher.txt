@@ -1,0 +1,99 @@
+1646_Rei Wakana_R3 Wise Watcher
+
+<Expanding Vision>
+
+(Character: Rei Wakana, Rokka Asahi, Chiyu Tamade)
+
+[Train]
+
+LAYER (Rei): What happened with Masuki and PAREO?
+CHU² (Chiyu): I got a message from PAREO. Apparently, they were able to catch a bus.
+LAYER (Rei): I see. Thank goodness...
+LOCK (Rokka): I never expected the two of them to miss the train...
+CHU² (Chiyu): I swear, they cause me such stress... Well, let's meet up with them there when they arrive.
+LAYER (Rei): Right.
+Train Announcement: "This is the local train bound for... The next stop is..."
+LOCK (Rokka): ...
+LAYER (Rei): ...
+LAYER (Rei): ... Ah.
+LOCK (Rokka): What's wrong?
+LAYER (Rei): Look over there. There's a new shop.
+LOCK (Rokka): Ah, you're right. I wonder what kind of place it is. It looked like a café...
+LAYER (Rei): Why don't we give it a visit sometime?
+LOCK (Rokka): Okay.
+LOCK (Rokka): Ah, that karaoke club over there started a point card system. I had them make one for me when I went there with Ako-chan and the others the other day!
+LAYER (Rei): Huh, is that so? Will you get something once you've collected enough points?
+LOCK (Rokka): Now that you mention it, I wonder what will happen... I'll try asking an employee next time I go!
+LAYER (Rei): Okay.
+LAYER (Rei): ... The roof of that record shop over there is white.
+LOCK (Rokka): You're right. It was black before... Do you think they had renovations done?
+LAYER (Rei): Yeah, they might have.
+LAYER (Rei): ... Do you think that place with a green net stretched over it is a batting practice center?
+LOCK (Rokka): I think it might be. Ah, but it could be a golf driving range.
+LAYER (Rei): Oh yeah. They look similar, after all.
+CHU² (Chiyu): ... LAYER, you seem... in high spirits.
+LAYER (Rei): Huh? You think so?
+CHU² (Chiyu): Reacting to every single piece of scenery outside the window makes you seem like a child going on a picnic.
+LAYER (Rei): ... I see.
+LAYER (Rei): I like taking the train and going somewhere with all of you quite a bit.
+LAYER (Rei): It's like it makes me see the scenery from the window in a different light.
+LOCK (Rokka): LAYER-san...
+CHU² (Chiyu): ...
+LAYER (Rei): I doubt I would have noticed the new shop opened over there if I had been alone.
+LAYER (Rei): I wouldn't have cared about the batting practice center, either.
+LOCK (Rokka): Hey, in that case, let's all go to the batting practice center together next time!
+LAYER (Rei): Yeah, I'd like that. Let's go.
+CHU² (Chiyu): I'm not going.
+LOCK (Rokka): I-I thought as much... Ahaha...
+LAYER (Rei): But it sounds like fun... Come on. Wouldn't it be fine every now and then?
+CHU² (Chiyu): Why do we have to go to a batting practice center?! That has nothing to do with the band!
+LOCK (Rokka): But we'll have time after our next practice session...
+LAYER (Rei): Then what about going to the café?
+CHU² (Chiyu): My house is fine. I have everything we all want to drink.
+LOCK (Rokka): Ah, in that case, what about karaoke? It might be nice for a change of pace!
+LAYER (Rei): What about the record shop? You said you wanted to check the new releases the other day.
+CHU² (Chiyu): Agh~, alright already! In that case, we can go to the record shop!
+LOCK (Rokka): Wow, yay~! Going to the record shop together will be so much fun, LAYER-san!
+LAYER (Rei): Yeah. And PAREO and Masuki will be with us, CHU².
+CHU² (Chiyu): Yeah, yeah.
+LOCK (Rokka): Ah, we've reached the station. Let's get off the train!
+CHU² (Chiyu): Good grief... Come on, LAYER. Let's go.
+LAYER (Rei): ... CHU².
+CHU² (Chiyu): What?
+LAYER (Rei): Thanks.
+CHU² (Chiyu): ...! C'mon, let's go already!
+LAYER (Rei): Okay.
+
+
+<Frank and Enduring>
+
+(Character: Rei Wakana)
+
+[Residential Area]
+
+Marina: Huh? Isn't that person over there... Hey~, LAYER-chan.
+LAYER (Rei): Marina-san, {{userName}}-san. Hello.
+Marina: Hello there. Since you're toting your bass, does that mean you've got practice with RAS after this?
+LAYER (Rei): Yes. We're starting this evening, but I thought I would get in some solo practice first.
+Marina: Fufu. You're so motivated.
+LAYER (Rei): PAREO and Masuki have been sounding really great lately, so I can't afford to slack off.
+Marina: I see~. Was there some reason for that?
+LAYER (Rei): The two of them actually had a fight recently...
+Marina: Ah, I heard about that. It sounded like it was pretty rough.
+LAYER (Rei): Yes, it was. They had never fought before this, so at first, I was surprised.
+LAYER (Rei): I wondered why they had gotten into a fight, but the cause of it was really minor... Once I found that out, all the tension in my shoulders just kind of drained away.
+Marina: Fufu. Fights over silly reasons sometimes happen the longer you're in a band.
+LAYER (Rei): Right. This might be a strange way to say it, but the two of them being able to fight like that... made me kind of happy.
+LAYER (Rei): Plus, I knew that once they fought, they'd be able to be closer than ever, so I didn't worry about it too much.
+LAYER (Rei): Because I had a full-on fight with CHU² once, and then I understood her better later on.
+Marina: Mhm. Your band's relationship probably deepened even more because you had a heart-to-heart talk.
+Marina: I have to say, though, I don't think I can picture PAREO-chan being angry. She's always smiling, after all.
+LAYER (Rei): Right. She doesn't usually get angry, so I was surprised too at first... It really drove home the fact that PAREO is part of RAS too.
+LAYER (Rei): This also goes for LOCK and CHU², but... all of us will stand by what we believe in no matter what.
+LAYER (Rei): Being able to speak frankly with each other is one of the great things about RAS, and it's also one of the things I love about it...
+LAYER (Rei): That's why seeing that side of PAREO made me a little happy.
+Marina: Mhm. You girls collide with each other without holding anything back, so that may be why your music is so exciting and cool.
+LAYER (Rei): Thank you for saying that. I really do love my band right now... And this incident made me treasure it even more.
+LAYER (Rei): Ah... I'm sorry for going on like that, Marina-san.
+Marina: It's okay. It was fun for us to hear you talk about it. Well then, good luck during practice.
+LAYER (Rei): Okay. I'll be going now.

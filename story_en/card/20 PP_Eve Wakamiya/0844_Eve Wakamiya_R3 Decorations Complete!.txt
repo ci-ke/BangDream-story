@@ -1,0 +1,94 @@
+844_Eve Wakamiya_R3 Decorations Complete!
+
+<Pastel＊Palettes Chocolate>
+
+(Character: Tsugumi Hazawa, Chisato Shirasagi, Eve Wakamiya)
+
+[Hazawa Coffee]
+
+Tsugumi: Eve-chan, I'm back!
+Eve: Welcome back, Tsugumi-san! Oh, and you are with Chisato-san!
+Chisato: Hello. I heard that you were working, so I came to see how you were doing.
+Tsugumi: We randomly met while I was doing my errands.
+Eve: Chisato-san, I am so glad that you came to see me! Let me show you to a table!
+Chisato: Thank you. Could I have a seat at the back, if possible?
+Eve: Coming right up! This way!
+Tsugumi: Chisato-san, do you just want your usual tea?
+Chisato: Yes, please. And also, erm...
+Eve: Today's recommendation is the chocolate cake!
+Chisato: Alright, could I have a slice of that, then?
+Eve: Yes! I will bring it to you...!
+(Black cut)
+Eve: Thank you for waiting! Here are your tea and chocolate cake.
+Chisato: Oh my. This chocolate cake looks a little different than usual...
+Tsugumi: It's a Valentine's-Day special My mother's recipe.
+Tsugumi: She said she worked very hard on the tempering!
+Chisato: I see. So that's why it's so smooth. ... Fufu.
+Tsugumi: What's wrong, Chisato-san?
+Chisato: Nothing, I just remembered how Maya-chan was quite particular about her tempering too.
+Eve: Maya-san was so focused that day, she was like a warrior doing a sword-drawing performance!
+Tsugumi: That day? Did you all make chocolates too?
+Eve: Yes! We made boppidy bop boppin' chocolates for Hina-san on the All Fun and Games TV online show!
+Tsugumi: B-boppidy bop boppin' chocolates...?
+Chisato: Remember how we asked you about Hina-chan saying "boppidy bop boppin' "?
+Tsugumi: I-I do. You did say it was for a job, didn't you?
+Chisato: Yes. That job was for All Fun and Games TV. We did a segment where we made chocolates for Hina-chan.
+Eve: And she set the theme of the chocolates, which was boppidy bop boppin'!
+Tsugumi: I-I see~. So that's what you meant! That theme is very Hina-senpai~.
+Tsugumi: And so, did you manage to make them?
+Eve: Yes! We put our hearts and souls into them, so they were boppidy boppidy bop bop boppin'!
+Tsugumi: Wow, congratulations! I'm sure that is better than just boppidy bop boppin', right?
+Tsugumi: They must have been very impressive chocolates since they made Hina-senpai that happy~.
+Chisato: Hehe, I have some photos if you'd like to see them.
+Tsugumi: Oh! May I?
+Chisato: Hold on one second. ... Yes, here they are.
+Tsugumi: Wow! Th-they're so big. And are those bits in the middle... gingerbread men?
+Eve: Yes! They are gingerbread Pastel＊Palettes! We drew everyone's faces in the hopes that we can stay together forever!
+Tsugumi: Together forever... Th-that is beautiful!
+Chisato: It was Maya-chan's idea. But Eve-chan did most of the work.
+Eve: At first, I tried to draw faces on the chocolates, but then I suddenly had the idea to draw on the gingerbread men instead!
+Eve: Hina-san loves gingerbread men, so I thought she would like that more!
+Chisato: It was all Eve-chan. I don't think we would have been able to make them without her.
+Eve: Ehehe... Thank you very much. But I think we would not have been able to make them if we didn't have every member of Pastel＊Palettes.
+Eve: We all wanted Hina-san to be happy. And Hina-san was excited to receive chocolates from us.
+Eve: I think we were able to make these chocolates because all of these feelings came together as one!
+Chisato: ... It's like you said, Eve-chan. These chocolates were all of our chocolates.
+Tsugumi: Pastel＊Palettes is such a lovely group. We ought to be more like you and work hard to combine all of our feelings together.
+Chisato: Let's keep doing our best, as both Pastel＊Palettes and Afterglow.
+Eve & Tsugumi: Yeah!
+Eve: Ah, a customer. I will talk to you later, Chisato-san!
+Eve: Welcome!
+
+
+<When Special Becomes Normal>
+
+(Character: Eve Wakamiya)
+
+[Riverside]
+
+Eve: Ah, {{userName}}-san! Hello there!
+Eve: No... I was working, but I'm out late because I was chatting with the rest of Pastel＊Palettes.
+Eve: Yes, we all went to a restaurant together.
+Eve: Usually, whoever is free after a lesson or a job goes out to eat afterward, but for the first time in a while, we all went together!
+Eve: We were so happy, we lost track of time.
+Eve: I have a shoot early tomorrow morning, so I must prepare as soon as I get home.
+Eve: Yes... We talked about many topics such as school, work, and our days off.
+Eve: Fufu, now that I think about it, it didn't really differ from what we talk about on our breaks when we're working.
+Eve: But I am glad that I got to spend some quality time with everyone.
+Eve: Hina-san said once that all of us spending time together feels special.
+Eve: I understand that feeling.
+Eve: As Pastel＊Palettes, we have spent both good times and bad times together.
+Eve: Because of that, I think that carefree times like this feel special.
+Eve: I want to keep making interesting memories. Then maybe one day these "special" moments will become normal!
+Eve: Yes! I have so many things I want to do with the others
+Eve: I want to visit many more places, and I want to have sleepovers at everyone's house too.
+Eve: Ah, having tea together might also be fun! I would love to teach everyone what I have learned about Japanese tea ceremony♪
+Eve: Ehehe, I have thought of so many things I want to do already.
+Eve: It is impossible to do them all right now, but I will try to do them little by little!
+Eve: Thank you very much!
+Eve: Are you still working, {{userName}}-san?
+Eve: I-I see. You have so many things to do.
+Eve: Ah! O-oh no. I should refrain from holding you up any longer.
+Eve: I will stop talking. I must prepare for tomorrow, so I will be going now.
+Eve: Please keep up the good work! I will be cheering you on from a distance!
+Eve: See you next time at CiRCLE!

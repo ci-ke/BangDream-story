@@ -1,0 +1,28 @@
+main027 Opening 2: Let's Talk to Them
+
+Kasumi and the others enjoy their time playing at the studio. Then, they spot two particular people...
+
+(Character: Kasumi Toyama, Tae Hanazono, Rimi Ushigome, Saya Yamabuki, Arisa Ichigaya)
+
+[CiRCLE - Lobby]
+
+Kasumi: Marina-san, thanks for letting us use the studio!
+Marina: And thank you for coming! Whenever you wanna practice or have another show, come ask whenever you'd like.
+Tae: We appreciate that.
+Saya: By the way, what's with the notebook that was placed in the studio?
+Marina: That's there so that everyone can write whatever they want. A lot more people have been using CiRCLE, so I thought it'd be nice to get everyone's impressions and stuff.
+Rimi: Oh, okay! Hey, Kasumi-chan, should we write something?
+Kasumi: I'd love to! Uhhh... "Poppin'Party was here!"
+Arisa: C'mon, don't take up so much space! How am I supposed to write anything?!
+Marina: Fufu, no need to fight, girls!
+Tae: "Bands are fun! I love bunnies!"
+Rimi: You can tell who wrote that one.
+Arisa: Ah... Look, Kasumi. Isn't that Rinko-senpai and Sayo-senpai over there?
+Kasumi: Yeah, you're right!
+Saya: Kinda looks like something is bothering them... I wonder if they're alright.
+Arisa: Rinko-senpai's not a fan of crowds, that much I know... I mean, not that I'm any different.
+Tae: You and she have become best buds after you joined the student council, right, Arisa?
+Arisa: N-not best buds... Well, I guess we're much closer than before, yeah.
+Kasumi: Either way, they look worried about something. Let's go see if we can help them out!
+Arisa: Sounds okay to me. You should come too, {{userName}}. We won't be much help if the issue turns out to be studio related.
+Kasumi: Rinko-senpai~! Sayo-senpai~! Hey~!

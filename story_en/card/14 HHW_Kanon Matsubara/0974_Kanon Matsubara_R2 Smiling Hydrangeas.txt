@@ -1,0 +1,85 @@
+974_Kanon Matsubara_R2 Smiling Hydrangeas
+
+<Kanon's Tea Ceremony>
+
+(Character: Kanon Matsubara, Eve Wakamiya)
+
+[Hanasakigawa Girls' Academy - Tea Room]
+
+Eve: Thank you, Kanon-san. It was delicious!
+Kanon: Fufu, you're welcome.
+Eve: Nothing beats your tea, Kanon-san!
+Eve: Your beautiful movements are also very captivating!
+Kanon: Hehe, you're making me blush.
+Eve: Your grasp of the ladle and motion of the whisk was so elegant! Your feelings really come through!
+Kanon: I'm happy to hear that. I was trying to make the best tea I could for you, Eve-chan.
+Eve: Well, it worked! I could tell you put your heart into it! It tasted amazing!
+Kanon: Do you remember when you were worried about zanshin the other day?
+Kanon: Well, I also did some research about zanshin in tea ceremonies.
+Eve: You did?
+Kanon: I still don't fully understand every single concept, but there are a few that I feel like I've gotten the hang of.
+Eve: Oh, please tell me!
+Kanon: Well, first, each utensil must be handled with care. We learned this together, right, Eve-chan?
+Kanon: Evidently, you should put feeling into the moment you let go of your tools as well.
+Kanon: What's more, when you whisk the tea, you must fill it with your desire to create a delicious cup of tea for the person you're serving.
+Eve: I remember learning that it is important to take care of my utensils and fill them with my feelings, but I did not know we had to do the same when we let go of the tools as well.
+Kanon: Yes, at first, I wondered why... So I looked into it some more.
+Kanon: Apparently, it's similar to when you say farewell to a friend.
+Eve: Farewell... Ah! I understand!
+Eve: Thank you, Mr. Ladle. See you again, Mr. Whisk. Is it like that?
+Kanon: Exactly. It's sad to say goodbye, but you look forward to the next time you meet... Those feelings are imprinted in the utensils.
+Eve: Fufu, it is like you are talking to them!
+Kanon: Yes, when you think about it like that, the utensils seem rather cute.
+Kanon: Furthermore, zanshin can also be found in your hospitality during the tea ceremony and when you tidy up.
+Kanon: Apparently, it's important to spend time thinking back on the enjoyable tea ceremony you just had.
+Kanon: It's sort of like... you're enjoying what's left of the time you spent together.
+Eve: I see~. So the ceremony itself is not the only important part of the event.
+Kanon: After the tea ceremony, rather than rushing to put everything away as quickly as possible...
+Kanon: Cleaning up while thinking about how much fun I had and how I want to improve would certainly help me give a better performance next time.
+Eve: ... You are right! Tea ceremonies truly epitomize the Japanese spirit! I am very moved!
+Kanon: Yes, my research surprised me, too. That attention to detail is important to showing consideration toward your guest.
+Eve: I sensed your thoughtfulness when drinking your tea today, Kanon-san!
+Kanon: Fufu, I'm glad you did~.
+Eve: So this is the zanshin of tea ceremony! I learned a lot today.
+Kanon: Oh, I just remembered. I brought this to share with you, Eve-chan... What do you think?
+Eve: This is...! A hydrangea-shaped nerikiri! How cute~!
+Kanon: I went out to buy traditional Japanese sweets for our tea ceremony and found the perfect one for us.
+Eve: It reminds me of the hydrangea park~! Thank you for choosing this, Kanon-san.
+Kanon: Fufu. In that case, would you like to try making tea together? This time we can keep zanshin in mind.
+Eve: Yes! I shall put my heart and soul into it!
+
+
+<Rainy Day Fun>
+
+(Character: Kanon Matsubara)
+
+[Downtown]
+
+Kanon: Hmhmhmm~♪ Oh, Marina-san and {{userName}}-san. Good afternoon.
+Marina: Hello there, Kanon-chan. Are you out shopping today? It seems like you're in a good mood.
+Kanon: Ah, did you hear me humming? How embarrassing...
+Kanon: I came to buy sweets for tea ceremony club and happened to find this wonderful nerikiri...!
+Marina: Nerikiri, huh~? What kind did you get?
+Kanon: It looks like this...
+Marina: Wow, it's lovely! Is this a hydrangea?
+Kanon: Yes. There were several colors, so I had a hard time choosing.
+Marina: Finding wonderful treats like this certainly does make you happy. They suit the season as well.
+Kanon: Exactly. I went with Eve-chan and the others to a hydrangea park the other day, so this is just perfect.
+Marina: Oh, I heard about that from Eve-chan~. She said it was really beautiful.
+Kanon: It was! I couldn't believe how many hydrangeas were there to greet us.
+Kanon: I even took a photo. Umm... Ah, here it is.
+Marina: Wow~, what a great picture. The hydrangeas are glistening from the rain!
+Kanon: I never knew how pretty hydrangeas in the rain were.
+Kanon: What's more, when we tried to take a group picture, Chisato-chan was startled by a frog. Fufu, so the picture turned out like this... We all found it very funny.
+Marina: Fufu, I can tell you had a great time from the look on your face.
+Marina: Isn't it tricky walking in the park when it's raining, though?
+Kanon: Not at all. We were prepared for the rain, so it wasn't a problem.
+Kanon: Besides, some things can only be enjoyed in the rain.
+Marina: Are you talking about the hydrangeas?
+Kanon: Yes. Not just the hydrangeas, but the trees and grass also looked more vivid and alive.
+Kanon: I learned a whole new way to enjoy a rainy day at the hydrangea park.
+Marina: Enjoying a rainy day, huh~?
+Marina: I've always thought taking a walk after the rain was nice, but a walk during the rain is starting to sound just as delightful!
+Kanon: Yes, I highly recommend it. Oh, but please be careful not to get too wet.
+Marina: Yeah, I'll make sure I'm fully prepared! Well then, we better get going.
+Kanon: Okay, it was lovely talking to you both. Goodbye, Marina-san and {{userName}}-san.

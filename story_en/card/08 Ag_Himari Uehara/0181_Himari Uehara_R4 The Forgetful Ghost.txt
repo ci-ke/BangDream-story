@@ -1,0 +1,89 @@
+181_Himari Uehara_R4 The Forgetful Ghost
+
+Gacha phrase: Hey... can you guys hear that...?
+
+<Message>
+
+(Character: Ran Mitake, Himari Uehara, Tomoe Udagawa, Tsugumi Hazawa)
+
+[Hazawa Coffee]
+
+Himari: Okay~! Time to get some serious homework done! Ran, Tomoe, thanks for giving me a hand!
+Tsugumi: I'm sorry I can't join you. I have to help out in the cafe today...
+Tomoe: Don't worry about it. Thanks for always letting us use your place. Where's Moca?
+Ran: She said sorry, and that today is her sleeping day.
+Himari: That's our Moca. Okay, it's just the three of us then!
+Himari: I'm so thankful, you guys~. I wouldn't be able to get any of my homework done without this textbook.
+Ran: You're supposed to say that when you're done. First thing's first. Get started. Then finish up.
+Himari: ... Okay~.
+(Black cut)
+Himari: Hrm... huh? What was the formula again...? This is what we got my textbook for...
+Himari: Hm? There's something written in the corner of the page. "Again" ...? Maybe I wrote it when I was falling asleep... Anyway, back to my homework!
+Himari: Huh? There's something written on this page too... "Me" ...? Hmm~? I don't get it~.
+Ran: You're so loud when you talk to yourself.
+Tomoe: Stuck on something?
+Himari: Look at this. There's something weird in my textbook.
+Ran: "Again" ... "Me" ...? What's this supposed to be?
+Himari: I don't know~. I don't remember writing any of this... They're just random words.
+Tomoe: Maybe Moca scribbled in your textbook when you lent it to her?
+Himari: But Moca's kinda smart, she doesn't need to borrow my textbook.
+Tomoe: Ahh, hmm... Let me take a look.
+Ran: "Again" and "Me"... Wonder what it's supposed to mean.
+Himari: Hrm, I have no idea...
+Tomoe: Hey, there's words in the corners of other pages too. This one says "With", the next one says "Play"...
+Himari: "Again" "Me" "With" "Play" ...?
+Tomoe: There's more on other pages too! "And" ... "Come" ...
+Himari: And come?
+Ran: The last parts read as "play and come" ...
+Tomoe: Maybe it makes a message if we rearrange the words.
+Himari: Tell me the words again! I'll write them down.
+Tomoe: Okay, "Again" "Me" "With" "Play" ...
+Himari: All together it's "Again" "Me" "With" "Play" "And" "Come" ...
+Ran: ...! If you read it backward, it says "Come And Play With Me Again."
+Himari: Come and play with me again...? What's up with that...?
+Tomoe: The seventh mystery... It's still happening...
+Ran: Huh?
+Tomoe: Remember what Moca said? There's a ghost of a student who plays pranks on people, looking for someone to play with.
+Himari: ... Does that mean there really was something there when we went to get my textbook...?
+Tomoe: Yeah... I think so...
+Ran: "Come and play with me again" ... It might still be hanging around us...
+Himari: ... I-I have to finish my homework first! Play comes after that!
+Tomoe: U-uh, yeah! Th-that's right! Okay, let's get stuck into this!
+Ran: ... This is giving me the creeps...!
+
+
+<What About My Reward?>
+
+(Character: Himari Uehara)
+
+[Downtown]
+
+Himari: Hm-hm-hmm~♪ What am I gonna get today~?
+Himari: Oh, {{userName}}-san! Hey~! Over here~!
+Himari: Hi! How are you today?
+Himari: Why am I in such a good mood? Wait, is it that easy to tell?
+Himari: I just finished all my homework and handed everything in! I'm free~!
+Himari: Ehehe, thank you~!
+Himari: I was just thinking about going by Yamabuki Bakery to get myself a little reward for getting everything done.
+Himari: Oh~... You have no idea how crazy my summer vacation was~.
+Himari: Ahaha, so what happened was... I left one of my textbooks at school during summer break.
+Himari: I asked the other members of Afterglow to help me go get it and...
+Himari: ... We went to school at night!
+Himari: We found my textbook, but when we went to go home, the doors out of the school were locked! We got trapped in the school at night~!
+Himari: I feel scared just thinking about it again... I was worried we'd never be able to leave again when we found the doors were locked.
+Himari: Moca was all "this is getting interesting~", though. She isn't scared of anything, huh?
+Himari: Have you ever been to a school at night, {{userName}}-san?
+Himari: Schools at night aren't just dark and quiet...
+Himari: Strange things happen! I'm serious! We experienced it for ourselves.
+Himari: Random noises... Oh, and we heard Tomoe's voice even though she didn't say anything...
+Himari: Ah! You don't believe me, do you, {{userName}}-san? It's written all over your face! But I'm telling you the truth~!
+Himari: I guess it can't be helped. I mean, we didn't believe what was happening around us at first either...
+Himari: I don't want to experience those things ever again... Well, it's my fault we had to in the first place, but still...
+Himari: But you're right. I finished everything and handed it in, so it's all good!
+Himari: ... I'm so lucky to have those girls as my friends! They went to school with me to get my textbook, and they even helped me finish my homework!
+Himari: You think so too, {{userName}}-san? Ehehe, thank you!
+Himari: Okay, time to buy some buns and head home! Moca told me all her recommendations, so I know exactly what to get...
+Himari: ... Ah!
+Himari: ... I promised everyone I'd treat them to something in return for going with me to get my textbook...
+Himari: My poor wallet... ugh...
+Himari: I guess my little reward will have to wait till pay day...

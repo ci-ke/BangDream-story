@@ -1,0 +1,80 @@
+event187-01 Opening: Resonance
+
+RAS arrives at Shibuya station to check out the live house they'll be playing at for a festival soon. As to what that festival is...
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Shibuya Station]
+
+LOCK (Rokka): No matter how often I come to Shibuya, it always feels so big and busy~...
+MASKING (Masuki): Hey, LOCK! Keep spacin' out like that, and you're gonna get left behind!
+LOCK (Rokka): R-right! Sorry.
+LAYER (Rei): To get to the venue for the qualifiers... we need to transfer to the train over there.
+LOCK (Rokka): This'll be our first time going to this live house. I'm so excited!
+MASKING (Masuki): Today, we're just goin' to scope out the place and its bands, though.
+MASKING (Masuki): If we start gettin' too excited, CHU² will yell at us for not takin' things serious. She's really fired up for this contest.
+LAYER (Rei): Tokyo R Festival... A music festival made to decide who's going to lead a new era of girls bands. They say the grand prize winners will get to play lots of shows.
+LAYER (Rei): One of the musicians I help sometimes said it's a pretty high-profile contest within the industry.
+LOCK (Rokka): No wonder CHU²-san has been stricter than usual in rehearsals lately...!
+LOCK (Rokka): Hrm? Speaking of CHU²-san, I haven't seen her or PAREO-san since we got off the train...
+PAREO (Reona): CHU²-sama, just a little farther and we will catch up with the others!
+CHU² (Chiyu): Ugh, why are all these people here~?! It's so crowded I can barely walk! I can't even see in front of me!
+CHU² (Chiyu): PAREO, do something!
+PAREO (Reona): As you command, CHU²-sama! I will be your shield, so please follow closely behind me!
+LOCK (Rokka): Are you two okay?!
+LAYER (Rei): Sorry. I didn't notice we'd lost you.
+MASKING (Masuki): With CHU² bein' as short as she is, she's practically invisible in a crowd.
+CHU² (Chiyu): Oh, shut it, will you? I'm still growing! Now, where's the train we need to catch next?
+PAREO (Reona): It is over there, Master!
+CHU² (Chiyu): Oh. Come on, then.
+MASKING (Masuki): It's easy to get separated here, so stop runnin' off by yourself!
+CHU² (Chiyu): Argh~, don't treat me like a child!
+LAYER (Rei): Fufu.
+LOCK (Rokka): What is it, LAYER-san?
+LAYER (Rei): Ah... No, it's nothing really. It's just rare for us all to go somewhere together on the train.
+LAYER (Rei): It kind of feels like we're on a field trip.
+CHU² (Chiyu): Hey, LAYER, we're only going to look at the venue today, but this is still part of our prep for an important contest.
+CHU² (Chiyu): Ugh, you all need to take this seriously!
+LOCK (Rokka): Ah...!
+MASKING (Masuki): See? Told ya.
+LAYER (Rei): Ahaha. You sure called it, alright.
+CHU² (Chiyu): What?! Wh-why are you laughing?!
+PAREO (Reona): What is it, what is it? Please tell us~!
+(Black cut)
+(Background change)
+
+[Shrine]
+
+CHU² (Chiyu): Tokyo R Festival... is as good as ours!
+CHU² (Chiyu): If that's the level of the bands playing in the qualifiers, then it doesn't matter how many there are. None of them is a match for RAS.
+LOCK (Rokka): CHU²-san, you sure are confident...!
+MASKING (Masuki): Haha! And why shouldn't she be? That's how RAS rolls!
+LAYER (Rei): The qualifier is a playoff between bands, right?
+PAREO (Reona): Yes. Judges will evaluate bands based on the overall quality of their performance. And those selected to advance to the finals will have a chance at the grand prize!
+CHU² (Chiyu): The judges consist of professional musicians and top event planners.
+CHU² (Chiyu): So half-hearted music isn't going to grab the judges' attention. Not that we were going to give a lackluster performance, to begin with.
+CHU² (Chiyu): Tokyo R Festival is going to push us so much closer to dominating the music industry... and changing the world!
+LOCK (Rokka): This could be our big break...! What band are we playing against...?
+LAYER (Rei): Walküre High Light, but they also go by Walhalla. Recently, they've been playing at live houses around Shinjuku.
+CHU² (Chiyu): They put on pretty edgy shows and have many intense fans. Anyway, they're known for being a group of exceptional musicians who give top-notch performances.
+PAREO (Reona): They sound like strong competition...!
+LAYER (Rei): Yeah... But with the way we play now, we'll definitely win. Let's hit them with everything we've got.
+CHU² (Chiyu): That's the spirit, LAYER. But... you used the wrong word.
+CHU² (Chiyu): Walhalla, and the judges, we'll "crush" them with everything we've got!
+LAYER (Rei): Fufu, yeah.
+CHU² (Chiyu): You three better not get scared either, got it?!
+PAREO (Reona): Yes, PAREO!
+MASKING (Masuki): As if. Who do you think you're talkin' to?!
+LOCK (Rokka): I-I'll give it everything I've got!
+CHU² (Chiyu): Fufu, that's what I like to hear.
+MASKING (Masuki): Man~, I'm ready to slam out some beats right now~...! Checkin' out that joint wasn't enough for me. Let's get back to the studio and make some noise!
+CHU² (Chiyu): That's fine by me. However, know that I won't go easy on you.
+MASKING (Masuki): Please, you ain't ever gone easy on us in rehearsals before, anyway...
+LAYER (Rei): It sounds like those two are pumped and ready to go.
+PAREO (Reona): Yes, it does. I am burning with excitement too! Let's hurry back to CHU²-sama's house♪
+LOCK (Rokka): Okay!
+LOCK (Rokka): ... Hrm? There's something on the ground next to the hand-washing pavilion...
+LOCK (Rokka): Is this... a good luck charm? Maybe someone dropped it...
+MASKING (Masuki): LOCK~! Whatcha doin'?! Pick up the pace!
+LOCK (Rokka): W-wait for me! I'm coming~!
+(Black cut)

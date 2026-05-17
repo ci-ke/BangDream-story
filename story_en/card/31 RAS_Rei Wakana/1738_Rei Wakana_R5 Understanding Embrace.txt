@@ -1,0 +1,105 @@
+1738_Rei Wakana_R5 Understanding Embrace
+
+Gacha phrase: ... LOCK, do you want some candy?
+
+<Super Great Candy>
+
+(Character: Tae Hanazono, Rei Wakana)
+
+[Shopping Mall]
+
+Tae: Phew~, I'm stuffed. That Hamburg steak was mighty tasty.
+LAYER (Rei): It really was. That new restaurant is great.
+Tae: The Hamburg steak with tomato sauce was good, but there are still a lot of things on the menu that I want to try. We should go there again!
+LAYER (Rei): Sure. What do you want to get next time?
+Tae: The kid's Hamburg steak set!
+LAYER (Rei): Fufu, I thought you might say that. The plate is in the shape of a rabbit's face.
+Tae: Yep! Plus, the menu says the set comes with pudding and juice. Ah, but do you think it's okay for high schoolers to order the kid's meal?
+LAYER (Rei): I'm not sure. Why don't we ask the waiter when we come again?
+Tae: Let's do that!
+Tae: What's next for today? I brought it up earlier, but do you want to go to karaoke?
+LAYER (Rei): Ah... Before we do that, would you mind coming with me somewhere?
+Tae: Okay, let's go!
+(Black cut)
+(Background change)
+
+[Shopping Mall - Candy Shop]
+
+Tae: This is a candy shop... Rei, did you want some candy?
+LAYER (Rei): Yeah, I'm looking for something sweet I can carry around with me. Ah, some chocolate might be good.
+Tae: Oh, you want some dessert after our meal. There's always room for sweets. I want to eat a chocolate parfait!
+LAYER (Rei): Fufu, I was thinking we could get dessert somewhere else after this. I came here to find some candy I could give to LOCK.
+Tae: It's for LOCK?
+LAYER (Rei): Well, she's doing her first job as a session musician, but I'm a bit worried about her...
+LAYER (Rei): Of course I think she's skilled enough, but being technically up to the job isn't the only thing that's hard about playing for another band.
+Tae: Oh... I guess you'd know since you've helped fill in for a bunch of different bands.
+LAYER (Rei): I do. I'm used to the job, but LOCK is new to it.
+LAYER (Rei): So she seems to be worrying about how to interact with the other members.
+LAYER (Rei): I want to do something to help her, but it's not the kind of problem I have an answer for...
+Tae: I see. So that's why you came to buy candy. It's candy to cheer LOCK up.
+LAYER (Rei): Right. All I can do is give her some candy and let her know that I'm wishing her the best...
+Tae: I think that's great! Eating something sweet makes you feel better, and it kind of makes you want to work harder too.
+Tae: I'll help you look for some candy to cheer her up! Leave it to me! I'm good at finding stuff!
+LAYER (Rei): Thanks. I'm sure I'll find something good with your help.
+Tae: Hmm~, I wonder what candy would be good.
+Tae: You want to pick something she could eat during her breaks, right?
+LAYER (Rei): Well, not anything like a lollipop. I was thinking a lot of little candies that she could eat in one bite might be nice.
+Tae: In that case, how about the candy on these shelves around here? There are assortments of little candies lined up here.
+Tae: I wonder what kind of flavor of candy LOCK likes. Red bean paste? Sweet potato?
+LAYER (Rei): Hmm~, she said she liked the milk-flavored candy I gave her before...
+LAYER (Rei): But this time, I think she'd be happier if I gave her a different flavor.
+LAYER (Rei): Ah! This might be good. It has different fruit flavors in it. This way, she could enjoy them all and not get bored.
+Tae: How about this one with hard candies? It comes with regular flavored ones, salty ones, and plum-flavored ones.
+LAYER (Rei): Wow, that might be nice too. I think LOCK would like those.
+LAYER (Rei): Maybe I'll get both. Hmm~... I think I should also get some individual candies in a flavor LOCK would like...
+LAYER (Rei): Ah, but the studio gets dry easily, so maybe she'd be happier with cough drops.
+LAYER (Rei): Sorry, Hana-chan, but would it be alright if we went to a drugstore?
+Tae: Fufu.
+LAYER (Rei): ...? What is it?
+Tae: Oh, nothing. I just like that about you.
+LAYER (Rei): Huh?
+Tae: You're thinking so much about LOCK. You're trying really hard to buy something that will cheer her up, right?
+Tae: I've always liked how kind you are.
+LAYER (Rei): Y-you have?
+Tae: Totally! Alright~, let's find some super great candy that'll make LOCK feel happy and ready to take on anything!
+Tae: I'm going to help you search high and low today to find candy for LOCK!
+LAYER (Rei): You don't mind? Thanks, Hana-chan.
+Tae: First, let's check out the drugstores in the mall. Let's move, Rei!
+LAYER (Rei): Okay!
+
+
+<Bright and Sparkling>
+
+(Character: Rei Wakana)
+
+[Residential Area]
+
+LAYER (Rei): Marina-san, {{userName}}-san.
+Marina: LAYER-chan! I can't believe we ran into you here. Are you going somewhere?
+LAYER (Rei): Yes! I've got a job helping another band today.
+Marina: And that's on top of your busy schedule with RAS... Hey, didn't you help play as a session musician at a recent music festival too?
+LAYER (Rei): I'm going to help again with that same band. They asked me to play with them in their next show.
+Marina: I see! People do love the way you play your bass.
+LAYER (Rei): The band members are so kind. I'm happy that I can lend them a hand.
+Marina: But RAS's practices are pretty tough. Isn't also working as a session musician a lot to juggle?
+LAYER (Rei): It is, but I've gotten used to doing both. I've been working as a session musician with other bands for a long time, after all.
+LAYER (Rei): But LOCK seemed to struggle working as a session musician for the first time at this music festival.
+Marina: Yeah, she told me a little about it. She was helping Mirror Dreams, right?
+LAYER (Rei): Yes. At first, she and the members of Mirror Dreams didn't really seem to click. Every day seemed to be pretty stressful for her.
+LAYER (Rei): LOCK had been wanting to work helping other bands, but I think Mirror Dreams's lack of enthusiasm for playing came as a big surprise.
+LAYER (Rei): I think that was really bothering her, but since she was doing a job, I had to be careful about what kind of advice I gave her...
+LAYER (Rei): I felt bad because there wasn't really much I could do to help her.
+Marina: There are all kinds of bands, so it's hard to give advice because there's no one best way to act when you're filling in as a member of a band.
+LAYER (Rei): Right. But LOCK kept pushing and pushing with all her might for her and the members of Mirror Dreams to make good music together...
+LAYER (Rei): LOCK's intense determination finally got through to the others, and that's what I think led them to have such a great performance.
+Marina: Fufu, that sounds like Rokka-chan alright.
+LAYER (Rei): Yes. That's not something I can do when I'm with other bands. But LOCK did, and she shined so brightly doing it.
+Marina: Rokka-chan gives 110 percent to whatever she does and sparkles with a capital S.
+LAYER (Rei): She does. I'm a little jealous. I always feel the need to set boundaries when I work.
+Marina: I think the way you help other bands is wonderful too.
+LAYER (Rei): Huh...? You do?
+Marina: Yep. You do exactly what's asked of you. That's sure to be very reassuring to the band you work for.
+Marina: And I know how extremely hard you work to perform perfectly, so you sparkle too.
+LAYER (Rei): Marina-san... thank you.
+LAYER (Rei): Ah, practice will be starting soon, so I better go. If it's okay, could we talk again sometime?
+Marina: Of course! Good luck with your work.

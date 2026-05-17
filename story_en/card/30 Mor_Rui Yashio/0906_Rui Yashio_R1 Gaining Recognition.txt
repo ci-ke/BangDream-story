@@ -1,0 +1,47 @@
+906_Rui Yashio_R1 Gaining Recognition
+
+<Self-Introduction>
+
+(Character: Rui Yashio)
+
+[Tsukinomori Girls' Academy - Courtyard]
+
+Rui: Good day to you. My name is Rui Yashio.
+Rui: I am the violinist and composer of Morfonica.
+Rui: That is all. I look forward to your support.
+Nanami: Uhm, is that all you have to say...?
+Rui: I have said everything that needs to be said. We are finished here.
+Mashiro: M-maybe you should say something more so people can get to know you better, Rui-san...
+Tsukushi: Why don't you try talking about your hobbies and special talents?
+Rui: I have no hobbies or special talents, and I fail to see what purpose such information will serve in a video introducing our band.
+Toko: W-well, I guess this could work. It'll be pretty obvious to anyone who sees this what Rui is like.
+Rui: Good. Then there is no further need to continue.
+Rui: However, if our goal is to introduce our band, I do not believe we should be making videos. Having people listen to our music would be far more effective.
+
+
+<Rational Behavior>
+
+(Character: Rui Yashio)
+
+[Station Entrance]
+
+Rui: ...
+Rui: ...? You are... {{userName}}-san, correct?
+Rui: Yes, this is quite a coincidence.
+Rui: I see, so you are in the middle of work. Good luck then.
+Rui: My student council duties kept me busy, so I am running late for a scheduled meeting with one of my band members.
+Rui: There is a store which Kirigaya-san wishes to visit. I believe she said it is some kind of café.
+Rui: ... Going to a café with the other band members sounds entertaining to you?
+Rui: I do not feel the same way.
+Rui: I can understand getting together in order to practice or write music. Going to a café, however, seems quite unnecessary.
+Rui: I would have refused, but I was told this is necessary for the band.
+Rui: According to Kirigaya-san and Futaba-san, it is important for us to share experiences and get to know each other.
+Rui: I do not share their viewpoint.
+Rui: Although, I do agree that establishing a relationship of trust is necessary. However, the proper means of doing so should be through music.
+Rui: It is more rational to build a relationship through practice than engaging in idle conversation at a café.
+Rui: Then why I have agreed to go with Kirigaya-san?
+Rui: There may be no need for me to go, but there is a high probability that declining will hinder our relationship.
+Rui: Therefore, going to the café is the most rational thing to do.
+Rui: ... Do you see some fault in my way of thinking?
+Rui: I fail to see why you cannot reach the same conclusion which I have.
+Rui: In any case, I must go now. Farewell.

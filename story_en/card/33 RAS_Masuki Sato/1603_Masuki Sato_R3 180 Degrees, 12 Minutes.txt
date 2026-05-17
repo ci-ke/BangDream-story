@@ -1,0 +1,85 @@
+1603_Masuki Sato_R3 180 Degrees, 12 Minutes
+
+<Old Band Friends>
+
+(Character: Rokka Asahi, Masuki Sato)
+
+[Asahi Bathhouse - Rokka's Room]
+
+MASKING (Masuki): You there, LOCK~?
+LOCK (Rokka): Yes~, coming~. Hello, Masuki-san!
+MASKING (Masuki): Hey. Here, sweet potatoes. From my old man.
+MASKING (Masuki): And this one here is the latest volume of "Snappy-chan."
+LOCK (Rokka): Wow, thank you so much. I've been wanting to find out what happens next.
+LOCK (Rokka): Ah, I'm sorry. Someone's messaging me...
+MASKING (Masuki): Hm? Who's it from?
+LOCK (Rokka): Um... Oh, it's from Pato.
+MASKING (Masuki): That's the ex-bandmate from your hometown, isn't it?
+LOCK (Rokka): Yes. You know how PAREO-san and I went there together before the party, right? She just sent me some pictures from that time...
+LOCK (Rokka): Look. We all ate fruit sandwiches.
+MASKING (Masuki): Huh, you look like you're havin' a good time.
+LOCK (Rokka): We had a mighty fun time! And look at this picture too.
+MASKING (Masuki): Nice, you guys are givin' that friends vibe. You're all smilin' and... Hm?
+MASKING (Masuki): You've got some cream next to your mouth in this photo.
+LOCK (Rokka): What?! Y-you're right...! Ugh~, I told her to delete that one.
+MASKING (Masuki): Y'all really are close, huh?
+LOCK (Rokka): We are! They're very special to me.
+LOCK (Rokka): At the café, we talked so much about our middle school days... Oh, and they even said they want to play music with me the next time I go back. That made me so happy.
+LOCK (Rokka): I realized they're still the best friends I could ask for, no matter how far apart we are or how much time goes by!
+MASKING (Masuki): Hm, best friends, huh...?
+LOCK (Rokka): She just sent me another picture... Fufu, this is the one we took in front of the café.
+LOCK (Rokka): There's more... Ah, this one's when it was so hot I almost burned my tongue... That's what my face looked like...?
+LOCK (Rokka): Oh, but the latte art was really cute. You would've liked it...
+MASKING (Masuki): ...
+LOCK (Rokka): Oh... I-I'm sorry. It's just been me rambling this whole time...
+MASKING (Masuki): All good.
+LOCK (Rokka): Um...
+MASKING (Masuki): ...
+LOCK (Rokka): ...
+LOCK (Rokka): ... Uh~... Did I say something I shouldn't have...?
+MASKING (Masuki): It's nothin' like that. It's just...
+MASKING (Masuki): ... You just look so happy when you're talkin' about your old gang...
+LOCK (Rokka): Hm? Don't tell me...
+LOCK (Rokka): Are you jealous...?
+MASKING (Masuki): Argh~, dang it! I know how childish as hell this is!
+MASKING (Masuki): But... seein' ya say stuff like "best" friends and all... It just rubbed me the wrong way...
+LOCK (Rokka): M-Masuki-san...
+MASKING (Masuki): What?
+LOCK (Rokka): "You're kinda cute, you know...?"
+MASKING (Masuki): Wha...?! You messin' with me?
+LOCK (Rokka): I'm sorry! I've always wanted to say it once!
+LOCK (Rokka): Don't worry. I'm RAS's guitarist!
+LOCK (Rokka): My friends back home are special to me... but all of you are also super special to me! You're all my best friends!
+MASKING (Masuki): Huh...
+MASKING (Masuki): Man~, I shouldn't have told you.
+LOCK (Rokka): Why are suddenly lying down and turning your back to me?! Masuki-san~!
+
+
+<In Search of a Special Flavor>
+
+(Character: Masuki Sato)
+
+[Shopping Mall]
+
+MASKING (Masuki): Ah, Marina-san, {{userName}}. Hello.
+Marina: Hey there. Are you also shopping?
+MASKING (Masuki): Yeah, for some bakin' supplies.
+Marina: Wow, nice. What are you making this time?
+MASKING (Masuki): Sweet potato cake. Now that I know what LOCK's special sweet potato cake is supposed to taste like, I'm goin' to try recreatin' it.
+Marina: Are you talking about the one that PAREO-chan managed to track down...?
+MASKING (Masuki): Oh, you knew.
+Marina: Mm-hmm. I heard about it the other day from Rokka-chan.
+MASKING (Masuki): I see.
+MASKING (Masuki): She just wolfed down the ones I made before, so I had no idea she liked them a certain way.
+MASKING (Masuki): If she'd just said somethin', I could've made them the way she likes...
+Marina: Fufu. I'm guessing she didn't because your sweet potato cakes were just that good.
+Marina: And I know this because she's told me countless times about how good your snacks and cakes are.
+MASKING (Masuki): Man, she's been tellin' you that...?
+MASKING (Masuki): Well, all the more reason for me to figure out how to recreate her special sweet potato cakes. That way, she'll be able to pick dependin' on her mood.
+Marina: That's a good idea. I'm sure Rokka-chan will like that.
+Marina: I have to say, though, I envy you RAS girls. Having regular access to delicious snacks must be nice.
+MASKING (Masuki): If you'd like, I can bring some to CiRCLE the next time I make somethin'.
+Marina: Oh, no, no, it's alright. Making a lot can't be easy.
+MASKING (Masuki): Won't even be a problem! And knowin' there are folks who'll be enjoying what I've made will give me some extra motivation!
+Marina: In that case, I think I'll take you up on that offer. Really looking forward to it.
+MASKING (Masuki): Alright. Feel free to let me know if you have any requests. I'll make sure to bring somethin' that won't disappoint!

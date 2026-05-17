@@ -1,0 +1,92 @@
+event295-06 Chapter 5: Every Single Connection
+
+Kasumi has trouble picking just one final stop—but then, inspiration strikes...
+
+(Character: Kasumi Toyama, Tae Hanazono, Rimi Ushigome, Saya Yamabuki, Arisa Ichigaya)
+
+[Riverside]
+
+Tae: I'm really glad we went to the gym.
+Rimi: Yeah. It brought back memories... and reminded me of some really important feelings. And we got to hear how Saya-chan felt, too.
+Saya: Looking back now, it's kind of embarrassing.
+Arisa: You were totally into it though, Saya.
+Tae: Huh? You were just as into it, Arisa.
+Rimi: Fufu, and you were kinda teary too.
+Arisa: T-that was just the mood getting to me...! I wasn’t crying or anything!
+Arisa: I just stepped out for a bit, and somehow it turned into all this... How did that even happen?
+Saya: It’s like one person’s memory sparked the next, and it just kept connecting us all together.
+Tae: A memory combo.
+Arisa: So that just leaves Kasumi...
+Rimi: Kasumi-chan, have you decided where you want to go yet?
+Kasumi: I don’t know what to do~~~! I’ve got too many ideas—I can’t decide where to go~~~!
+Arisa: Geez, you’re still thinking about it?
+Kasumi: You know, just talking with everyone in all these different places—it made all my memories come flooding back~!
+Saya: Yeah, I get where you’re coming from, Kasumi. It’s hard to pick just one when there are so many special ones.
+Tae: Wanna go to Osaka?
+Kasumi: Great idea! I’m still in touch with that band girl we swapped contacts with back then!
+Arisa: Okay, sure, it’s a special place—but it’s way too far! Are you seriously planning to hop on a bullet train right now!?
+Tae: How about the university? We did a live there with the light music club seniors.
+Rimi: Fufu, that show was super nerve-wracking. The club captain literally had to push us onto the stage.
+Saya: Thinking about it, we’ve really been able to connect with so many people through music in so many places.
+Kasumi: Yeah. And each of those connections led to new sparkling, heart-pounding moments, forming a big circle...
+Kasumi: Ah...!
+Arisa: Huh? Did you think of something?
+Kasumi: Yeah! I want to go there! Let’s go—right now!
+(Black cut)
+(Background change)
+
+[CiRCLE Café]
+
+Kasumi: We’re here~~!
+Arisa: Huff... huff... Why do we always have to run everywhere...?
+Tae: I figured Kasumi would want to come here.
+Rimi: Fufu, me too.
+Saya: I knew it. This really is Kasumi’s special place.
+Kasumi: Yup! As I thought back on all the bonds we’ve made, CiRCLE was always right at the center of it all.
+Kasumi: It gave me so many sparkling, heart-pounding moments and so many wonderful encounters... I love this place so much!
+Saya: Fufu. You loved it so much, you even started working at the sister shop, RiNG.
+Tae: I love CiRCLE too. It always feels so warm there.
+Arisa: Yeah, there’s so much we wouldn’t have been able to do anywhere else but here.
+Rimi: We had our Poppin'Party Christmas live here too, didn’t we?
+Saya: Fufu, thanks for back then, Arisa. That was such a wonderful surprise you put together.
+Arisa: Y-yeah...
+Saya: Can’t believe shy little Arisa actually went up and talked to CHiSPA...
+Kasumi: Now she’s the student council vice president at Hanasakigawa~ Ugh, you’ve grown so much, Arisa~~~.
+Arisa: A-are you my guardian or something? It’s supposed to be the other way around!
+Tae: I still remember when Rimi did her first MC too.
+Rimi: I was so nervous back then... but thanks to everyone, I managed to get my feelings across to the crowd with my own words... and it made me really happy.
+Kasumi: I’m gonna cry just thinking about Rimi-rin’s MC~! Hey hey, O-Tae, what’s your favorite memory?
+Tae: For me, it was representing CiRCLE and performing at Rocking Star Festival for the first time!
+Tae: It was fun, and yeah, there were some frustrating parts... but I felt so proud—and excited for what was still ahead!
+Tae: What about you, Kasumi?
+Kasumi: I’ve got so many memories too... but I think my favorite has to be “CiRCLE THANKS PARTY!”
+Tae: Nice choice. I’d love to have that bunny cornet again.
+Arisa: That’s what stood out to you!? ...Well, I mean, yeah. Creating one song together with that many people and performing it on stage—honestly, that was incredible.
+Rimi: The night before the show, a storm tore the whole stage apart... We all worked so hard to fix it.
+Saya: We repainted signs, set the tents back up—everyone came together. That really moved me.
+Kasumi: And then we stood on stage and played together...
+Kasumi: That sparkling, heart-pounding feeling we had back then—I think it still connects to who we are now.
+Kasumi: That when we work together, there’s nothing we can’t do!
+Marina: Phew~, that amp was heavy~. Okay, can you grab the cables—
+Kasumi: Ah! Marina-san, {{userName}}-san!
+Marina: Huh? Hey, all of Poppin’Party! Did you have a booking today?
+Kasumi: Not today! We’ve been touring our old Poppin’Party memory spots and taking commemorative photos!
+Marina: Wow, that’s so sweet! In that case, want me to take a picture of all of you?
+Saya: Really? Oh—but...
+Marina: ? What’s wrong? Don’t be shy.
+Saya: Well, if we’re taking a group photo... I was hoping you two could be in it with us.
+Kasumi: Sounds great~! Let’s take a photo together—a keepsake!
+Marina: A-are you sure~? I mean, this is an important keepsake for Poppin’Party, right?
+Tae: That’s exactly why. You’ve both supported us all this time—you’re important to us, too.
+Marina: I see. ...Fufu, well, in that case, I’ll take you up on the offer.
+Saya: Okay, let me set the camera up.
+Rimi: Saya-chan, hurry up~.
+Arisa: Marina-san, {{userName}}, come stand up front.
+Marina: G-gosh, this is a little embarrassing~. Come on, you—scoot a bit closer.
+Saya: All right, everyone, here we go~!
+Kasumi: Yay~! Let’s check it out right away!
+Saya: Let’s see... Fufu, it turned out great.
+Marina: Whoa, it really feels like we’re part of Poppin’Party now. Don’t you think so too?
+Kasumi: Ehehe, thank you so much, Marina-san, {{userName}}-san!
+Kasumi: And from now on, we’ll be counting on you forever and ever!
+Marina: Fufu. Same here. And keep on supporting CiRCLE, okay?

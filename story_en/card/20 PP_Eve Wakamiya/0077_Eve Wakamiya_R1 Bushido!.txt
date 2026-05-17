@@ -1,0 +1,43 @@
+77_Eve Wakamiya_R1 Bushido!
+
+<Self-Introduction>
+
+(Character: Eve Wakamiya)
+
+Eve: Hello, everyone! My name is Eve Wakamiya!
+Eve: I play the keyboards for Pastel＊Palettes.
+Eve: I used to play the piano when I was little, but I stopped for a long time, so now I'm practicing hard every day.
+Eve: I practiced a lot today. I'll practice a lot tomorrow too!
+Eve: So many things happen every day when playing in a band. It can be really tough sometimes.
+Eve: But as long as I have bushido, it'll be okay! With bushido, nothing is impossible!
+Eve: There is still a lot that I don't know...But I will hold on to the spirit of bushido…And show the world that I can do it!
+Eve: I want to become an outstanding idol so that I can share the spirit of bushido with everyone.
+Eve: I hope everyone will continue to show me their support until that day comes!
+Eve: That's all for now. I'm Eve Wakamiya! Osu! Hmm~? Samurai don't say "osu"? I didn't know that~.
+
+
+<Once In A Lifetime>
+
+(Character: Eve Wakamiya)
+
+Eve: Huh? Is that who I think it is...? Hello!
+Eve: Your time has come!
+Eve: What a coincidence to see you on my day off!
+Eve: Do you have work today, {{userName}}-san? You're always working so hard! Thank you!
+Eve: I'm really glad that I came to Japan.
+Eve: I was able to meet the other members of Pastel＊Palettes, and you as well, {{userName}}-san.
+Eve: I'm in a place far away from Finland, but... because I joined the band...
+Eve: I was able to make many friends who I can do new things with, so I'm really happy! That's why I wanted to say thank you.
+Eve: This is where people say "every moment is unique" in Japanese, right? Does that mean every moment is strange, too? ... Oh, not that kind of unique? I see~.
+Eve: Are you happy we became friends too, {{userName}}-san?
+Eve: Yay! Thank you very much! We really hit it off, don't we~? Fufu.
+Eve: That's right, I'm on my way to the studio!
+Eve: Bushido is all about daily dedication!
+Eve: Building on your efforts every day is what makes you stronger for the future.
+Eve: It's the same for band practice too. Daily practice is important.
+Eve: You're impressed that I practice on my days off?
+Eve: Ehehe, thank you very much! I appreciate your kindness!
+Eve: Okay then, I will bid you farewell!
+Eve: I'm going to practice hard today, and tomorrow...
+Eve: And stay dedicated to my path!
+Eve: So please look forward to our next performance!!

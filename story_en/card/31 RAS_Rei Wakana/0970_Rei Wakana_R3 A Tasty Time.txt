@@ -1,0 +1,108 @@
+970_Rei Wakana_R3 A Tasty Time
+
+Gacha phrase: You always ask to meet on such short notice, Hana-chan.
+
+<Adults>
+
+(Character: Rei Wakana, Rokka Asahi)
+
+[Day Off]
+
+[CHU²'s Penthouse - Living Room]
+
+LAYER (Rei): Hello... Huh? No one's here.
+LOCK (Rokka): Phew... Ah, LAYER-san! Hello!
+LAYER (Rei): Where are CHU² and PAREO?
+LOCK (Rokka): They had an errand to run, so they left. Are you here to practice as well, LAYER-san?
+LAYER (Rei): Yeah. I noticed something during our last practice together, so I wanted to check for myself.
+LAYER (Rei): You must have arrived pretty early, LOCK. From the look of it, you've been here for a while.
+LOCK (Rokka): I have the day off from work and the bathhouse, so... I thought I'd work on my guitar-playing skills. I need to try harder if I want to catch up to you all.
+LAYER (Rei): Why do you need to catch up? You're perfectly capable on the guitar...
+LOCK (Rokka): No, not at all... I've got a long ways to go compared to you guys!
+LAYER (Rei): I don't know about that... You practice hard enough that your guitar strings are always breaking.
+LOCK (Rokka): Ah, I forgot! I was going to buy some new guitar strings...!
+LAYER (Rei): In that case, why don't we go shopping together? There's something I want to check out anyway.
+LOCK (Rokka): O-okay! Let's go.
+(Black cut)
+(Background change)
+
+[Residential Area]
+
+LOCK (Rokka): Mmm~, that breeze feels so good~. The sunlight is so warm too. This weather is perfect~.
+LAYER (Rei): Fufu, now that's a nice expression. You can really tell when you're happy, LOCK.
+LOCK (Rokka): R-really? I wouldn't know myself... Ah, but my mother always says she can tell what I'm thinking by looking at my face.
+LOCK (Rokka): ... I wonder how she's doing. I should call her.
+LAYER (Rei): You left home in order to find a band like Poppin'Party, right? That's quite the resolve you've got there.
+LOCK (Rokka): My parents were a little worried, but that's just how much the stage sparkled when I saw Poppin'Party's concert...
+LOCK (Rokka): Eventually I was able to convince them to let me stay with our relatives.
+LAYER (Rei): They own Asahi Bathhouse, right? Masuki has invited me before, but I'm always busy...
+LOCK (Rokka): Please feel free to stop by whenever you like. You're always welcome!
+LAYER (Rei): Fufu, thank you.
+LOCK (Rokka): That reminds me... Did you see this? It's on the Girls Band Challenge website.
+LAYER (Rei): I did! Our music video has over 10,000 views. It's hard to believe.
+LOCK (Rokka): I was surprised too! CHU²-san's reaction to it was so cool, though. She just said it was bound to happen because she's the one who produced it.
+LAYER (Rei): You know, that probably means she's thrilled.
+LOCK (Rokka): Really?!
+LAYER (Rei): I've been working with her longer than you have, so I kind of understand her. She was eating a lot more jerky than normal, right?
+LOCK (Rokka): Now that you mention it...
+LAYER (Rei): Fufu, she put a lot of work into that music video. Of course she'd be happy.
+LOCK (Rokka): That's true. She really gave it her all. I was super nervous. I just wanted to make sure I wasn't a burden to everyone.
+LAYER (Rei): You were pretty relaxed in the second half of shooting though.
+LOCK (Rokka): I suppose so... I think eating lunch with you all helped.
+LOCK (Rokka): Especially when... you said, "lil' octopus sausage." Do you remember that?
+LOCK (Rokka): That really helped calm my nerves.
+LAYER (Rei): Really...? That's good.
+LAYER (Rei): I'm sure there's a lot in store for us. CHU² is probably coming up with all kinds of plans. Some of which we would never even dream of.
+LOCK (Rokka): True...
+LOCK (Rokka): I'll make sure to do my best! ... Phew~, I feel so much better now~.
+LAYER (Rei): Is everything okay?
+LOCK (Rokka): Hanging out with you really helps me calm down.
+LOCK (Rokka): It's almost comforting. I would never believe you're only a year older than me... You're such an adult.
+LAYER (Rei): An adult, huh...? I personally don't think so.
+LOCK (Rokka): Really...?
+LAYER (Rei): For example... Do you see that crosswalk over there? Sometimes I'll only walk on the white bars.
+LOCK (Rokka): I do that too! Sometimes I'll keep it up until I get to school!
+LAYER (Rei): Other than that, I always put off doing my laundry. I'm not as mature as you think I am.
+LOCK (Rokka): Wow~, I see... Fufufu. I'm glad I learned something new about you!
+LAYER (Rei): Actually... Why don't we race to the music store?
+LOCK (Rokka): Huh? A race?!
+LAYER (Rei): Ready~? On your mark, get set... Go!
+LOCK (Rokka): Ah! LAYER-san, wait for me~!
+
+
+<Smoked Out>
+
+(Character: Rei Wakana)
+
+[Station Entrance]
+
+Marina: Phew, we're finally back. I never thought we'd get lost while running errands.
+Marina: Yeah, you're right. We should take a break once we get back to CiRCLE.
+LAYER (Rei): Marina-san, {{userName}}-san, good afternoon.
+Marina: Ah, LAYER-chan! What are you doing here?
+LAYER (Rei): School just let out for me. I'm on my way to CHU²'s studio.
+Marina: Ah, do you have band rehearsal today?
+LAYER (Rei): No, I want to do some solo practice. I just feel like being in the studio...
+Marina: Sounds like somebody's on fire~. Could it be thanks to the Girls Band Challenge?
+LAYER (Rei): I don't know if I'd say I'm on fire.
+Marina: Oh? That showdown with Roselia was pretty intense, so I thought that was it for sure...
+LAYER (Rei): Actually, ever since that concert, it's felt like something has been smoldering in my chest...
+LAYER (Rei): You see, I was watching their show from the sidelines.
+LAYER (Rei): Watching them play reminded me just how skilled they are. Not only in terms of their performance, but there's something more...
+Marina: Like what?
+LAYER (Rei): It's as if everyone in their band is headed for the same goal... And when the audience sees that passion, they get sucked in...
+LAYER (Rei): It's hard to describe... Their show just radiates conviction.
+Marina: Conviction...
+LAYER (Rei): Their passion comes through in their performances, and you can't take your eyes off of them...
+LAYER (Rei): It made me want to sing, and that sensation kept getting stronger and stronger.
+Marina: Gotcha~. So that's why you looked so intense up onstage that day.
+Marina: I know how you feel though. I've experienced the same thing myself.
+LAYER (Rei): You have?
+Marina: My band went up against another group back in our day, and they were incredible.
+Marina: It made all of us want to perform like that, so our show became much more intense.
+LAYER (Rei): I suppose that's what happened with me. I definitely felt like I performed better than usual.
+LAYER (Rei): Having a band that pushes you past your limit... I think that's a good thing, don't you?
+Marina: Yes, without a doubt.
+LAYER (Rei): I'll never forget our showdown.
+Marina: Well, you know I'm always cheering you on. The same goes for you too, right, {{userName}}-san?
+LAYER (Rei): Thank you. I'll be sure to work hard so that I'm worthy of your support.

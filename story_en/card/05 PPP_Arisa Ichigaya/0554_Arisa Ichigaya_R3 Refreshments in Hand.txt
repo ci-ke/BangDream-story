@@ -1,0 +1,87 @@
+554_Arisa Ichigaya_R3 Refreshments in Hand
+
+<A Downtown Encounter>
+
+(Character: Kasumi Toyama, Arisa Ichigaya, Tomoe Udagawa, Eve Wakamiya)
+
+[Downtown]
+
+Kasumi: Thanks for coming with me, Arisa~!
+Arisa: Well, it is to help with writing lyrics. Okay, so we're here. Now what do we do?
+Kasumi: Why, we take a walk, of course. What better way to find the best parts of downtown?!
+Arisa: Huh?! And you think that'll help spark some new ideas?
+Kasumi: Of course! A stroll around the area is what will help us find things worth singing about, right? Don't forget to tell me if you find something!
+Arisa: Fine, I'll do it... but don't expect much. I'm not nearly as interested in this place as you are.
+Kasumi: Ah! Look, Arisa! Over there! The busted light on the barbershop's sign has been fixed!
+Arisa: Huh? It was out? I never noticed...
+Kasumi: And here, check out this manhole! It's been bugging me how grimy it's been recently, but now it's looking good as new!
+Arisa: A manhole? This is what you spend your time looking at...?
+Kasumi: Anything on your end, Arisa?
+Arisa: Nothing here. Wait, are these really the sorts of things you want to sing about in a song?
+Kasumi: Getting a feel for the atmosphere is what's important, believe me! ... Hey! It's the nice lady who gave me snacks the other day! Excuse me~!
+Arisa: Wait, where are you-? Sigh... Here we go again...
+Arisa: You'd think she lives here or something...
+Arisa: She's definitely got me beat in number of acquaintances...
+Eve: Oh, is that perhaps Arisa-san I spy over there?
+Tomoe: Yep, nice catch! Yo~, Arisa~!
+Arisa: Ah, Eve. And Tomoe-san, too! You two have plans to go somewhere?
+Eve: No, I am on my way to my part-time job at Tsugumi-san's cafe!
+Tomoe: Just so happens that I'm going to the same place. We bumped into each other on the way there.
+Eve: Is something amiss, Arisa-san? You seemed to be in a sort of daze...
+Arisa: Well, Poppin'Party is in the middle of making a song for the downtown district. We're supposed to be looking for the best parts of it so we can make that into lyrics
+Tomoe: Downtown's best spots...? You should let me help you out! If you don't mind, that is!
+Eve: I, too, love this area and wish to offer my assistance!
+Kasumi: Hey~! You're having an exciting conversation without me?! No fair, Arisa~!
+Arisa: And what's unfair about that?! Besides, you're the one who bolted off ahead on your own.
+Kasumi: Oh, I have something for you! From the nice lady to Arisa!
+Arisa: For me...? Ah, it's taiyaki... But why?
+Kasumi: She said you were happily gobbling one down the other day!
+Arisa: O-oh...
+Arisa: (Looks like I've made a decent number of acquaintances around here, after all...)
+Kasumi: You okay, Arisa? You're grinning ear to ear.
+Arisa: I am not! ... I think I found it, though. Something good about downtown.
+Kasumi: No way! Tell me, tell me!
+Arisa: How do I put this...? It's where you can meet many kinds of people? A place of new encounters... or something. I don't know.
+Eve: Well said, Arisa-san!
+Kasumi: Arisa... I think you nailed it! That is exactly what makes downtown so wonderful!
+Tomoe: A place to meet new people... It's so obvious to me that I overlooked it, but when said out loud like that, it makes sense...!
+Kasumi: It does, doesn't it?!
+Kasumi: I'm glad that we came together, Arisa~! I knew you'd pull through!
+Arisa: C-cut it out with the flattery, you~.
+Kasumi: Arisa! What do you say to another visit here tomorrow? There's definitely something else to be discovered! Right? You agree, right?!
+Arisa: What~?! Tomorrow, too~...?
+Arisa: ... Fine. I guess someone's gotta do it.
+
+
+<Wrap Party>
+
+(Character: Arisa Ichigaya)
+
+[Shopping Mall]
+
+Marina: I wonder what we should have for lunch today~... Hm? Isn't that Arisa-chan over there? Hey~!
+Arisa: Oh, Marina-san, {{userName}}. On your way to have some lunch?
+Marina: We sure are. How about you?
+Arisa: I'm waiting to meet with Kasumi and the others. You haven't seen her around, have you?
+Marina: No, can't say that I have. Have you, {{userName}}-san?
+Arisa: Neither of you have? Oh well. We're having a little celebration per Kasumi's request, so I can't imagine they'll be late... but I'm not so sure.
+Marina: Celebration?
+Arisa: She thought it would be nice for us to let off some steam after having completed the downtown song. Her words, not mine.
+Arisa: ... She probably just wants to goof off, if you ask me.
+Marina: Fufu. Oh, okay. That makes sense. I can imagine creating that song wasn't an easy task.
+Arisa: Yeah, Rimi hit a huge roadblock at one point. But she kept giving it her all and was eventually able to make a good song.
+Marina: I managed to catch it while passing through the downtown area. Let me tell you, it was so cool!
+Arisa: You mean it? That's a relief~... Er...! I-I mean...! If I had to choose, I would rather people actually like the song, you know...?
+Marina: Mhm. When I initially heard about it, I had assumed it would sound like one of those jingles they play in the supermarket, but I was shocked to find out that it was completely different.
+Arisa: Hahaha, that was actually one of the ideas we were tossing around. In the end, we wanted to create a song that only we could make, which is how the end product came to be.
+Marina: It's good that it's different. There are already so many jingles that get stuck in your head, and you can just feel your mind crying out for help.
+Arisa: O-Tae mentioned something similar. ... Oh, you too, {{userName}}?
+Arisa: Perhaps all of those jingles have something in common...
+Marina: No doubt there's some sort of secret know-how to creating jingles like those!
+Arisa: Yeah, I'm sure there is. ... Maybe I'll look it up later.
+Marina: Fufu, ever the diligent one, Arisa-chan.
+Arisa: Th-that's not even remotely true. I thought that it may come in handy for making future songs. That's all.
+Marina: It could! Then, you'll be able to put together a song that is both catchy and cool!
+Arisa: I'll swing by the bookstore during our outing today. Any book covering that sort of topic would likely be useful to Rimi...
+Marina: Diligent and thoughtful, aren't we, Arisa-chan~?
+Arisa: What?! No, you've got the wrong idea! {{userName}}, that little smirk of yours isn't helping~!

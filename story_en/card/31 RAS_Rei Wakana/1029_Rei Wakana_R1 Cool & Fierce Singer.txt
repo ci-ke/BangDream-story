@@ -1,0 +1,40 @@
+1029_Rei Wakana_R1 Cool & Fierce Singer
+
+<Self-Introduction>
+
+(Character: Rei Wakana)
+
+[CHU²'s Penthouse - Studio]
+
+LAYER (Rei): I'm LAYER. My actual name is Rei Wakana... I'm RAISE A SUILEN's vocalist and bassist.
+LAYER (Rei): Before joining RAS, I would work temporarily with other bands. I also did jobs as a backup singer and worked on temporary vocal tracks...
+LAYER (Rei): I became a member of RAS because CHU², our producer, recruited me.
+LAYER (Rei): I've done music with a lot of bands, but RAS is something else entirely...
+LAYER (Rei): Whenever I'm performing, I feel like I'm doing music that only we can do.
+LAYER (Rei): Lately, all of us have gradually started opening up to each other. We do that over ramen after practice.
+LAYER (Rei): I like RAS, and I enjoy those times we get to spend together.
+LAYER (Rei): I want to improve so that I can continue singing for this group and help us achieve even better results.
+LAYER (Rei): I hope you'll continue to check out RAISE A SUILEN. This has been LAYER, vocalist and bassist.
+
+
+<RAS's Sound>
+
+(Character: Rei Wakana)
+
+[Station Entrance]
+
+LAYER (Rei): Hello, {{userName}}-san.
+LAYER (Rei): I'm on my way to do voice training.
+LAYER (Rei): ... You don't have to look that surprised.
+LAYER (Rei): ...? Ah, I see. You gave me that look because I have my bass.
+LAYER (Rei): I'm going to sing and practice the bass at the same time.
+LAYER (Rei): I know it's important to improve my technique, but right now, I want to work on everything I need to perform RAS' music.
+LAYER (Rei): Even when I practice my bass to our music, I try to find what sounds the best.
+LAYER (Rei): And when I sing a song, I think of how to make it resonate with the people who will listen to it. I try to determine the best way to convey what makes it good.
+LAYER (Rei): Those are the things that are on my mind when I practice.
+LAYER (Rei): I don't want to compromise either my singing or bass playing, so I keep at it until I'm satisfied.
+LAYER (Rei): I guess everyone in RAS is the reason why I'm so dedicated to music every day.
+LAYER (Rei): I also like music, and because I like it, I want to aim even higher...
+LAYER (Rei): That's something that'll come into play whether I'm practicing alone or with everyone else as a band.
+LAYER (Rei): Yes, thank you for the support. I'll try not to disappoint you.
+LAYER (Rei): Goodbye, {{userName}}-san. See you later.

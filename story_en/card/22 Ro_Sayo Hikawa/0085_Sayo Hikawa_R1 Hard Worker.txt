@@ -1,0 +1,41 @@
+85_Sayo Hikawa_R1 Hard Worker
+
+<Self-Introduction>
+
+(Character: Sayo Hikawa)
+
+Sayo: My name is Sayo Hikawa.  We're in the middle of rehearsals right now, so I won't be able to talk for long.
+Sayo: I am the guitarist in Roselia.  ... What? What do I think of the other members?
+Sayo: ... This band isn't a hobby.
+Sayo: What we think of each other doesn't matter at all. It's against my very principles to even think about it.
+Sayo: ......?  Why are we so serious about it?
+Sayo: ......
+Sayo: ......
+Sayo: Does it really matter why we do this? How it all came to be? In the end, if we can't produce results, none of it means anything anyway.
+Sayo: For me, having talent and producing results is everything.
+Sayo: And in order to make that happen... In order to become a world-class performer, I will make any sacrifices necessary.
+Sayo: Your two minutes is up.  I'm going back to rehearsals.
+
+
+<Tools To Make Music>
+
+(Character: Sayo Hikawa)
+
+Sayo: Let's see... I think my third string was wearing thin...
+Sayo: ... Oh, hello, {{userName}}-san. What brings you here...?
+Sayo: ... Do you play an instrument as well, {{userName}}-san?
+Sayo: I mean, you wouldn't enter a music shop otherwise...
+Sayo: ... You don't play any instruments?
+Sayo: In that case, why would you...?
+Sayo: Out of personal interest...? That's why you came in here...?
+Sayo: ...
+Sayo: Oh, no... I'm sorry. It's just that I find it hard to relate to you in that sense...
+Sayo: For me, a musical instrument is merely a tool used to perform music.
+Sayo: I never saw instruments as anything other than a tool for improving my own ability...
+Sayo: I don't mean to reject your opinion, {{userName}}-san.
+Sayo: If anything, it is a new way of seeing things for me...
+Sayo: ... You came into the music shop out of personal interest. Perhaps someday... I will understand such a sentiment.
+Sayo: I wonder...
+Sayo: ... Oh, don't mind me. I was just talking to myself.
+Sayo: Well, it's almost time for my booking at the studio. I'm going to head off now.
+Sayo: Thank you very much for sharing your views with me today.

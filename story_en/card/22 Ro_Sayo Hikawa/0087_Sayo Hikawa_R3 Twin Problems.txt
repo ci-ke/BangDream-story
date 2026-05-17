@@ -1,0 +1,134 @@
+87_Sayo Hikawa_R3 Twin Problems
+
+Gacha phrase: You always want to do everything together.
+
+<Sayo & Hina's Conflict>
+
+(Character: Hina Hikawa, Yukina Minato, Sayo Hikawa, Lisa Imai)
+
+Sayo: (I would love to have this effects unit for our next song... but I just can't afford it...)
+？？？: Huh? Hey, sis.  Are you here to get one, too?
+Sayo: Hina?  What are you doing here?
+Hina: Me? I'm just here to buy some equipment.  That effects unit's pretty good, huh~.
+Hina: I tried it out the other day, and let me tell you, it was boppin'!
+Sayo: I don't have a clue what you mean, as always.
+Hina: Really?  Anyway, I asked our staff and they said I could come choose any equipment I wanted~.
+Hina: We could both get this one together, huh.
+Sayo: Don't say that, we're not getting anything "together."  You just make it sound like I'm copying you.
+Hina: So? I don't mind.
+Sayo: ......  ... I'm going.
+Hina: What? Wait, hold on, let me just get this first. I really thought you'd like it too. Why don't you get it?
+Sayo: Roselia can't afford equipment like this.
+Hina: Ah, I said wait~!
+(Black cut)
+(Background change)
+Hina: Found you~♪
+Sayo: Why are you following me?  I've got to get to rehearsals.
+Hina: Me too! The agency's this way, isn't it?  It's not my fault we're going the same direction.
+Sayo: Well I'm in a hurry, so I'll just go on ahead.
+Hina: I'm in a hurry, too~.  I mean, I'm actually almost late already, but I just had to go buy that effects unit. I couldn't wait~.
+Sayo: You still haven't fixed that lateness of yours, then.
+Hina: Are you always first to arrive at your rehearsals, sis?
+Sayo: Minato-san and I are the only ones who really understand. Pre-show visualizations, tuning the instruments... Even 30 minutes early is too late.
+Hina: Wow~. That sounds tough, huh.
+Sayo: ... It doesn't sound like you have any pressure at all. Well I'm sorry, but Roselia is aiming for the absolute heights.
+Sayo: We don't rely on... agencies, or staff, or anyone else. Just us and our music will take us there.
+Hina: Whoa~. That's so cool.
+Sayo: Hina... Honestly...
+Hina: Ah...  Did I say something bad again...?
+Sayo: You're missing this fundamental idea that you're part of a band.
+Hina: ... Huh?
+Sayo: As a guitarist, you're supposed to follow the vocals, carve out the melody and set the general groove. But it sounds to me like you don't get it at all.
+Sayo: This equipment, for example. Are you sure it can match with your music? Have you talked to your staff, or your other band members, about how to use it?
+Hina: I... Huh...?
+Sayo: Any band whose members just do whatever they want to do will never, ever succeed.
+Sayo: (At least, that's where I was always going wrong... Until I met the right people.)
+Sayo: (I understand now just how difficult it is... and how thankful I should be...)
+Hina: Yeah! I mean, if everyone's just all dododadada~, and nothing ever comes together, it's all pointless.
+Hina: ... So I'm gonna go back and check with everyone about how to use this equipment!
+Sayo: You do that.
+Hina: ... Thank you, sis!
+Sayo: I only explained how I feel about guitarists.
+Hina: I know, but still... I think this is the most you've talked to me in some time, now...
+Sayo: ......!!!
+Hina: I'm gonna try real hard at guitar, sis.  ... This is me. See you~.
+Sayo: I......
+Sayo: I don't want you to try hard.  ... I don't want you to overshadow me.
+Sayo: (But then, why did I just say all of that...?)
+(Black cut)
+(Background change)
+Yukina: No! This just isn't good enough!
+Lisa: Okay okay, Yukina, let's just calm down.  You don't want to lose your voice before we even start.
+Yukina: No, play the song again.
+Lisa: Ahh~...  Oh, hey Sayo.  I guess we beat you here today.
+Sayo: What's the matter with Minato-san?
+Lisa: Oh~, just her impossibly high standards, as always.
+Yukina: Lisa, we don't have time for this. Hurry up.
+Sayo: (Minato-san...  She's probably comparing our music to her fathers...)
+Lisa: Don't go overboard with it, okay...?
+Sayo: (All Imai-san can do is follow Minato-san's lead in this...)
+Sayo: (Sometimes, there's nothing we can do. Like with Hina and I. But just having us here, together, is enough. Maybe everyone feels the same way...)
+Sayo: And maybe... that's what let me act a little kind towards Hina, too...
+Lisa: Huh? Did you say something, Sayo?
+Sayo: No.  ... Let me join in on guitar.  ... I want to hear our music again.
+
+
+<Thanks To Her>
+
+(Character: Sayo Hikawa)
+
+Sayo: ... We've made it this far.
+Sayo: Thinking back on everything... it's been quite the journey.
+Sayo: ... Strangely enough, I don't mind how this feels.
+Sayo: But this is no time to for complacency...
+Sayo: What we aim for is still much higher than this.
+Sayo: It's up to Minato-san and myself to push everyone...
+Sayo: ... Phew. I guess I'll head back to the dressing room and tune my guitar for now.
+Sayo: ... Hm?
+Sayo: Hello, {{userName}}-san.
+Sayo: I thought you were working?
+Sayo: ... You saw me staring at the stage, and wondered what was going on?
+Sayo: I see... I apologize if I made you worry.
+Sayo: It's nothing. There's no need to be concerned.
+Sayo: I was just... sorting out some of my feelings.
+Sayo: We have a performance today. I don't need to be thinking of anything besides that...
+Sayo: ... Did I sort everything out, you ask?
+Sayo: Yes... with the exception of one thing.
+Sayo: ... You don't mind listening?
+Sayo: Thank you...
+Sayo: As I believe you know, I have a younger sister.
+Sayo: We are actually twins, but I happened to be the one who was born first.
+Sayo: My sister is... far more naturally talented than me at everything.
+Sayo: Even if I begin something first, she surpasses everything that I labor to obtain just through her talent alone.
+Sayo: ... She always wanted to copy the things I do, and when she does, she always does it better than me.
+Sayo: I hated it... Everything she copied I would quit... Eventually, the only thing I had left was the guitar.
+Sayo: That's when I met Minato-san, and we decided to start a band together.
+Sayo: From there we found Imai-san and Udagawa-san... At that time Rinko wasn't a member yet.
+Sayo: Anyway, on the day that we found the other members of the band, I was researching a music festival on my phone.
+Sayo: That's when my sister came over and asked what I was doing.
+Sayo: As I mentioned just now, she always wants to copy everything I do...
+Sayo: I suppose I felt a sense of... impending danger.
+Sayo: If she copied me and played the guitar, or learned about the band or the festival... She would end up taking everything from me.
+Sayo: When that realization hit me, I... lashed out at her.
+Sayo: ... I'm horrible, aren't I? I hurt her just for to preserve my own interest. I broke her heart...
+Sayo: I made her feel that way, and I feel guilty for it...
+Sayo: I am sorry that I did it, but... if I hadn't felt that sense of danger...
+Sayo: Actually, no, it's because I felt that sense of danger that I was able to reaffirm my resolve to reach the top through our music... and at the festival.
+Sayo: ... It's strange, isn't it?
+Sayo: In a way, I owe it all to my sister.
+Sayo: The fact that I can dedicate myself to the guitar like this...
+Sayo: Perhaps it's an exaggeration, but I think... it's thanks to my sister that I can be the person I am now.
+Sayo: ... {{userName}}-san. Do you think I'm strange for thinking like this, despite what I did to her?
+Sayo: Am I a terrible person for still not apologizing to her...?
+Sayo: ... You don't know how to answer?
+Sayo: You think that anyone would hate to have the something they worked hard to attain torn apart in an instant...?
+Sayo: I see...
+Sayo: Thank you.
+Sayo: Talking to you has helped me deal with a few things, {{userName}}-san.
+Sayo: ... It's almost time for our rehearsal, I should probably get going.
+Sayo: Thank you for listening today, {{userName}}-san.
+Sayo: ... Fufu, I seem to keep thanking you, don't I?
+Sayo: ... Huh? Hang in there... you say?
+Sayo: ... I will.
+Sayo: Now, I really must get going...
+Sayo: I will... do my best today.

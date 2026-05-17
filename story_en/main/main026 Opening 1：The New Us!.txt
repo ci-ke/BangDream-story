@@ -1,0 +1,58 @@
+main026 Opening 1: The New Us!
+
+ You and Marina look back on the concerts that have taken place when a certain someone shows up!
+
+(Character: Kasumi Toyama, Tae Hanazono, Rimi Ushigome, Saya Yamabuki, Arisa Ichigaya)
+
+[CiRCLE - Lobby]
+
+Marina: The equipment has been checked, the performance area has been cleaned...! Very good! Great work again today!
+Marina: Mhm, you've certainly gotten used to getting through the checklist.
+Marina: What has it been? About a year since you started working here? You're always such a big help to CiRCLE. Thank you for that.
+Marina: I've got to say, the live house is doing a lot better than when it started out. I guess we can thank the age of the girl bands for that.
+Marina: Although, that also meant things were a lot harder around here, especially with the lack of staff. And then the owner comes along and tells me that CiRCLE is gonna be left completely to me...
+Marina: I'm just a staff member too, you know!
+Marina: ... Oops. I shouldn't be complaining. Sorry. On a related note, I have a favor to ask you...
+Marina: We're gonna be short on people this week and next week... Could you maybe, possibly... take on a few more shifts...?
+Marina: Wait, really?! Wow, thank you! What a relief!
+Marina: Alright, here's the schedule! Could you write your name in the slots where you can work?
+Marina: Much appreciated! Having you on during these shifts makes a huge difference!
+Marina: Oh yeah, I found this photo while we were cleaning. Look, doesn't it take you back?
+Marina: It's from the Girls Band Party! Everyone looks like they're having a lot of fun.
+(White cut)
+Marina: Poppin'Party did a lot of running around to help us get the five bands together for the event. I was amazed at just how active Kasumi-chan could be.
+Marina: With that, and her ability to involve other people, the band was able to overcome a number of problems during this past year. You know, it feels like they've become very dependable.
+Marina: Afterglow's bond and ability to stick together is as strong as ever, but you wouldn't expect anything less from a band made up of five childhood friends.
+Marina: I hear that Ran-chan has become serious about flower arranging, and even though her father wasn't happy about her being in a band at first, things have changed, and they get along now.
+Marina: You know that one guy who wears traditional Japanese outfits who's always at Afterglow concerts? Fufu, that's her dad!
+Marina: Pastel＊Palettes keeps on getting more and more popular as an idol band, and you can see them steadily improving.
+Marina: The number of solo jobs the girls receive has increased dramatically, but they said that they still treasure their moments as a band the most.
+Marina: I can imagine that reflects just how important the band has become to each of them.
+Marina: Nothing has changed about Hello, Happy World!'s goal of coming together to make the world smile!
+Marina: At first, it just seemed like all of the other members were getting roped into doing things by how energetic Kokoro-chan is, but...
+Marina: Nowadays, they all share that proactive spirit in wanting to make the world a happier place. Fufu, I think Misaki-chan is especially easy to read when it comes to that sentiment.
+Marina: Roselia remains at the top among the five bands in terms of skill. They started with this stubborn idea that being part of a band is not about having fun, but...
+Marina: I guess they must have gone through a lot. You can see how much they treasure the relationship they have with each other outside of music now. They're still pretty strict though.
+Marina: I feel like Yukina-chan and Sayo-chan have adopted a much different approach to music. That's probably one of the biggest changes. And I don't think it's just my imagination.
+(White cut)
+(Background change)
+Marina: ... Ah! What am I doing?! I got so caught up thinking about the past... Looks like I took up both of our time. Sorry about that.
+Kasumi: Marina-san, {{userName}}-san~! Hello!
+Marina: Kasumi-chan! Oh, the gang's all here! Something wrong?
+Kasumi: Ehehe~. Kasumi Toyama is now a second-year student!
+Saya: ... Kasumi was going on about wanting to say hi to you guys. She wouldn't take no for an answer.
+Arisa: We're sorry, we know you're busy... Kasumi, you're gonna think about what you've done!
+Marina: Fufu. Congrats on moving up a grade! Well? How's everything at school now?
+Kasumi: I'll tell you! It's sparkling and heart-pounding and so much fun!
+Marina: I'm glad to hear it. I assume you'll continue with the band?
+Tae: Yep! It'll be a long time before I let Poppin'Party throw in the towel!
+Rimi: Mhm, that's right.
+Kasumi: There are so many people here~. Does that mean the studios are all filled?
+Arisa: Kasumi, are you...?
+Marina: Uhhh, let's see... Here we go! We've got one room open, but it's only for thirty minutes. Plan on rehearsing?
+Kasumi: Yes! We'll take it!
+Arisa: Sigh... I knew it.
+Kasumi: You say that like you're not here for the same reason, Arisa.
+Arisa: Sh-shut it!
+Marina: Fufu. I doubt I need to explain the rules. 'Kay, go on and play your hearts out!
+Kasumi: We will~! Thanks, Marina-san!

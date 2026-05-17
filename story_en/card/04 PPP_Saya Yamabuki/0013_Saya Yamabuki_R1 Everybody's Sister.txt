@@ -1,0 +1,42 @@
+13_Saya Yamabuki_R1 Everybody's Sister
+
+<Self-Introduction>
+
+(Character: Saya Yamabuki)
+
+Saya: My name is Saya Yamabuki. I play the drums for Poppin'Party.
+Saya: I'm usually busy helping out around the house and watching after my siblings...
+Saya: But I also enjoy time with the band.
+Saya: I was happy when Kasumi invited me to join.
+Saya: Oh, yeah. My family owns a bread shop: Yamabuki Bakery.
+Saya: Sometimes Kasumi lends a hand, but usually all she does is play around with my brother and sister.
+Saya: ... Just kidding! She always helps out.
+Saya: I do my best through all of the craziness.
+Saya: I think we've got a pretty good group, so I hope you'll come see our shows.
+
+
+<Off To The Store>
+
+(Character: Saya Yamabuki)
+
+Saya: Hmm, I've got butter, sugar, salt... I think that's everything.
+Saya: ... Hm? Is that who I think it is...? {{userName}}-san?
+Saya: A-ha, it is you!
+Saya: I'm Saya Yamabuki!
+Saya: I've been practicing at your live house a lot these days. I play the drums...
+Saya: Um, I just wanted to apologize for what Kasumi did the other day...
+Saya: You don't know how relieved I am to hear that everything's okay... Aha, ahaha...
+Saya: Uh, no. I'm not -here for any specific reason. I just saw you, and wanted to say hi and apologize...
+Saya: I hope you'll keep on supporting us at the live house.
+Saya: ... Oop, that was close. I almost dropped everything.
+Saya: Hm? You're wondering what I've got here?
+Saya: Ah, s-sorry. This has nothing to do with the band. My family runs a bakery.
+Saya: My dad accidently used up some of our ingredients, so I'm doing some shopping for him now.
+Saya: The other girls in the band all say our bread is really good, you know? We often have some after we finish practice.
+Saya: Fufu, we've been practicing even harder than usual these days, so we always end up eating so much.
+Saya: Ahaha. Helping out at home isn't that much work, really.
+Saya: I'm balancing the bakery and the band pretty well,.
+Saya: ... Thanks for worrying about me, though.
+Saya: ... Uh-oh! I should probably get moving.
+Saya: You should come by our bakery sometime!
+Saya: I'll work just as hard on my music too, so I hope you'll be there to support us!

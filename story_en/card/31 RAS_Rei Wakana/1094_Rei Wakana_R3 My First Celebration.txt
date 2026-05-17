@@ -1,0 +1,93 @@
+1094_Rei Wakana_R3 My First Celebration
+
+<A Fulfilling Shrine Visit>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato)
+
+[Shrine - Entry Path]
+
+LAYER (Rei): (I wonder where Masuki and LOCK are. They're supposed to be here soon.)
+LAYER (Rei): (There sure are a lot of people. Ah, there are women in furisode kimonos. Fufu, they look so pretty.)
+MASKING (Masuki): Sorry for bein' late.
+LOCK (Rokka): I'm sorry we kept you waiting, LAYER-san!
+LAYER (Rei): Masuki! LOCK! Happy New Year.
+LOCK (Rokka): Happy New Year. I look forward to another year with you!
+MASKING (Masuki): Yeah, same.
+LAYER (Rei): Me too! Let's head to the shrine then, shall we?
+MASKING (Masuki): Whoa, just look at the line. Wonder how long it's gonna take us to make it to the shrine.
+LOCK (Rokka): That's unavoidable. It's New Year's Day, after all!
+LAYER (Rei): And waiting in line is kind of fun, isn't it?
+MASKING (Masuki): I guess there's that. Anyway, let's get in line then.
+LOCK (Rokka): Okay!
+LAYER (Rei): We should draw omikuji… check out the charms… Ah, since we're here, we should write our wishes on ema plaques too!
+MASKING (Masuki): Haha, what's up with you, Rei? You seem real excited today.
+LAYER (Rei): Oh… I do?
+MASKING (Masuki): Yeah, just a feelin' I've got, but you seem kinda different from usual.
+LOCK (Rokka): I think I feel the same way you do, LAYER-san. I'm also excited about this New Year's shrine visit with both of you!
+MASKING (Masuki): Yeah. I've been pretty excited myself since yesterday~. This is my first time doin' this New Year's shrine visit thing with friends.
+LAYER (Rei): Oh, you too, Masuki? It's also my first time with friends.
+LOCK (Rokka): Umm, once we've prayed, why don't we explore the shrine? I hear this shrine has events going on as well!
+MASKING (Masuki): Sounds great! Let's hit the stalls too.
+LAYER (Rei): Agreed.
+MASKING (Masuki): But first things first. We gotta pray at the shrine before doin' all that other stuff.
+LOCK (Rokka): Wait… Before praying, you're supposed to wash your hands to purify them, right? I wonder when we're supposed to do that…
+LAYER (Rei): Once we get to the water pavilion, I think. I caught a glimpse of one up ahead. Once we get there, we can wash our hands.
+LAYER (Rei): Did you know that people used to purify their hands using rivers and springs near shrines?
+LOCK (Rokka): Really~? I had no idea!
+MASKING (Masuki): I'm surprised you know that.
+LAYER (Rei): It was mentioned on this shrine's website. I came across it when I was researching the proper way to pray.
+LAYER (Rei): Incidentally, there are spirits related to health and the arts enshrined here.
+LOCK (Rokka): Wow, this shrine's perfect for us, then!
+MASKING (Masuki): Yeah, we gotta get their blessings for sure!
+LAYER (Rei): CHU² and PAREO really should've come.
+MASKING (Masuki): Well, they've been workin' on our new song since the end of last year~. Whatever we say won't register with them in their current state.
+LOCK (Rokka): PAREO-san said she'll try to invite CHU²-san to go visit a shrine with her once they reach a good place to stop.
+MASKING (Masuki): You really think she'd go? She doesn't seem like the type who'd care about New Year's shrine visits.
+LOCK (Rokka): Yes... When we invited her, she said she wasn't interested~.
+LAYER (Rei): Maybe she'll come once she finds out the shrine offers blessings for the arts?
+MASKING (Masuki): I dunno about that~. I can totally see her sayin' there's no need to rely on spirits.
+LAYER (Rei): Fufu, true.
+LOCK (Rokka): Ah, look! You can see the water pavilion and shrine now~.
+MASKING (Masuki): Huh, looks like we're making progress a lot faster than expected.
+LAYER (Rei): Hey, have you two already decided what you're going to wish for?
+LOCK (Rokka): I have, but it's a secret! What about you, LAYER-san?
+LAYER (Rei): I've decided, but it's also a secret!
+MASKING (Masuki): Haha, if you're gonna ask, shouldn't you at least tell us yours~?
+LAYER (Rei): Well, would you tell me if I did?
+MASKING (Masuki): Of course not.
+LAYER & LOCK: Fufufu!
+
+
+<My First, First Shrine Visit>
+
+(Character: Rei Wakana)
+
+[Residential Area]
+
+LAYER (Rei): Ah, Marina-san, {{userName}}-san.
+Marina: LAYER-chan! Hi. Oh, Happy New Year.
+LAYER (Rei): Happy New Year. Are the two of you on your way to work?
+Marina: We are. CiRCLE's already open for business. What about you?
+LAYER (Rei): I'm on my way to practice with RAS.
+Marina: It sounds like you guys are already fired up right from the start of the new year~. You know, it happens every year, but New Year's sure does fly by.
+Marina: Did you have a chance to go anywhere?
+LAYER (Rei): I did a New Year's shrine visit with LOCK and Masuki. It was my first time going with friends, so it all felt so new.
+Marina: Fufu, I'd imagine so~. New Year's shrine visits are already exciting enough as it is because of all the people there.
+LAYER (Rei): Yes. We went to a nearby shrine, and it was really nice.
+LAYER (Rei): There were a lot of stalls because it was a large shrine. They even had an assortment of events. It was very lively.
+LAYER (Rei): We were constantly talking about where to go next. Fufu...
+LAYER (Rei): Ah, we offered our prayers as well, of course. Standing before the spirits was really inspiring... It made me want to work hard again this year.
+Marina: I see. That's how I felt when I went. There's something special about shrines, huh~?
+LAYER (Rei): Oh, I also ran into Arisa-chan and Minato-san.
+Marina: I heard about that. They did some work as shrine maidens, didn't they?
+LAYER (Rei): Yes. I also ran into the members of Hello, Happy World! and Morfonica's Mashiro-chan and Tsukushi-chan.
+Marina: Wow, it sounds like you got to meet a lot of people right at the start of the New Year!
+LAYER (Rei): I did. I even got to chat with some of the girls I've never really talked to before.
+LAYER (Rei): Actually, before becoming a member of RAS, I never really had much of a chance to talk to people my age...
+LAYER (Rei): That's what made this year's New Year's shrine visit feel so new. I got to speak to everyone and experience things I hadn't expected...
+LAYER (Rei): I hope I get to chat like that with more people this year.
+LAYER (Rei): Ah... I just realized I've been saying some pretty embarrassing things.
+Marina: Not at all! I hope you can become closer with everyone.
+LAYER (Rei): Same.
+LAYER (Rei): Oh, I should get going. Goodbye, Marina-san, {{userName}}-san. I look forward to seeing more of you this year.
+Marina: Same here! Let's both make this year a fun one!

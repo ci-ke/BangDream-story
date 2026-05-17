@@ -1,0 +1,80 @@
+845_Aya Maruyama_R2 Valentine's Day Smile
+
+<Aya's Number-One Photo>
+
+(Character: Aya Maruyama, Hina Hikawa)
+
+[Idol Agency]
+
+Hina: Ladidaaa♪
+Aya: Good morning! Ah, you're here already, Hina-chan.
+Hina: ...
+Aya: Hina-chan? Hey~, Hina-chan~!
+Hina: Oh, Aya-chan? When did you get here?
+Aya: Just now. You were looking at your phone pretty intensely. What were you looking at?
+Hina: I was just looking at this.
+Aya: Ah, it's a photo of our chocolates from All Fun and Games TV! Wow, you set it as your wallpaper~.
+Hina: Yeah. We ate the chocolates already, so I thought this would be a boppin' way to remember them.
+Aya: True~. Hehe♪ Thanks, Hina-chan!
+Hina: Why're you thanking me? I didn't do anything.
+Aya: Exactly! Ehehe!
+Hina: You're weird. Ah, whatever. Well, what'd you come here for, Aya-chan?
+Aya: I have a meeting with a magazine. They asked me to be the guest for their next issue's special feature.
+Hina: Oh, that's cool. What kind of feature will it be?
+Aya: It's a section called "What's Your Latest No. 1 Photo?" Readers send in the best photos they've taken recently, and I'm gonna comment on them!
+Aya: Ah, and of course I'm gonna submit my number-one photo too.
+Hina: Aya-chan's number-one photo, huh? What are you gonna pick? Come on, show me.
+Aya: Sure! But I'm having trouble choosing between a few... First, there's this one!
+Hina: Ohhh, nice peace sign.
+Aya: I took it during our lesson the other day! It's embarrassing to say this myself, but I chose it because I thought my smile looked nice~.
+Hina: Yeah, I think I can agree with that.
+Aya: Thanks~! Next is... this one! It's a photo of the waterfall we went to for a shoot that one time.
+Aya: The locals said it's a very famous waterfall! I just had to take a photo with it~.
+Hina: Hmm. I think your face is too close to the camera, so it makes the waterfall look kinda small and unimpressive, you know what I mean?
+Aya: I-I guess. Th-then how about this one?! I call it "The Rainbow and Me"! I saw a rainbow on my way home from school, so I quickly took picture of it~.
+Hina: Ah, I see.
+Aya: So? Which one do you think is the best?
+Hina: Hmm, they're all a bit different from what I expected.
+Aya: What~?! Wh-what do you mean?
+Hina: Well, they're all just like the ones you post on social media. Don't you think the fans would wanna see a different side of you?
+Aya: A different side of me?
+Hina: For example, something like the stuff we took for the special close-up! I think that fans would be happy to see photos of the Aya-chan they can't usually see.
+Aya: I-I see~. When you put it like that, that makes sense.
+Hina: I know! I have some photos like that of you, I'll send one to you now.
+Aya: Huh? What kind of photos?
+Hina: Just wait and see. Okay, I sent one.
+Aya: What...? What is this?! Y-you took a photo of me sleeping...? With my mouth wide open like that...?
+Hina: Yeah, it's good, right? I have a whole Aya-chan collection actually.
+Hina: I look at them when I'm feeling down cause they make me feel so boppin♪ They are the source of my happiness.
+Aya: H-Hina-chan! Please delete them!
+Hina: Huh? No way. I really like them.
+Aya: Well you shouldn't! It's too embarrassing for an idol to have photos like that!
+Aya: Please, Hina-chan! Pleeease~!
+
+
+<Acting for Someone>
+
+(Character: Aya Maruyama)
+
+[Residential Area]
+
+Aya: Hi, {{userName}}-san! Are you working right now?
+Aya: Ah, you're equipment shopping? I've got the day off.
+Aya: That's why, when I get home, I'm gonna rewatch all the shows I've appeared in!
+Aya: N-no, it's nothing really~.
+Aya: I mess up a lot, so I just think I have to do this to make up for it.
+Aya: I was on a Valentine's Day Special on a web show the other day, and lots of things happened that I need to reflect on.
+Aya: Yes, All Fun and Games TV! Did you watch it, {{userName}}-san?
+Aya: That's right~. Hina-chan was so happy♪
+Aya: Ehehe, thank you! I think we all came together as one that day.
+Aya: But we didn't do it alone. A lot of different people helped us with our chocolates.
+Aya: Sayo-chan and Tsugumi-chan helped out when we were trying to figure out what a boppidy bop boppin' chocolate is.
+Aya: And the show's staff helped with setting up equipment in the studio so we could just focus on baking.
+Aya: We were able to make chocolates thanks to all of their help!
+Aya: And this doesn't only apply to our Valentine's segment. We're always supported by all kinds of people at every job we do.
+Aya: It reminded me that I want to keep doing my best to show these people that Pastel＊Palettes is working hard!
+Aya: E-ehehe... It's not that cool~. I just said what I was thinking~.
+Aya: Ah! Th-that reminds me. You're still on the clock, aren't you, {{userName}}-san?
+Aya: Sorry! I shouldn't have made you talk for so long...
+Aya: I'm gonna go now. Good luck with work, {{userName}}-san!
+Aya: See you...!

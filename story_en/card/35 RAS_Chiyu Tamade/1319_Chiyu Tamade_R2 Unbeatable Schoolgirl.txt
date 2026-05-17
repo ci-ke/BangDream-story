@@ -1,0 +1,81 @@
+1319_Chiyu Tamade_R2 Unbeatable Schoolgirl
+
+<The Star I Found>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[CHU²'s Penthouse - Studio]
+
+CHU² (Chiyu): Halt! That was point one second late! Again!
+PAREO (Reona): CHU²-sama, I am unable to move my fingers~.
+CHU² (Chiyu): Silence! I know all of you can do better. This is going to be our new song for our next concert, so I expect an impeccable and exemplary performance out of all of you!
+LAYER (Rei): And we intend to deliver... But don't you think a break's in order? We're pretty tired, but I bet you are too.
+CHU² (Chiyu): ... Very well, but only ten minutes.
+LOCK (Rokka): Phew... CHU²-san's instructions are even more demanding than usual.
+LAYER (Rei): Yeah. It's probably because this is a new song.
+MASKING (Masuki): Nah, that's not all. I bet she's all fired up after seein' your The Pink Bun Bun Empire concert. You were cryin', weren't ya, CHU²?
+CHU² (Chiyu): Me, cry?! Of course not!
+PAREO (Reona): Oh, Massu-san~, but I seem to recall seeing moisture build up in your eyes too~.
+MASKING (Masuki): I wasn't gettin' all teary-eyed, alright?!
+LOCK (Rokka): I know how you two feel...! I became very emotional too. It really was an amazing concert, LAYER-san!
+LAYER (Rei): Thank you. I sort of get Masuki crying, but you too, CHU²?
+CHU² & MASKING: I didn't cry!
+LAYER (Rei): Fufu, okay, okay. Neither of you cried. Happy?
+CHU² (Chiyu): Hmph... But I'll at least acknowledge that The Pink Bun Bun Empire's harmony was impressive.
+CHU² (Chiyu): You showed an emotional side that you normally don't when you're performing with us.
+LAYER (Rei): CHU²...
+CHU² (Chiyu): However, it doesn't change that we're the strongest band.
+CHU² (Chiyu): LAYER. Use everything you saw, grasped, and felt during your time in that other band as a weapon for RAS. Is that understood?
+LAYER (Rei): Of course...!
+CHU² (Chiyu): Okay, let's make sure we light the crowd on fire at our next show!
+LAYER, MASKING, PAREO & LOCK: Yeah! You bet! Yes!
+(Black cut)
+
+[After Practice]
+
+LAYER (Rei): Got a moment, CHU²?
+CHU² (Chiyu): I didn't think you'd still be here. You do know today's practice is over, right?
+LAYER (Rei): There's something I forgot.
+CHU² (Chiyu): Forgot?
+LAYER (Rei): Yeah... Thank you, CHU².
+CHU² (Chiyu): Explain. Why are you suddenly thanking me?
+LAYER (Rei): For finding me and inviting me to join RAS.
+CHU² (Chiyu): ... I see. Is this the something you forgot?
+LAYER (Rei): Mm-hmm. I just wanted to be sure to tell you.
+LAYER (Rei): I intend to keep going wild as RAS' lead, so I hope you're ready.
+CHU² (Chiyu): You don't need to tell me that. I'll make you go wild. You're supposed to surpass my expectations, remember?
+LAYER (Rei): And I will. You can be sure of that.
+CHU² (Chiyu): Consider my expectations raised then.
+
+
+<Believe in...>
+
+(Character: Chiyu Tamade)
+
+[Station Entrance]
+
+Marina: Ah, CHU²-chan. Hi. Going somewhere?
+CHU² (Chiyu): Salutations, Marina, {{userName}}. There's a band that's caught my eye, so I'm on my way to check out their concert.
+Marina: I see. Speaking of concerts, I heard The Pink Bun Bun Empire one was really amazing! People seem to be speaking highly of it.
+CHU² (Chiyu): Oh.
+Marina: ...? What's the matter? You don't seem particularly happy...
+CHU² (Chiyu): I'm RAISE A SUILEN's producer. I don't care how people see a band with a ridiculous name like The Pink Bun Bun Empire.
+Marina: But it's LAYER-chan's band, so it's not like it has nothing to do with you...
+CHU² (Chiyu): I only allowed it grudgingly. I couldn't believe it when, after all this time, she said she wanted to be in a band with Tae Hanazono... It seemed like foolishness on her part.
+Marina: O-oh... I see you're as strict as ever.
+CHU² (Chiyu): I know the two made a promise when they were kids to form a band, but that's farcical if you ask me. Focusing on the past is pointless. The future is what we need to set our eyes on.
+Marina: You do have a point, and I understand what you're saying, but...
+Marina: I think it's still important to reflect on the past. Knowing what kind of a path you've walked can help you take a new step forward.
+CHU² (Chiyu): ... Hmph. I won't deny that. It certainly was the case for LAYER.
+CHU² (Chiyu): Ever since that The Pink Bun Bun Empire concert, there's something about the way she sings and plays that sounds different.
+Marina: Oh! Then it means forming The Pink Bun Bun Empire must've been good for her. And it's thanks to you watching over her.
+CHU² (Chiyu): I didn't do anything of that sort. I would never have forgiven her either if all she came back with was a bunch of stupid memories.
+Marina: Fufu, but you had faith that LAYER-chan wouldn't, right?
+CHU² (Chiyu): I'll have you know that I- My apologies, I should go now.
+Marina: Ah, sorry for stopping you. Enjoy the show!
+CHU² (Chiyu): I'm going there to scout them, not enjoy myself. Anyway, see you.
+CHU² (Chiyu): Oh, Marina, {{userName}}. Here.
+Marina: A RAS... flyer?
+CHU² (Chiyu): You'll get to see a LAYER that's even more, more, more, more, more amazing than the one in The Pink Bun Bun Empire. I guarantee you won't be disappointed.
+Marina: Thanks! I'll look forward to it then.
+CHU² (Chiyu): Fufu... Okay then, farewell.

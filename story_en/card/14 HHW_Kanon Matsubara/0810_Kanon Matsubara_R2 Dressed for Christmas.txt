@@ -1,0 +1,77 @@
+810_Kanon Matsubara_R2 Dressed for Christmas
+
+<For All the Santas>
+
+(Character: Kanon Matsubara, Aya Maruyama)
+
+[Fast Food Store]
+
+Kanon: ... And that's how we decided to hold a Hello, Happy World! Christmas party.
+Aya: A Christmas party, huh~? I'm jealous~, it sounds like fun!
+Kanon: We're going to invite guests and hold a concert. We'll be debuting a new song there too.
+Aya: Wow, you're really pulling out all the stops! Where is this all going to be happening?
+Kanon: In Kokoro-chan's backyard. After we asked them, the suits got everything prepared in an instant.
+Aya: What~?! You're doing a concert in a backyard?!
+Kanon: Yeah, well, Kokoro-chan's house is really big, so...
+Aya: Wow~, so it must be bigger than what I'm picturing... She really does come from a different world than us, doesn't she?
+Aya: I'd really like to see what kind of show and party you guys come up with, but I've got Pastel＊Palettes work that day...
+Kanon: That's okay. Christmas isn't just a busy time for Santa, idols have it pretty tough too, right? I hope work goes well for you!
+Aya: Thanks! Seriously though, Kokoro-chan and the others really come up with some amazing ideas... Bringing a smile to Santa's face, was it?
+Kanon: Yeah. When she said that though, it made me think about how nice of an idea it is. It's kind of like we're thanking Santa for bringing smiles to children all over the world, right?
+Aya: Fufu, thoughts like that are why you're in Hello, Happy World!
+Kanon: Y-yeah... Well, I've been setting out milk and cookies for Santa since I was little, so maybe that had something to do with it, too.
+Aya: Why milk and cookies?
+Kanon: We set out milk and cookies for Santa on Christmas Eve as a sort of thanks. It's a fairly popular tradition overseas.
+Aya: Wow, I've never heard of that before! That's really nice! But what happens to them the next morning?
+Kanon: Well, Santa nibbles on a few while he's delivering his presents.
+Kanon: So the next morning, just a little bit of both are gone.
+Aya: Gotcha~. I bet Santa appreciates the treats!
+Aya: I mean, if I was Santa, I know I would!
+Kanon: ...
+Aya: Kanon-chan? What's up?
+Kanon: Ah, sorry... After hearing what you just said, I was thinking... What if we prepared milk and cookies for all of our guests too...?
+Kanon: It looks like my parents are coming, so by doing that, wouldn't we be treating a whole bunch of Santas to milk and cookies?
+Aya: Oh, I like that! That's great, Kanon-chan! Everyone would definitely love that!
+Kanon: I hope so♪ Oh, but giving out drinks means that taking them home might be a hassle...
+Aya: That's true, milk isn't the easiest thing to fit into a bag... Hmm...
+Aya: Oh! Then what about making cookies with a lot of milk in them? Milk cookies would be easy to take home.
+Kanon: Wow, that's a great idea! Thanks, Aya-chan!
+Kanon: Then I better start baking soon. We're going to need a lot of cookies! Fufu, it's my time to shine♪
+Aya: ... Hey, Kanon-chan. Kokoro-chan's place is really big, isn't it?
+Kanon: Yes, it is...
+Aya: And you said a bunch of guests are coming too, right? Don't you think trying to make all the cookies by yourself might be a little much? I can help if you want.
+Kanon: Really?!
+Aya: Of course! To be honest, after hearing what you said, I kinda want to show Santa my thanks, too♪
+Aya: Maybe I'll set some of the cookies we make by my pillow this year.
+Kanon: Aya-chan... Ehehe♪ Then we can make them together!
+Aya: Okay, we got this! ... Oh, a customer's coming.
+Kanon & Aya: Welcome!
+
+
+<Grateful for Milk and Cookies>
+
+(Character: Kanon Matsubara)
+
+[CiRCLE - Lobby]
+
+Kanon: Hello, {{userName}}-san. Are you working alone today?
+Kanon: I actually have something I wanted to give to everyone at CiRCLE... Here.
+Kanon: They're milk cookies. Hello, Happy World! had a Christmas concert recently, and we gave these out to everyone who came.
+Kanon: They're handmade, you know. But I didn't make them all myself. Aya-chan helped, too!
+Kanon: They weren't meant to be Christmas presents though. We made them as a thank-you gift for Santa.
+Kanon: Santa's given us so many presents over the years, so we thought it would be nice to give him something back.
+Kanon: So we decided to combine Santa's favorite snack, milk and cookies, and make some milk cookies.
+Kanon: There were a lot of moms and dads that came to our show with their kids, so...
+Kanon: I wanted to thank all the Santas that came, in my own little way.
+Kanon: Of course, I made sure to give some to my daddy as well.
+Kanon: He still hadn't eaten them by the time we all got home, so we shared them together as a family.
+Kanon: It might not mean much coming from the person who made them, but I think they turned out pretty well.
+Kanon: My Santa told me they were really good, after all.
+Kanon: I've always enjoyed Christmas ever since I was a child, but after what happened this year, I think I've grown to like it even more.
+Kanon: Um, This might be just me, but... While eating delicious food and exchanging presents is nice and all...
+Kanon: The best Christmas present is being able to spend time with your loved ones... Don't you think?
+Kanon: ... Haha, maybe that's going a little far. Hello, Happy World! must be rubbing off on me... Ehehe.
+Kanon: Ah, s-sorry, I've just been rambling on by myself...!
+Kanon: Um, please enjoy those cookies when you have some time. I think they'd go very well with some coffee or tea.
+Kanon: Fufu, It's fine. I want you to enjoy them. You've been so helpful and kind to all of us, just like Santa.
+Kanon: Please tell me your thoughts after you've finished them. I'll be going now.

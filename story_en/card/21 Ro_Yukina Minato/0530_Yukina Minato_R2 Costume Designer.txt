@@ -1,0 +1,77 @@
+530_Yukina Minato_R2 Costume Designer
+
+<Guideline>
+
+(Character: Yukina Minato, Rinko Shirokane)
+
+[Haneoka Girls' Academy - Theater Club]
+
+Yukina: ... Ow.
+Rinko: Yukina-san... Are you alright?
+Yukina: Yes, I'm fine.  I just poked my finger with a needle. No blood is coming out. It's no big deal.
+Yukina: More importantly, it doesn't look like we're making much progress. I hope it's not because I'm in your way.
+Rinko: You're not... in the way at all... It makes me very happy... that I get to work with you...
+Rinko: Besides... the fact that you're interested in dressmaking... is already more than enough...
+Yukina: Fufu. While I do find dressmaking interesting, the thing that's most important to me is being able to see you while you work.
+Rinko: M-me... you say?
+Yukina: Yes. I've always wanted to know what you're like when you're making outfits for us.
+Yukina: Up until now, I haven't had the chance to focus on that. But that's no excuse… Because the you who's making outfits for us is also a significant part of Roselia.
+Rinko: Yukina-san... that makes me really happy... To think… you value me… and the clothes I make... so much...
+Yukina: Of course I would. For me, making Roselia rise to the top is my priority, and I'm willing to do anything to put us up there.
+Yukina: Up to a place so high that no one can even come close to reaching... And I'll be up there together with Lisa, Sayo, Ako... and with you, Rinko.
+Rinko: Yes... I want the same...
+Yukina: Those words are very reassuring.
+Yukina: The next time you make clothes for Roselia, I would like to help out, too.
+Rinko: Fufu, that would be wonderful...I'm sure Ako-chan... would be delighted as well...
+Yukina: While we're at it, we should also invite Lisa and Sayo. All the members have a stake in this. If everyone is involved, perhaps we can develop a stronger sense of oneness in our music.
+Rinko: I-I am... really looking forward to it now...
+Yukina: But before that, perhaps I need to improve my sewing skills... May I use the sewing machine?
+Rinko: If you press this switch... the machine will turn on...
+Yukina: Okay... I just have to steer the fabric straight to sew it together, right...? I will give it a try...
+(Black cut)
+
+[10 Minutes Later...]
+
+Yukina: Why...? All I was trying to do is sew in a straight line... I never knew sewing could be so difficult...
+Rinko: Y-you'll get used to it soon... I'm sure...
+Yukina: Should I... sew this part again?
+Rinko: It's fine... The seams on this side... won't be visible from the front...
+Yukina: I see. So that's how it works.  Thank you. I'm learning a lot.
+Yukina: Do you have any advice for working the sewing machine? I was hoping you could share if you do.
+Rinko: Yukina-san... you might be too focused on staring at the needle... Perhaps if you shift your gaze... to the throat plate... then it might be easier to sew straight.
+Yukina: The throat plate... Is that the metal piece that the needle passes through?
+Rinko: Yes... There should be a line engraved on it... You can use it as a guideline to run the fabric along...
+Yukina: That certainly makes a difference... I'm able to sew straight now... Fufu.
+Rinko: Yukina... san?
+Yukina: I was just thinking that it's exactly like being in a band. If you go at it alone, you might not even notice you're steering in the wrong direction...
+Yukina: But to progress toward your goal,  it is paramount to have a guideline.
+Yukina: And for Roselia,  I need to be that guideline for everyone... So I can steer us all to the very top...
+Rinko: I know we'll all be fine... with you as our guideline, Yukina-san.
+Yukina: Thank you... I guarantee that your faith in me is well placed.
+
+
+<Learning from the Stage>
+
+(Character: Yukina Minato)
+
+[CiRCLE - Lobby]
+
+Yukina: Hello, {{userName}}-san.  Do you by chance have some time right now?
+Yukina: Oh, no. It's nothing to do with the studio. I was just wondering if you could chat with me for a bit.
+Yukina: Why, thank you. So, do you know about my school's theater club?
+Yukina: Yes, the one Seta-san is a part of. I was a part of the backstage crew for their stage performance not long ago.
+Yukina: It initially began with me helping out with making the costumes, but somehow I ended doing several other things too.
+Yukina: Even though it was my first time working backstage, I have to say it turned out to be an incredible experience.
+Yukina: I felt like... I got to relive learning the hardships and the pleasures that come with performing in a band all over again.
+Yukina: That experience, and what I learned from it, now deeply resonates within me... As long as people are willing to learn, the opportunities for growth are limitless.
+Yukina: For example, even a single fallen leaf on the ground may have the potential to hold many valuable lessons.
+Yukina: Yet, I'm sure the old me would have never come to this realization...
+Yukina: Likewise, I learned a lot not only from working backstage but also from witnessing Seta-san perform as an actor.
+Yukina: When she's in character, she completely melts into her role. But I got the sense that she continues to be composed somehow...
+Yukina: The more emotion you put into something, the more that emotion emanates, and it becomes easy to lose yourself.
+Yukina: I'm sure that applies to singing as well.
+Yukina: Still, even though she gets completely absorbed by her role, she is still aware of what she wants to portray to the audience and how to do it.
+Yukina: Those are the things I noticed when watching her perform in close proximity. Fufu. Though, I'm not sure if Seta-san herself is conscious of it or not...
+Yukina: This experience has been of tremendous value. Not only for me personally but also for the growth of Roselia.
+Yukina: Yes. I am enthusiastic about our next performance. I hope to make use of this new experience and raise Roselia to a higher state of brilliance.
+Yukina: It's not only me. I just know the other members are all aiming for a place at the very top.

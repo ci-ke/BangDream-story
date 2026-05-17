@@ -1,0 +1,60 @@
+main001 Opening 1: A New Job
+
+Live house CiRCLE is planning a major event. But how do people join?
+
+(Character: Kasumi Toyama, Tae Hanazono, Rimi Ushigome, Saya Yamabuki, Arisa Ichigaya)
+
+Marina: Everything's packed up, all clean... I think we're done for the day!
+Marina: You've been working here a while now, huh? How are you finding it?
+Marina: Well that's great to hear. It's really been a huge help having you around.
+Marina: Still... if we don't start getting more customers in, I don't know what'll happen to the event...
+Marina: Hmm? Oh, right, nobody told you about the event yet. I thought the owner was gonna... Oh well. I'll do it.
+Marina: I'm sure you know that this live house was created to help support all the girl bands we have in town.
+Marina: Well, there's going to be an event here soon where all those girl bands can come and play live.
+Marina: The only conditions are being girls, and being a band. Pros, amateurs, everyone's welcome! The only problem is...
+Marina: We haven't had a single band sign up yet. I mean, I know we're not the most famous place in the world, but still...
+Marina: The owner really believes this is our chance to get our name out there. She's really counting on me, and... I don't know what to do...
+Kasumi: Hello!
+Marina: Wah! Wh-who are you?!
+Kasumi: I'm Kasumi Toyama! Nice to meet you!
+Arisa: Ahh... Phew... Caught her... You just don't listen to anyone, do you?! We were shouting after you back there!
+Arisa: ... Ahaha~! I'm sorry for my friend barging in here like this. We'll just be going now...
+Marina: No, wait... Kasumi, was it? Is that a guitar you're carrying?
+Kasumi: It is! Me and all my friends here are in a band, Poppin'Party!
+Marina: A band, huh?
+Kasumi: We were on our way back from practice and just happened to pass by this live house! It looked so cool I just had to come in!
+Saya: ... We should introduce ourselves properly, don't you think?
+Kasumi: Already done!
+Arisa: Very badly!
+Saya: As Kasumi said, the five of us are Poppin'Party. I'm the drummer, Saya Yamabuki. It's nice to meet you.
+Tae: I'm Tae Hanazono. I play lead guitar.
+Arisa: Arisa Ichigaya, keyboard.
+Rimi: I'm Rimi Ushigome! I... I play the bass!
+Arisa: Come on Kasumi, you too!
+Kasumi: Okay! I'm still Kasumi Toyama and I'm on guitar and vocals. I was looking for a sparkling, heart-pounding sound when I found this Random Star...
+Kasumi: I just knew I had to start a band and now every day is more exciting than the last!
+Marina: I like your high school energy. I'm Marina Tsukishima. You can call me Marina, or Marina-san. I work here at the live house.
+Marina: Well? What about you? Introduce yourself!
+Kasumi: {{userName}}-san! Nice to meet you!
+Marina: Today must be our lucky day, meeting the Poppin'Party girls like this.
+Marina: Why? The event, of course! We have to get them to perform!
+Marina: I know it's all very sudden, but if we don't sign some bands soon the whole thing will be a disaster.
+Marina: Now go on! Get them to join our event!
+(Black cut)
+Kasumi: Live event? Really? Of course we'll do it!
+Arisa: Wait just a second, Kasumi. Don't you think we should hear more about it, first?
+Saya: ... Could you tell us more about this event, then?
+(Black cut)
+Kasumi: Okay, I get it! I think...?
+Arisa: They want us to perform in this live house's next event, basically. How did you not understand that? It was very simple!
+Rimi: Ahaha...
+Kasumi: A real live event... We're still just beginners, but we'll do our very best!
+Arisa: You're accepting too easily!
+Kasumi: Aww, but it sounds like fun!
+Saya: ... I don't think she's going to change her mind. I guess that means we're performing!
+Marina: That's great! Thank you! You can use our studio to practice any time you want.
+Kasumi: You have a studio here too? Amazing! Thank you so much!
+Tae: ... Maybe we should go and try it out. Get practicing already.
+Kasumi: Agreed! Can we use the studio now, Marina-san?
+Marina: Of course!
+Kasumi: Yay! Thank you! Rimi-rin, Saya, Arisa! Come on! Let's go practice!

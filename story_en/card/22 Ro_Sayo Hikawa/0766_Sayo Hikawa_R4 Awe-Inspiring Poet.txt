@@ -1,0 +1,109 @@
+766_Sayo Hikawa_R4 Awe-Inspiring Poet
+
+Gacha phrase: We're aiming toward different directions. And that's why...
+
+<Reliable Organizer>
+
+(Character: Arisa Ichigaya, Sayo Hikawa, Rinko Shirokane)
+
+[Hanasakigawa Girls' Academy - Student Council Room]
+
+Arisa: Whoa, there are so many... This is a lot more than I expected.
+Rinko: Don't worry... It may be too much... for the two of us, but... other people will be helping out...
+Arisa: That’s good... I mean, just reading through all of this would take a really long time.
+Sayo: Good afternoon. Please forgive my tardiness.
+Arisa: Ah, good afternoon! No problem, we were just getting started ourselves.
+Sayo: I see. If I may ask... what is that large stack of papers on top of the desk?
+Arisa: These are from the student council suggestion box. Every single comment and complaint, all piled together.
+Sayo: Anyone can tell that is far more than the usual fare. What could have caused such a surge in contribution?
+Rinko: Most of them are from... people who took part in... the One Hundred Poems tournament from the other day...
+Sayo: The tournament? Maruyama-san and the others did such an amazing job in helping head the event, so I had assumed it was a resounding success...
+Sayo: Perhaps there were problems that I was not aware of.
+Arisa: Fufu, hold on. You've got it all wrong. Please have a look at this.
+Sayo: "I had such an amazing time at the karuta tournament. Our other classes, like history and physics, would be more interesting if they did something similar."
+Sayo: "Way to go, student council! You rock!" "That was a lot more fun than I thought it'd be! You've got me totally hooked on classic literature." Almost all of them are expressions of gratitude.
+Rinko: Thanks to the tournament... I think we were able to... get people interested in the classic One Hundred Poems... and showed them that learning can be fun...
+Sayo: Yes, I believe you are right... It did feel like the participants were enjoying themselves, but seeing such an overwhelmingly positive response is still shocking.
+Arisa: This is from one of the teachers. It says: "Please consider making future events for mathematics as well."
+Sayo: E-even the teachers are praising us... Well, I am pleased that they think so highly of us...
+Rinko: Personally... I am so glad... that I entrusted this to you, Hikawa-san... Someone like me... never could have... drummed up as much enthusiasm... as you did...
+Sayo: No, I cannot take sole credit for the event's success. This was made possible by the hard work and contributions of everyone involved.
+Sayo: However... I must admit that I am very happy to receive such praise from our fellow students and teachers.
+Sayo: I will accept these compliments and use them as motivation to continue working hard for future student council functions.
+Sayo: Moreover, we should use the positive reception from the tournament as an incentive to properly handle the other suggestions we have received.
+Sayo: For now, let's focus on this massive pile of questions and comments... What would you like to do about these suggestions, Shirokane-san?
+Rinko: Let me see... We should start by reading through them... and then post a general response... in the student council newspaper...
+Rinko: I think that replying to every suggestion... would be too difficult... However, we should still try to... respond to the most commonly-asked ones...
+Sayo: Yes, handling an amount this large would be unrealistic. However, there must be some that can be easily dealt with. For example...
+Sayo: "I would like to be able to request the songs that play during cleaning time." A simple request like this should not be difficult to implement.
+Arisa: True, it does seem easy enough to set up, and it wouldn't be nearly as time-consuming as an actual function or event.
+Arisa: Hearing the song you requested would make cleaning more fun, and it could help introduce the students to new artists.
+Rinko: It may seem trivial, but... if doing small things like this... will help motivate students... then it would be worth it...
+Sayo: I agree. Now, let's consolidate any related ideas or plans into a simple format and introduce them to the broadcast club.
+Sayo: The first step would be establishing a system where song requests can be easily submitted.
+Sayo: The simplest method would likely be to set up a request box outside of the broadcast club's room. And to help make the selection process fair, songs can be selected at random...
+Arisa: Whoa... We're only just running through these posts, and you've already come up with such a well-devised plan.
+Sayo: I will bring up my proposal with the teachers for approval. Moving on... Hm... It seems that... the majority of these other comments are related to future events.
+Arisa: The One Hundred Poems tournament was such a big success that the students are already excited about what else is in the works.
+Arisa: My classmates and friends are the same way. Although, a lot of that is Kasumi spouting off her own ideas for what she'd like to see.
+Rinko: The other suggestions are more of the same... Our peers seem very excited... about what is to come...
+Sayo: We may very well find helpful ideas for our next event within these comments. I say we stop and read through each one thoroughly.
+Sayo: In addition, we should try to reach a decision as quickly as possible. I suggest we bring this to the attention of the student council while interest is still fresh.
+Sayo: First and foremost, let's post an announcement stating that we do plan to hold an event of some kind. Afterwards, we can iron out the finer details and proceed from there.
+Arisa: ... Whoa~... Man, Rinko-senpai was totally spot on.
+Sayo: ...? What do you mean?
+Arisa: Ah?! Oops...
+Arisa: No, I just... I didn't mean anything weird by that...!
+Rinko: She and I were discussing earlier... what we should do... if we couldn't get through... all of these comments...
+Arisa: But Rinko-senpai told me that you... would surely come up with all sorts of plans...from these ideas...
+Arisa: When I saw how easily you started planning everything, I realized that she was completely right. I just didn't mean to say that out loud.
+Rinko: I am not good with... making sudden decisions... Which is why... I'm always so impressed with how you can. Even with Roselia... you're so good at getting us on the same page...
+Sayo: It is only natural to take the extremely valuable suggestions of our fellow students and do everything in my power to realize them. I do not believe that I have done anything praise-worthy...
+Sayo: ... Unfortunately, we do not have time to waste discussing unrelated matters. There are still many suggestions here that require our attention.
+Sayo: The trust placed in us as members of the student council relies on our ability to bring these ideas to life, all for the betterment of the school.
+Sayo: If you two noticed anything, please bring it to our attention.
+Arisa: O-okay!
+Rinko: We will do everything... that we can to help you... Hikawa-san...
+
+
+<Learning What I Don't Have>
+
+(Character: Sayo Hikawa)
+
+[CiRCLE - Lobby]
+
+Sayo: Marina-san, {{userName}}-san. A pleasure to see you. I would like to make a reservation for next time.
+Marina: Hello, Sayo-chan. Sure, no problem!
+Marina: Let's see, looks like you had a private session today. Is that what you want for next time as well?
+Sayo: Yes, please. I have not had much opportunity to play alone recently. My schedule has been filled with group rehearsal sessions.
+Marina: True, it has been a while since you came in by yourself. Talk about busy.
+Sayo: Indeed. I was occupied with student council duties, so... the only opportunities I had to practice alone were at home.
+Marina: I see. What had you so busy? Some sort of event?
+Sayo: Yes, a One Hundred Poems tournament.
+Marina: Like the karuta card game? Wow, that sounds interesting!
+Sayo: Shirokane-san, the acting student council president, was initially tasked with leading the project by the teachers, but... I was the one who eventually took over.
+Sayo: I was concerned that adding to her already massive amount of work would cause an unnecessary burden.
+Marina: I imagine the president would have a lot on her plate. Still, running a tournament must have been a lot of responsibility for you.
+Sayo: Yes, it was. I was initially very puzzled with how to proceed with the matter.
+Sayo: That was when I bumped into Maruyama-san at the library and discussed the matter with her. She herself was looking to study up on classical Japanese literature.
+Sayo: Aware of her own shortcomings, she was searching for a good way to familiarize herself with the subject.
+Sayo: That initiative is what spurred me to elicit her help in preparing for the tournament.
+Marina: I see. So the reason she helped out was so she could get better at classical literature!
+Marina: I know exactly how she feels, though~. I really struggled with that subject back in the day.
+Marina: Classical poems and literature all have such unique vocabularies, don't they? The Japanese they use is nothing like how we talk nowadays, so it gets really confusing.
+Sayo: Maruyama-san said the same thing, which is exactly why she wanted to find a way to help herself and others find enjoyment in the subject.
+Sayo: And so, we began the preparations, and... Fufu.
+Marina: Hm? What is it? What's so funny? Come on, tell me.
+Sayo: It's not really that humorous, but... I was simply reminded of how impressed I was with how she handled her task...
+Sayo: I was more concerned with having the tournament run successfully with as few issues as possible, but Maruyama-san was different.
+Sayo: For her, the most important part was making the tournament enjoyable and convincing our peers to participate... That is where she put all her energy.
+Sayo: Honestly, I failed to consider either of those points, so I was surprised to hear her thoughts on the matter.
+Sayo: Maruyama-san was able to bring in many others to help, and thanks to her, the event was a very enjoyable affair. I'm sure it made classical literature more accessible to many students.
+Sayo: I feel that I learned many things from her while we worked together.
+Sayo: Like how to better approach problems, how to make life more enjoyable, and how to ensure that my peers are having a good time... I don't usually considering these things.
+Sayo: And yet, it is those aspects that bring out passion in others... This is something I hope to work on going into the future.
+Marina: That is a nice goal to focus on. But Sayo-chan, you have your own special qualities, you know.
+Marina: I'd be willing to bet that Aya-chan looks up to what you do and uses that to motivate herself as well.
+Sayo: I wonder... If that were true, I would gladly welcome it.
+Sayo: By the way, going back to my next reservation...
+Marina: Ah, sorry! I'll get you set up right away!

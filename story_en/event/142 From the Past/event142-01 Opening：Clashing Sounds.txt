@@ -1,0 +1,85 @@
+event142-01 Opening: Clashing Sounds
+
+MASKING invites LOCK to a jam session at Galaxy. However...
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Galaxy Entrance - Stairs]
+
+LOCK (Rokka): I know I have the opening shift, but I might've come too early... The door probably isn't even open.
+LOCK (Rokka): H-huh? It's open?!
+(Black cut)
+(Background change)
+
+[Galaxy - Studio]
+
+LOCK (Rokka): G-good morning~... This drumming... It sounds like...
+MASKING (Masuki): Hey. 'Sup, LOCK.
+LOCK (Rokka): I thought it might be you, Masuki-san. Are you practicing?
+MASKING (Masuki): Nah, just felt like playin' the drums. You here for work?
+LOCK (Rokka): Yes. I have the opening shift, but I came a bit too early. Umm...
+MASKING (Masuki): You're the only one here. I'm the one who unlocked the door.
+LOCK (Rokka): How long have you been here?
+MASKING (Masuki): No clue... I came down here right after I woke up and ate... Hey, you still got some time before work?
+LOCK (Rokka): About half an hour... What is it?
+MASKING (Masuki): Let's do a session together.
+LOCK (Rokka): What?! I can't! If I start now, I won't make it in time for work.
+MASKING (Masuki): It'll be fine. We'll finish by then. C'mon.
+LOCK (Rokka): Eek~, w-wait~!
+(Black cut)
+MASKING (Masuki): Haha! The way you play is always intense as hell!
+LOCK (Rokka): Th-thank you very much!
+LOCK (Rokka): (Masuki-san's drumming is drowning out everything...! Her music's so wild and free...)
+LOCK (Rokka): (Hearing it is making me want to play even harder...)
+MASKING (Masuki): (Heh... She sped up... Bring it on then...!)
+LOCK (Rokka): (O-oh no... I can't keep up with Masuki-san's music...)
+Yoshiko: Hey, anybody there~? Were you the one that opened the door, Masuki-chan~?
+LOCK (Rokka): Huh...?! Ah, it's already time for work! I'm sorry, I completely fell out of sync towards the end...!
+MASKING (Masuki): Don't worry about it. I got a bit carried away. Anyway, good luck with work.
+LOCK (Rokka): Th-thank you very much... Masuki-san! Let's do this again sometime!
+MASKING (Masuki): Sure thing. I'll take you on any time.
+(Black cut)
+(Background change)
+
+[CHU²'s Penthouse - Studio]
+
+MASKING (Masuki): What's takin' LOCK forever? It's almost time for practice.
+LAYER (Rei): I'm sure she'll be here any moment. She's never been late for practice.
+PAREO (Reona): She does love practicing, after all~.
+MASKING (Masuki): We actually ran into each other at Galaxy earlier and ended up doin' a quick session.
+LAYER (Rei): You two really do like practicing.
+MASKING (Masuki): But we fell out of tune midway through, so I wanna start playin'. I've got some pent-up energy I need to release.
+LOCK (Rokka): Hello! I'm sorry for being late!
+PAREO (Reona): There is no need for an apology. You are on time. Did something come up at work?
+LOCK (Rokka): Y-yes. There was a meeting that took longer than expected... I'll get ready right away!
+LAYER (Rei): We can wait until you've had a chance to take a break. You're out of breath.
+LOCK (Rokka): B-but... I'd like to start practicing as soon as possible...
+PAREO (Reona): Massu-san expressed the same sentiment.
+LOCK (Rokka): She did...?
+CHU² (Chiyu): It's time to begin practice. Is everyone present?
+PAREO (Reona): Of course, CHU²-sama♪
+CHU² (Chiyu): Okay. Starting today, we'll begin working on our new song. Everyone get ready...
+LOCK & MASKING: Okay. Sure.
+(Black cut)
+CHU² (Chiyu): We'll do this once from the top. Keep going even if you make mistakes. Now then... Let's start!
+LOCK (Rokka): (I need to pay attention to the drums...!)
+(Black cut)
+CHU² (Chiyu): That'll do for today. Considering this was your first time, it was an acceptable performance. Let's continue next time.
+LOCK (Rokka): Thank you very much...
+PAREO (Reona): Is everything okay, LOCK-san? Something appears to be bothering you~.
+LAYER (Rei): You too, Masuki.
+MASKING (Masuki): Huh?
+LOCK (Rokka): I-I'm sorry! It's my fault for being unable to stay in tune...
+MASKING (Masuki): Nobody thinks it's your fault.
+CHU² (Chiyu): Don't worry about being out of harmony. As your producer, I'll whip all of you into perfect shape before we have to make a proper performance!
+LOCK (Rokka): Oh, it's not like I don't trust you, CHU²-san! There's just this uncomfortable feeling that I can't seem to shake...
+PAREO (Reona): It is reasonable to feel that way when matters are not going smoothly. However... There are many possible causes for being unable to be in harmony.
+LAYER (Rei): I used to work with someone who was good at that sort of thing. They could play well with everyone.
+LOCK (Rokka): Really?! Could you tell me more about them?
+LAYER (Rei): I'm not sure how useful this will be, but I'll tell you what I know... Whenever they helped out another band, I think they tried to get to know the members as much as possible.
+LAYER (Rei): They'd come to the studio and even go shopping with the other members. Maybe spending time together helped them get a better feel for what the members wanted.
+MASKING (Masuki): Makes sense. Bands that get along do have this sense of oneness that can't just be explained by skill.
+LOCK (Rokka): Well, getting to know each other is important... Hmm, spending time together...
+MASKING (Masuki): ... Wanna give it a shot?
+LOCK (Rokka): C-can we?! Absolutely! When would you like to start? How about our next day off?
+MASKING (Masuki): Whoa, easy there!

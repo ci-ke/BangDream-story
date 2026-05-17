@@ -1,0 +1,100 @@
+1665_Hagumi Kitazawa_R4 Gathering Luck
+
+Gacha phrase: Then let's level up charms together!
+
+<Courage, Gratitude, Croquettes>
+
+(Character: Hagumi Kitazawa, Eve Wakamiya)
+
+[Hazawa Coffee]
+
+Eve: Well then, I will be excusing myself!
+(Black cut)
+(Background change)
+
+[Downtown]
+
+Eve: ... Phew. I thoroughly accomplished my duties once again.
+Hagumi: Eve-chin~! There you are!
+Eve: Hagumi-san! What a coincidence meeting you here!
+Hagumi: Ehehe... To tell you the truth, a couple of minutes ago, one of our customers told us that you were hard at work at Hazawa Coffee!
+Hagumi: That's why I thought you might be finishing work soon and came to see you!
+Eve: I see. But why is that...?
+Hagumi: Well, you see, it's to give you this! Ta-dah!  It's an extra large serving of croquettes!
+Hagumi: They're all freshly fried and really tasty!
+Eve: Wow, thank you very much!
+Hagumi: I've wanted to thank you this whole time, so I'm glad I met up with you today!
+Eve: You wanted to thank me? But I did not do anything to be thanked for...
+Hagumi: Yes, you did~! We collected joyous power together the other day, right?
+Hagumi: Remember how I got separated from O-Tae partway through?
+Eve: Ahh. You mean when you both were swept away in the lion dance procession!
+Hagumi: Yeah! You did your best to scold me when I was about to give up on handing out the charms to everyone studying for their college entrance exams.
+Hagumi: You asked me with a serious look on your face if it was okay to ignore how O-Tae felt...
+Hagumi: Thanks to your words, I was able to recover!
+Eve: Hagumi-san...
+Hagumi: If you hadn't said that, I'm sure we wouldn't have finished the charms or have been able to give them to everyone studying for their college entrance exams.
+Hagumi: That's why I decided to thank you when I saw you.
+Hagumi: Eve-chin, thank you so much!
+Eve: Hearing you say that makes me very happy! I felt so frantic at the time...
+Eve: If I am being honest, I also felt as though I was going to come to a standstill.
+Hagumi: Huh? You did?
+Eve: Yes. But I could not allow the sentiments Tae-san so determinedly brought together and entrusted to you to go to waste...
+Eve: I could not give up, nor did I want to... That is all I was thinking.
+Eve: It is so embarrassing that I said something like that to you.
+Hagumi: No, that's not true at all!
+Hagumi: That showed me how you felt, so it helped me understand that I have to hang tough too!
+Hagumi: If something like that happens again, I want you to scold me.
+Eve: Understood. I promise you that I will!
+Eve: In return, if there is a time when I seem as if I will give up or lose heart, please scold me and give me new motivation!
+Hagumi: Of course! Leave it to me!
+Hagumi: ... With that said... Here are your croquettes as thanks!
+Eve: Thank you! Wow, they look so good!
+Hagumi: Yay~! Thank goodness~!
+Hagumi: Eve-chin, you're headed home now, right? Let's walk together partway!
+Hagumi: My mom asked me to run an errand, so I'm going to the supermarket!
+Eve: Yes, by all means!
+Eve: I have an idea! Let us eat these croquettes together as we walk!
+Hagumi: Great idea! ... Ah, but these are your croquettes. Is it really okay for me to have some?
+Eve: Of course. They will taste so delicious if I eat them with you!
+Eve: What kind of croquette is this? It smells very delicious.
+Hagumi: That one's a croquette with beef tendon! The meat is melty and tastes so good~.
+Hagumi: By the way, my recommendation is this one here~...
+
+
+<Charge with Power!>
+
+(Character: Hagumi Kitazawa)
+
+[Riverside Field]
+
+Hagumi: ... Ah, {{userName}}-san! Hello~!
+Hagumi: Um, I was playing softball over there, and- No, wait! I have to give you your greeting first!
+Hagumi: Happy New Year!
+Hagumi: Ehehe. I realized I didn't give you a New Year's greeting yet.
+Hagumi: My New Year's was so much fun! It kinda felt like it ended in no time at all~.
+Hagumi: I did lots of fun stuff, but gathering joyous power with O-Tae and the others was the most fun!
+Hagumi: Ah, you already heard about that from O-Tae?!
+Hagumi: That's right! I went with O-Tae and Eve-chin for our New Year's shrine visit on New Year's Day!
+Hagumi: Then Eve-chin said she wanted to give charms to Aya-senpai and the others... And we decided we'd all get charms for everyone studying for entrance exams!
+Hagumi: And then we talked about how we'd be able to cheer them on even more if we gave them one hundred charms, but...
+Hagumi: Yeah, they probably didn't have that many at the shrine.
+Hagumi: That's when O-Tae told us there's a way to make it so that one charm has the power of one hundred!
+Hagumi: The way to do that was to charge the charms with joyous power by doing joyful activities!
+Hagumi: Ako-chin and Rokka started helping us along the way, and we did so much together~.
+Hagumi: We bathed the charms in the light of the new year's first sunrise, and then we had Michelle bite our heads!
+Hagumi: We actually wanted the dancing lions to do it, but there were so many people that we couldn't get close to them at all~.
+Hagumi: So when we tried to think of something just as joyous as the dancing lions, we thought of Michelle~!
+Hagumi: Michelle is packed with smiley power, after all! So she's obviously joyous!
+Hagumi: And that's how we gave everyone studying for college entrance exams their charms filled with joyous power! Ehehe.
+Hagumi: Yeah, they were all really happy!
+Hagumi: Also, to tell you the truth, I'm still collecting that power.
+Hagumi: I wondered if I could fill my dad's croquettes with it, so I'm trying it out now.
+Hagumi: If I succeed, not only will something good happen to the people who eat them, but the croquettes will also be so good. Wouldn't that make them the best croquettes ever?
+Hagumi: That's why I first put up an owl plushie as decoration in the shop!
+Hagumi: I remembered how the candy lady once said that owls are lucky.
+Hagumi: I hope I can gather a bunch of joyous power~! {{userName}}-san, come have one of our joyous croquettes next time, okay?
+Hagumi: Yay! That's a promise, okay~?
+Hagumi: Ah, sorry! The others are calling me, so I'll be heading back now!
+Hagumi: Well, see you!
+Hagumi: ... Ah! I forgot one thing!
+Hagumi: Um, I look forward to seeing you again this year!

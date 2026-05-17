@@ -1,0 +1,73 @@
+514_Lisa Imai_R2 Encouraging Melody
+
+<Little Courtesies>
+
+(Character: Lisa Imai, Ako Udagawa, Rinko Shirokane)
+
+[Convenience Store]
+
+Lisa: Alright, I'm gonna go change. Could you guys wait for me in the store?
+Rinko & Ako: Sure. Okay~!
+Ako: Rin-rin, we have to give it everything we've got in practice today!
+Rinko: Yes... It's been a while since we rented a studio... for such a long session... Hm...?
+Ako: Rin-rin? Is something wrong?
+Rinko: Ako-chan... Isn't this sign cute...?
+Ako: A sign?  Lemme see~...
+Ako: Wow, you're right! There's a cat drawn on it! Look, Rin-rin, this one's got a lion!
+Rinko: And this one's... a-a bat...? It's so cute... They're all drawn with such colorful pens... Plus... Fufu, Ako-chan... You should read this one.
+Ako: Huh? Which one~? "Witness a level of spiciness that will make you go numb! Do you dare test my power?!" Th-that's so cool...!
+Rinko: Looking around, these signs... are everywhere... How nice... They're easy to see too...
+Lisa: Thanks for waiting~! What's going on? Why are you staring at the shelves like that?
+Rinko: Ah... Imai-san.  Uhm... This sign is so cute...
+Ako: Yeah!  Cute and cool! The best sign ever!
+Lisa: Really? Aww~. Thanks, guys~. I'm actually the one who made it.
+Rinko: Huh? You're the one... who made this...?
+Ako: That's amazing~! Did you make all the others too?! Like this one?! And this one?!
+Lisa: Yup. I made every single one of these! It's pretty empty in here during certain parts of the day. So whenever I'm free, I like to make those signs a little at a time.
+Rinko: I see...  Imai-san, this is incredible...
+Rinko: There's even a description of each item... They're so easy to read. The drawings are cute too... These are wonderful signs.
+Lisa: Rinko~, stop, you're making me blush! Still, thanks. Our customers seem to like them too~.
+Lisa: A few of them have even asked who draws our signs~. That always makes me smile.
+Lisa: I was just trying to stay productive and kill some time... But it makes me really happy to know people notice the little things I do.
+Lisa: ... I guess you could say their appreciation makes it all worthwhile? Heh, nah. I'm just kidding♪
+Ako: L-Lisa-nee, you're so cool...!
+Rinko: Yes, I... agree... with Ako-chan.
+Lisa: G-guys, come on. You were supposed to make fun of me or something there... Now I'm just embarrassed.
+Ako: But you really are cool! And my sister's always saying something similar. "The moment you feel your efforts paying off is the best part of having a job!"
+Lisa: Ahaha. That sounds like Tomoe. Although... I suppose she's right. I feel the same way.
+Lisa: When I see people like you two enjoying my work, it makes me glad I did it♪
+Lisa: Alright~. Now that I'm all motivated, let's head to the studio! We'll make this practice the best one yet~!
+Rinko & Ako: ... Yes! Yeah!
+
+
+<To Support & Be Supported>
+
+(Character: Lisa Imai)
+
+[Convenience Store]
+
+Lisa: Ah, Marina-san, {{userName}}-san! Hey hey~.
+Marina: Hi, Lisa-chan. Looks like you're hard at work, as always.
+Lisa: Of course! Are you two out shopping?
+Marina: Yeah. Although, that's not all we're here for.
+Marina: We actually got a chance to listen to your High School Part-Timer Rally Song, and we thought it'd be nice to stop by and tell you.
+Lisa: So you came just to see little ol' me? Thank you☆
+Lisa: Well, what did you think of it?
+Marina: What can I say, it's the perfect anthem! I've got no complaints!
+Lisa: Really? Thank goodness~!
+Lisa: You know, I was really nervous making that song. I thought I got in the way of its success.
+Marina: That's a surprise...! You don't seem like the type to worry too much.
+Lisa: Ahaha, but I do! I was freaking out the whole time!
+Lisa: I mean, doesn't this band sound completely different from what I usually do? I had no idea what kind of music we'd be making.
+Lisa: Still, once we started actually writing the song, everything went much smoother than I thought it would. Aya did a great job dividing up the work... That really helped us a lot~.
+Lisa: Aya's always saying she's terrible at improvising, but you know, she's pretty good at breaking things down. You can tell she's a professional.
+Lisa: Kanon and Tsugumi were willing to help out with anything, so all my fears disappeared without a trace♪ As for Moca, she was acting the same as always.
+Marina: Fufu. It sounds like you had a lot of fun.
+Lisa: Yeah, it was so, so, so much fun! By the end, we were all swapping stories about work.
+Lisa: Everyone was saying things like, "That happens to me too~!" Thanks to that, we were all able to come together as one☆
+Lisa: I suppose that feeling is kind of in our song too. "If we can do it, so can you~!" At least, I hope that's what people get out of our song.
+Marina: Don't worry, I'm sure it comes through loud and clear! Isn't that right, {{userName}}-san?
+Lisa: It makes you want to work just as hard, if not harder than us...? Then it sounds like we achieved our goal.
+Lisa: After hearing the song we put so much effort into, you better work five times- No, ten times harder than usual♪
+Marina: Fufu, you got it! Alright, see you at the studio, Lisa-chan.
+Lisa: Yep! Later~☆

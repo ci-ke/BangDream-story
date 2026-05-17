@@ -1,0 +1,68 @@
+109_Sayo Hikawa_R2 Good Sound
+
+<Ready & Willing>
+
+(Character: Yukina Minato, Sayo Hikawa)
+
+Sayo: Everyone seemed more focused than usual today.
+Yukina: True. At this rate, we may be able to increase the difficulty of the next song we work on.
+Sayo: I agree. Let's make a decision after observing more tomorrow.
+Sayo: ... That reminds me, you were talking to the staff here after practice, weren't you?
+Yukina: They asked if we were interested in performing again soon. We can attribute this to the success of our gig the other day.
+Sayo: The one where we performed your father's song. True, since then our reputation has clearly grown a notch. We are steadily gaining more fans too.
+Yukina: Lisa said the same thing. She mentioned that we even have more fans at school now.
+Yukina: I'd like to keep this up and take things to the next level.
+Sayo: Agreed. I hope we can always perform like we did the other day...
+Yukina: Do you have doubts?
+Sayo: It's not that...
+Sayo: There was something different about everyone during that show.
+Sayo: Udagawa-san and Shirokane-san in particular seemed quite enthused.
+Sayo: They arrived at rehearsals earlier than anyone else, and never failed to practice in their  own time.
+Sayo: Even though she complained about it, Imai-san also stayed until late everyday to practice.
+Sayo: But... it was you who showed the most fervor, Minato-san.
+Yukina: Me, you say?
+Sayo: That's right. Particularly during the final song, you displayed extraordinary power.
+Sayo: It did come as a surprise when you told us it was your father's song, mind you...
+Yukina: I suppose it did...
+Yukina: I caused trouble for everyone, didn't I? All because of a personal issue...
+Yukina: But... even though it was completely a personal sentiment that led to this... I am glad we played it as a band.
+Yukina: I don't think we'll ever forget the sense of unison we discovered during that song...
+Sayo: That's true.
+Sayo: I mentioned this before, but the strength you showed in facing that song... I think it is wonderful.
+Sayo: Your determination... I felt it was a strength only obtained by breaking away from your doubts.
+Sayo: If only... I could break away from mine as you have yours...
+Yukina: With your stoicism towards music, I am sure you will be able to.
+Sayo: Minato-san...
+Yukina: I look forward to how your music will change once you have broken free.
+Sayo: I will not fail to reach the same point as you.
+Sayo: And the only way to do so...
+Yukina: Is to practice.
+Yukina: I totally agree.
+Sayo: I think we can still reach greater heights. It's a chance that we cannot pass up... That I cannot pass up.
+Yukina: Indeed. We know what we have to do then.
+Yukina: Tomorrow is going to be the first of many busy days.
+
+
+<Come Together>
+
+(Character: Sayo Hikawa)
+
+Sayo: I'll focus on my individual practice today, with an emphasis on reviewing my fundamentals...
+Sayo: Oh... {{userName}}-san. You're still here.
+Sayo: Yes, that's right. I was thinking of getting some practice in.
+Sayo: ... That's true. I know we only just played a show, but we can't afford to be complacent. Which is why I'm going to practice.
+Sayo: I see you heard about our show, {{userName}}-san...
+Sayo: Yes, I'm proud to say that we gave quite a high quality performance.
+Sayo: ... Actually, it was not just the quality that was good. I believe everyone put their hearts into their performances.
+Sayo: We played one of Minato-san's father's songs that day.
+Sayo: It would seem that after going through anguish and contemplation...
+Sayo: Minato-san found a way to come to terms with that song... and music itself...
+Sayo: With regards to coming to terms with one's music... I too have something I have been avoiding...
+Sayo: The reason why I continuously hone my skills is...
+Sayo: Actually, it's not something I wish to talk about right now. I beg your pardon... I will say that I felt I must be more like Minato-san, and find a way to take a step forward.
+Sayo: ... Minato-san's voice was incredible once she had come to terms with that song.
+Sayo: I too... hope that the day comes in which I can perform with my head held high like Minato-san...
+Sayo: I will continue devote myself to my practice so that it does.
+Sayo: ... I'm too serious, you say? Of course I am. I'm not playing in this band just for fun.
+Sayo: ... Well then, it's time I started my practice.
+Sayo: So that I too can take my step forward.

@@ -1,0 +1,83 @@
+439_Sayo Hikawa_R3 This Time, I Will
+
+<Supersized Stress Set>
+
+(Character: Hina Hikawa, Sayo Hikawa)
+
+[Hikawa Residence - Sayo's Room]
+
+Sayo: Phew. I ended up getting home a lot later than I thought. Why is it that time goes so fast when I'm at that restaurant?
+Sayo: I finished my guitar maintenance, so now... Oh, right. There are those forms I forgot to submit.
+Sayo: I've been so focused on Roselia, it completely slipped my mind. This one, this one... and this one... Oh? What's this...?
+Hina: Ah, it's for your physical! Yours should be coming up soon. I already had mine~.
+Sayo: ...! Hina?!
+Sayo: You just barge in again without asking? Don't I always tell you to knock before you come into my room?
+Hina: But I did~! You were just so caught up in that form that you didn't realize~.
+Hina: But it's just a physical examination, right? It's not like you to care so much about something like that.
+Sayo: Wh-who said I cared about it...?
+Hina: Sniff sniff, sniff sniff... This smell... I got it! You had the supersized stress set today, right?
+Hina: Oh, okay~, that's why you were thinking about your physical so much. Yeah, you have been going to that restaurant a lot lately~.
+Sayo: ...?! Y-you even know what I ate...?! How?!
+Hina: I have a powerful ally on my side named Lisa-chi♪
+Hina: You always order french fries when you guys eat there, don't you? That's what she told me~.
+Sayo: Not always... Besides, we go there as a band to have meetings and to reflect on our performances.
+Sayo: And a band is a large group... If we went to a quiet café, we might end up bothering the other people there, right?
+Hina: Hmm~, I guess so, but~... couldn't you just do it at the studio?
+Sayo: S-sure... That's true...
+Sayo: However, and you may not be able to tell, Minato-san looks forward to those moments. I can't just tell everyone we should stop going.
+Sayo: Yeah, we have to listen to everyone's opinion on the matter. I'm not the sole decision maker...
+Sayo: (... "Everyone's opinion." I know I'm the one that said it, but even I'm surprised to hear those words come out of my mouth. I'm sure the old me would've never said anything like that.)
+Sayo: (Maybe this really does mean... that I have become Sayo Hikawa of Roselia.)
+Hina: Hmm~? Hmhmm~...
+Sayo: Wh-what? Why are you staring at me like that...? If you have something you want to say to me, just say it.
+Hina: Well, Sis, it feels like you're kinda boppin' today♪
+Sayo: Sigh... I figured you'd say that.
+Sayo: For argument's sake, let's imagine I was "boppin'," like you said. Why would you be so happy about that?
+Hina: Huh? Why?! What do you mean, 'why'?!
+Sayo: What do I mean...? Don't answer my question with a question. I asked first.
+Hina: Hmm~, but I'm not sure how I'm supposed to answer that. When you're happy, I'm happy. That's how I am. Isn't that obvious?
+Sayo: ... Sigh... That's basically not even a reason.
+Hina: Ohh~, you think so~? Okay, what about you, Sis?
+Hina: Does it make you happy when I'm happy too?
+Sayo: Don't ask such a stupid question... Of course I am.
+Hina: What? What was that? So you are?!
+Sayo: I didn't say anything.
+Hina: Aww~, so you're not gonna tell me, huh? That's fine, but...
+Hina: To make up for it, you can go with me to that restaurant! Of course, we'd order the supersized stress set♪
+Sayo: To make up for what, exactly...? Sigh, I suppose I can't say no. If that's all we're doing, it's fine with me.
+Sayo: However... We go after my physical.
+Hina: Interesting~, so you do care about that~.
+Sayo: N-no, that's not what I meant.
+Sayo: I definitely don't care... Hello, Hina? Are you listening to me?!
+
+
+<Happy Change>
+
+(Character: Sayo Hikawa)
+
+[Library]
+
+Sayo: Looks like someone's still borrowing that book... Makes sense, it is fairly popular at the moment. Maybe next time I'll b- Hm?
+Sayo: Good afternoon, {{userName}}-san. Didn't think I'd run into you here.
+Sayo: Yes, I just finished returning a book. What am I doing after this? I was planning to go straight home.
+Sayo: You wanna walk together to the station? Sure, I've no problem with that. Shall we go?
+(Black cut)
+(Background change)
+
+[Riverside]
+
+Sayo: Have you heard, {{userName}}-san? What was happening with Roselia a little while ago? You're not sure? I'm talking about how we had a bit of a feud.
+Sayo: Udagawa-san and Shirokane-san were clashing with Minato-san... Then they stopped coming to rehearsal. Minato-san did the same soon after.
+Sayo: ... No, it wasn't only their fault. Part of the issue stemmed from me as well.
+Sayo: From the very beginning, I wasn't taking on Roselia in the way I was supposed to. Even though I'm a member of the band, the only things I thought about were my own sound and not being bested by my sister.
+Sayo: Obviously, I think it's important for me to search for my own sound. However...
+Sayo: I should have been a little more concerned with finding the type of sound and actions that would've benefitted Roselia.
+Sayo: Because of that, I ended up taking quite the detour. Still, I'd say I gained something while I walked that path... Would you like to know what it is?
+Sayo: I'm not sure what you thought of me before, but a short time ago, I was more solitary. I would've never considered doing things with others, intervening on behalf of another, things of that nature.
+Sayo: But this time, Imai-san and I took action together. It wasn't like I asked her to join me, or that she asked me to help her... It's just what naturally happened.
+Sayo: I don't know when it happened, but I reached the point where things might just occur that way.
+Sayo: I'm rather glad that I went through this change. After all, it's proof that I have successfully become Sayo Hikawa of Roselia.
+Sayo: I've matured? And so has Roselia...? I don't know. Who can really say for sure?
+Sayo: The answer to whether we have or not will be front and center at our next show. Please wait for then to pass judgment...
+Sayo: Judgment on my... On our sound.
+Sayo: We've reached the station. Alright... I hope you'll be looking forward to our next performance.

@@ -1,0 +1,723 @@
+1:11024 [Campus Street]
+
+(Character: Anon Chihaya)
+
+Anon: Feels like there's a lot of mature looking people around here...
+Anon: Is it because there's a lot of universities around here? But well, hmm...
+Anon: Since I don't feel out of place here, that means I can hold my own just fine!
+
+
+2:11029 [Campus Street]
+
+(Character: Rana Kaname)
+
+Rana: ... Hello. Now? Taking a walk.
+Rana: ... Practice? Hmm.
+Rana: ... Matcha ice cream? From Rikki?
+Rana: Okay. I'm going now.
+
+
+3:11079 [Campus Street]
+
+(Character: Tomori Takamatsu, Anon Chihaya)
+
+Anon: I wonder what university life would be like?
+Anon: You can decide your own schedule, and wear your own clothes to school... It's totally different from high school.
+Tomori: Clothes... It must be tough to pick your own clothes each day...
+Anon: Ahaha, then when we become university students, I'll help you coordinate your outfits!
+Tomori: Yeah...! Please!
+
+
+4:11080 [Campus Street]
+
+(Character: Tomori Takamatsu, Rana Kaname)
+
+Rana: Stroll time.
+Tomori: W- Wait...! Everyone else hasn't arrived yet...
+Tomori: Taki-chan would be troubled...
+Rana: Bored.
+Tomori: Umm... Then... Wanna see... this rock I picked up...?
+
+
+5:11081 [Campus Street]
+
+(Character: Tomori Takamatsu, Soyo Nagasaki)
+
+Soyo: Sorry, Tomori-chan. I ended up being really late.
+Tomori: No, it's okay... Soyo-chan, are you alright...?
+Soyo: Yeah. I was just helping a passing old lady with directions.
+Tomori: I see.
+Soyo: You know, when she first saw me, she mistook me for a university student. I couldn't help laughing.
+Tomori: ... I see.
+
+
+6:11082 [Campus Street]
+
+(Character: Tomori Takamatsu, Taki Shina)
+
+Taki: Just seeing this drives it in that there are actually plenty of university students in bands.
+Tomori: ... Everyone seems so grown up.
+Taki: ... Even after we become university students, I hope MyGO!!!!! will still continue on.
+Taki: Of course... And even beyond that, for life.
+Tomori: Yeah. Let's do it... for life.
+
+
+7:11083 [Campus Street]
+
+(Character: Anon Chihaya, Rana Kaname)
+
+Anon: Ugh... The temptation of having ramen after practice...
+Rana: You're not eating?
+Anon: But the calories would be terrible...
+Rana: To eat when you feel like eating, equals happiness.
+Anon: Guh~... How convincing...!
+
+
+8:11084 [Campus Street]
+
+(Character: Anon Chihaya, Soyo Nagasaki)
+
+Anon: Hey hey Soyorin. How do I look today?
+Soyo: What do you mean how... You look alright?
+Anon: Not that! Don't I seem a bit different from usual?
+Soyo: ... And specifically?
+Anon: Eh? I tried doing something I saw on a make-up video last night... Did I make a mistake somewhere?
+Soyo: I don't think anyone's going to notice normally.
+
+
+9:11085 [Campus Street]
+
+(Character: Anon Chihaya, Taki Shina)
+
+Anon: Huh, Rikki? Did you go to karaoke?
+Taki: ... I don't know what you're talking about.
+Anon: No way, you just came out of the store! You're a terrible liar!
+Taki: Sigh... This is the worst. Now I have to find a different store next time...
+Anon: Eh, why? It's close to RiNG too, let's go together next time.
+Taki: I'm the type that prefers to go at it solo, okay?
+
+
+10:11086 [Campus Street]
+
+(Character: Rana Kaname, Soyo Nagasaki)
+
+Rana: Good bench.
+Soyo: This...? It seems like a normal bench to me.
+Rana: It's the perfect size to curl up and sleep on.
+Soyo: ... Rana-chan, benches are meant to be sat on, you know?
+
+
+11:11087 [Campus Street]
+
+(Character: Rana Kaname, Taki Shina)
+
+Taki: Alright listen to me, Stray Cat. There's nothing interesting here, so let's head straight to RiNG.
+Rana: ? Rikki, what are you hiding. Move.
+Taki: I'm not hiding... Ah, wait!
+Rana: Ooh... Matcha drink fair.
+Rana: We're going.
+Taki: Guh... I failed...
+
+
+12:11088 [Campus Street]
+
+(Character: Soyo Nagasaki, Taki Shina)
+
+Soyo: How about we get some drinks at that coffee shop over there? We're all having practice next, so we can get something for everyone.
+Taki: Yeah, sounds like a plan.
+Soyo: Hmm, Tomori-chan would have a café mocha as usual...
+Taki: ... I only just found out the other day, but... It seems like Tomori actually doesn't like café mochas that much.
+Soyo: ... Tell me more?
+
+
+13:61053 [Campus Street]
+
+(Character: Kasumi Toyama, Arisa Ichigaya)
+
+Kasumi: Arisa, your socks are so cute~!
+Arisa: Agh! Don't yell so suddenly.
+Kasumi: You've got ribbons on your ankles! Those look soo great on you!
+Arisa: Th-they do? ... Thanks.
+Arisa: It's kind of exciting when you have some minor item that's cute like this.
+Kasumi: Mhm! It makes you feel happy when you look down at your feet! That's so nice~. I want a pair, too~.
+Arisa: I wouldn't mind going with you to buy some right now.
+Kasumi: Huh? Really? Yay! Thanks, Arisa♪
+
+
+14:61054 [Campus Street]
+
+(Character: Kasumi Toyama, Saya Yamabuki)
+
+Kasumi: Don't you feel kind of antsy on days when you don't have any shifts lined up for your part-time job?
+Saya: You feel antsy about not having shifts? What is that about...?
+Kasumi: I'll wonder whether it's okay for me not to be on shift, or whether everyone saw my memo for the equipment notice...
+Saya: Ah~, I see.
+Kasumi: ... Wanna go to RiNG right now?
+Saya: Ahaha, good idea. How about we practice while we're there?
+Kasumi: Yeah! I'll call and ask if there's an open studio!
+
+
+15:61055 [Campus Street]
+
+(Character: Tae Hanazono, Rimi Ushigome)
+
+Tae: What do you do when you're not motivated to study for a test?
+Rimi: Hmm... I wonder. Ah, I listen to our songs for a change of pace.
+Rimi: But the other day, when I played a video of one of our concerts while I was studying... I ended up watching it all the way to the end.
+Tae: I'd do that too.
+Tae: If only the test covered Poppin'Party. I'm sure I'd have fun studying.
+Tae: Wait. If that happened, would you study for a change of pace? Would it even be a change of pace if you're studying?
+Rimi: Fufufu. We'd definitely get a full score if the test was on Poppin'Party.
+
+
+16:61056 [Campus Street]
+
+(Character: Tae Hanazono, Saya Yamabuki)
+
+Saya: Thanks for coming shopping with me today. It was a nice change of pace.
+Tae: I had fun, too! Saya, are you helping out at home after this?
+Saya: No. I don't think I have anything special today. Is there a store you still want to go to?
+Tae: I wanna make some Go-Go Bread at your house! Because everyone's been working really hard lately.
+Saya: That might be nice! I'm sure everyone would love it if we made them some~.
+Tae: I want them to enjoy it freshly baked. It'll be piping hot Go-Go Bread filled with support!
+Saya: Fufufu. Right. Well then, why don't we head to Yamabuki Bakery right now?
+
+
+17:61057 [Campus Street]
+
+(Character: Rimi Ushigome, Arisa Ichigaya)
+
+Rimi: Arisa-chan, can we stop by the bookstore? The newest volume of my favorite novel series is out. I've been interested in the sequel for the longest time.
+Arisa: I don't mind. Is it a horror novel?
+Rimi: Yeah. But it's not only that. It also has some fantasy and romance.
+Arisa: Huh. It's got a lot of elements to it. I'm a little interested now.
+Rimi: Really?! Then I'll loan you my copy next time. It's part of a series, but I'm sure you'll be able to read it in no time!
+Arisa: Thanks. How many volumes are there?
+Rimi: I think there are seven, including the newest one.
+Arisa: Okay. I'll do my best to read it and catch up to you.
+
+
+18:61058 [Campus Street]
+
+(Character: Tae Hanazono)
+
+Tae: Ah, a cat... It ran away.
+Tae: ... There are stray cats, but I wonder if there are stray rabbits.
+Tae: Okay, I've made up my mind. Next time, I'll try looking for stray rabbits!
+
+
+19:61059 [Campus Street]
+
+(Character: Arisa Ichigaya)
+
+Arisa: This is the area where Rinko-senpai's university is located.
+Arisa: All the buildings are so stylish, and everyone walking around seems so mature...!
+Arisa: There are so many people, too...
+Arisa: ... I wonder if Rinko-senpai is okay.
+
+
+20:61060 [Campus Street]
+
+(Character: Saya Yamabuki)
+
+Saya: Ah, a rainbow!
+Saya: The arch is spanning the sky so prettily~. I'll snap a pic as a memento...
+Saya: Fufu. I think I'll send this to everyone in Poppin'Party, too.
+
+
+21:61061 [Campus Street]
+
+(Character: Ran Mitake, Tomoe Udagawa)
+
+Ran: I've been thinking this as we've practiced lately, but you're in good form, Tomoe.
+Ran: It's like you're fired up but not out of control. Your heat's coming in at the right amount.
+Tomoe: ...! It's kinda embarrassing when you suddenly praise me.
+Ran: I-I wasn't trying to. I just said that because I thought it was great.
+Tomoe: Haha, happy to hear it. Thanks!
+
+
+22:61062 [Campus Street]
+
+(Character: Ran Mitake, Tsugumi Hazawa)
+
+Tsugumi: Ran-chan, your shoes are so stylish!
+Ran: Thanks. I tried pairing just the laces with a different color.
+Tsugumi: The fact you can come up with an arrangement like that so quickly is amazing.
+Ran: You know some pretty cute arrangements, too, y'know. Plus, you're good with hair and hair accessories.
+Ran: You even think of the minor parts of our concert costumes. I think you've got good taste.
+Tsugumi: Y-you're just exaggerating~! Fufu. But it makes me happy that you'd say that.
+
+
+23:61063 [Campus Street]
+
+(Character: Moca Aoba, Tsugumi Hazawa)
+
+Tsugumi: Ah, Moca-chan. Look, look! There are a bunch of interesting capsule toy machines.
+Moca: Where, where? You're right~. There are so many~.
+Moca: Ooh, this says they're bun keychains~. There's a croissant, a baguette, and a melon bun... I foresee any of them being a big hit for me~.
+Tsugumi: I'm interested in the café hamster figures. It says those are hamsters in coffee cups!
+Tsugumi: Each one is just so cute. I think I'll give it a try!
+Moca: Nice~. Moca-chan will give it a try, too~.
+Moca: Now then. We'll just have to wait and see what we get when we open the capsules~.
+
+
+24:61064 [Campus Street]
+
+(Character: Himari Uehara, Tomoe Udagawa)
+
+Himari: Ah, that ramen shop. Aya-san said it's good!
+Tomoe: Oh. It says we get a free topping if we show our student IDs. Wanna check it out?
+Himari: Yeah, let's go~♪ I've got my student ID in my bag pocket...
+Himari: Huh?! I might've... forgotten to bring it with me...
+Tomoe: Hahahaha. How about we go the next time you have your ID?
+Himari: Ohh, I'm sorry, Tomoe~.
+
+
+25:61065 [Campus Street]
+
+(Character: Moca Aoba, Himari Uehara)
+
+Moca: It's warm today, so I'm feeling sleepy~. This is the perfect weather for a nap~.
+Himari: You said it... Yawn~. Maybe I'll take one, too.
+Moca: Said poetically, "I sleep warmly at spring's dawn~. I doze neath an air conditioner in summer~. I snore on a bed of fall leaves~. I hibernate at a heated winter table~."
+Himari: Hey, that means you're always sleepy!
+Moca: Ahaha. You saw right through me, huh~?
+
+
+26:61066 [Campus Street]
+
+(Character: Ran Mitake)
+
+Ran: Our meet-up spot should be around here...
+Ran: Moca's... not here yet.
+Ran: Well, it's Moca. There's no way she'd be thirty minutes early. Guess I'll go to a café and finish the lyrics for the new song.
+
+
+27:61067 [Campus Street]
+
+(Character: Himari Uehara)
+
+Himari: Hum hum~♪ I got a better score than I expected on the mock exam at cram school~!
+Himari: Would it be okay for me to have a parfait as a treat? Sure it would!
+Himari: I'll have the Big Mountain Parfait with fruit and cream that I've had my eye on for the longest time~♪
+
+
+28:61068 [Campus Street]
+
+(Character: Aya Maruyama, Maya Yamato)
+
+Aya: Yawn~...
+Maya: Aya-san, you seem tired. Are you okay?
+Aya: I'm a little sleepy, but I'm fine! I was putting together my report for an assignment, and I went to bed late...
+Aya: I finished writing it early, but I found some spots that caught my attention when I looked back through it...
+Maya: Ah~, that happens to me too... I'm fairly meticulous, so there are times when I'll thoroughly investigate my topic or search for comparisons.
+Maya: One time, I only barely went over the maximum page limit, and I had to reluctantly whittle down the number of pages.
+Aya: I think page limits vary by class, but was it about five pages?
+Maya: For that class, it was fifteen. Thinking about it now, the professor was also busy, so I feel bad for writing so much...
+Aya: Huh?! That's actually amazing, Maya-chan...!
+
+
+29:61069 [Campus Street]
+
+(Character: Aya Maruyama, Eve Wakamiya)
+
+Aya: Hey, Eve-chan. Look at this photo. It's advertising original items for my university, like ballpoint pens and notebooks.
+Eve: Every item has the university name, so they are like tour merchandise!
+Aya: Ahaha. Good point. My top recommendation out of all of these is... the university T-shirt! It's pretty fashionable~.
+Eve: Wow~! The university name is designed with English letters, and the shirt is lovely enough to be featured in a fashion magazine.
+Aya: I know, right~?! I've already bought two of them♪ It's fun to think of how I'll dress with them.
+Eve: That is just what I would expect of you, Aya-san! You are an advanced practitioner of fashion!
+
+
+30:61070 [Campus Street]
+
+(Character: Hina Hikawa, Chisato Shirasagi)
+
+Hina: Hey, Chisato-chan. It looks like that donut shop over there is holding a strawberry fair.
+Chisato: I was a little interested in it, too. If I remember correctly, it's a limited-time pop-up store.
+Hina: That's right! So now's the only time we can go! Why don't we buy some for takeout?
+Chisato: Yes, why not? Maybe I'll also buy some as a gift for Kanon.
+Hina: That's a great idea! I'll choose some for my sister, too♪
+
+
+31:61071 [Campus Street]
+
+(Character: Hina Hikawa, Maya Yamato)
+
+Hina: Maya-chan, those paper bags you're carrying are filled to bursting. Isn't it heavy carrying those?
+Maya: They're quite heavy, but this is my own fault... I borrowed too many books from the university library.
+Hina: I see. It's so boppin' how our library has such a large collection of books♪ What kind of books did you borrow?
+Maya: I've got a high-profile dissertation, a practical book I might be able to use for a column, and more, so I guess I didn't follow any specific genre.
+Hina: Nice! I wanna try reading your choice of books, too.
+Maya: Then why don't we go to a café and have a break? Urgh... Wh-whoa!
+Hina: Maya-chan, you're stumbling. I can't just leave you hanging, so I'll carry them with you!
+
+
+32:61072 [Campus Street]
+
+(Character: Chisato Shirasagi, Eve Wakamiya)
+
+Eve: Hello, Chisato-san!
+Chisato: Sorry to have kept you waiting. My lecture went on a little long...
+Chisato: By the way, Eve-chan. Why are you stroking that statue...?
+Eve: Chisato-san, do you know the legend behind this statue?
+Chisato: Its legend...? I've never heard of it before.
+Eve: Apparently, you will gain power by stroking this statue three times! All of the All Day＊Bushido listeners told me about it.
+Eve: I have stroked it more than ten times, so I feel muscular and full of energy!
+Chisato: I don't believe just stroking it will make you muscular... But if it has energized you, then that is wonderful.
+
+
+33:61073 [Campus Street]
+
+(Character: Aya Maruyama)
+
+Aya: Which building is my lecture in today?
+Aya: The campus is so big that I still can't remember where things are. The other day, I accidentally went to the building next door...
+Aya: Today, I'll make sure to get there without getting lost~!
+
+
+34:61074 [Campus Street]
+
+(Character: Chisato Shirasagi)
+
+Chisato: I'm glad I did well in today's lecture quiz.
+Chisato: That was thanks to the collection of past questions that my department senior loaned to me.
+Chisato: I'd like to thank them... Perhaps I'll get them a drink ticket for the café.
+
+
+35:61075 [Campus Street]
+
+(Character: Hina Hikawa)
+
+Hina: I wonder if my sister's in class right about now.
+Hina: She said it was an interesting lecture, so I should've taken that class, too.
+Hina: Oh well. I'll try going with her next time♪
+
+
+36:61076 [Campus Street]
+
+(Character: Yukina Minato, Ako Udagawa)
+
+Ako: Yukina-san, is there any good food at your university's cafeteria?
+Yukina: Let me think... I think all their food is delicious, but I particularly like their fried chicken set meal.
+Yukina: There is also their minced meat cutlet set meal and ramen... Their pancakes were not bad, either.
+Ako: I see! You're so lucky~! I'm really curious to know what they're like!
+Yukina: If you're that curious, let's go together sometime.
+Ako: Yay! I can't wait♪
+
+
+37:61077 [Campus Street]
+
+(Character: Yukina Minato, Rinko Shirokane)
+
+Yukina: It's been dry as of late... I should make preparations before it interferes with my singing.
+Rinko: In that case... what do you think of... going to a café close to the university...?
+Rinko: Apparently, they have... a honeyed milk tea... on their menu...
+Yukina: That sounds wonderful. Let's go there right away.
+
+
+38:61078 [Campus Street]
+
+(Character: Sayo Hikawa, Lisa Imai)
+
+Lisa: Did you see yesterday's music show? Our agency seniors were singing on it!
+Sayo: Yes. I have already checked it, of course. I was surprised when they said they recorded their performance corner in one take.
+Sayo: We shall have to devote ourselves even more.
+Lisa: Right! Let's do our best in practice today☆
+
+
+39:61079 [Campus Street]
+
+(Character: Sayo Hikawa, Ako Udagawa)
+
+Ako: Sayo-san! Here's a present for you!
+Sayo: Thank you... Are these Shiba Inu dog stickers?
+Ako: Yeah! I bought a lot of super cute stickers the other day when I went to a specialty sticker shop with Rokka and Mashiro, so I'm sharing some with you!
+Sayo: I see. So there is even a shop like that. I will place these on the memo pad I always use.
+Ako: Please stick a bunch of them on! Fufu. I'm glad you like them~.
+Ako: Why don't you come with us next time?
+Sayo: Yes, I would very much like that.
+
+
+40:61080 [Campus Street]
+
+(Character: Lisa Imai, Rinko Shirokane)
+
+Lisa: Oh no~! I'm late because of my part-time job!
+Lisa: Even if I ran all the way there, I'd only barely make it in time for the start of class...!
+Rinko: Hello, Imai-san...
+Lisa: Huh...? Rinko? You're in the same class with me after this, right? We won't make it in time unless we hurry!
+Rinko: Ah... Apparently, it was canceled... Did you not... get the email...?
+Lisa: Really?!
+Lisa: Thanks for letting me know☆ I was about to head to the classroom without realizing that.
+Rinko: Oh, no... I didn't realize it either... so I ended up going... to the classroom...
+
+
+41:61081 [Campus Street]
+
+(Character: Yukina Minato)
+
+Yukina: ...! I've thought of a good phrase.
+Yukina: I should note it down before I forget...
+Yukina: ... I believe that's all of it. Oh dear. Is this a handout for an assignment I have to turn in...?
+Yukina: ... I should get in the habit of checking papers before I take notes on them.
+
+
+42:61082 [Campus Street]
+
+(Character: Sayo Hikawa)
+
+Sayo: I have time to spare before my next class, so perhaps I will read in a café...
+Sayo: Oh my. "All drinks now include a cookie." I see. So they are in the middle of a deal where customers receive cookies shaped like aliens and stars.
+Sayo: This seems like something Hina would like, so maybe I will try inviting her sometime.
+
+
+43:61083 [Campus Street]
+
+(Character: Rinko Shirokane)
+
+Rinko: The person who sat next to me... in class yesterday... had an... NFO keychain...
+Rinko: They might... like NFO...
+Rinko: Maybe... I'll try talking to them next time...
+
+
+44:61084 [Campus Street]
+
+(Character: Kokoro Tsurumaki, Kanon Matsubara)
+
+Kokoro: Hey, Kanon. When I passed by the university earlier, there were lots of people who were handing out flyers. What could those flyers be for?
+Kanon: I think they're club solicitations.
+Kokoro: Club solicitations...?
+Kanon: People with different interests are inviting others to join their clubs.
+Kokoro: Ohh, I see! In that case, I'll go over!
+Kanon: Fue?! Wh-why?
+Kokoro: Well, they're inviting people to join them, aren't they? Singing songs and drawing pictures together sounds like oodles of fun!
+Kanon: Um, those clubs are for- Ah, Kokoro-chan?!
+Kanon: Fue~, wait~!
+
+
+45:61085 [Campus Street]
+
+(Character: Kokoro Tsurumaki, Misaki Okusawa)
+
+Kokoro: Misaki! Let's play hide-and-seek!
+Misaki: Huh? Here? At least wait until we get to the park.
+Kokoro: I know! What do you think of playing over there? It looks like it has so many places to hide!
+Misaki: Over there...? Are you talking about Kaoru-san's university?! No way. That's not somewhere you can casually play around.
+Kokoro: Kaoru invited me to come play whenever I wanted! Don't you think it would be so much fun if we invited her to play hide-and-seek together?
+Misaki: Wouldn't Kaoru-san be in a lecture right now...?
+Kokoro: I guess we don't have a choice then. Let's explore until her lecture is over!
+Misaki: So either way, we're going to the university, huh...?
+
+
+46:61086 [Campus Street]
+
+(Character: Kaoru Seta, Hagumi Kitazawa)
+
+Hagumi: Kaoru-kun, is university fun?
+Kaoru: Indeed, it is. My classes are enjoyable, and there are many special events each day. There are even occasions when I see sudden street performances.
+Kaoru: In other words... each day is freeing.
+Hagumi: I see! Then let's try having a Smile Patrol at your university next time!
+Kaoru: That is a magnificent idea. Let us try proposing it to the others.
+
+
+47:61087 [Campus Street]
+
+(Character: Kaoru Seta, Kanon Matsubara)
+
+Kaoru: The other day, a curry food truck stopped at the fore of my university. I felt a foreign breeze brimming with atmosphere.
+Kanon: Wow. So there are food trucks that visit. Was it good?
+Kaoru: Indeed. It was a truly splendid taste... It was to the point that I mistakenly thought myself to be in a foreign land.
+Kaoru: No matter how much water I quaffed... the stimulation of the fleeting fragrance and flavor of the spices that pervaded my nose continued to remain.
+Kanon: Um... Does that mean it was really spicy?
+
+
+48:61088 [Campus Street]
+
+(Character: Hagumi Kitazawa, Misaki Okusawa)
+
+Hagumi: Mii-kun, did you see the movie that was playing on TV yesterday?
+Misaki: I watched it with my younger siblings. It was the one where the characters wander around different planets, solving space incidents, right?
+Hagumi: Yeah! After seeing that movie, I thought it would be so much fun if we went to space and had a concert!
+Hagumi: I wanna try performing in a starry sky. I'd love to sing Twinkle Twinkle Little Star while surrounded by stars~!
+Misaki: (If we can hold a concert at a planetarium... that might be doable.)
+
+
+49:61089 [Campus Street]
+
+(Character: Kaoru Seta)
+
+Kaoru: The University Arc of Kaoru Seta's Theater fleetingly raises its curtain...
+Kaoru: Kaoru Seta departs for foreign lands with an even greater flourish in mind. Cheered on by her dear little kittens, she spreads her wings again this day... Ahh, how fleeting.
+Kaoru: The title for my next poetry anthology shall be "A New Journey"... Fufu. That is perfect.
+
+
+50:61090 [Campus Street]
+
+(Character: Kanon Matsubara)
+
+Kanon: I'm supposed to meet with Kaoru-san, but where could she be...?
+Kanon: Ah! That might be her over there...!
+Kanon: Sh-she's standing out more than the statue we set as a landmark...
+
+
+51:61091 [Campus Street]
+
+(Character: Mashiro Kurata, Tsukushi Futaba)
+
+Tsukushi: Mashiro-chan, what're you doing standing in front of this store...?
+Mashiro: U-umm... I was thinking of going in, but... I got scared...
+Mashiro: There's no one but mature-looking customers, so I don't think I could order well if I went in...
+Tsukushi: You just have to order normally. How about I go in with you?
+Mashiro: R-really? Thanks, Tsukushi-chan...
+Tsukushi: Of course! I'm Morfonica's leader, after all!
+
+
+52:61092 [Campus Street]
+
+(Character: Mashiro Kurata, Rui Yashio)
+
+Mshiro (Mashiro): I wonder what character that plushie is that's hung up over there. It's not a fluffy mascot...
+Rui: It would appear to be that shop's original mascot character.
+Mshiro (Mashiro): I see! Ehehe. The way it's just sitting there is so cute~!
+Mshiro (Mashiro): Is it modeled after a rabbit? Or maybe a bear? It has eyes like the moon, so it might be a cat!
+Rui: Apparently, its name is Omochi the Flying Squirrel. That is what is written next to the plushie.
+Mshiro (Mashiro): Ah, so it was a flying squirrel...
+
+
+53:61093 [Campus Street]
+
+(Character: Toko Kirigaya, Nanami Hiromachi)
+
+Nanami: Hm? Toko-chan, can you hear one of our songs?
+Toko: Ahh, my bad. That's my phone.
+Toko: I set one of our songs as my alarm♪ Pretty cool, huh?
+Toko: This goes off one hour before I go to rehearsal, so it helps me get in the mood to rock!
+Nanami: That's great~! You'll be pumped up before we even start rehearsing~.
+Nanami: Wait. Weren't you late to rehearsal the other day?
+Toko: Ahaha~. Well, that kinda thing's no big deal!
+
+
+54:61094 [Campus Street]
+
+(Character: Toko Kirigaya, Tsukushi Futaba)
+
+Toko: Fusuke, do you know that dance video that's trending on social media lately?
+Tsukushi: Huh? Which one?
+Toko: The one where they do a cute quick-step dance set to a hamster anime song!
+Tsukushi: Oh, that one. I know about it because my younger sisters watched it. The dance goes like this, right?
+Toko: Your moves are perfect! Fusuke, that's amazing! I'm seriously impressed!
+Tsukushi: Fufu, I practiced with my sisters♪ ... Hey, don't film me without asking~!
+
+
+55:61095 [Campus Street]
+
+(Character: Nanami Hiromachi, Rui Yashio)
+
+Nanami: Rui-rui, you smell kind of nice today.
+Rui: Do I? I wonder if it is because I was baking cookies in today's cooking class.
+Nanami: That's it~! So, Class A was making cookies. I would've liked to eat some of yours~.
+Rui: I believe buying them is more efficient than making them.
+Nanami: Well, that's true, but having handmade ones makes people happy.
+Nanami: I'm sure if you gave me some, I'd be able to do my best with practice for the whole week~.
+Rui: ... I will take that into consideration.
+
+
+56:61096 [Campus Street]
+
+(Character: Nanami Hiromachi)
+
+Nanami: I'm so glad the shops in this area have so many varieties of toys~.
+Nanami: Today, I visited the bookstore, stationery shop, and knick-knack shop. Ehehe.
+Nanami: There are also a lot of shops with capsule toy machines set out, so I might pass by those, too~.
+
+
+57:61097 [Campus Street]
+
+(Character: Rui Yashio)
+
+Rui: I can hear festival music coming from somewhere... I wonder if there is a festival being held in this area.
+Rui: I imagine Kirigaya-san and the others would want to go if I shared this information with them. I would not mind going if it did not interfere with our rehearsal.
+Rui: Considering the motivation for performance and efficiency, would this be information I should share...?
+
+
+58:61098 [Campus Street]
+
+(Character: Rei Wakana, Reona Nyubara)
+
+PAREO (Reona): Hrm~... Whatever shall I do...?
+LAYER (Rei): PAREO, what's wrong?
+PAREO (Reona): LAYER-san! The thing is, I could not decide how many copies of the TV magazine with Chisato-san on the cover I should buy...
+PAREO (Reona): Her recent interview was so lovely~! I am considering buying extra copies, as I would love it if everyone else read it too!
+LAYER (Rei): There was a copy of that magazine in CHU²'s penthouse. I read a little bit of it.
+PAREO (Reona): Wow! Thank you very much! In this issue, Chisato-san took part in an in-depth interview, so it is rich in content~!
+PAREO (Reona): I will give you a copy later so that you may enjoy it leisurely at home even after leaving CHU²-sama's penthouse♪
+LAYER (Rei): Th-thanks. Your enthusiasm is... amazing.
+
+
+59:61099 [Campus Street]
+
+(Character: Rei Wakana, Chiyu Tamade)
+
+LAYER (Rei): That's a cute keychain on your bag.
+CHU² (Chiyu): PAREO forced me to put it on. She said it helps you stand out when walking the streets at night.
+LAYER (Rei): Ahh, it's made of reflective material. This is nice. Now I want one, too.
+CHU² (Chiyu): Why not try asking PAREO for one?
+LAYER (Rei): Okay, I will. Fufu. It might be nice for everyone in RAS to have one of these.
+
+
+60:61100 [Campus Street]
+
+(Character: Rokka Asahi, Masuki Sato)
+
+LOCK (Rokka): Wow, how cute! Where did you get this carrot-shaped pen?
+MASKING (Masuki): Ahh, this? Pretty sweet, huh? I bought it at the shop Maya-san recommended to me.
+LOCK (Rokka): How nice~! I bet that would make studying fun!
+MASKING (Masuki): Let's go to that store right now. I'll buy you any pen you want as a gift for joinin' student council.
+LOCK (Rokka): Huh? Are you sure?! B-but...
+MASKING (Masuki): Don't sweat it. C'mon, let's get goin'.
+
+
+61:61101 [Campus Street]
+
+(Character: Rokka Asahi, Reona Nyubara)
+
+PAREO (Reona): The schools that Aya-chan and the others attend are in this area, right…?!
+LOCK (Rokka): It would seem so. Yotsuba Women's University is over that way, and it looks like we can get to Keiho Women's University by going this way!
+LOCK (Rokka): And apparently, we can use the school cafeterias and libraries even if we don't attend the universities. Why don't we go together sometime?
+PAREO (Reona): Oh no, no, no, no!! As a fan, there is a certain distance or standard that I must maintain. Or rather, there is a line that I must not cross...!
+PAREO (Reona): I do apologize, but I will refrain from doing that.
+LOCK (Rokka): R-really? It must be hard being an idol fan...!
+
+
+62:61102 [Campus Street]
+
+(Character: Masuki Sato, Chiyu Tamade)
+
+MASKING (Masuki): Yo, CHU². Are you headin' somewhere right now?
+CHU² (Chiyu): I heard there's a well-reputed record shop in this area. Oh, that bag...
+MASKING (Masuki): Ahh, it might be this shop. I was just there a minute ago. They also sell famous records from back in the day. It was really great.
+CHU² (Chiyu): I see. That has me even more interested.
+MASKING (Masuki): But that shop's in a pretty hard-to-find spot. You might get lost, so how 'bout I go with you?
+CHU² (Chiyu): What...?! D-don't treat me like a child! I can make it there on my own!
+MASKING (Masuki): Hey, whoa, whoa. You're already goin' the wrong way. Aw well. Guess I'll take you there.
+
+
+63:61103 [Campus Street]
+
+(Character: Chiyu Tamade)
+
+CHU² (Chiyu): A flyer for a DJ club concert? Hmm...
+CHU² (Chiyu): Judging by their setlist and the equipment shown in the photos, it seems they take things quite seriously.
+CHU² (Chiyu): I suppose it might be good to go look for reference's sake.
+
+
+64:61104 [Campus Street]
+
+(Character: Masuki Sato)
+
+MASKING (Masuki): The person wearin' that jacket is pretty stylin'...
+MASKING (Masuki): Wait. Now that I'm actually lookin' at 'em, that's one of the regulars from my part-time job.
+MASKING (Masuki): Come to think of it, I got pumped up talkin' to them about their jacket once before.
+
+

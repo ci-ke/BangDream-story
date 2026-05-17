@@ -1,0 +1,79 @@
+366_Yukina Minato_R2 Amateur Bard
+
+<Similar People>
+
+(Character: Yukina Minato, Lisa Imai, Ako Udagawa)
+
+[Departure Village]
+
+Demon Princess Ako (Ako): Yukina-san, the mine is this way! Just follow my lead, okay?!
+Yukina: Yeah, alright.
+Yukina: ...? That person is...
+Lisa: What's wrong, Yukina?
+Yukina: Someone just walked by with the same face and outfit as me.
+Demon Princess Ako (Ako): I'm sure that was a new player who chose the bard class! When you have new players who choose the same class, sometimes you end up looking the same.
+Yukina: ... That's kinda unsettling. Even if it's just a game, having someone who's exactly the same as you is a bit much.
+Lisa: Nothing you can really do about that. Look, see those people over there. A bunch of them look just like me.
+Yukina: You're right... Everyone looks the same when you look at them from behind.
+Demon Princess Ako (Ako): It's hard to tell people apart when they're all wearing the standard outfit. That's why you can all keep an eye on me!
+Yukina: Yeah. Okay, after you then. I'm sure that will keep us from running into any confusion.
+Lisa: Alrighty, let's go!
+(Black cut)
+(Background change)
+Demon Princess Ako (Ako): To get to the mine, we go straight through here, and when we get to the next area, that's wh- Hm? Where's Yukina-san going?
+Lisa: Yukina! Not that way. Back, come back.
+Yukina: What happened? All I was doing was following Ako.
+Lisa: That's not Ako! Sure, they look a little bit similar, but this is the real Ako!
+Yukina: ... Oh, it is. You can tell if you look closely enough.
+Demon Princess Ako (Ako): Get it together, Yukina-san~. That girl looks nothing like me!
+Yukina: It's too hard for me to see the difference...
+Lisa: Yeah, if you took a quick glance, it might be hard to tell. You add that to being unfamiliar with the controls, and it becomes a lot to deal with at once.
+Demon Princess Ako (Ako): Okay then, I'll move more slowly. If we all just stick really close together as we go, no one should get lost.
+Yukina: That'd be helpful. Lisa, let me know if I'm starting to get separated from the group again.
+Lisa: Okay☆ Leave it to me!
+Lisa: You know, though, the game world is really interesting. Yukina following your lead, confusing you for someone else... Those aren't things that would happen in the real world.
+Demon Princess Ako (Ako): I'm pretty sure my outfit is easy to spot... I can't believe she made that mistake...
+Lisa: Wait... Yukina's missing again?!
+Demon Princess Ako (Ako): What?! Where'd she go~?!
+Lisa: L-let's just start by going back the way we came. We might find her along the way...
+(Black cut)
+Demon Princess Ako (Ako): Ah, there she is! Yukina-san, over here! Hey!
+Lisa: Yukina, why are you facing that way? Over here~.
+Demon Princess Ako (Ako): Yukina-san? Hello~, Yukina-san?
+Lisa: What's wrong with her? Is she frozen...?
+
+[Yukina has logged out.]
+
+Demon Princess Ako (Ako): What?! Did she get disconnected?!
+Lisa: Ah, hold on. She's calling me.
+Lisa: She says her screen suddenly turned black.
+Demon Princess Ako (Ako): What~? Maybe she pressed the power button...?
+Lisa: Either way, I'm gonna go to her booth so I can take a look at her computer. Be right back~.
+Demon Princess Ako (Ako): Thanks, Lisa-nee!
+
+
+<About Video Game Music>
+
+(Character: Yukina Minato)
+
+[Studio]
+
+Yukina: I see. So they're all categorized as video game music, but there are various types.
+Marina: And technology has come pretty far, so there are even games that can take an orchestra's performance and include it without making any edits or changes.
+Yukina: An orchestral performance in a video game? That's quite interesting.
+Marina: There are also games that use trending pop songs as part of their soundtrack, so you might learn a thing or two by listening to them.
+Yukina: Yeah, I think I'll do just that. By the way, {{userName}}-san, you've been awfully quiet over there. Do you play video games?
+Yukina: Oh, just a bit...? I've never had much interest in playing them, but the other day, Ako asked the members of Roselia to join her for a session.
+Yukina: I don't remember what it was called, but I know it was an online game. One where you can play together even though you're on separate computers.
+Marina: You, playing a computer game? That's kinda hard to picture.
+Yukina: I never imagined I would be playing one either. I didn't have a clue what was going on.
+Yukina: But I don't think it was a bad experience. I was fairly intrigued by the music they used in that game. It was a bit strange.
+Marina: Oh, okay. And that's why you came here to ask me about video game music.
+Yukina: Right. See, they had this background music set for the field area, but...
+Yukina: That music would change when you moved from one field area to the next. However, it would do so without ever being interrupted.
+Yukina: I'm not sure what kind of set up they have that would allow for such a feature, but that's some incredible technology in my opinion.
+Marina: That's called procedural music generation.
+Yukina: Procedural... music generation...? Do you know a lot about it? I was hoping you could tell me more, if you don't mind.
+Marina: I'd love to! And since you're here too, why don't you both listen?
+Yukina: Yeah, as someone whose work relates to music, I don't think it could hurt to learn. You should probably take advantage of this opportunity.
+Yukina: Alright, Marina-san. We're listening.

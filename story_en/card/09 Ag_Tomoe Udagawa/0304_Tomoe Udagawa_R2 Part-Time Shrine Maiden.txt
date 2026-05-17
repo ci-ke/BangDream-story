@@ -1,0 +1,78 @@
+304_Tomoe Udagawa_R2 Part-Time Shrine Maiden
+
+<Reason for Himari's Support>
+
+(Character: Himari Uehara, Tomoe Udagawa)
+
+[Hazawa Coffee]
+
+Tomoe: What? You want me to do it?!
+Tomoe: Um... no, I understand. I'll think about it.
+Tomoe: Yo, Himari. You're already here, huh? Sorry for the wait.
+Himari: No, it's totally okay~!
+Himari: More importantly, that man just now was someone from downtown, right? Was it about next year's festival or something?
+Tomoe: No... he asked me to help out at the shrine. It seems they don't have enough people working as shrine maidens and they want me to be an assistant...
+Himari: Wow~! Are you gonna be a shrine maiden, Tomoe?! That's awesome! I so wanna see it~!
+Tomoe: Nah, I'm still thinking about it. I mean, me, as a shrine maiden? I can't see it.
+Himari: What? I can! You're tall and pretty and you have really nice long hair. You should do it! You'll totally look the part!
+Tomoe: Don't get me wrong, I appreciate you saying that, but...
+Tomoe: Do you really think I can pull it off? I mean, you know how I speak, right?
+Tomoe: I kinda feel like a shrine maiden is supposed to be a meeker kind of girl.
+Himari: No one will know if you just keep quiet~! You'll be fine~!
+Tomoe: I can't be silent the whole time, you know? I have to sell lucky charms and stuff to customers.
+Himari: Ugh, I know, but... it's not like you have to speak all that much, right?
+Himari: Just think of it like a customer service job and you'll be fine~!
+Tomoe: Well, I guess you do have a point there...
+Himari: You've gotta do it, Tomoe~! They're gonna pay you, right?
+Tomoe: But, like... even if I get paid it's not like there's anything I want to buy right now~.
+Himari: O-oh, c'mon~...
+Tomoe: You  know what? I think I'll just...
+Himari: Ah! Th-that reminds me! Didn't you say that you wanted to get a new hi-hat the other day?
+Tomoe: Hm? I did?
+Himari: Y-yeah, you totally did~! You said something about how your current one was starting to sound different!
+Tomoe: Hmm, now that you mention it, I guess I might've said something like that...? Either way, I'll take a look at the tension in my pedal before making a decision. It's not like anything needs an immediate replacement.
+Himari: Aww... Oh, by the way! That brand you like is having a New Years sale and it's gonna be a huge one!
+Tomoe: Oh, is that so? That might be worth checking out.
+Himari: Right~? This totally means you have to be a shrine maiden, Tomoe! It's like the gods are guiding you!
+Tomoe: I dunno... that's the same time I'd be working as an assistant at the shrine, so I might not even have time to check the sale out...
+Himari: Hmph~! I'm saying all of this for you, Tomoe! I mean, you don't want to miss the 70% off sales, right?
+Tomoe: W-well, I guess you do have a point there...
+Himari: And it's the New Year, remember? They'll have lucky bags too!
+Himari: If you can't go buy anything because you're too busy with your shrine maiden job, I'll line up for you instead!
+Tomoe: Himari... You'd do that for me...?
+Tomoe: ... Well, I don't have band or taiko practice since it's the New Year. Okay! I'm gonna do it!
+Himari: Ooh, yay~! ... I'm so glad I talked you into this...!
+Himari: So, Tomoe! You absolutely have to let me take a picture with you when you're dressed as a shrine maiden!
+Tomoe: Uh, sure, but why?
+Himari: Visiting a shrine for the first time this year! My friends a shrine maiden♪ is what I'm gonna write when I post a pic of us and show it off to everyone!
+Tomoe: F-fine...
+Himari: They're gonna love it~! Ehehe, I can't wait~!
+Tomoe: Was all that passion Himari showed just now really even for me...?
+
+
+<Perform as a Shrine Maiden?>
+
+(Character: Tomoe Udagawa)
+
+[Downtown]
+
+Tomoe: Oh, hey {{userName}}-san! Happy New Year!
+Tomoe: Me? I'm just on my way to pick up my pay.
+Tomoe: I worked as a shrine maiden over the New Year... Well, an assistant one that is.
+Tomoe: Haha, so you think it's kind of unexpected too, right?
+Tomoe: Yeah, so what happened was one of the people from downtown suddenly asked me to help out...
+Tomoe: I was going to say no at first, but when I talked to Himari about it she went all out to push me into doing it.
+Tomoe: In the end, I decided to give it a shot, but man it was hard work.
+Tomoe: Massive amounts of people visit shrines on the first day of the year, right? I was half dead by the time I went home.
+Tomoe: It was pretty fun though. All of the visitors seemed to be enjoying themselves, and Ako and the others came by too.
+Tomoe: Hmm, I wonder if I looked the part. I'm still not sure myself.
+Tomoe: Ahh, but actually, a lot of people approached me while I was working.
+Tomoe: Asking for photos together and stuff like that. Not sure why it had to be me though...
+Tomoe: Huh? Nah, I don't have a photo, but I'm pretty sure Himari does.
+Tomoe: I mean, she was the first one to come up to me and ask for one, you know?
+Tomoe: It seems she really took a liking to my shrine maiden get-up.
+Tomoe: She even asked me to dress like that for our next gig.
+Tomoe: I said no though, since the sleeves are way too long for any serious drumming.
+Tomoe: And besides, wouldn't it be weird with everyone wearing their usual outfits and just me as a shrine maiden?
+Tomoe: Am I gonna do it again next year...? We'll see, maybe if I'm still feeling it.
+Tomoe: But hey, if I do, come by and pay me a visit, {{userName}}-san. Just... don't get your hopes up.

@@ -1,0 +1,86 @@
+731_Tsugumi Hazawa_R2 A Joyful Tea Time
+
+<Popular Summer Menu Item>
+
+(Character: Himari Uehara, Tsugumi Hazawa, Kanon Matsubara, Chisato Shirasagi, Eve Wakamiya, Sayo Hikawa)
+
+[Hazawa Coffee]
+
+Eve: Tsugumi-san, Tsugumi-san!
+Tsugumi: What's wrong, Eve-chan? Ah, did we get another one...?
+Eve: Yes, that customer has also ordered the lemon cheesecake with tea.
+Tsugumi: Wow, I knew it! I can't believe the last five orders have all been for the same thing...!
+Eve: Yes, this dish is without a doubt the most popular on the menu!
+Tsugumi: I thought it would be a hit, but five orders in a row is a first for us. My mother felt confident about it, so I'm glad to see it is doing well.
+Eve: To tell the truth, I have grown fond of it as well.
+Tsugumi: You too, Eve-chan?
+Eve: That proper blend of sweetness and fresh lemon flavor makes it the perfect treat to combat the harsh heat of summer.
+Eve: I had actually planned to have some for myself during my break today.
+Tsugumi: Fufu, I see. I'm glad to hear that it is also popular with you, Eve-chan.
+Eve: Yes, I will use it as motivation to try my best with today's duties.
+Sayo: ...
+Tsugumi: Ah, Sayo-san. What's the matter?
+Sayo: Hazawa-san, about this cake that I ordered...
+Tsugumi: The lemon cheesecake...? Oh, was it not, uhm, to your liking?
+Sayo: Nothing of the sort. It was a most delicious cake of the highest quality.
+Sayo: I was wondering if I could, perhaps, have another slice to go?
+Tsugumi: Ah, so that's what you wanted to ask. I am glad to hear that you enjoy it, Sayo-san.
+Tsugumi: Please wait a moment while I prepare it for you.
+Sayo: Okay. Thank you very much.
+Tsugumi: Uhhh, where are those take-out boxes~...?
+Eve: ...
+Tsugumi: What's wrong, Eve-chan?
+Eve: The cheesecake is slowly disappearing... I am worried that it will be sold out by the time my break comes around.
+Tsugumi: Fufu, don't worry. My mom is going out of her way to make more than usual.
+Tsugumi: We still have half of our stock left, so there should be enough for you.
+Eve: I-I hope so. So long as there is not a sudden spike in orders...!
+Kanon: Hey, Chisato-chan. The cake that Sayo-chan is eating looks really tasty, doesn't it?
+Chisato: The lemon cheesecake, you mean...? It does look rather scrumptious...
+Eve: Oh no, oh no, oh no...!
+Eve: This is terrible! Chisato-san and Kanon-san have discovered the cake...!
+Tsugumi: C-calm down! Try not to panic, Eve-chan...!
+(Black cut)
+Tsugumi: The customers have started to thin out. Maybe we can take our break now.
+Eve: Yes, but the lemon cheesecake is now gone... I had been looking forward to enjoying some...
+Tsugumi: Fufu, I have you covered. Here, this is yours, Eve-chan.
+Eve: ...! Lemon cheesecake!
+Eve: There should not be any left... Are my eyes playing tricks on me?
+Tsugumi: No, it's the real deal. I knew how much you wanted some, so I put two servings aside.
+Eve: Tsugumi-san...! I cannot thank you enough...!
+Tsugumi: Hahaha, there's no need for all that~. Would you like some coffee to go with it?
+Eve: Yes, please! Thank you very much! Allow me to bring your slice over to the table!
+Tsugumi: Ah, no need for that. You can leave it there.
+Eve: ...? But there is one piece remaining...
+Tsugumi: That is for Himari-chan. I saved it for her because she said that she would be coming.
+Tsugumi: She went home disappointed when she came with Tomoe-chan last time.
+Eve: So you saved a piece especially for her... Tsugumi-san, you are such a wonderful person!
+Tsugumi: Oh, stop it~.
+Himari: Tsugu~! I'm here~!
+Tsugumi: Ah, Himari-chan... Welcome! The usual, right? We have it right here!
+
+
+<When We're Together>
+
+(Character: Himari Uehara, Tsugumi Hazawa)
+
+[CiRCLE - Lobby]
+
+Tsugumi: Good afternoon, {{userName}}-san! Would you mind checking if we made a reservation for two in Studio A today?
+Tsugumi: Wonderful~! I forgot to make note of the reservations in my schedule, so I decided to stop by a little early to make sure.
+Tsugumi: Himari-chan and I will be rehearsing together today.
+Tsugumi: I had originally planned on coming alone, but Himari-chan asked if I wanted to join her.
+Tsugumi: Which was a lifesaver because the song I wanted to practice is one where I'd like to get some real-time input.
+Tsugumi: And if Himari-chan is there with me, even the hard parts can be fun!
+Tsugumi: She is the kind of person who will always be there for you if you ask her to come along.
+Tsugumi: Whenever I go shopping, I can always count on Himari-chan to help put me at ease!
+Tsugumi: She has total confidence in picking the most fashionable clothes and won't hesitate to give me suggestions.
+Tsugumi: And her recommendations are always spot on! She also goes the extra mile to help me with my daily wardrobe rotation!
+Tsugumi: Then again, her always being there to look after me is what has kept me going!
+Tsugumi: I get the feeling that she doesn't recognize that part of herself, but that only makes what she does all the more amazing.
+Tsugumi: And trust me, the list goes on when it comes to Himari-chan's strengths! For example—
+Himari: Hm? Tsugu, you're already here?! No way, am I late?!
+Tsugumi: No, you're right on time. I came a little early.
+Himari: That's a relief... I thought I had messed up again~.
+Tsugumi: Sorry for making you worry, Himari-chan.
+Tsugumi: Okay, {{userName}}-san. I do hope we can continue our conversation next time.
+Tsugumi: Alright, we're off to go rehearse now. Thank you very much for taking to the time to speak with me!

@@ -1,0 +1,101 @@
+1101_Eve Wakamiya_R3 Innocent Hopes
+
+<Linked to Culture>
+
+(Character: Ran Mitake, Chisato Shirasagi, Eve Wakamiya, Toko Kirigaya)
+
+[Event Floor]
+
+Chisato: Hello, everyone. This is Chisato Shirasagi from Pastel＊Palettes.
+Eve: Hello. This is Eve Wakamiya. Today, Chisato-san and I are here at Hanasakigawa Aurum City to attend an ongoing event.
+Eve: The theme of this event is Japanese culture. Live performances of traditional Japanese arts such as calligraphy and flower arrangement are going on as we speak.
+Chisato: There certainly seems to be a lot to see.
+Chisato: Eve-chan and I would like to take this opportunity to introduce you to everything that is happening here.
+Chisato: Which reminds me. Eve-chan, is there any corner you're particularly looking forward to?
+Eve: Yes! I am part of the flower arrangement club at school, so as a fellow flower arranger, that is the corner I cannot miss!
+Eve: So I would like to start from there! Please stop by and take a look if you can, everyone!
+Chisato: I'm also looking forward to seeing what they've got in store for us. Well then, shall we get going?
+(Black cut)
+Chisato: This is the corner that Eve-chan recommended we visit, right? Could I ask you to do the introductions, Eve-chan?
+Eve: Yes! Leave it to me!
+Eve: This is a corner showcasing flower arranging and kimonos run by fellow high schoolers Ran Mitake and Toko Kirigaya!
+Eve: Right now, they are in the middle of their performance. Look, everyone! What an enormous flower arrangement!
+Eve: Those beautiful flowers are arranged in such a big heart shape. They are cute, but I can also sense their strong spirit!
+Chisato: Fufu, you're awfully excited today.
+Chisato: Of course, the flowers are not the only thing we wish for you all to see.
+Chisato: Kirigaya-san, who picked out Ran-san's kimono, expressed that she wanted to find something extravagant that would also preserve the peaceful atmosphere of flower arrangement.
+Eve: I see! So that is what she meant!
+Eve: If I remember right, she said, "I don't just wanna dress her in something awesome, I wanna find something that still has some room for break time, you know?"
+Chisato: Fufu... Well, you could say that rather unique manner of speech is also one of Kirigaya-san's strengths.
+Chisato: And those strengths are clearly on display here today. I'm sure you can hear the voice of someone who seems like she's having a lot of fun, can't you?
+Eve: Yes!
+Eve: You see, this corner's kimono expert Kirigaya-san is providing us all with very entertaining commentary, too!
+Chisato: It's a feast for the ears as well as the eyes. Shall we take a closer look?
+Eve: I am so excited to hear what they have to say...!
+(Black cut)
+Toko: Hey, did you all notice? The flowers that she's using are all totally big shots!
+Toko: This one's a marguerite daisy, that one's an anemone, and that one's... What was it again?
+Ran: How many times have I told you? It's a cyclamen.
+Toko: Oh yeah, that's it! It's a cyclamen!
+Toko: That reminds me, I actually bought a book on all the different meanings flowers have! I figured I could totally use it here to-
+Ran: You're getting off topic. You can tell me later, so get back to explaining things, okay?
+Toko: Aww, but this would've been the perfect spot to talk about it~.
+Chisato: Fufu, they seem like they're enjoying themselves.
+Chisato: As you can see, it's a corner that even people like us, who don't know very much about kimonos or flower arrangement, can enjoy.
+Chisato: I hope you all can stop by and visit if you have the chance. Now then, moving on to our next corner...
+Eve: ...
+Chisato: Eve-chan?
+Eve: Sigh... I admire Ran-san very much! She is so good at arranging flowers!
+Eve: She used flowers that everyone knows, and she made a cute heart shape that everybody can enjoy...
+Eve: I can tell how much they want us to feel like we are being welcomed by the flowers!
+Chisato: ... You're right. I think they've done a wonderful job, too.
+Eve: Yes! This is the wonderful spirit of this event, Japanese culture!
+Eve: Bushido also is a part of Japanese culture. I must make sure I learn from those two.
+Eve: Oh, Chisato-san, look! There are small flower arrangements on display here, too!
+Eve: They are very different from the big flower arrangement in the show! But even so, they have their own unique char-
+Chisato: Eve-chan.
+Eve: Gasp...!
+Eve: W-what have I done...?! I am sorry. I was too excited!
+Chisato: Fufu... Everyone, I'm sure Eve-chan's reactions alone should be enough to show you how much fun this corner is.
+Eve: How embarrassing.
+Eve: But this really is a very wonderful corner. I hope that everyone can come see it.
+Chisato: And that isn't all that we've got in store for you. We'll be right back after this commercial break.
+Eve: Please look forward to what we will show you after the commercial!
+(Black cut)
+(Background change)
+
+
+<Slow Cultural Spread>
+
+(Character: Eve Wakamiya)
+
+[Shopping Mall]
+
+Eve: Hello, {{userName}}-san! What a coincidence that we would meet here today.
+Eve: Yes! I am here to look for a book on flower arranging.
+Eve: I actually participated in an event with Chisato-san the other day about traditional Japanese culture!
+Eve: We walked around to all of the different corners and had to introduce them to everyone!
+Eve: They were teaching all sorts of things, like flower arranging and calligraphy... and one of them was being run by Ran-san and Toko-san.
+Eve: They were told to create a more casual, beginner-friendly chance to experience flower arrangement and kimonos, and they did just that. It was amazing!
+Eve: Ran-san wore a kimono that looked a little more fancy than usual, and she made a big heart-shaped flower arrangement!
+Eve: Oh, and the kimono was picked by Toko-san. It was very pretty!
+Eve: While Ran-san was arranging the flowers, Toko-san was providing commentary.
+Eve: Toko-san's MC skills and Ran-san's flower arranging skills... The crowd loved them both.
+Eve: It was really amazing...! You must see it!
+Eve: Yes! Just as you say, those two are why I am here looking for a flower arranging book today.
+Eve: Their passion for flowers and kimonos has inspired me to begin my studies into flower arrangement once again!
+Eve: ... To be honest, the preparation for this event... did not seem like it went very smoothly.
+Eve: What Ran-san wanted and what Toko-san wanted were not the same...
+Eve: Ran-san wanted to preserve the traditional, peaceful atmosphere of flower arrangement, while Toko-san wanted a cheerful, happy atmosphere that anyone could enjoy.
+Eve: It is a very hard question... Both stances have their good points, right...?
+Eve: I also think that the tranquility of traditional Japanese culture is important, but making it approachable so that many people can enjoy it is equally vital.
+Eve: I was not sure what was going to happen for a while, but... they managed to overcome their differences by telling each other how they felt!
+Eve: Preserve tranquility, while making it fun and exciting... It was a magnificent corner that combined both of their goals together!
+Eve: It makes my heart race just remembering their performance...
+Eve: Thanks to this experience, I have seen a brand new side of Japanese culture.
+Eve: "Understand each other. Find a way to make things work." The spirit of harmony...
+Eve: Maybe that is something that I could say applies to the Japanese traditions that I love so much.
+Eve: Throughout all of the different jobs and experiences I have, I would like to be able to express the importance and difficulty of keeping the spirit of harmony!
+Eve: Of course, that applies to my club activities as well. The most important thing is to continue an attitude of constant diligence!
+Eve: Fufu. Thank you very much. Your words of encouragement make me very happy.
+Eve: I will return to my training as soon as I get home! Well then, farewell...!

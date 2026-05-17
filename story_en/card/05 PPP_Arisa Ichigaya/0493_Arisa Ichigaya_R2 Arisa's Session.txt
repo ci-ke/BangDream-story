@@ -1,0 +1,74 @@
+493_Arisa Ichigaya_R2 Arisa's Session
+
+<Secret Shopping>
+
+(Character: Rimi Ushigome, Arisa Ichigaya)
+
+[Shopping Mall - Bookstore]
+
+Arisa: Best to go ahead and buy that book while everyone else is making their way to the theater.
+Arisa: Gotta find it first... Hm? I thought it would be on this shelf...
+Rimi: Ah, Arisa-chan. So you were here. What book are you looking for?
+Arisa: Huh? Oh hey, Rimi. You didn't head to the theater with the others?
+Rimi: I remembered that there was a book I wanted to buy, so I decided to stop by.
+Arisa: I-is that so...?
+Rimi: What kind did you plan to get? I can help you find it, if you'd like.
+Arisa: N-no, thanks! You don't have to...
+Arisa: How about you? What was it that you wanted to buy?
+Rimi: I was hoping they'd have something on musical composition.
+Arisa: Composing songs?
+Rimi: Yeah. It's an area that I've been meaning to improve in.
+Arisa: W-wow, I had no idea... Here, I'll give you a hand.
+Rimi: Really? Are you sure? What about yours?
+Arisa: I-I'm sure it'll be easy for me to spot... C-come on, your book won't find itself!
+(Black cut)
+Rimi: Arisa-chan! I found it! The section on music is over here!
+Arisa: Huh, you're right. It was hidden behind this shelf. Heh, go figure. Surprised we found it at all.
+Rimi: Composition... Ah! Got it! This is the one!
+Arisa: Good job. That takes care of that.
+Rimi: This book has great reviews online. It covers all the basics while also giving easy-to-understand explanations of chord progressions!
+Arisa: Oh, that's interesting.
+Rimi: Have a look at this illustration! It goes into clear detail about creating musical scores!
+Arisa: So it does. Seems pretty easy to understand.
+Rimi: I may not have found it if you hadn't have been here. Thanks, Arisa-chan.
+Arisa: No problem... Wh-while we're here, maybe I'll buy one for myself.
+Rimi: Arisa-chan, you're interested in writing music?
+Arisa: I wouldn't put it that way... Wh-when you're in a band, it d-doesn't hurt to have this kind of knowledge! R-right?
+Arisa: And wh-when you... er, if you... Well, if you were to get in a bind, I could, you know, try to help you out a bit. Maybe?
+Rimi: Arisa-chan...
+Arisa: Actually, I've tried looking up more information online, but there are so many websites with so much information on each one, so I had no idea where to even start...
+Arisa: Having a book like this around would definitely prove to be useful, I think...
+Rimi: Pardon me if I'm mistaken, Arisa-chan, but were you perhaps looking for the same book that I was?
+Arisa: A-ah...! N-no! Passing up a good find like this one is a waste. That's all...!
+Rimi: Fufu, I see. Even so, seeing you interested in composition, even if it's just a little bit, makes me happy.
+Arisa: Hey, Rimi? If I have trouble understanding what's in the book, could you maybe...
+Rimi: Of course! Anytime! I'm not sure if I'll be of any help, but feel free to ask away!
+Rimi: Nnn~, I'm really looking forward to the day when you and I can discuss writing music!
+Arisa: L-let's not get our hopes up too high~...
+
+
+<It's Not that Bad>
+
+(Character: Arisa Ichigaya)
+
+[CiRCLE - Reception Area]
+
+Arisa: Ah, {{userName}}. Hey.
+Arisa: I have plans to meet with Kasumi and the others at the café. Would it be alright if I were to wait in here?
+Arisa: Thanks. It shouldn't take too long.
+Arisa: Phew~... Nice and cool... I'll probably melt the next time I step foot outside...
+Arisa: Would you mind if I put on some sunscreen? They say it's best to reapply it frequently.
+Arisa: Having to slap it on over and over is a huge pain, though. Sunscreen can be a real hassle.
+Arisa: Hm? You're asking if I hate the heat?
+Arisa: I hate it. It's the worst. Every second is misery. I can't go on living without air conditioning...
+Arisa: I mean, this summer is particularly brutal, isn't it? What do you think, {{userName}}?
+Arisa: I asked Kasumi the same thing, and she just said that "summers are always hot." Yeah, as if that wasn't obvious.
+Arisa: ... {{userName}}, you say you agree with Kasumi? Really?
+Arisa: I mean, do you know how much sunscreen I've had to use before this summer? Pretty much none. Yet I'm already on my third bottle this year.
+Arisa: ... I've used so much because I've been going outside more?
+Arisa: Hm... You know, you're probably right. I've been hanging out with someone almost every day recently.
+Arisa: ... And most of those times were with Poppin'Party, so...
+Arisa: If I think of it that way, I guess this summer heat hasn't been such a bad thing...
+Arisa: ...!  N-no, it was nothing! Forget it!
+Arisa: ... Speaking of which, it seems like Kasumi and the others are here. I'll be heading out now.
+Arisa: ... Guh, just opening the door is like stepping into an inferno... Ugh... I'm gonna evaporate...

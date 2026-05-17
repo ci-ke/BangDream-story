@@ -1,0 +1,87 @@
+690_Tsugumi Hazawa_R3 Bashful Veil Girl
+
+Gacha phrase: Are you okay now, Eve-chan? You're not worried or nervous about anything, right?
+
+<Planning an After Party>
+
+(Character: Kasumi Toyama, Arisa Ichigaya, Ran Mitake, Tsugumi Hazawa)
+
+[Hazawa Coffee]
+
+Kasumi: Alright, a toast to a successful day of filming... Cheers~!
+Arisa: Hold on, isn't that a bit weird to do here? We're in a café, you know.
+Tsugumi: Still, I understand why you'd want to celebrate. So much happened today.
+Ran: TV commercials are always so short. It's hard to believe filming one takes up the whole day.
+Kasumi: I know! And there were so many people there too!
+Tsugumi: It really did feel like everyone was coming together to make something special, from the professionals right down to the cameras themselves.
+Kasumi: Speaking of professionals, what about Eve-chan?! She had such a bright, sunny smile on her face the whole time. She was so cute~.
+Tsugumi: She did everything perfectly, right down to her posture. You can really tell she's a model!
+Tsugumi: I kept catching myself staring at her during filming.
+Arisa: That's a professional for you. There's no way I could do what she does.
+Ran: Same here... I could never do that. Eve really impressed me.
+Ran: Not only was she surrounded by all those professionals, but she also managed to do her job flawlessly as a professional herself.
+Tsugumi: Even when she's working here, Eve-chan gives it everything she's got. She always seems to be having fun.
+Tsugumi: It's definitely something I admire her for.
+Kasumi: I hope the commercial finishes soon~. I'm sure Eve-chan looks super cute!
+Tsugumi: We're going to be in that commercial too, you know.
+Kasumi: Oh yeah! This is our big TV debut! What are we gonna do if people recognize us on the streets?!
+Arisa: Come on, Eve's the star of the commercial. We're just there for a few seconds.
+Ran: Personally, I'm glad. There's no telling what my father would say if he found out.
+Tsugumi: If it's your father, he might find out even if you don't say anything.
+Ran: Argh, what kind of mess have I gotten myself into this time...
+Tsugumi: I'm honestly excited to see the commercial. It might have been a minor role, but I really did do my best. Besides, we made some great memories too.
+Tsugumi: It's not every day we get to wear such nice dresses either. Sitting here like this makes it kind of feel like a wedding reception, doesn't it?
+Kasumi: A wedding reception?! That's so sophisticated and heart-pounding~!
+Arisa: What are you talking about...? You always get excited over the weirdest things...
+Kasumi: Is it really that weird~? Whenever there's a wedding reception on TV, everyone's all dressed up like us and having a good time.
+Ran: It can't really be a wedding reception without the star of the show though.
+Arisa: Exactly. Besides, we can't have a reception with just us. We would want to invite everyone who couldn't be there for the wedding.
+Kasumi: O-oh yeah... I really wanted to have a reception though~.
+Tsugumi: Then why don't we throw one some other time?
+Tsugumi: Eve-chan worked really hard for this commercial, and she even gave us all this amazing opportunity.
+Tsugumi: So wouldn't it be nice to do something for her as a thank-you? We can also congratulate her on a job well done.
+Arisa: It would be nice to thank her. She was really busy after filming, so we didn't get much of a chance to talk to her.
+Kasumi: It sounds like a great plan to me! Let's do it! Then we can all toast together!
+Arisa: The toast isn't the only thing that happens at wedding receptions, you know...
+Tsugumi: How about having it here? We could do it after Eve-chan's next shift.
+Tsugumi: And while we're at it, we should invite everyone too. That way we can celebrate together!
+Ran: Ah... Tsugumi's getting excited...
+Kasumi: Ah, wait, don't they usually have entertainment at the reception? Like bingo and music!
+Tsugumi: I also heard some receptions have a slideshow for the people who couldn't come to the wedding!
+Kasumi: If you need pictures, I took a ton! I'm sure seeing that would get everyone excited!
+Tsugumi: It totally would! What else is there? I'd like to have a reception that everyone will remember!
+Kasumi: Wow~! Me too, me too~!
+Arisa: Ah~, those two are off in their own world... Are we seriously having a reception?
+Ran: Yeah. When Tsugumi gets like that, there's no going back.
+
+
+<Invitation to the After Party>
+
+(Character: Tsugumi Hazawa)
+
+[Hazawa Coffee]
+
+Tsugumi: Ah, {{userName}}-san! Welcome!
+Tsugumi: Is today your day off?
+Tsugumi: You see, we're holding a reception of sorts today, so if you're free, we'd love to have you there.
+Tsugumi: Not that long ago, Eve-chan filmed a commercial in a wedding hall for a wedding magazine... and a few friends and I ended up helping out a little.
+Tsugumi: Eve-chan played the bride, and Ran-chan, Kasumi-chan, Arisa-chan and I played her bridesmaids.
+Tsugumi: Wait, I have pictures! You have to see them. Eve-chan was so pretty in her wedding dress!
+Tsugumi: Here's one... Eve-chan made this bouquet herself. We only helped a little.
+Tsugumi: This bouquet is filled with Eve-chan's feelings...
+Tsugumi: Ah, here's Eve-chan in her dress! Isn't she beautiful?!
+Tsugumi: Uhm, and this one is... a picture of us bridesmaids... Isn't it a treat to see everyone dressed up like this? Fufu.
+Tsugumi: This was the first time I ever got to wear a dress and participate in a wedding...
+Tsugumi: In a way, it feels like I grew up a little...
+Tsugumi: Ah, do you see this hair accessory? We all had matching hair decorations!
+Tsugumi: Ran-chan is the one who came up with the idea, and then we made them together.
+Tsugumi: She's also the one who suggested we use flowers. She taught us what flowers we should use, and even how to put the accessories on.
+Tsugumi: What do you think? Don't they look great?! It just goes to show you how great Ran-chan's tastes are.
+Tsugumi: Filming only took a day, and it sounds like they'll be running the commercial on TV in a little bit. If you happen to see it, try and find us.
+Tsugumi: ... Anyway, seeing as everything went smoothly, we decided to have a party today to celebrate.
+Tsugumi: Don't be shy! Kasumi-chan and the others are inviting their friends as well, so please, feel free to join us! The more the merrier.
+Tsugumi: We're treating this party like a wedding reception, so of course people who couldn't come to the ceremony are more than welcome.
+Tsugumi: We won't have a wedding cake, but we will be serving the café's special cakes.
+Tsugumi: ... Ah, but I suppose I can't force you to come either. Ehehe...
+Tsugumi: We've still got time before the party, so feel free to think it over while you have your coffee.
+Tsugumi: Anyway, enjoy your drink.

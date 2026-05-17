@@ -1,0 +1,100 @@
+1232_Rei Wakana_R3 Summer Sparkle
+
+<Doing Things Together>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[Toconut Park]
+
+CHU² (Chiyu): This water slide was kinda short, but I like how it had a lot of curves. Where's our next one?!
+PAREO (Reona): How about the slide that is right before us, CHU²-sama? It says it is small but extremely fast!
+CHU² (Chiyu): Interesting... It looks like it could be thrilling.
+MASKING (Masuki): Doesn't look like there are many people linin' up, so now's our chance. Let's go!
+LOCK (Rokka): U-um, is it going to be faster than the last one?
+LAYER (Rei): It looks that way... Do you think you'll be okay, LOCK?
+LOCK (Rokka): N-no~, I-I don't think so~...!
+LAYER (Rei): I kind of expected that.
+LAYER (Rei): Hey, is it alright if LOCK and I rest here?
+LOCK (Rokka): LAYER-san...!
+CHU² (Chiyu): What's going on?
+LAYER (Rei): We're just a little tired after going down all those slides.
+LAYER (Rei): We might not make it until the nighttime show at this rate.
+PAREO (Reona): In that case, how about we all take a break together?
+LAYER (Rei): You guys go ahead. We'll rest here.
+PAREO (Reona): B-but~...
+MASKING (Masuki): Splittin' up isn't gonna be the end of the world.
+CHU² (Chiyu): Hmm... Okay, you two rest over there on that bench then.
+LOCK (Rokka): Th-thank you very much.
+LAYER (Rei): Just leave your things. We'll keep watch.
+MASKING (Masuki): Thanks. Take care of my stuff, will ya? And stay put. We'll be back as soon as we're done.
+PAREO (Reona): Please take care of yourselves.
+CHU² (Chiyu): Alright, we'll be going.
+LAYER (Rei): Okay, bye.
+LOCK (Rokka): Have fun!
+LAYER (Rei): Would you like a towel? You'll get cold if you don't dry yourself.
+LOCK (Rokka): Yes, I could use one. Thank you very much.
+LOCK (Rokka): Um... I'm sorry.
+LAYER (Rei): For?
+LOCK (Rokka): Making you stay behind with me... You look like you could still keep going, but you suggested we take a break because I was scared, right...?
+LAYER (Rei): Actually, I felt I could use a break. I'm pretty exhausted myself.
+LAYER (Rei): You know, I didn't think CHU² would fall in love with the water slides that much.
+LOCK (Rokka): Yes. She wasn't even that interested in coming to the park at first.
+LAYER (Rei): I can see why she's having fun, though. This place is a lot better than I expected.
+LAYER (Rei): Music is all I've done since moving here and even before. Hanging out with friends at a pool like this is still new to me.
+LOCK (Rokka): LAYER-san...
+LAYER (Rei): What makes it even better is that I get to be here with are all of you. Thanks for inviting me, LOCK.
+LOCK (Rokka): No, I'm the one who should be thanking you...! I'm really grateful we got to come together!
+LAYER (Rei): I see. I'm glad you feel that way.
+LOCK (Rokka): ... Um, is it alright if I ask you something?
+LAYER (Rei): Hmm?
+LOCK (Rokka): Is there anything you want to do once everyone gets back?
+LAYER (Rei): ...? Shouldn't we discuss that with everyone?
+LOCK (Rokka): Yes... but I'd like to know what you'd like to do.
+LAYER (Rei): Why?
+LOCK (Rokka): Everyone else has talked about what they want to do, but I don't think you have.
+LAYER (Rei): Oh...? I've been having so much fun that I hadn't even noticed.
+LAYER (Rei): Hmm, let's see... Ah. I'd like to play with a beach ball. And maybe try the wave pool too... Hope that isn't too ordinary. Fufu.
+LOCK (Rokka): Those are great ideas! I'll go borrow a ball right now.
+LAYER (Rei): Wait! Masuki told us to wait here until they return, remember? We can go once they're back.
+LOCK (Rokka): O-oh, oops~...! I'm sorry. I was just so happy that you told me...
+LAYER (Rei): I see. Then I'll be sure to also tell everyone once they're back.
+
+
+<Sign of a Summer Spent Together>
+
+(Character: Rei Wakana)
+
+[Residential Area]
+
+LAYER (Rei): Hello, Marina-san, {{userName}}-san.
+Marina: LAYER-chan! Hi.
+LAYER (Rei): Are you on your way somewhere?
+Marina: Nope. We're on our way back after lunch break. What about you?
+LAYER (Rei): I'm on my way to CHU²'s studio for band practice.
+Marina: Ah. You girls all sure practice a lot... Hmm?
+LAYER (Rei): Yes?
+Marina: Nothing, I just noticed you have a key chain. It wasn't there before, was it?
+LAYER (Rei): Ah, yes. I put it on today. Does it look weird...?
+Marina: Not at all. I was just a little surprised to see you with one. You usually keep your belongings simple.
+LAYER (Rei): It's actually from Toconut Park. I went there with everyone, and we all got one.
+LAYER (Rei): I got a rabbit, CHU² got a cat, and PAREO got a dolphin. Masuki got a dog, and LOCK got a hamster... I think.
+Marina: I see. All of those choices make so much sense too~.
+LAYER (Rei): Right? We all picked our key chains on our own, and I think our personalities really showed.
+Marina: Mm-hmm, definitely. I can see why you wanted to hang yours from your bag~.
+LAYER (Rei): Yes. But... I actually didn't like it all that much when I got it.
+Marina: Oh, really?
+LAYER (Rei): It felt a bit too cutesy for me.
+LAYER (Rei): I mentioned I couldn't think of what to do with it even though we'd gotten matching key chains.
+LAYER (Rei): When Masuki heard what I said, she gave such a serious reply...
+LAYER (Rei): She said, "The best gifts for yourself are the ones that make ya wonder why you even got 'em in the first place."
+Marina: She said that, huh? And what did you think of the key chain once you arrived home?
+LAYER (Rei): I ended up wondering why I even got it.
+LAYER (Rei): But looking at the key chain reminded me of our time together at the water park.
+LAYER (Rei): That's why I'm glad I got it.
+Marina: Fufu. I guess Masuki-chan was right.
+LAYER (Rei): It seems that way. But I honestly still don't know what I should attach it to.
+Marina: Why not just leave it on your bag like you're doing right now? I think it's cute.
+LAYER (Rei): R-really? Well, I can leave it there for now then...
+LAYER (Rei): Thank you, Marina-san, {{userName}}-san.
+LAYER (Rei): Anyway, I should head to CHU²'s studio or else I'm going to be late. Bye.
+Marina: Alright, see you! Good luck with practice!

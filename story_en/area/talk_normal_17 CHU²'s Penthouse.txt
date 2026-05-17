@@ -1,0 +1,233 @@
+1:10591 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Rokka Asahi)
+
+LAYER (Rei): Hey there, LOCK. I brought some donuts back from my trip. I left them over there, so try some if you'd like.
+LOCK (Rokka): Wow...! Thank you! Where did you go?
+LAYER (Rei): Not far. I actually just got them as a gift from one of the staff members at the last gig I was helping out on. I've heard they're really good.
+LOCK (Rokka): LAYER-san... You seem like such a pro!
+LAYER (Rei): Haha, thanks. You never know, LOCK. At this rate, you might be getting work as a guitarist soon, too.
+LOCK (Rokka): Me...?! Well, if I ever do get the chance, I'll do my best...!
+
+
+2:10592 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Reona Nyubara)
+
+LAYER (Rei): Huh? Where did my score go...?
+PAREO (Reona): Right here!
+LAYER (Rei): Ah, thanks... Hm, I'm pretty sure I left my pen...
+PAREO (Reona): On that table over there!
+LAYER (Rei): Oh yeah. I did, didn't I?
+LAYER (Rei): (... Is there anything PAREO doesn't see...?)
+
+
+3:10593 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Masuki Sato)
+
+MASKING (Masuki): I can't believe it... I screwed up.
+LAYER (Rei): You look glum. Did something happen?
+MASKING (Masuki): You bet somethin' happened. I burnt the chiffon cake I was tryin' to make...
+LAYER (Rei): Sounds like a real disaster.
+MASKING (Masuki): Sigh~... Shoot~...
+MASKING (Masuki): I guess I'll just try again tomorrow. You just wait, though. That cake's gonna be the most delicious thing you've ever tasted, you hear me?
+LAYER (Rei): Fufu, I'm looking forward to it!
+
+
+4:10594 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Chiyu Tamade)
+
+LAYER (Rei): Every time I see those headphones of yours, I always think they kind of look like cat ears. They're cute.
+CHU² (Chiyu): Hehe, I know, right? And that's not all they are.
+CHU² (Chiyu): They've got next-gen drivers and top-notch noise cancelling, too. I accept nothing less than the best in both performance and looks.
+CHU² (Chiyu): Plus, they've had 100 hours of pink noise played through them so that they can give me a high quality sound with some dimension!
+LAYER (Rei): 100 hours? That's amazing.
+CHU² (Chiyu): Meh, I guess. My headphones are my trusty partners in crime. I'm not going to settle for some mediocre knockoffs.
+
+
+5:10595 [CHU²'s Penthouse]
+
+(Character: Rokka Asahi, Reona Nyubara)
+
+LOCK (Rokka): PAREO-san, would you like this magazine? It's one I always read, and this issue had an article on Pastel＊Palettes in it.
+PAREO (Reona): I saw! They were all so cute, weren't they?
+LOCK (Rokka): Oh, did you already buy a copy yourself?
+PAREO (Reona): Of course I did. But I can take this one, too. You can never have enough copies of things like this.
+LOCK (Rokka): I know, right?! For me, when it comes to articles about Poppin'Party, the more the merrier!
+PAREO (Reona): There's a copy for reading, a copy to save, and a copy to share with others... You can never have enough!
+
+
+6:10596 [CHU²'s Penthouse]
+
+(Character: Rokka Asahi, Masuki Sato)
+
+MASKING (Masuki): Hey, LOCK. You got time after practice?
+LOCK (Rokka): Yeah, I do. Why...?
+MASKING (Masuki): Good. Then let's go grab some ramen once we're done. It's a little far away, but I found a shop that knows what they're doin' the other day.
+MASKING (Masuki): The weather's nice, so I'm bettin' that ridin' there on my bike's gonna feel real good.
+LOCK (Rokka): Wow...! That sounds amazing! I'd love to go!
+MASKING (Masuki): That's what I'm talkin' about! Let's make this practice a good one so we can work up an appetite!
+LOCK (Rokka): Okay!
+
+
+7:10597 [CHU²'s Penthouse]
+
+(Character: Rokka Asahi, Chiyu Tamade)
+
+CHU² (Chiyu): I think it's about time we started selling some new RAS merchandise.
+LOCK (Rokka): Ooh~! That's a wonderful idea! Have you already decided what sort of goods you want made?
+CHU² (Chiyu): Nope, not yet. I've got high standards for our merchandise too, after all.
+CHU² (Chiyu): LOCK, you have any suggestions?
+LOCK (Rokka): Suggestions...? Um... Uh... What about some... Masuki-san-themed masking tape?
+CHU² (Chiyu): ... Rejected.
+
+
+8:10598 [CHU²'s Penthouse]
+
+(Character: Masuki Sato, Reona Nyubara)
+
+PAREO (Reona): How about for a change of pace, you dye your hair for our next show, Massu-san?
+PAREO (Reona): You could go with pink or aqua blue~. Oh! A nice pastel gradient sounds wonderful!
+MASKING (Masuki): I'm good, thanks. That's more your thing, ain't it?
+PAREO (Reona): Awww, really~? I bet it'd look great on you too, though~.
+MASKING (Masuki): You really like messin' around with hairstyles and outfits, huh?
+PAREO (Reona): I have to be the cutest me I can be, after all♪
+
+
+9:10599 [CHU²'s Penthouse]
+
+(Character: Reona Nyubara, Chiyu Tamade)
+
+CHU² (Chiyu): PAREO! I don't have any jerky! Where's my jerky?!
+PAREO (Reona): My deepest apologies! The store I always buy from was out of stock... But I did buy this instead.
+CHU² (Chiyu): What is that?
+PAREO (Reona): Dried squid♪ It has almost the same texture as jerky!
+CHU² (Chiyu): No, PAREO! S-stay away, get that away from me!
+PAREO (Reona): But it's actually quite good, CHU²-sama! Especially with some mayonnaise to dip it in!
+CHU² (Chiyu): ... Really?
+
+
+10:10600 [CHU²'s Penthouse]
+
+(Character: Masuki Sato, Chiyu Tamade)
+
+MASKING (Masuki): CHU²~. C'mon, come with us to Galaxy Ramen this time. I'll make you some fried rice on the house.
+CHU² (Chiyu): That's the place you work at part-time, right? You can cook fried rice?
+MASKING (Masuki): You kidding? Of course I can. Give the rice and eggs a quick fry, throw in some meat and onions, then at the end you finish it off with some ginger on top. Easy.
+CHU² (Chiyu): ...
+CHU² (Chiyu): Could you make it without the ginger and onions?
+
+
+11:10710 [CHU²'s Penthouse]
+
+(Character: Masuki Sato, Chiyu Tamade)
+
+MASKING (Masuki): How's it goin'~?
+CHU² (Chiyu): You're early, MASKING.
+MASKING (Masuki): Yeah.
+CHU² (Chiyu): ...
+MASKING (Masuki): ... Want some jerky?
+CHU² (Chiyu): Why do you have jerky?
+MASKING (Masuki): Oh, I saw some bein' sold near the station... and I kinda ended up buyin' them...
+CHU² (Chiyu): Th-this jerky... This kind is only sold overseas! Where were they selling it?! We're going right now!
+
+
+12:10738 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Rokka Asahi)
+
+LAYER (Rei): I'm exhausted~... Practicing all day on a day off really does take a toll, huh?
+LOCK (Rokka): It sure does~... I feel hungry...
+LAYER (Rei): Say, why don't we go to that miso cutlet place near the station?
+LOCK (Rokka): Oh…? Is it supposed to be good?
+LAYER (Rei): Yeah... I guess you could say it's mighty tasty~...
+LOCK (Rokka): Th-there it is...! Another one of LAYER-san's colloquialisms...!
+
+
+13:10783 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+LAYER (Rei): Oh, the New Year's decorations are out.
+PAREO (Reona): Yes♪ CHU²-sama gave me permission to put some up, as long as they were small.
+MASKING (Masuki): Saw that real nice lookin' kadomatsu out front too.
+LOCK (Rokka): I really like how it's starting to feel like New Year's is finally around the corner~. I can't wait to go on our first shrine visit of the year!
+LAYER (Rei): Haha, me too. I wonder how many more nights are left until it's New Year's.
+CHU² (Chiyu): Just look at all of you. I don't understand why you're all getting so excited.
+PAREO (Reona): We will be going to the shrine together as a group. It's only natural to be excited~♪
+MASKING (Masuki): Ah, just remembered. There's supposed to be a mochi poundin' festival at the shrine. Y'all ever pounded mochi before?
+LOCK (Rokka): That really takes me back. I used to pound mochi a lot back home~.
+LAYER (Rei): Mochi, huh~? I've never tried making any before, so I'd like to give it a shot.
+PAREO (Reona): Then why don't we all join together? What do you think, CHU²-sama?
+CHU² (Chiyu): ... Whatever, I don't care.
+MASKING (Masuki): Then it's settled! One more thing to look forward to, huh, LOCK?
+LOCK (Rokka): Yes! I'm really lookin' forward to it!
+CHU² (Chiyu): OK, that's enough chatter. I don't care if it's New Year's or something else, the only thing that matters is that we keep making the best music out there. Now come on, time to start practicing.
+LAYER, MASKING, PAREO & LOCK: Okay! Yeah! Yes!
+
+
+14:10829 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Reona Nyubara)
+
+レイヤ (Rei): これって……竹刀？　緩衝材に包まれてるけど、 なんでこんなところに……
+パレオ (Reona): あ、レイヤさんお疲れさまです！ その竹刀、あとで大事に大事に持って帰りますので、 少しの間置かせてください！
+レイヤ (Rei): ひょっとして、パレオの私物なの？  剣道部に入部したとか？
+パレオ (Reona): 違います～！　イヴちゃんが愛用している竹刀と 同じメーカーのものを取り寄せたんですよ～！ 推しと同じ物を持ちたいというファン心理です！
+パレオ (Reona): 普段チュチュ様の欲しいものを注文する時のくせで、 受け取り先をうっかりここに指定してしまったんですよ
+レイヤ (Rei): そ、そうなんだ。 それにしても、竹刀って……
+
+
+15:10833 [CHU²'s Penthouse]
+
+(Character: Masuki Sato, Chiyu Tamade)
+
+マスキング (Masuki): お～っす。 あれ？　まだパレオは来てねえのか
+チュチュ (Chiyu): うう…… 今日パレオはPastel＊Palettesのツアーで １日いないのよ……
+チュチュ (Chiyu): はあ…… I'm so so hungry……
+マスキング (Masuki): まさか、今日１日何も食べてないとか じゃないだろうな？
+チュチュ (Chiyu): そのまさかよ……
+マスキング (Masuki): マジか…… 仕方ねえ、私が何か作ってやるよ。 何がいい？
+チュチュ (Chiyu): ……ジャーキーおにぎり
+
+
+16:10908 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+PAREO (Reona): The food has been prepared, everyone! Please have a seat!
+LOCK (Rokka): Wow, beef stew! Mmm~, it smells amazing~.
+LAYER (Rei): There's even salmon carpaccio and a spinach quiche. Masuki, you made this strawberry shortcake, didn't you?
+MASKING (Masuki): Yeah. Since it's a year-end party, I put a freakin' huge strawberry on top.
+CHU² (Chiyu): Sigh, I don't understand... Why did we decide to have a year-end party, anyway?
+LOCK (Rokka): Why...? Because it's the end of the year, right?
+CHU² (Chiyu): That's not what I'm saying.
+MASKING (Masuki): Oh~, I get it. You're tryin' to say RAS has no time to look back on the year, right?
+CHU² (Chiyu): Exactly. RAS is a band that'll change the world. If we have the time to reminisce, then it's better to use that time for our band activities.
+MASKING (Masuki): I knew that was it. Don't be so uptight. We gotta take a break and let loose sometimes, y'know?
+LAYER (Rei): Look back on the past year, and welcome the next year with new feelings. That's another thing year-end parties are for.
+PAREO (Reona): CHU²-sama, there is jerky as well!
+CHU² (Chiyu): Don't bait me with jerky.
+MASKING (Masuki): Sigh, alright. So that means you don't want the cake, CHU²?
+CHU² (Chiyu): Huh?! I never said a word about that.
+LAYER (Rei): Fufu. Let's enjoy it together then. CHU², why don't you give us a toast?
+PAREO (Reona): CHU²-sama, here is your glass!
+CHU² (Chiyu): ... Oh, fine. In return, I'll be stricter than ever after this party ends. Be prepared!
+LAYER, LOCK, MASKING & PAREO: Okay~!
+
+
+17:60372 [CHU²'s Penthouse]
+
+(Character: Rei Wakana, Rokka Asahi)
+
+LAYER (Rei): Hey, LOCK. I brought some doughnuts for all of us. Let's eat them later.
+LOCK (Rokka): Thank you! I can smell the nice sweet smell coming from the bag.
+LAYER (Rei): Fufu, yeah. One of the staff where I did some support work gave them to me. They're supposed to be pretty popular because of how cute and yummy they are.
+LOCK (Rokka): Cute...?
+LAYER (Rei): Mm-hmm. There are ones topped with colorful chocolate and ones with faces drawn on them apparently... Ah, look at this one, LOCK!
+LOCK (Rokka): Wow...! It really is so colorful~! I wonder if pink means it's strawberry flavored~.
+LOCK (Rokka): I'm mighty excited to try them out with everyone later~!
+
+

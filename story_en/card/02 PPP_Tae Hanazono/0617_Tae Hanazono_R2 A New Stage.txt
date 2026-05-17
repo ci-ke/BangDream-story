@@ -1,0 +1,79 @@
+617_Tae Hanazono_R2 A New Stage
+
+<Decorating the Panel>
+
+(Character: Tae Hanazono, Saya Yamabuki, Sayo Hikawa)
+
+[Hanasakigawa Girls' Academy - Courtyard]
+
+Sayo: Phew... All that remains is to make the panels...
+Saya: Ah, Sayo-senpai?
+Tae: There, by your feet... Are those signs for the entrance ceremony?
+Sayo: I thought it would be wise to go ahead and begin preparing for it ahead of time.
+Saya: I see. Is there anything we can do to help?
+Sayo: That would be very much appreciated. I was actually having trouble making these particular panels.
+Saya: Ah, the ones for the New-Student Welcome Party?
+Sayo: Yes. I was hoping to liven it up with some manner of exciting decoration, but I am not very good with such things...
+Sayo: If possible, could I perhaps persuade you to help with decorating this panel here?
+Tae: So, make it look as exciting as possible then! Okay, leave it to us!
+(Black cut)
+
+[30 Minutes Later]
+
+[Hanasakigawa Girls' Academy - Courtyard]
+
+Saya: Sayo-senpai, can we have your opinion on how this looks? We tried decorating it with some origami flowers.
+Sayo: It looks positively gorgeous. Asking you to help out was indeed the correct choice.
+Tae: Hmmm, actually... Doesn't the space at the bottom look a bit bare? I think we should liven it up somehow.
+Saya: Now that you mention it...
+Saya: Ah, how about we add a drawing? Some kind of art that will help put the students in a good mood.
+Sayo: Interesting. I had not considered that. Let's go with that idea. What type of drawing should we go with?
+Tae: If we need something that'll excite everyone, then... wouldn't rabbits be best?
+Saya: Rabbits... W-well, I don't think anyone outright dislikes them... but it might appear a bit too childish.
+Tae: In that case... Hamburg steak? With a sunny-side-up egg on top?
+Saya: O-Tae... I knew you'd go there...
+Saya: But seriously, this is pretty tough. We need something that the new students will both like and feel excited about...
+Tae: Ah, how about a guitar?
+Saya: Huh...? Why a guitar? It's not a concert, is it?
+Tae: Then I'll just have to play mine at the welcome party! Problem solved, right?
+Saya: Huh?! We can't just bring that up now!
+Sayo: Actually, the agenda for that day has yet to be determined. If Hanazono-san wishes to apply for such a position, then that should not be a problem.
+Tae: Okay, then! I'd like to have a role in the festivities!
+Sayo: Understood. I will pass along your intentions.
+Tae: So, now can I draw a guitar on the sign?
+Sayo: Given our conversation, I think it should be fine.
+Tae: What color guitar should it be?
+Sayo: Blue.
+Sayo: ... Blue would be a nice color, in my opinion.
+Tae: I was thinking the same thing!
+Sayo: S-say... would you mind if I assisted you?
+Tae: By all means! We can draw it together.
+Saya: Fufufu. Those two really do like their guitars...
+
+
+<Tons of Fun>
+
+(Character: Tae Hanazono)
+
+[Downtown]
+
+Tae: Good afternoon, {{userName}}-san. Are you also doing some shopping?
+Tae: I came to buy a new notebook and pen for the new school year.
+Tae: Since I'll be a second-year student, I figured I should update my stationery.
+Tae: I get really excited when I think about how different everyday life will be when spring comes.
+Tae: I mean, the classrooms will be different, right? Even the new height and position of the windows will make for a change of scenery.
+Tae: A simple switch in environment is sure to bring about all sorts of interesting new things.
+Tae: Hm? What do I mean? Well, let's see... New classrooms mean new desks and chairs, right?
+Tae: Looking over all the scribbles people have left behind seems like fun. So does trying to imagine who could have written them.
+Tae: So does having a new locker location.
+Tae: So does finding out my new seating number.
+Tae: When you look at it that way, there's an awful lot of fun in store for us.
+Tae: No matter how small, every little thing is going to look and feel different somehow.
+Tae: Fufu. I'm looking forward to seeing it all for myself.
+Tae: Ah, but I think chatting with everyone is what has me the most excited.
+Tae: With a new school year comes all sorts of new conversations to have.
+Tae: Once Kasumi gets going, I doubt she'll ever stop talking.
+Tae: But that means... Mhm.
+Tae: Even if everything else changes, there is one thing I think we'll continue to feel.
+Tae: And that is the love that everyone in Poppin'Party has for each other.
+Tae: Ah, I'd better get going! Until next time~. Bye-bye~.

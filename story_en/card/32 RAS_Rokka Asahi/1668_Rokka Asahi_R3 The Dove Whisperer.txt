@@ -1,0 +1,109 @@
+1668_Rokka Asahi_R3 The Dove Whisperer
+
+Gacha phrase: N-no! I'm not a dove whisperer!
+
+<Great Blessing Giveaway!>
+
+(Character: Kaoru Seta, Maya Yamato, Rokka Asahi)
+
+[Asahi Bathhouse]
+
+LOCK (Rokka): The fruit milk and coffee milk are running out quickly today... I should restock them before long.
+Kaoru: Greetings, my dear kitten. You are working quite prodigiously after the start of the new year.
+LOCK (Rokka): Kaoru-senpai! And Maya-senpai!
+Maya: Hello, LOCK-san! It's a pleasure to see you.
+LOCK (Rokka): Thank you very much! I can't believe you would come to the bathhouse so early in the new year... That makes me kind of happy.
+Kaoru: Fufu. Earlier, Maya and I were conversing through texts about the delightful charms you and the others bestowed upon us.
+Maya: That led to us talking about having a dip here at Asahi Bathhouse.
+Maya: Lately, we've done nothing but study for our entrance exams, so we thought it would be nice to take a break now and then.
+LOCK (Rokka): In that case, please take your time and warm yourselves up!
+LOCK (Rokka): We're running a variety of services for New Year's right now.
+LOCK (Rokka): We have a yuzu bath available, and we're also serving Japanese soup to customers...
+Maya: I see. How nice. Well then, we'll use them right away... is what I would like to say, but first...
+Maya: Once again, thank you very much for the charm.
+Kaoru: The various trials you all underwent to imbue the charms with joyous power...
+Kaoru: They were truly fleeting and dramatic. It is thanks to you that we have received such excellent inspiration.
+LOCK (Rokka): Ahaha... I'm glad they were of use to you.
+Kaoru: And after receiving the charm, I have been in fine form. I have felt far more refreshed than usual when I awaken in the morning.
+Kaoru: Day after day, I have unexpectedly encountered the finest of meals. That is also surely thanks to the auspiciousness of my charm.
+LOCK (Rokka): Huh? Was it actually effective?!
+LOCK (Rokka): Um, what about you, Maya-senpai...?
+Maya: Let me see... It feels like I've had more good things happen... but then again, maybe not...
+Maya: But seeing the charm certainly does cheer me up. Because I know it's filled with feelings from you and the others.
+LOCK (Rokka): Maya-senpai...
+Kaoru: Fufu. If they are laden with strong emotions, such an outcome will be brought about naturally.
+Kaoru: Now then, shall we make our way to the baths? After hearing its description moments ago, I cannot contain my longing for the yuzu bath.
+LOCK (Rokka): Ah, that's right. Kaoru-senpai, Maya-senpai. Please wait. We also have a lottery as part of our New Year's services.
+Kaoru: Well now. You have something like that as well? It is glorious that you have such a service to delight your patrons.
+LOCK (Rokka): Thank you very much. The prizes are bath goods, so please take the opportunity to play before you use the baths!
+Maya: So we just draw one slip from this box? Um, first prize is a "great blessing," second prize is a "medium blessing"... I see. The lottery is patterned after omikuji.
+LOCK (Rokka): That's right. I guess you could say that's also in line with New Year's... By the way, the prize for a great blessing is some skin-smoothing body soap.
+LOCK (Rokka): But... there are only three great blessings...
+Maya: Drawing one of those three from a lottery this size is quite the challenge.
+Kaoru: Then I shall be the first to draw.
+Kaoru: ... Oh my. It would appear the goddess of fortune has cast her smile upon me.
+LOCK (Rokka): What?! You drew a great blessing?!
+LOCK (Rokka): You're the first person, Kaoru-senpai. Congratulations!
+Maya: Kaoru-san, that's incredible!
+Kaoru: Heh... This is also thanks to the joyous power.
+Kaoru: Come, Maya. Try your hand at the lottery. I am confident you will draw a great blessing, as you are also blessed by a charm charged with joyous power.
+Maya: I think it's just that you've got luck on your side, Kaoru-san... But I'll give it a try.
+LOCK (Rokka): Here you go.
+Maya: Um~... I'll go with this one!
+Maya: ... Huh?! This is amazing. I actually drew a great blessing!
+LOCK (Rokka): Two great blessings in a row?! Even though there are only three in the box?!
+LOCK (Rokka): A-anyway, congratulations, Maya-senpai!
+Maya: Thank you! Wow~. Coincidences like this really do happen.
+LOCK (Rokka): Right. I was so surprised...!
+Kaoru: Rokka-chan, have you already drawn one?
+LOCK (Rokka): Me? I was told I could draw once as a reward for helping out, but I haven't yet...
+Kaoru: Then you should do so now. You are certain to be met with a wonderful outcome.
+Kaoru: You and the others undertook many experiences thought to be auspicious so that you could bestow power unto the charms.
+Kaoru: I am certain that you are filled with that very power yourself.
+LOCK (Rokka): D-do you think so...? Well, then, I will give it a try.
+LOCK (Rokka): Th-this is...!
+Maya: It's a great blessing!
+Kaoru: Fufu. How fleeting...
+LOCK (Rokka): Something like this really does happen...!
+LOCK (Rokka): ... Gasp! That's right, your prizes! Here's your body soap.
+Maya: Thank you! I can't wait to use it.
+Kaoru: Well, let us proceed to the baths now. Thank you for all you have done, Rokka-chan.
+LOCK (Rokka): Okay. Please enjoy yourselves!
+LOCK (Rokka): ... Is joyous power... actually real...?
+
+
+<A Lively Year>
+
+(Character: Rokka Asahi)
+
+[Downtown]
+
+LOCK (Rokka): Phew... I'm glad the weather is pleasant and clear. Thanks to that, the cold has eased up a bit...
+LOCK (Rokka): Hmm? Those two people over there... Marina-san, {{userName}}-san. Happy New Year!
+Marina: Rokka-chan! Happy New Year to you too. I look forward to seeing you this year.
+LOCK (Rokka): And I you!
+Marina: Are you heading out somewhere today?
+LOCK (Rokka): Yes, I'm going to start my part-time job at Galaxy...! Are the two of you also working?
+Marina: Yup. We were just on our way to Galaxy too.
+Marina: We want to pay Yoshiko our respects for the new year. Also, we've got some business to talk to her about.
+LOCK (Rokka): In that case, I heard that the owner will also be around today, so I think you've chosen the perfect time!
+LOCK (Rokka): I got a message from Masuki-san not too long ago, and she said that the owner prepared lots of vegetables as a New Year's gift...
+Marina: Ahh, Galaxy's owner also runs a greengrocer, doesn't he?
+Marina: But he's handing out New Year's gifts, huh? How fitting.
+Marina: You've got two part-time jobs, so I imagine you must be busy. Were you able to do anything for New Year's?
+LOCK (Rokka): Yes, I did something right on New Year's Day!
+LOCK (Rokka): Actually, I ran into Tae-senpai and the others while I was visiting a shrine. They were doing a lot of activities they thought were lucky.
+Marina: Ah, are you talking about the charms? I heard you all worked really hard for the girls who will be taking college entrance exams.
+LOCK (Rokka): That's it. We participated in a race to choose a lucky man and a lucky woman and saw the dancing lion procession. Also, umm...
+LOCK (Rokka): We observed some white doves...
+Marina: White doves...?
+LOCK (Rokka): Yes. Doves are a symbol of peace, so... we thought they must be joyous...
+Marina: I see... Well, it seems like you were able to do quite a bit.
+LOCK (Rokka): Yeah. It was hectic but fun. Thanks to all of them, I had a lively New Year's.
+Marina: That's great, then. It's said that New Year's Day is the key to the year, so it'd be great if this year is lively and fun for you.
+LOCK (Rokka): Yeah!
+LOCK (Rokka): ... Huh? Excuse me. I got a message from Masuki-san...
+LOCK (Rokka): Umm... "My old man got carried away and brought too many veggies, so we're gonna go and hand some out to everybody in RAS now. Hurry and get over here."
+LOCK (Rokka): What~?! We're delivering them now~...?
+Marina: Ahaha. I guess the liveliness started right away.
+LOCK (Rokka): I don't mind liveliness, but hecticness is a problem~!

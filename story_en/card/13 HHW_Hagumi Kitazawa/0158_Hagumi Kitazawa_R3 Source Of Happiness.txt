@@ -1,0 +1,114 @@
+158_Hagumi Kitazawa_R3 Source Of Happiness
+
+<Operation: Souvenir>
+
+(Character: Saya Yamabuki, Tsugumi Hazawa, Hagumi Kitazawa)
+
+[Downtown]
+
+Saya: So Tomoe's stuck in bed with a cold. Ako was in quite the hurry... I hope she doesn't fall on her way home.
+Saya: Even so, it's pretty rare to hear that, considering Tomoe's always so healthy... I wonder if she's okay. I have to bring her that food soo-
+Saya: Hm? Is that...
+(Black cut)
+Saya: Hey~, Tsugu, Hagumi~!
+Tsugumi: Ah, Saya-chan. Hey.
+Hagumi: Oh~, Saya! Whatcha up to? Shopping?
+Saya: Yeah. As soon as I got home, I was asked to go grab a few things from the store. I'm guessing it's your turn to man the shop, Hagumi? And Tsugu, what about you?
+Hagumi: Mhm, it is indeed!
+Tsugumi: My mom asked me to go shopping too. She said she'll need some meat for tonight's dinner.
+Saya: Ooo~, I wonder what she's making. If I had to guess based on the ingredients you bought, I'd have to say~... hamburg steak?
+Tsugumi: Wow, amazing! Spot on.
+Saya: Ah, I got it right? Ahaha, sometimes my guesses are pretty good.
+Hagumi: Saya, would you like to get something too? Our chicken products are really yummy today!
+Hagumi: The fat on these is perfect. If you give it a good grilling, I'm sure it'd be delicious! No question!!
+Saya: It does look pretty good... Wait, sorry. I actually don't have time to be standing around.
+Hagumi: Don't have time? Why? Did something happen?
+Saya: I just ran into Ako, and she told me that Tomoe is feeling under the weather. Sounds like she'll be in bed for a while.
+Hagumi: What~?! Really?!
+Saya: Yep. Ako was saying that she was going to look after her, but that can't be an easy job by herself, so I was thinking I'd bring a few things for Tomoe...
+Tsugumi: Actually, we wanted to go see her earlier, but she didn't wanna get us sick, so she sent us a message telling us not to come...
+Saya: Ahaha, that's just like Tomoe to put other people before herself.
+Tsugumi: Mhm. But if you're gonna go see her, then I'm going too! I've been really worried about her!
+Tsugumi: I want to bring her some of my store's specially made black ginger tea, so she can start feeling better!
+Hagumi: Okay, and I'll bring our chicken dumplings! They're full of nutrients and easy to eat!
+Saya: Huh? But I thought you were working...
+Hagumi: That's okay! I can ask my dad to take my place!
+Saya: Oh, okay. Then all three of us can bring her get-well-soon gifts together.
+Hagumi & Tsugumi: Yeah!
+Saya: Alright, then why don't we all head home and regroup after we've gathered our things?
+Tsugumi: Mhm, yeah. Here is probably fine, but what time should get back?
+Saya: Let's see~. Considering the time it'll take to get everything together, I think 30 minutes should be okay, right?
+Tsugumi: Mhm, I think so too!
+Hagumi: Me three!
+Saya: Okay~, then let's meet up in 30 minutes! And~... break!
+(Black cut)
+(Background change)
+
+[30 Minutes Later]
+
+Saya: Sorry I'm late! The prep took a bit of time.
+Tsugumi: That's alright. I only just got here.
+Saya: Really? Phew... Right on time then. Good.
+Hagumi: Sniff, sniff... Ohh! That's a really sweet smell coming from your basket, Saya!
+Saya: I think that might be from the honey that's on the french toast.
+Tsugumi: You prepared french toast, Saya-chan?
+Saya: Yep, and some white bread, since both are pretty easy to eat. What did you guys get?
+Hagumi: I wanted to bring the most nutritious foods, so I got chicken dumplings and croquettes!
+Tsugumi: I-I brought the black ginger tea that I mentioned earlier.
+Hagumi: Ehehe, everyone brought something yummy for the tummy! I'm sure as soon as Tomo-chin eats this stuff, she'll be super healthy again!
+Hagumi: Alrighty, then it's off to Tomo-chin's house! Hoh~!!
+Saya & Tsugumi: Hoh~!
+Hagumi: Follow me! Hagumi will lead the way~!
+
+
+<Visiting Tomo-chin>
+
+(Character: Hagumi Kitazawa)
+
+[Downtown]
+
+Hagumi: Hmhmhmm~♪
+Hagumi: Chicken for cheap, happy tummy~♪ And with the fat, it's super yummy~♪
+Hagumi: The perfect day for grillin' chicken~♪ Take it home, and do it in your kitchen~♪
+Hagumi: ... Wah! Wh-who's there?!
+Hagumi: Oh... It's just you, {{userName}}-san.
+Hagumi: Hey~, don't scare me like that~.
+Hagumi: You came out of nowhere. I thought my heart was gonna jump out of my mouth!
+Hagumi: ... Wait... Was it mouth? Or was it chest? Well, whatever!
+Hagumi: So? Are you on your way home, {{userName}}-san?
+Hagumi: What~?! I can't believe you're still working! Bummer!
+Hagumi: Huh? The song I was singing?
+Hagumi: So that... You know my family owns a meat shop, right?
+Hagumi: And today our chicken is on sale! So I made a song, and I was singing it!
+Hagumi: ... Wait a second... Speaking of chicken reminds me of something that happened recently... It's on the tip of my tongue...
+Hagumi: Ah, I got it! {{userName}}-san, {{userName}}-san! Wanna hear something?!
+Hagumi: So the other day, I was in charge of the store, and Saya came by!
+Hagumi: Tsugu was also shopping for meat at the time, so the three of us starting talking, and...
+Hagumi: You know what happened?! Saya told us that Tomo-chin was down for the count! From a cold, that is!
+Hagumi: I can't tell you how shocked I was! Think about it! Tomo-chin is always as healthy as a horse!
+Hagumi: When I heard that, I thought about how much Ako-chin must have been worried.
+Hagumi: You see, I have an older brother, so-
+Hagumi: ... Huh? I've never mentioned them before?
+Hagumi: Hm, oh well! It's fine either way! Anyway, since I have an older sibling, I knew exactly how Ako-chin was feeling!
+Hagumi: I mean, if I was in the same position as her, I know I would have been super worried too!
+Hagumi: So back to what I was saying. Apparently, Saya was planning on bringing something to Tomo-chin later in the day!
+Hagumi: So Tsugu and I thought of some stuff to bring to Tomo-chin also, and we decided we should all go together!
+Hagumi: Saya brought bread, Tsugu brought black ginger tea, and I brought chicken dumplings and croquettes!
+Hagumi: That's right, chicken! And that is why I remembered that day~!
+Hagumi: ... Whoops, ahaha. Got off track again. Sorry~!
+Hagumi: Uhh, so we went to bring Tomo-chin the gifts, and Ako-chin let us in.
+Hagumi: And in that moment, Ako-chin looked so composed. For a moment it was like I didn't even recognize her. She just seemed so mature. It wowed me!
+Hagumi: She probably felt like she was the only one who could take care of Tomo-chin, so she wanted to do whatever she could.
+Hagumi: I get it. I could tell exactly how she was feeling!
+Hagumi: Ah, oh yeah!
+Hagumi: Afterward, I heard from Ako-chin that she used the chicken dumplings to make soup!
+Hagumi: She told me, "My sister was so happy!" And that made me happy too!
+Hagumi: Ehehe, it really does feel nice to be able to help someone out!
+Hagumi: Don't you think so, {{userName}}-san?
+Hagumi: Mhm, mhm. Yeah!
+Hagumi: So, if anything like that ever happens again... Of course, it'd be best if it didn't, but...
+Hagumi: If it did~... Just in case something comes up, I want to do whatever I can to help!
+Hagumi: ... Ah. All that talking and now look at the time.
+Hagumi: Wait... Speaking of, isn't there something I was supposed to be doing...?
+Hagumi: Ah, oh yeah! I was working at the store! I gotta get back!
+Hagumi: {{userName}}-san, see ya later! Bye-bye!

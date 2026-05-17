@@ -1,0 +1,554 @@
+1:20029 [Downtown]
+
+(Character: Saya Yamabuki, Aya Maruyama, Maya Yamato)
+
+Aya: Happy Birthday, Saya-chan!
+Maya: Happy Birthday, Yamabuki-san! We got you some presents!
+Saya: Wow, thanks so much! A drumstick case and drumsticks...!
+Maya: I got you ones that I consider to be some of the best out there! Please try them out!
+Aya: I added some camera embroidery to the case and made the sticks cute♪
+Saya: Wow, this is so amazing! Ah, you even put my name on the case~! You two just made my day!
+Maya: Great!
+Saya: The only problem is they're so cute that I'm not sure I'll be able to make myself use them.
+Aya: Ahaha, I'm happy you like them so much.
+Saya: I'll take good care of them♪
+
+
+2:20032 [Downtown]
+
+(Character: Kanon Matsubara, Maya Yamato, Rui Yashio)
+
+Rui: Happy Birthday, Matsubara-san. Please accept this hand cream.
+Maya: Happy Birthday~! And this one is from me!
+Kanon: Wow, thank you. Oh, you both got me hand cream.
+Maya: Ahaha... It wasn't planned, though. Oh, but Yashio-san's is for dry skin, and the one I got is supposed to be really popular for its nice smell.
+Kanon: I see. Thank you.
+Rui: I saw Futaba-san using some before, so I concluded that it is something that a drummer would find useful.
+Kanon: Fufu, thank you. Oh, by the way, would you two like to come with me to the music shop? There's something I want to buy.
+Maya: Ohh, that sounds fun~! You can count me in!
+Rui: Very well. You are both very knowledgeable, so I am sure I will be able to learn a lot.
+Kanon: I-I don't think I'll be able to offer anything that useful... But it'd be nice if we could enjoy our time together on my birthday.
+
+
+3:20038 [Downtown]
+
+(Character: Kokoro Tsurumaki, Ako Udagawa, Masuki Sato)
+
+MASKING (Masuki): Ready, go.
+Kokoro & MASKING: Happy birthday, Ako!
+Ako: Huh?! Ngh... Thank you~!
+Ako: But isn't it pretty rare for the two of you to be together? What happened?
+MASKING (Masuki): We happened to run into each other at the shoppin' mall.
+MASKING (Masuki): When I told her I bought a present for you, she insisted on comin' with and wouldn't take no for an answer.
+Kokoro: It's for a supertastic birthday celebration after all! It would definitely be more fun to do it as a pair than by yourself!
+MASKING (Masuki): There ya have it... Anyway... Here ya go. Here's your birthday present.
+Ako: Whoa, it's a backpack! It has bat wings on it~! It's so cool!
+Ako: Huh? Is there something inside it...?
+Kokoro: It's your birthday present from me! It's a very cutieful stuffed bat toy!
+Ako: Wow~, it's so fluffy~!
+Ako: Thanks, you two! I'll cherish these!
+
+
+4:20041 [Downtown]
+
+(Character: Tsugumi Hazawa, Hagumi Kitazawa, Nanami Hiromachi)
+
+Tsugumi: Hagumi-chan, happy birthday!
+Nanami: Happy birthday~!
+Hagumi: Thanks, you two!
+Nanami: If you'd like, please use these~. Tsugu-senpai and I chose them together.
+Hagumi: Ah, I know what these are! They're those things that make a bunch of foam when you put them in the bath, right?!
+Nanami: That's right! When I was having trouble trying to think of what to get you, Tsugu-senpai reached out to me and came with me to buy them.
+Tsugumi: Nanami-chan was having a lot of trouble, after all. She was desperately reading a magazine with a special feature on presents.
+Nanami: Tsugu-senpai, didn't I ask you to please not mention that~?!
+Tsugumi: Fufufu, I'm sorry, Nanami-chan.
+Hagumi: So that means you two went shopping together! That sounds like so much fun!
+Tsugumi: In that case, let's go on an outing right now! I don't need to help out at the café today.
+Hagumi: Really?! Let's go! You'll come too, right, Nanamin?!
+Nanami: Yes, please~! Going on an outing with the both of you is something I should be asking you for~.
+Hagumi: Then let's get going! Ehehe, I wonder where we should go!
+
+
+5:20043 [Downtown]
+
+(Character: Moca Aoba, Lisa Imai, Nanami Hiromachi)
+
+Moca: It's time for a quiz. What day is today~?
+Lisa: Hm~... Is it my birthday?
+Nanami: Wow, that's right...!
+Moca: Aw~, you're supposed to pretend you don't know the answer~.
+Lisa: Ahaha. Sorry, sorry.
+Nanami: It's okay. Now then... Lisa-senpai, happy...
+Moca: Birthday~.
+Lisa: Thanks~! Is this... an earring stand? And this is a cute mirror!
+Lisa: I was just thinking that I wanted new ones~! Did the two of you choose these for me?
+Moca: That's right~. We ran into each other at the mall~. With my knowledge of you and Nanami-chin's research powers, we were able to find you the greatest presents.
+Nanami: Then we talked about giving them to you together. Moca-senpai told me your favorite colors and designs, so that was really informative~.
+Lisa: Fufu, Thanks so much, you two! I'll start using them today!
+
+
+6:20044 [Downtown]
+
+(Character: Saya Yamabuki, Moca Aoba, Yukina Minato)
+
+Saya: Moca~, happy birthday! Here, have this. It's a special bun set just for you from Yamabuki Bakery.
+Moca: Ooh~, thanks~... Wow, it's got all of my recent favorites in it~.
+Yukina: Aoba-san, happy birthday.
+Moca: Minato-san, are you celebrating my birthday too~?
+Yukina: Yes. I was with Lisa when she was procuring your present, so I chose it with her.
+Yukina: The present is with Lisa, so accept it from her later.
+Moca: I see~. I think I'm starting to get really excited~.
+Saya: I'm also interested to know what you chose for Moca's birthday present.
+Yukina: I believe we chose something fairly normal...
+Moca: Thank you very much, Minato-san~. I'll contact Lisa-san right now~.
+
+
+7:20046 [Downtown]
+
+(Character: Kasumi Toyama, Moca Aoba, Misaki Okusawa)
+
+Kasumi: Ah, there she is~! Misaki-chan~!
+Moca: Hey~, Misaki-chin~.
+Misaki: Hm? What is it, Toyama-san, Aoba-san?
+Kasumi: Misaki-chan, what day is it today?
+Misaki: Huh...? Ahh... Is the answer my birthday...?
+Moca: Ding ding ding, that's right~. Happy Birthday~.
+Kasumi: So, let's go have your birthday party at a diner~!
+Misaki: Wait, right now?! I mean, I don't really have any plans after this, but...!
+Moca: Come on~, you won't regret it~.
+Kasumi: You'll love the super amazing plan me and Moca-chan came up with!
+Misaki: A super amazing plan at a diner, huh...?
+Misaki: But I suppose you both did put in a lot of thought. Thanks, guys.
+
+
+8:20049 [Downtown]
+
+(Character: Saya Yamabuki, Ran Mitake, Yukina Minato)
+
+Ran: ... Minato-san, here.
+Yukina: ... It's hard to respond without more information. What exactly is in this box?
+Saya: Fufu. Ran, you can do it~.
+Ran: I-it's... your birthday present! Happy Birthday.
+Yukina: Thank you... Mitake-san. This blue rose in a bottle is quite pretty.
+Saya: Huh? Ran, you also got a Japanese herbarium with a rose?
+Ran: Wait... You got one too?
+Saya: Yeah, here's mine... When I saw it in the store, it reminded me of Yukina-senpai.
+Saya: Who would've guessed we'd be giving the same present at the same time~?
+Yukina: I appreciate both gifts. Thank you.
+Yukina: Once I arrive home, I will put them next to each other.
+Ran: There you have it.
+Saya: I'm so glad you like them~. And once again, Happy Birthday!
+
+
+9:20051 [Downtown]
+
+(Character: Tsugumi Hazawa, Maya Yamato, Masuki Sato)
+
+MASKING (Masuki): Maya-san! Happy Birthday!
+Tsugumi: Happy Birthday!
+Maya: Whoa! Thank you so much, you two~! I had no idea you knew about my birthday!
+MASKING (Masuki): Of course I would! I've been lookin' forward to this day a whole lot!
+Tsugumi: We bumped into each other right there. That's why we're together.
+Tsugumi: So here are some presents from us! Please accept them.
+Maya: Wow, is this a houseplant? Thank you, Masuki-san!
+MASKING (Masuki): It's pretty cute, so hope you look after it good. It's supposed to even grow flowers.
+Maya: Ooh, I can't wait to see them! I'll take care good care of it!
+Tsugumi: I got you a placemat! It might look nice with your new plant on it.
+Maya: That's a great idea! It looks like I'll be able to make part of my room nice and relaxing. Huhehe...
+Maya: Thank you very much for these lovely gifts! I'll treasure them!
+
+
+10:20053 [Downtown]
+
+(Character: Tae Hanazono, Hagumi Kitazawa, Chiyu Tamade)
+
+Hagumi: O-Tae, Happy Birthday~!
+CHU² (Chiyu): Tae Hanazono... H-Happy Birthday.
+Tae: Wow. It's pretty rare for you two to be together! How come, how come?
+CHU² (Chiyu): Wish I knew!
+Hagumi: I ran into CHU² there and thought we should celebrate your birthday together! Here! This is a present from me!
+Tae: Gee, thanks! This bag's pretty hot. Croquettes?
+Hagumi: Nuh-uh, I brought you minced meat cutlets today~! Plus...
+Tae: Ah, they're rabbit shaped! That's so cute!
+Hagumi: I know, right?! I knew you'd like it!
+CHU² (Chiyu): And this... is from me. It's jerky.
+CHU² (Chiyu): I still have a stash, and it looks like it's a special day, so you can have this one bag.
+Hagumi: You've got jerky and minced meat cutlets! That's so much meat!
+Tae: You're right! We should all go eat some Hamburg steaks then.
+Hagumi: Yeah~!
+CHU² (Chiyu): Why?! How'd you reach that conclusion?!
+Tae: Let's go!
+
+
+11:20056 [Downtown]
+
+(Character: Aya Maruyama, Rinko Shirokane, Mashiro Kurata)
+
+Rinko: Maruyama-san... Happy Birthday...
+Mashiro: This... is a present from both of us... Please accept it...
+Aya: Wow~! Thanks, you two~! Ehehe, I wonder what it is. Can I open it?
+Rinko: Of course... We hope you will like it...
+Aya: ... Ah, this is a lot of ribbons! And they're so cute~!
+Rinko: I met Kurata-san at a handicrafts store... so... we decided to choose your present together...
+Mashiro: But we had trouble deciding because there were so many ribbons that'd look nice on you...
+Aya: You've made me so happy~! I'll treasure every single one of them!
+Aya: I know! I could style my hair with a different ribbon every day. Ah, maybe I could even have them used during shoots!
+Rinko: Fufu... Having you use them often... would make us happy too...
+Mashiro: Yes, it really would!
+
+
+12:20057 [Downtown]
+
+(Character: Tsugumi Hazawa, Rinko Shirokane, Tsukushi Futaba)
+
+Tsukushi: Tsugumi-senpai!
+Rinko & Tsukushi: Happy birthday!
+Tsugumi: Wow, what a surprise~! Ehehe, thank you!
+Tsukushi: This is a present from us. Rinko-senpai taught me how to make it while we worked on it together!
+Rinko: Futaba-san said... you are always helping her... so she tried very hard...
+Tsugumi: Huh? It's handmade? I wonder what it could be~.
+Tsugumi: ... Oh, it's an apron! And look at these little yellow flowers on it, it's so cute!
+Rinko: Fufu... Aren't you glad she likes it...?
+Tsukushi: Yeah! Thank goodness!
+Tsukushi: Um... Tsugumi-senpai. I know you can't use this while you're working, but... please try wearing it when you make sweets or something!
+Tsugumi: Of course! I'll take good care of it.
+Tsugumi: And when I do make sweets, you both must have some!
+Rinko & Tsukushi: Okay...!
+
+
+13:20060 [Downtown]
+
+(Character: Himari Uehara, Kaoru Seta, Rui Yashio)
+
+Himari: Kaoru-senpai! H-happy birthday!
+Rui: Happy birthday.
+Kaoru: Ahh, what a wicked soul I am to so unwittingly charm such adorable kittens into celebrating for me...
+Himari: Eeek~! I don't know about adorable~♪
+Rui: ... Uehara-san. Were you not going to give her the present?
+Himari: Oh, that's right! Here, from us! We hope you like it♪
+Kaoru: This is ... hair treatment and skin cream, I assume? And a handwritten letter, too.
+Himari: P-please read that later!
+Himari: We picked things that we thought might be good for your lovely hair and skin.
+Rui: I just happened to be there when Uehara-san was looking for a gift...
+Rui: Regardless, we chose products with well-established reputations. Please give them a try.
+Kaoru: Indeed, I shall use them with the utmost of gratitude and care. Thank you.
+Kaoru: With these gifts in hand, I swear to you that I, Kaoru Seta, shall become even more charming as I continue to deliver fleetingness and smiles to my little kittens.
+
+
+14:20061 [Downtown]
+
+(Character: Hagumi Kitazawa, Hina Hikawa, Nanami Hiromachi)
+
+Nanami: Happy Birthday~, Hina-senpai!
+Hagumi: Ta-dah! Look, look! Me and Nanamin made you a capsule toy machine for your birthday!
+Hina: Wow~! Thanks, you two~! "Boppin' Box♪" ...?
+Nanami: It's called that because it's full of capsule toys that Hagu-senpai and I think will make you feel boppin'♪
+Hagumi: We looked for all sorts of boppin' stuff, so you'll be extra-boppin' today!
+Hina: That sounds so fun! I'm already feeling bop-bop-boppin'♪ And I haven't even spun the machine yet! Hey, hey, can I try once?
+Hagumi: Sure! I can't wait either to see what you'll get!
+Nanami: I hope you can complete our full boppin' series!
+Hina: Alright! Here I go~! Hm...? What's this~?
+Nanami: Oh, you got one that I put in, Hina-senpai! It's a secret toy from the super-popular first series of "Cryptid Encounters!" that came with snacks!
+Hina: Huh, this is supposed to be Mothman, right? I've never seen anything like it. This is pretty boppin'♪
+Hagumi: I think you'll feel really boppin' when you get the ones I put inside!
+Hina: Oh~, I'm getting excited~♪ Time for some more spinning~!
+
+
+15:20066 [Downtown]
+
+(Character: Arisa Ichigaya, Ran Mitake, Yukina Minato)
+
+Yukina: Happy Birthday, Mitake-san.
+Arisa: Um... Here. For your birthday. Hope you like it, Ran-chan. Yukina-senpai and I chose it together.
+Ran: Thanks, Minato-san, Arisa. Is this... hair oil?
+Yukina: Yes. It's the same one that I always use.
+Ran: I never expected you to know much about this sort of thing.
+Yukina: ... Lisa is the one who recommended it to me.
+Arisa: I happen to be using it as well. It gives my hair a really nice luster.
+Ran: I see. Seeing as it's recommended by Lisa-san, chances are it won't disappoint then.
+Arisa: Also, ever since I started using the oil, it's been easier to keep my hair tamed. Less bedhead too.
+Ran: Just so happens that my hair's been feeling a bit dry lately. How am I supposed to use this?
+Yukina: In general, you want to use it after taking a bath, but you can also style your hair with it.
+Ran: Okay. I think I'll apply a tiny bit now...
+Ran: Huh... It's got a very gentle rose scent. And it doesn't feel sticky even though it's oil. Not bad. Thanks, you two.
+
+
+16:20067 [Downtown]
+
+(Character: Tomoe Udagawa, Kokoro Tsurumaki, Masuki Sato)
+
+MASKING (Masuki): Happy Birthday, Tomoe!
+Kokoro: Here you go! This ultra-special present is for you! MASKING and I made it!
+Tomoe: Thanks, guys. What do we have here...
+MASKING (Masuki): Himari mentioned you've got a thing for photo books, so we made one just for you! It's the only one of its kind in the whole world!
+Tomoe: Whoa~! This morning dew photo's really something! Are these reflections in the dew flowers?
+Kokoro: They sure are♪ I took that one! The glittering makes it look like there are flower gems, don't you think?
+Tomoe: You know, I've been wondering why these photos look so familiar... Are they from the flowerbeds downtown?
+Kokoro: Wow, you guessed it! Those were all taken around here!
+MASKING (Masuki): What do you think of this sunrise? Pretty awesome, huh? I hopped on my bike early in the mornin' to take a picture of it.
+Tomoe: You did that for me...? These are some great photos, but I'm even more touched by the fact that you went to all that trouble for my sake, Masuki.
+MASKING (Masuki): Hehe. Well, seein' as you like them, I'd say it was worth it.
+Tomoe: Hm...? Uh... Is this some kind of printing error? The pages for the second half are blank.
+MASKING (Masuki): Haha! Nah! That space there is for the photos we're hopin' the three of us can go take together now!
+Tomoe: Huh! Sounds fun...! Can't wait to decide what pictures to take!
+Kokoro: Alrighty, let's go now! Since it's your birthday, Tomoe, I'm sure we'll be able to take some wonderful photos♪
+
+
+17:20069 [Downtown]
+
+(Character: Kasumi Toyama, Ako Udagawa, Masuki Sato)
+
+Kasumi: Ah! Massu, there you are~! Happy birthday~!
+Ako: Ta-da~! Here you go! We got you a birthday present!
+Kasumi: We went shopping for presents together, but it was hard to decide because there were just so many cute things to choose from~. Well, c'mon! Open it up!
+MASKING (Masuki): Whoa! Thanks, guys~! Cookie cutters! ... These are cute.
+Kasumi: Aren't they~?! There are all kinds of animal ones! There's one for a giraffe, an elephant, a panda, and a rabbit~!
+MASKING (Masuki): I bet cookies like these would look cute on top of a parfait. Hrm...? Is this... a dragon...?
+Ako: Fu fu fu~! Pretty cool, right~? You have to make cookies with it☆
+Kasumi: You don't see many dragon cookie cutters! All those zig-zags might make it hard to use, though. I wonder if you'll be able to make good cookie shapes with it~.
+MASKING (Masuki): Alright! Well, I'm gonna try makin' some cookies right now! Wanna join me?
+Kasumi & Ako: Yay~! I wanna make cookies! Yay~! Me too~!
+MASKING (Masuki): ...?! You guys...
+MASKING (Masuki): Are so cute.
+
+
+18:20070 [Downtown]
+
+(Character: Saya Yamabuki, Kaoru Seta, Eve Wakamiya)
+
+Eve: Happy birthday, Saya-san! This is a present from Kaoru-san and me.
+Kaoru: An accessory kit... With which you, Saya-chan, will be able to craft accessories that exist nowhere else in the world. Ahh, how fleeting...!
+Saya: Oh wow~! Thank you both! This bag... is really heavy! Can I open it now?
+Eve: Yes! Please do so! Kaoru-san and I went to a store that sells supplies for making accessories. Everything was so cute... We might have bought a little too much!
+Kaoru: Fufu, yet it still may not be enough of a present for a little kitten such as yourself.
+Saya: Ahaha. Oh, really? Whoa~, there are so many kinds of charms and beads in here! I bet I can make a ton of accessories with all these supplies!
+Saya: If you'd like, why don't we make some now? I think doing it together will be that much more fun!
+Eve: That sounds nice! I would like to do that!
+Kaoru: A fantastic idea indeed. A ring I shall make as I think of you, Saya-chan, and it shall be yours.
+Eve: And I will make a necklace that reminds me of you! Saya-san, I will do my best to please you!
+
+
+19:20071 [Downtown]
+
+(Character: Moca Aoba, Lisa Imai, Nanami Hiromachi)
+
+Lisa: Happy birthday, Nanami! Here! This is a present from Moca and me☆
+Moca: Ta-da~! It's a bunch of super spicy food~.
+Lisa: We put everything spicy from our convenience store in it☆
+Nanami: Wow~! Lisa-senpai, Moca-senpai, thank you! Everything looks pretty spicy~! Hrm? These takoyaki don't, though...
+Moca: Fu fu fu~, those aren't your ordinary takoyaki~. One of them has super spicy sauce inside~.
+Nanami: Wow~! How exciting~! This is exactly the kind of thing teenagers would do..! Let's try them together right now!
+Lisa: Okay~! This should be fun☆ I think I'll go for the takoyaki in the middle~.
+Moca: I'll have... Hmm~... Let's see~... Yoink~! This one on the left~.
+Lisa: Ahaha, you really gave it a lot of thought☆ ... Hrm? I thought you didn't like spicy stuff though. Are you sure you want to do this?
+Moca: Today's our cute underclassman's birthday, so Moca-chan-senpai's gonna do what she can to make it a good one~.
+Nanami: Wow~! Thank you both! Okay, when I say "go," let's eat them! I'm going to win the super spicy takoyaki on my first try!
+
+
+20:20072 [Downtown]
+
+(Character: Ran Mitake, Tsugumi Hazawa, Eve Wakamiya)
+
+Ran: Happy birthday, Eve.
+Tsugumi: Here, this is for you! Ran-chan and I got you a present!
+Eve: Ran-san, Tsugumi-san, thank you! Is this... a soba-making set?!
+Ran: Yep. We saw it when we were at the mall recently.
+Tsugumi: We thought it might be something you would be interested in!
+Eve: Actually, I have been thinking about it for a while...! I get to make my own soba. This is amazing!
+Eve: According to the instructions, you mix the dough, knead it, roll it, and then cut it... That is all!
+Ran: Sounds like it's actually pretty easy to make.
+Eve: Even I should be able to...! I wish I could try right away!
+Tsugumi: Fufu, I thought you might say that, so I have all the ingredients ready for you. There's still a little more time before the shop opens, so let's try making some now!
+Eve: Really~?! Thank you! We can have a soba noodles party!
+
+
+21:20076 [Downtown]
+
+(Character: Saya Yamabuki, Hagumi Kitazawa, Ako Udagawa)
+
+Saya: Happy birthday, Hagumi~!
+Ako: We got this present for you~!
+Hagumi: Really~? A present from you guys~?! I wonder what it is~!
+Ako: Hurry and open it~♪
+Hagumi: Wow~! Sandals with flowers on them~! They're so cute~!
+Ako: Fu fu fu~! These are sunflowers with a sacred brilliance... We thought they'd be perfect for you!
+Saya: Fufu, having them on the tip gives the sandals a summer look, doesn't it?
+Hagumi: Yeah! Saya, Ako-chin, thanks a bunch! Hey, can I try them on now?
+Saya: Go for it♪
+Hagumi: Yay~! It's like sunflowers are growing from my feet!
+Ako: They look grrreat on you!
+Saya: I hope you'll wear them a lot this summer.
+Hagumi: I will! I'll wear them so much!
+Hagumi: I can't wait to show these to everyone~.
+
+
+22:20077 [Downtown]
+
+(Character: Rimi Ushigome, Kokoro Tsurumaki, Rui Yashio)
+
+Rui: Happy birthday, Tsurumaki-san.
+Rimi: Happy birthday, Kokoro-chan!
+Kokoro: Thanks for wishing me a happy birthday, you two! I'm so happy right now~!
+Rimi: Um, we have a present for you. Rui-chan and I picked it together. We hope you like it.
+Kokoro: Really? I wonder what it is? What a huge watermelon! It's very nice~!
+Rimi: Fufu, it's a watermelon shoulder bag♪
+Kokoro: I see! It might be perfect for hauling a watermelon around!
+Rui: I doubt you would be able to fit an actual watermelon... Small articles such as a purse or handkerchief should fit, however.
+Kokoro: I'm in the mood for some watermelon! Rimi, Rui, let's go eat some right now!
+Rimi: Okay♪ I wonder where we can though...
+Rui: Are we going to a nearby fruit café, perhaps?
+Kokoro: Nope, the grocery store! Let's buy a watermelon and do some watermelon splitting together!
+Rimi: ...!
+Kokoro: What do you think?
+Rimi: I-I was a little surprised, but if it's something you want to do, let's do it, Kokoro-chan.
+Rui: Since it is your birthday, you are welcome to do whatever you wish.
+Kokoro: Then it's decided! Off to the grocery store we go~!
+
+
+23:20079 [Downtown]
+
+(Character: Moca Aoba, Sayo Hikawa, Lisa Imai)
+
+Lisa: Moca~, happy birthday!
+Sayo: Happy birthday, Aoba-san.
+Moca: Ehehe~. Thanks~.
+Sayo: ... Why are you sticking out your hands?
+Moca: Because birthdays mean you-know-what~.
+Moca: Something like a super special birthday present for good old me~.
+Lisa: Of course, we've got something! But we're saving it for later!
+Sayo: We were thinking we could hold a birthday party for you first.
+Moca: Oh~, now that is quite special...!
+Lisa: Right? Alright, let's go shopping then!
+Sayo: Whether it's a convenience store or Yamabuki Bakery, please feel free to select anything and everything that you want.
+Moca: How generous~. Are you really sure though~?
+Lisa: Totally! C'mon, let's go!
+Moca: Ehehe~. Alright, gladly~.
+
+
+24:20083 [Downtown]
+
+(Character: Rimi Ushigome, Himari Uehara, Misaki Okusawa)
+
+Rimi: Happy birthday, Himari-chan!
+Misaki: Here's a little something from us.
+Himari: Seriously?! Wait... is this actually a birthday present?!
+Himari: For real~?! I'm so happy right now~! Thanks~!
+Rimi: Open it if you'd like.
+Himari: Sure!
+Himari: Let's see... Wow... This is such a cute bracelet! Where did you get it?
+Rimi: Misaki-chan and I actually made it ourselves.
+Misaki: Well, we basically just bought the gems and parts and put everything together...
+Himari: Really?!
+Himari: You guys did that for me...? Aw, thanks~!
+Misaki: ... Seeing you this happy makes me feel kind of awkward.
+Rimi: Fufu, I'm glad you like it though.
+Himari: I'm so going to take great care of this! Thanks so much...!
+
+
+25:20085 [Downtown]
+
+(Character: Arisa Ichigaya, Moca Aoba, Nanami Hiromachi)
+
+Moca: Here's a question for you~, Arisa. What day is it today~?
+Arisa: You coming out and asking that only makes it harder to answer!
+Moca: Now, now, no need to be shy. Well~? What day is it~?
+Arisa: My... birthday...?
+Nanami: Bingo~, you got it right~!
+Nanami: For guessing correctly, Arisa-senpai, we bestow upon you this very special present~.
+Arisa: I wish you'd just give it to me more normally, but, um... thanks...
+Arisa: What's inside...? Hm? A slip of... paper...?
+Moca: Tsk, tsk, tsk~. Look more closely~.
+Nanami: It was actually pretty hard to get that~.
+Arisa: This is a ticket for the World Bonsai Expo...!
+Arisa: I tried to get it too, but I never stood a chance...! This is unbelievable... Are you sure I can really have something so rare?!
+Moca: Indubitably~.
+Nanami: Your eyes are glowing~. You look so happy~.
+Arisa: How could I not be...? Thanks so much, you two.
+Arisa: Sigh~, this is seriously like a dream... I can't wait to go to the expo...!
+
+
+26:20086 [Downtown]
+
+(Character: Maya Yamato, Yukina Minato, Rinko Shirokane)
+
+Yukina: Yamato-san, Happy Birthday.
+Rinko: This is... a present we chose together. Please have it if you'd like...
+Maya: Minato-san. Shirokane-san. Thank you very much! I'll open it right away...! Ooh~, is this a board game?!
+Rinko: Yes... It's NFO's newest one... We thought that even someone unfamiliar with the world of NFO could enjoy it...
+Yukina: We previously played something similar to this, and it was quite entertaining.
+Maya: That's great! Thank you very much~!
+Maya: Hmmm. So it's a game that can be played with three or more people. Why don't we give it a try after this?
+Rinko: Yes, please... Board games are meant to be played with others, after all...
+Yukina: In that case, let's go somewhere where we can relax.
+Maya: Hmm, right. Then what about my house?!
+Rinko: Huh...? But wouldn't it be a nuisance if we suddenly went...?
+Maya: Not at all! I can't offer much hospitality, but please come if you'd like!
+Yukina: I see. Then I suppose we can go for a short while.
+Rinko: Yes... We'll take you up on the offer.
+Maya: Huhehe. I can't wait!
+
+
+27:20090 [Downtown]
+
+(Character: Himari Uehara, Misaki Okusawa, Toko Kirigaya)
+
+Himari: Toko-chan~! Happy...
+Misaki & Himari: Birthday~!
+Toko: Huh?! Whoa! Thanks so much!
+Misaki: Also, here... Uehara-san and I made these.
+Toko: Th-these are...! Are these plushies?
+Himari: You got it♪ We needle felted them together! Misaki-chan's way better at it, but I worked hard, too!
+Toko: Wow! I see! Ah, there's two of them! One is a bear!
+Misaki: That's the one I made.
+Toko: And the other one is... a pig?
+Misaki: Uh, well, with its ears and the roundness of its face, I suppose it could look like a pig, but...
+Himari: It's a cat!
+Toko: They're both awesomely cute! Thank you so much! Especially this pig... I mean, cat. Its unique pose is the best!
+Toko: Could I use both of these as designs for TOKO brand T-shirts?
+Himari: What?! My work is gonna be on a T-shirt?! That's kinda flattering~!
+Misaki: That's a little embarrassing, but you seem to like it. So, if you're okay with it, you can use it as you like.
+Toko: Alright! As thanks, I'll let you be the first ones to know when I make the shirts. These designs will definitely be popular~!
+
+
+28:20091 [Downtown]
+
+(Character: Kanon Matsubara, Aya Maruyama, Tsukushi Futaba)
+
+Kanon: Aya-chan, Happy Birthday!
+Tsukushi: Aya-senpai, Happy Birthday!
+Aya: Wow~. Kanon-chan. Tsukushi-chan. Thanks!
+Tsukushi: Um! Please accept this!
+Aya: Huh? You're even giving me a present?!
+Aya: Can I open it?
+Kanon: Sure. Fufufu. You just might be surprised.
+Aya: Aww, I wonder what it is! ... A sweets map?! And is it... handmade?!
+Kanon: Yeah. Tsukushi-chan and I compiled information on the sweets shops in this area and made it into a booklet.
+Tsukushi: It also includes information on the shops you said you were interested in on your social media!
+Aya: Kanon-chan... Tsukushi-chan...! Sniffle.
+Tsukushi: Aya-senpai?! Are you okay?!
+Aya: I can't believe the two of you would make a book as lovely as this for me... I'm so touched~!
+Kanon: Fufu. I'm glad you liked it.
+Aya: Next time, let's go to the shops listed on this map, just the three of us! We simply have to!
+
+
+29:20092 [Downtown]
+
+(Character: Tsugumi Hazawa, Hagumi Kitazawa, Eve Wakamiya)
+
+Hagumi & Eve: Be tasty~! Be tasty~!
+Tsugumi: What are you two doing?
+Hagumi: We were putting on the final touches just now!
+Tsugumi: The final touches...?
+Eve: We wanted to keep this a secret from you... but now that you have seen us, there is nothing that we can do.
+Hagumi: Eve-chin and I were casting a magic spell on the croquettes we made! It's a spell that will make you smile when you eat them!
+Tsugumi: What a lovely magic spell! I'm sure it will put a smile on that person's face!
+Hagumi: I know, right? ... Here! We finished the final touches, so we're giving this present to you♪
+Tsugumi: I-it's for me...?
+Eve: Yes! Tsugumi-san, Happy Birthday!
+Hagumi: Ehehe♪ They were actually croquettes we were giving to you!
+Tsugumi: So that's what they were. Thanks! Fufufu.
+Tsugumi: Ah! I smiled before I even ate it! Is this also an effect of the magic?
+Hagumi: Yeah! I'm sure it must be!
+Eve: Our magic is perfect!
+
+

@@ -1,0 +1,62 @@
+main005 Chapter 3: Hello, Happy World!
+
+Kasumi and Rimi continue scouting for bands. But what's this crowd gathered outside the station...?
+
+(Character: Kasumi Toyama, Rimi Ushigome, Kokoro Tsurumaki, Kaoru Seta, Hagumi Kitazawa, Kanon Matsubara, Misaki Okusawa)
+
+[Station Entrance]
+
+Rimi: Oh... So we're just waiting to  hear back from Pastel＊Palettes,  then. I really hope it's good news.
+Kasumi: Hey, I'm sure it'll be fine! Right, {{userName}}-san?!
+Rimi: So then today, we'll need to speak to- Hmm? What is that crowd gathering for?
+Kokoro: Let's make the whole world smile! You get a smile! And I get a smile!
+Kaoru: Oh, your smile... So beautiful, yet so fleeting...
+Kaoru Fan: Kya~~! Kaoru-sama~~!
+Kasumi: Isn't that Kokoro Tsurumaki, from school? She sure looks like she's having fun! Come on Rimi-rin, {{userName}}-san, let's go check it out!
+Rimi: Ah, Kasumi-chan...!
+Hagumi: Hmm? Ka-kun?
+Kasumi: Hey, it's Hagu! Hagu Hagu! What are you doing here?
+Hagumi: We're performing! Well actually, we just finished. We made a band to put smiles on faces all around the world!
+Kasumi: Wow! You're in a band too, Hagu? Is this bear mascot a member, too?
+Hagumi: She's no mascot, she's Michelle! She's a DJ!
+Rimi: Ahh... Ahh... Kasumi-chan... you're so... fast...!
+Kaoru: Running over so quickly you completely lose breath... How adorable you are. Did you really want to see me so badly?
+Rimi: ......?!
+Kasumi: Wow, Rimi-rin's gone bright red! Are you okay?!
+Rimi: I-I have?! I... I wonder why...
+Kanon: Y-you don't have a fever, do you...?
+Kasumi: Rimi-rin?! A fever?!
+Kaoru: Oh, you poor thing... Such a sweet, young girl is surely afflicted by one thing and one thing only... The ache of love.
+Rimi: ......!!!
+Kanon: A-ahh, what do we do...? S-somebody call an ambulance...!
+Misaki: Oh my wow... Just calm down, Kanon-san. ... Wait, Toyama-san and Ushigome-san, from 1A? ... And who's this?
+Kasumi: Hey, Misaki-chan! So it's you inside the bear, huh. This is {{userName}}-san, from the live house!
+Misaki: Oh, hey. So, what're you doing here?
+Kokoro: Hmm? Why do I feel like I've seen you before? Right, school! I've seen you around school, that's it.
+Misaki: Yeah, they're in the same year as us. ... Actually, it's probably better for all of us right now if you don't talk at all. You'll just confuse things.
+Rimi: We actually have something to ask of you...
+(Black cut)
+Rimi: ... And so we're looking for bands to join us and make it a wonderful event. So far we have ourselves, and-
+Kokoro: Okay, we'll do it!
+Misaki: What? Wait a second! You don't even know who else is performing yet...!
+Kokoro: What does it matter who else is going? We're trying to make the whole world smile, aren't we? We would never miss a chance to join a fun event like this.
+Kaoru: As the great bard once said... action is eloquence. And so... there you have it.
+Rimi: Wonderful, Kaoru-san...
+Misaki: Argh, okay, fine! There we have it, sure! I mean... I guess this mysterious staff member seems okay, and I trust Toyama-san and Ushigome-san, so...
+Kasumi: Yay! Thank you, everyone! Oh, what is your band called, by the way?
+Misaki: Hello-
+Kokoro: Hello, Happy World! Make the whole world smile!
+Misaki: ... Yes, that really is it. If I could introduce us properly... This one here's Kokoro Tsurumaki, our vocalist. The princely one there is Kaoru Seta-san, on guitar.
+Misaki: The bassist is Hagumi Kitazawa, from our school, and Kanon Matsubara-san is on drums. She's a sophomore at Hanasakigawa. And I'm Michelle, the DJ bear.
+Kaoru: In our grand performance of many parts, it is I who plays the prince. How fascinating indeed. I shall do my utmost to do the part its justice.
+Hagumi: It's gonna be so much fun playing with other groups! Like a battle of the bands!
+Kanon: I feel like having other bands around will make me very nervous, but... I'll do as best as I can!
+Misaki: ... So, {{userName}}-san, I guess that means... We're in.
+Rimi: Thank you, Misaki-chan! We'll have a meeting at some point where all the bands can get together, practice a little, so-
+Kokoro: Ooooh~! I just love meeting new people, it's so exciting! Think of all the smiles we'll be able to make with the amazing opportunity!
+Kokoro: I can't wait any more! Let's do another performance, right here and now!
+Hagumi: Great idea!!
+Kasumi: Yeah! I wanna see!
+Misaki: Wait, what?! Were you even listening to Ushigome-san?! She was saying there's gonna be a meeting soon where-
+Kokoro: Okay, here's our first song of the show! Let's go!
+Misaki: Wait wait wait for me~!!

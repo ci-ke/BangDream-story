@@ -1,0 +1,84 @@
+1497_Sayo Hikawa_R2 The Way to Shangri-La
+
+<A Super Genius Student’s Teacher>
+
+(Character: Sayo Hikawa, Toko Kirigaya)
+
+[Studio]
+
+Toko: No freaking way...!
+Toko: Did you see that?! I was perfect!
+Sayo: Yes. I think your playing has shown much improvement.
+Toko: Right?! I really am a genius~.
+Toko: Just you wait~, Rui. Next band practice, I'm gonna make your jaw drop~.
+Sayo: It is fine to be confident, but you should not let that go to your head.
+Sayo: Technical skills improve with practice. You should acquire new skills slowly and thorou-
+Toko: Yeah, yeah, I know! Hey, this is a good time for a break. Cool if we take five? There's something I wanna ask you!
+Sayo: You have a question for me?
+Toko: Nice try, but pretending like you don't know won't fool me~. Fu, fu, fu...
+Toko: Look! This is Roselia's website! You have a date for your debut show. You should've told me~.
+Sayo: I cannot tell you anything before it has been officially announced.
+Toko: Jeez~, I was wondering when it would be. Good thing I kept checking the website everyday~.
+Toko: I'm so proud to be your student!
+Sayo: Kirigaya-san, I would appreciate it if you would stop saying you're my student...
+Sayo: I merely watch you practice when I have the time. Saying that could give others the wrong impression.
+Toko: But I am your student, aren't I? You and I are the greatest teacher-student duo of all time!
+Sayo: Sigh...
+Toko: Anyway, congrats on scoring your debut show! I'm so hyped to see you rock out with those killer guitar skills of yours.
+Sayo: Thank you. But I will not try to draw attention to myself by doing anything overly sophisticated at this show.
+Sayo: What the audience should hear is Roselia's music. I mustn't do anything that could interfere with the quality of our songs.
+Toko: I know, I know! You never change, you know that~?
+Toko: So, how does it feel? I wanna know how excited you are for your debut show!
+Sayo: How excited I am...? Well, it is a grounding experience.
+Sayo: Our debut show will be the first time for Roselia to perform on stage as a band in the major music industry.
+Toko: ...? It won't be the first time, will it? Didn't Roselia play for a music agency before?
+Sayo: It is true that we performed a show at an agency-sponsored event.
+Sayo: But that show featured many other artists as well.
+Sayo: We simply borrowed space on that stage for a short time.
+Sayo: Surely the audience at the event only thought of Roselia as a guest band.
+Toko: A guest band... That's still kinda cool!
+Sayo: However, our debut show will be solely Roselia's show.
+Sayo: The audience at the event hall will see us as major artists.
+Sayo: We chose to make a name for ourselves in the major music industry, so we have to take our decision seriously.
+Toko: Oh~. Well, anyway, I know you'll be okay.
+Toko: Knowing you, right now you're probably thinking, "What evidence do you have to support that?" Am I right?
+Sayo: Well, yes...
+Toko: I'm your evidence!
+Sayo: You are?
+Toko: You're the teacher of a super genius student!
+Toko: There's no way your debut show would be anything but amazing!
+Toko: So you should be totally chill about this!
+Sayo: I'm not sure that makes for credible evidence...
+Toko: I will definitely be at your debut show, so show me the greatest performance ever! Promise me!
+Sayo: Fufu... I promise.
+Sayo: Now, then, let's return to practicing.
+
+
+<The Environment of Professionals>
+
+(Character: Sayo Hikawa)
+
+[CiRCLE Café]
+
+Marina: I'm hungry~. What should we have for lunch?
+Sayo: Marina-san, {{userName}}-san, hello.
+Marina: Hi, Sayo-chan. You here to practice?
+Sayo: Yes. I happened to have some time, so I thought I would practice on my own.
+Marina: Go for it. Ah, sorry I'm a bit late, but congratulations on your debut show!
+Marina: People were saying a lot of good things on social media. They said the show was incredible!
+Sayo: Thank you. It was our first major show, but I think we were able to put everything we had into it.
+Sayo: I would like to fully apply that experience to our next show.
+Marina: Fufu. It sounds like this debut show was a great experience for you.
+Sayo: It was. It reminded me of just how many people are involved in holding a concert.
+Sayo: Because those people worked to set up the venue for our show... we could focus solely on our music...
+Marina: Exactly. It's important to realize that many people are hard at work for you, even if you don't notice them.
+Sayo: Yes, you couldn't be more right.
+Sayo: It is due to the many professionals fulfilling their responsibilities that we are able to perform.
+Sayo: But there is no guarantee that every staff member you work with will be as supportive.
+Sayo: We must be grateful and improve our sound so that we don't disappoint those who work very hard for us.
+Marina: Yeah, I think you've realized something very important. But knowing you, I'm sure you won't let any of them down.
+Marina: You're so disciplined, Sayo-chan. There's no way you'd ever let yourself forget something so important.
+Sayo: Marina-san... thank you.
+Marina: Fufu... Ah, I'm sorry. I've held you up.
+Marina: Good luck with your practice. See you.
+Sayo: Thank you. Goodbye.

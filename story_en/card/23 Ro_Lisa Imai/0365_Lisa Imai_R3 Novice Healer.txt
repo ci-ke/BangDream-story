@@ -1,0 +1,98 @@
+365_Lisa Imai_R3 Novice Healer
+
+<My Costume>
+
+(Character: Lisa Imai, Ako Udagawa, Rinko Shirokane)
+
+[Departure Village]
+
+RinRin (Rinko): Okay, everyone has an understanding of the basic controls. Now what should we do, Ako-chan?
+Demon Princess Ako (Ako): Let's show them around town! It can be useful to know where stores like the curio shop are.
+Lisa: Hey, guys. Are there any clothing stores?
+RinRin (Rinko): There aren't, but we do have armor shops （☆ω☆*）
+Demon Princess Ako (Ako): Lisa-nee, do you want to change your equipment?
+Lisa: I don't know if I'd say that. It's just that my look is the only one that seems kinda off, no?
+Demon Princess Ako (Ako): You think? I feel like it's perfect for a healer, and it's cute!
+RinRin (Rinko): I agree with Ako-chan! It captures everything great about that class (*･▽･*)
+Lisa: Hmm~, but this outfit is kinda loose... Or rather, it's a bit different from what I usually like to wear...
+Lisa: The sleeves are really long, and it's not really the easiest to walk in. Not to mention this weird thing I'm wearing on my head. I mean, I'd understand if it was raining, but it's so beautiful outside.
+Lisa: And the color is a bit plain, I guess...? I'd gladly change into something else if I could.
+Lisa: Also, this thing I'm holding... What... is it? A wooden stick?
+Demon Princess Ako (Ako): That's called a wooden staff! Healers can only use weapons from the staff category!
+Lisa: Oh~, really? You know, I don't exactly feel like a wooden staff is all that reliable of a weapon though... I wonder if this will be enough.
+RinRin (Rinko): Actually, the max-rank healer weapon looks so, so, so cool (･-･*)♪
+Lisa: Max-rank weapon... I just started, so I'm guessing I have a long way to go until I can have it?
+Demon Princess Ako (Ako): There's no way you could get it right away! It's crazy hard to get to that point!
+Lisa: Seriously~...? That means I'll be stuck with this outfit and staff for a while then, huh~...?
+Lisa: ... Oh, I'm so sorry! I know you chose this class just for me, Ako! And I'm looking forward to playing, too. I just couldn't help but wonder...
+Demon Princess Ako (Ako): Don't worry, it's fine! You just care about how you look. I totally get it.
+Demon Princess Ako (Ako): That's why we should start by going to the armor shop!
+RinRin (Rinko): It can be fun to try out looks that are different from the standard outfit (ﾟ▽ﾟ*)
+Lisa: Really? 'Kay, I'll take a look☆
+Demon Princess Ako (Ako): Nothing in this village costs a lot, so you should be able to get a new set of equipment using your starter bonus and the reward from clearing the last quest we did!
+Lisa: Hm? How do I do this? I can't walk into the store...
+RinRin (Rinko): Try talking to the person standing in front of it.
+Lisa: Uhm, like this? Ah, look at all of these. Okay~, so this is how you browse.
+RinRin (Rinko): Once you find something you like, you can go ahead and buy it (*´∨`*)
+Lisa: Hmm~... Nothing's really catching my eye though...
+Demon Princess Ako (Ako): This is still the beginning of the game, so you're not gonna be able to get anything too amazing.
+Lisa: Ah, hey. What about the character that was at the edge of the screen a second ago?! That's a healer, right?
+Lisa: She was really cute! And that outfit was totally my style!
+RinRin (Rinko): She likely spent a lot of money on that (-∧-；)
+Demon Princess Ako (Ako): The people who can get awesome equipment like that either have played for a really long time, or spend actual money to get in-game items.
+Lisa: You have to spend real money...?
+Demon Princess Ako (Ako): Oh, but if you progress through the game, you can get much cuter gear! Getting the super expensive stuff is hard though.
+Lisa: Interesting, so you can still get those things without paying? With a system like that, I think I'd be able to enjoy this game too!
+RinRin (Rinko): You can even change the style and color of your hair （*￣＾￣*）
+Lisa: This is my first time playing a game like this, but I have to say, it's awesome that fashion is a part of the fun!
+Demon Princess Ako (Ako): Mhm, mhm, there are even people who play mostly to collect new clothes and equipment! And sometimes, those people have fashion shows!
+Demon Princess Ako (Ako): And there are other players who have goals like that too! Like in-game farmers!
+Lisa: Farmers?! Wait, in the game world?
+RinRin (Rinko): NFO has a flourishing farming industry, and vegetables can be used for a variety of things.
+Demon Princess Ako (Ako): You can make them into potions, you can eat them raw... There are even chefs who will buy them and turn them into meals that they can sell!
+Demon Princess Ako (Ako): Eating those meals can have lots of different effects, like making monsters drop items more easily, or making it easier to gain experience points!
+Lisa: At first, this place didn't feel that realistic. You got your healers, bards, and all these classes I don't understand...
+Lisa: But you also have chefs and farmers. I'm starting to feel like it's not that different from the real world.
+Demon Princess Ako (Ako): The more popular chefs hire part-timers too! And those people collect ingredients in place of the chef.
+Lisa: What?! They have part-time jobs too? Man, games nowadays really blow my mind~...
+RinRin (Rinko): And just like the real world, if you want to buy something, you have to have the money first (｀･ω･´)
+Lisa: I see, I see. Yeah, the clothes I tend to like are usually a bit expensive.
+Lisa: So that means to truly enjoy the fashion in this world, you have to work for it, huh? I guess it's just like the real world after all~.
+
+
+<Do I Seem Like a Healer?>
+
+(Character: Lisa Imai)
+
+[CiRCLE Café]
+
+Lisa: Ah, Marina-san, {{userName}}-san! I know this is kinda sudden, but do I seem like a healer to you?
+Marina: Uhhh, a healer... What's that?
+Lisa: Ah, right. That's not something you would just know. So the other day, we all played one of those computer games together.
+Lisa: In it, you decide on a job of sorts, and that's when Ako said I seem like I would be a healer.
+Lisa: I don't know much about it, but basically, it's kind of a doctor-like person who can heal people who have been injured.
+Marina: Interesting~, they have stuff like that in video games too, huh?
+Lisa: Mhm, they do. The healer also provides energy when you're running low, and they can remove poison from your body.
+Marina: Wow! So kind of like actual doctors.
+Lisa: Yeah... Does that mean she was trying to say that I'd make a good doctor?
+Marina: Hmm~, I'm not sure about all of this game stuff, but I feel like you'd make a better nurse than a doctor.
+Lisa: A nurse, huh? And {{userName}}-san's nodding along. Do I really seem like the type...?
+Marina: Yep, mhm. You definitely do, Lisa-chan.
+Lisa: Why do you say that?
+Marina: Let's see~. I guess it's because you're good at looking after people? Or rather, you're very caring, you know? Doesn't that seem like something you'd need for being a nurse?
+Lisa: Ahaha... Yeah, I don't think I can disagree with you there.
+Marina: Mhm. Yeah, I think what I'm saying is on the right track then!
+Lisa: I don't know though~. I wonder if I'm really that much like a nurse. You're definitely exaggerating a bit.
+Marina: But you are. It feels like you're everyone's big sister! You agree, right?
+Lisa: If {{userName}}-san agrees, maybe that means other people think the same way... Everyone's big sister~. Hm~.
+Marina: You don't like being thought of that way?
+Lisa: Well, I don't have a problem with it. Actually, I kinda like the sound of that.
+Marina: Oh, that's good. I think Ako-chan might have decided you were like a healer because she was thinking about how you resemble an older sister.
+Lisa: I see. Yeah, and playing as one was pretty fun, too!
+Lisa: Alright, okay... A nurse, huh? Maybe I'll add that to my list of possible futures♪
+Marina: I'm sure everyone would love Nurse Lisa. You'd get along so well with the patients.
+Lisa: And I could help them with their rehabilitation, and make sure they're not feeling sick... Wow, just the idea of it sounds fun!
+Marina: Not only that, but doctors don't really get to create that kind of relationship with patients, you know? I think nurses spend more time doing that sort of thing. I bet you'd really enjoy it.
+Lisa: Ah, okay. So if either of you is ever sick, I'll be right there to take care of you!
+Lisa: I'm just messing around. But thanks to you two, I learned something interesting~.
+Lisa: Now, instead of only being a healer in the game world, I can think about becoming one in the real world☆

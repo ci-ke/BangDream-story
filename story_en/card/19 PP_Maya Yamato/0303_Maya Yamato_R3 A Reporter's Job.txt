@@ -1,0 +1,95 @@
+303_Maya Yamato_R3 A Reporter's Job
+
+<Respect for Michelle>
+
+(Character: Misaki Okusawa, Maya Yamato)
+
+[Shrine - Entry Path]
+
+Maya: Okusawa-san, did you find anything over there?
+Misaki: No, it doesn't seem to be over here.
+Maya: Hmm... We're not having much luck finding this pouch, are we...?
+Misaki: Nope...
+Maya & Misaki: ...
+Maya: W-we never really had the chance to talk before, so this is kind of awkward, isn't it?
+Misaki: I-I guess so. Um... should we like, re-introduce ourselves or something...?
+Maya: Let's do that! I'm Maya Yamato! I play the drums for Pastel＊Palettes!
+Misaki: I'm Misaki Okusawa. I'm more or less Michelle and the DJ for Hello, Happy World! ...
+Maya: Wh-what's the matter?
+Misaki: Oh, it just feels kind weird saying that I'm Michelle, or that I'm a DJ...
+Maya: That's not true! There's nothing weird about it! You're Michelle-san, after all!
+Misaki: R-right...
+Maya: Speaking of which... There was something I always wanted to ask you about Michelle-san. Do you mind if I do?
+Misaki: Uh, go ahead. What do you want to know?
+Maya: How does it work inside that suit?
+Misaki: What exactly do you mean...?
+Maya: I-I'm sorry! There's actually a whole list of things I want to ask... First of all, how do you see what's in front of you?
+Misaki: Oh, there's space in the mouth that I can see out of...
+Maya: I see. Oh, and is it true that it smells really nice inside Michelle-san...?
+Misaki: Ahh, I think Hagumi said something like that in the past...
+Maya: Oh, I see!
+Maya: What kind of nice smell is it exactly? Also, I'm really curious about how the world looks from in there...
+Misaki: I-if you're that curious, do you want to try jumping inside?
+Maya: Wh-whaaat?! Me? I couldn't possibly do something as profound as that!
+Misaki: Pr-profound...? It's just a bear suit, you know?
+Maya: No way! What are you talking about?
+Maya: Michelle-san has transcended Hello, Happy World! She's like a mascot for the entire Girls Band Party!
+Misaki: Wh-when did that happen...?
+Maya: I could  never jump inside something so important... Just thinking about it makes me nervous!
+Misaki: What~? ... It's not actually that special, you know...?
+Maya: Not true! It's my belief that you're only one who has the right to be inside Michelle-san, Okusawa-san!
+Misaki: Th-thank you, I guess...?
+Maya: I've heard that there are plenty of fans of the face behind the mask of Michelle-san. That's you, Okusawa-san.
+Misaki: Okay, that's not possible. It has to be some kind of joke...
+Maya: Not to mention the fact you can spin the turn tables without missing a beat despite that bulky suit. It's practically a superhuman feat!
+Misaki: I-it's really not that big a deal, you know...?
+Maya: And then there's your moves! Michelle-san has a combination of cute and cool going when you do your thing!
+Maya: I think the only reason you can do moves like that is because you, Okusawa-san, are one with Michelle-san!
+Misaki: (What the~...? Why am I getting hit with this praise bomb...?)
+Maya: ... Which is exactly why I cannot go inside Michelle-san.
+Maya: You're the only person for the job, Okusawa-san!
+Misaki: S-sure... Thank you...
+Misaki: I'll keep giving it my best as Michelle...
+Maya: ... Ah! I-I'm sorry... I got kind of carried away there...
+Maya: I-it's just that... I have great respect for Michelle-san...
+Misaki: Oh, uh, err...
+Misaki: (This is kind of awkward, but it doesn't actually feel bad being showered with praise like this.)
+Misaki: W-well, we can talk about Michelle anytime, so for now let's keep searching for that pouch!
+Maya: Good point!
+
+
+<Last Year's Omikuji>
+
+(Character: Maya Yamato)
+
+[Fast Food Store]
+
+Maya: Oh, {{userName}}-san! Hello!
+Maya: It's quite busy in here, huh...? Would you like to sit with me?
+Maya: Are you on your lunch break now, {{userName}}-san?
+Maya: I'm about to head to the talent agency to review the segment we recorded the other day!
+Maya: That's right! Eve-san and I went to the shrine on New Years day to interview the visitors there!
+Maya: Working on location can be nerve-racking... We have to approach strangers, after all...
+Maya: Not to mention the crowds! Just hearing what the people were saying was hard work.
+Maya: During our break, Eve-san and I prayed at the shrine with Tsurumaki-san and the others!
+Maya: Fortune slips? I didn't draw one myself, but Eve-san did and she drew great misfortune...
+Maya: She lost her pouch right after that and was really depressed...
+Maya: But in the end, it turned up and she was able to experience lots of things we do for New Years in Japan, so she cheered up!
+Maya: I have to say... even now I still find it hard to believe that I appear on TV...
+Maya: For me, those New Years programs were always something I'd watch at home while bundled up and eating tangerines...
+Maya: But now, I'm on them as an idol...  I know I say this a lot, but I feel like I'll just never get used to this!
+Maya: So many things have changed since I joined Pastel＊Palettes...
+Maya: Time has really gone by so quickly.
+Maya: I can't help but wonder what awaits us.
+Maya: Am I worried? Oh, no! If anything, I'm excited!
+Maya: Oh, speaking of which ! I just remembered, but...
+Maya: I didn't draw a fortune slip this year, but I'm pretty sure I did last year.
+Maya: Now that I think of it, the fortune slip said that it would be an eventful year!
+Maya: I was just thinking that the past year really was eventful.
+Maya: The fortune slips at that shrine might really be a force to be reckoned with!
+Maya: Oh! If you haven't done so yet, you should draw a fortune slip at the shrine too, {{userName}}-san!
+Maya: What if you draw great misfortune, you say? Don't worry!
+Maya: Good things can come from any fortune slip. It just depends on how you look at it!
+Maya: ... These are actually the words that Eve-san told me when we were at the shrine.
+Maya: Ah, look at the time!
+Maya: If you draw a fortune slip, make sure to tell me what you get! See you around!

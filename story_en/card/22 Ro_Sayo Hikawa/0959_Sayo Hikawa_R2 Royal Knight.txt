@@ -1,0 +1,83 @@
+959_Sayo Hikawa_R2 Royal Knight
+
+<Road to the Advanced Class>
+
+(Character: Sayo Hikawa, Rinko Shirokane)
+
+[Hanasakigawa Girls' Academy - Courtyard]
+
+Sayo: Shirokane-san, I see that you brought a sandwich for lunch today.
+Rinko: Ah, yes... The sandwich I got as a reward in NFO looked tasty... So I made one for myself...
+Sayo: Ah, I saw that in the item exchange... Speaking of NFO, I saw you on there the other day.
+Rinko: Huh...? You did...? You were more than welcome... to message me...
+Sayo: I thought about it, but it was right as I was about to log out.
+Sayo: Which leads me to my next question... Did you end up changing classes again?
+Rinko: I was likely playing on one of my alternate characters... when you saw me...
+Rinko: I stick with a wizard as my main... but I switch to an alternate... when I feel like testing something out...
+Sayo: I see. I do not have an alternate character yet, but I do remember there being three character slots available.
+Rinko: Correct... There are a lot of advantages... to having an alternate character...
+Rinko: You can change your appearance whenever you like... and most importantly, a well-trained alternate character can help with item farming...
+Rinko: Certain items have a limit on how many can be obtained... But that's not a problem with multiple characters.
+Sayo: That does sound very efficient.
+Rinko: However, training and molding another character... takes a fair amount of time...
+Rinko: So there is no reason to make one... if you don't feel the need... It's just another way to play...
+Sayo: It's only natural that something so beneficial would take time.
+Sayo: Were you farming items when I saw you the other day?
+Rinko: I was probably... testing out... how some skills work together...
+Rinko: My alternate character finally unlocked their advanced class... so I wanted to get a feel for them...
+Sayo: Huh? Is your other character already at that high of a level? That's rather impressive.
+Rinko: Thank you very much...
+Sayo: I have not upgraded to an advanced class yet, so may I ask how it feels to play one?
+Rinko: They are very different from basic classes... The number of skills alone goes up quite a bit...
+Rinko: There are buffs that can increase your stats or item drop rates... as well as additional passive skills...
+Sayo: The game changes that much...? How very useful.
+Rinko: It is... Having so many options in combat... makes the process worthwhile... in my opinion...
+Rinko: But still... it does require a lot of time and effort... Then there are the special quests you need to clear...
+Sayo: In other words... the path to such useful power is a long one.
+Rinko: Right... What's more... while the quest objectives can only be completed while in a party... the necessary materials can be acquired during solo play...
+Rinko: So while the amounts needed can be rather high... As long as you work on it continuously, you'll have them in no time...
+Sayo: If that is something you struggle with, Shirokane-san, then it may be a little too difficult for me at the moment.
+Rinko: No... I mean... it would be best to have fun... and play at your own pace...
+(Black cut)
+(Background change)
+
+[After Returning Home]
+
+[Rogolo Mine]
+
+Sayo: ... I know Shirokane-san said I could play at my own pace, but... I see no harm in starting to gather materials. She did say that it can be done solo.
+Sayo: However, I am unfamiliar with the dungeons in this area, so I should try not to lose my way...
+Sayo: Let's see how many of each items I'll need. Hmm... 500 for only this one material?!
+Sayo: And there are many materials as well... I am not even one-tenth of the way there. I'll simply need to be patient and keep at it.
+Demon Princess Ako: Ah, Sayo-san! You're online~! Want to do some questing together?
+Sayo: Oh, Udagawa-san. Sure, I don't see why not.
+Demon Princess Ako: Yay~! Hang on, I'll be there in a minute.
+Demon Princess Ako: Now what area are you in~...? Hm? I don't see you around those parts very often. Are you farming items?
+Sayo: I, um... I'm doing nothing in particular! I will head your way, instead. Please wait at the town entrance!
+Demon Princess Ako: ...? Sure, no problem~!
+
+
+<Connecting Through Fun>
+
+(Character: Sayo Hikawa)
+
+[Record Shop]
+
+Sayo: Hello, {{userName}}-san. Are you doing some shopping?
+Sayo: ... I see, so you're here to see if there are any new releases. How very like you to check so regularly.
+Sayo: Me? I am... looking for the soundtrack for a certain video game.
+Sayo: The other day, Roselia played an online game called NFO together as a group, and I remembered Minato-san praising the background music.
+Sayo: I wanted to give it a closer look, which is why I came here.
+Sayo: Y-yes, I am still playing. I'm not as good as Shirokane-san or Udagawa-san, though...
+Sayo: What do I think of our game together? Well, it goes without saying that I thoroughly enjoyed playing with everyone.
+Sayo: It was refreshing to help out Minato-san and Imai-san, who themselves are still beginners.
+Sayo: Playing as a party involves keeping track of many more things than when alone, and it certainly taught me a lot. I would say it was a very interesting experience.
+Sayo: Playing becomes second nature for seasoned players, but for the inexperienced, it can be impossible to know what you're lacking...
+Sayo: It's at those times that we need to consider the perspectives of others and explain things to them in a way they understand. That point of view has allowed me to reevaluate myself.
+Sayo: And with the aid of my fellow party members, I was able to upgrade to an advanced class.
+Sayo: I don't think I could have fulfilled the class change requirements on my own.
+Sayo: Yes, I would say that I am satisfied. We accomplished our goal, and it was a very relaxing and enjoyable experience from start to finish.
+Sayo: True... As a break, that day could not have gone any better.
+Sayo: Not everything went according to plan, but that's also why we were able to have such a wonderful time together.
+Sayo: But now, the time for rest is over. I plan to focus completely on our next performance.
+Sayo: I am certain it will be a show worth seeing. Please look forward to it, {{userName}}-san.

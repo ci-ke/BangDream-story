@@ -1,0 +1,45 @@
+1812_Taki Shina_R1 Rhythm Re-Start
+
+<Self-introduction>
+
+(Character: Taki Shina)
+
+[RiNG Cafeteria]
+
+Taki: My name is Taki Shina... I play drums in MyGO!!!!!
+Taki: And I also compose music.
+Taki: ... Well there's nothing much to say about me. Let me talk about the band instead.
+Taki: MyGO!!!!! is... honestly immature as a band. Our performances are nothing special either.
+Taki: But that's why I want you to come to our live shows and listen to our songs.
+Taki: I really think Tomori's lyrics and songs are amazing. It feels all the frustrations and emotions inside of me have been put into words and made into song.
+Taki: It makes me feel a little bit better... It's like a relief.
+Taki: I would be happy... if you could feel it for yourself at least a little at our live show.
+Taki: Thank you in advance for supporting MyGO!!!!!
+Taki: ... Whew. I was a little nervous...
+Taki: Stray Cat, how long are you going to keep that camera running? Just cut it out already.
+
+
+<The reason is>
+
+(Character: Taki Shina)
+
+[RiNG facade]
+
+Taki: ... Ah, {{userName}}-san. Hello.
+Taki: I see you're over here today and not in CiRCLE.
+Taki: I'm about to start my shift. Maybe at the cafe.
+Taki: ... No, it's not that hard. The customer service is usually done by someone else.
+Taki: I mean, I just wash dishes and make coffee in the back.
+Taki: Ah... But lately there's been a few troublesome characters.
+Taki: Anon keeps blabbing on and on. And the Stray Cat is always asking for a parfait.
+Taki: Sigh... To think I went to the trouble of choosing a place where I don't know anyone...
+Taki: Hmm? I mean... Isn't it annoying if you have acquaintances at your part-time job?
+Taki: I have to worry about things that have nothing to do with my work.
+Taki: If possible, I want to concentrate on my work while I'm working...
+Taki: Is there any reason why I chose RiNG? Well, there's one.
+Taki: ... I wanted to learn more about bands properly.
+Taki: I didn't know much about music, such as composition, equipment, live shows, etc...
+Taki: I thought I could learn a lot here while working part-time...
+Taki: After all, I didn't want to give up.
+Taki: ... No, it's nothing. Well, it's time for me to go.
+Taki: See you again.

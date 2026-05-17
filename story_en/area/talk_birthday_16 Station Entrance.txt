@@ -1,0 +1,363 @@
+1:20026 [Station Entrance]
+
+(Character: Kaoru Seta, Sayo Hikawa, Rokka Asahi)
+
+ロック (Rokka): お誕生日おめでとうございます！　紗夜先輩！ これ、私からのプレゼントです……！
+薫 (Kaoru): 紗夜、生まれてきてくれてありがとう…… これは私からだよ……
+紗夜 (Sayo): ありがとうございます。 これは……旭湯入浴券と、マッサージ券？
+ロック (Rokka): は、はい！　何人でも大丈夫なので、Roseliaのみなさんや 日菜先輩を誘ってぜひ来て下さい！
+薫 (Kaoru): ギタリストは常にギターを肩にかけているからね…… たまには肩の荷を下ろして疲れを癒すのがいいと思ったんだ。 ギタリスト同士、日菜と一緒に行ってみたらどうかな……
+紗夜 (Sayo): なるほど…… 一日くらい、力を抜いてゆっくりしてもいいかもしれませんね。 気が向いたら、日菜も誘ってみます
+紗夜 (Sayo): （とはいえ、日菜を誘ったらゆっくりできないかしら……）
+
+
+2:20027 [Station Entrance]
+
+(Character: Aya Maruyama, Chisato Shirasagi, Reona Nyubara)
+
+彩・千聖: パレオちゃん、誕生日おめでとう！
+パレオ (Reona): 彩ちゃん……っ！　千聖さん……っ！ ありがとうございますっ！　大好きなお二人に祝ってもらえる なんて最高の一日になりそうです……！
+千聖 (Chisato): ふふっ。 彩ちゃんと話し合ったのだけれど、プレゼントはパレオちゃんの 一番好きなものを選んでもらおうということになったの
+彩 (Aya): なにか欲しいもの、ある？
+パレオ (Reona): お祝いしてもらっただけで幸せなのに、 プレゼントなんて受け取れませんっ！
+彩 (Aya): そんなこと言わないで～。 何でもいいんだよ♪
+パレオ (Reona): じゃ、じゃあ…… 彩ちゃんと千聖さんの『ゆらゆら』が聞きたいですっ！
+彩 (Aya): えっ、そんなことでいいの？ じゃあ、今からカラオケに行っちゃう！？
+パレオ (Reona): ……！　い、行きたいですっ！ パレオ、一生の思い出にしますね……♪
+千聖 (Chisato): ふふ、すごく楽しい誕生日会になりそうね
+
+
+3:20033 [Station Entrance]
+
+(Character: Arisa Ichigaya, Hina Hikawa, Nanami Hiromachi)
+
+Hina: Nanami-chan, happy birthday~♪
+Arisa: Happy birthday, Nanami-chan. Here's a present for you.
+Nanami: Thank you both so much~! Th-this is "A Complete Guide to Meal Toys"~!
+Arisa: Ahh, yeah. We know you like those kinds of freebies, but we weren't sure which ones you're collecting right now.
+Hina: Yeah, right. So we figured you'd like a handbook with a bunch of toys like that in it.♪
+Nanami: This makes me so happy! Gosh~, the two of you suddenly asked me to meet, so I did an online search to try and figure out why~.
+Hina: Ahaha♪ Nanami-chan, you're so funny~!
+Arisa: Oh come on, we're not the kind of seniors to do something mean...
+Nanami: Right~! I have to say though, I'm surprised you found this guide. This went out of print one year and three months ago~♪
+Arisa: Whoa! I-I'm amazed you remember in such detail~.
+Nanami: Huh? A-ah~... That's because I really wanted it~. Ahaha... I just happened to recall it~! Thank you both so much for the present~♪
+
+
+4:20039 [Station Entrance]
+
+(Character: Kasumi Toyama, Mashiro Kurata, Rokka Asahi)
+
+LOCK (Rokka): Kasumi-senpai!
+Kasumi: LOCK and Mashiro-chan! What's up?
+Mashiro: Umm, uh... R-ready, go~.
+LOCK & Mashiro: Happy birthday.
+LOCK (Rokka): Here is a present!
+Kasumi: Wow, this is really pretty wrapping paper! It even has stars on it~!
+Mashiro: I hope you like what's inside...
+LOCK (Rokka): We went to buy you something together and ended up having trouble picking something for the entire day.
+Kasumi: You two... You're so cute~!
+Mashiro: Eek!
+LOCK (Rokka): I-It's such an honor to get a hug from you~!
+Kasumi: Thanks! I'll treasure it forever and ever!
+Mashiro: She hasn't even looked inside it yet...
+LOCK (Rokka): But it seems like she liked it. What a relief~.
+
+
+5:20040 [Station Entrance]
+
+(Character: Rimi Ushigome, Ako Udagawa, Rokka Asahi)
+
+Ako: Rokka~! Happy birthday.
+Rimi: Happy birthday, LOCK-chan.
+LOCK (Rokka): Whoa, thank you so much!
+Ako: You have time after this, right?
+LOCK (Rokka): Yeah. I made sure to make time like you told me to. Are we going somewhere?
+Rimi: Actually, I was thinking we could go to the new Japanese confectionery shop. Everyone in Poppin'Party found it by chance previously, and their red bean paste is so good...
+Rimi: You can eat in the shop, so we were all saying how we wanted to bring you with us the next time.
+LOCK (Rokka): You all were talking about me...?! And you even remembered the things I like. I'm so touched...
+Rimi: Of course we remember. You're a dear junior to all of us in Poppin'Party, after all.
+LOCK (Rokka): Rimi-senpai...! Thank you so much!
+Ako: Ahaha. Isn't that great, Rokka?
+LOCK (Rokka): Yeah!
+
+
+6:20050 [Station Entrance]
+
+(Character: Arisa Ichigaya, Misaki Okusawa, Rei Wakana)
+
+Misaki: Ah, Ichigaya-san's here.
+LAYER (Rei): Yeah. Ready then? One, two...
+LAYER & Misaki: Happy Birthday! Happy Birthday~.
+Arisa: Whoa!
+LAYER (Rei): Fufu, sorry. Did we surprise you? Your bandmates said you like surprises.
+Arisa: Uh, I wouldn't say I like them... B-but thanks anyway.
+Misaki: We ran into each just now and figured we might as well give you our presents together.
+Misaki: So with that said, here you go. Your birthday presents from us.
+Arisa: Th-thanks... I'm guessing the felt bonsai's from you, and the chocolate's from LAYER.
+Misaki: You got that right~. Mine might be a bit too childish for you though.
+Arisa: No way! That's totally not true at all! I'll put it in my room when I get home.
+LAYER (Rei): I wasn't sure what to get you, but then Lisa-san told me you make sweets together.
+Arisa: These chocolates are from a store I've been eyeing for a while now. I'll savor them for sure.
+LAYER (Rei): Fufu, I'm glad you seem to like them.
+Arisa: Um, so, uh~... Thanks, guys...
+Misaki: Oh, Ichigaya-san, are you blushing?
+Arisa: N-no, I'm not blushing at all, all right?
+
+
+7:20058 [Station Entrance]
+
+(Character: Tae Hanazono, Lisa Imai, Rei Wakana)
+
+LAYER (Rei): Oh? Hana-chan, Lisa-san!
+Tae: Happy birthday, Rei.
+Lisa: I heard it was your birthday today, so I came along with Tae to celebrate☆
+LAYER (Rei): Thank you. Haha, I feel like I'm going to blush...
+Tae: Here's your present. You like this stuff, right?
+LAYER (Rei): What could it be...? Oh, it's honey!
+Lisa: And my gift's some scones that should go perfect with that honey~.
+LAYER (Rei): Wow, they look amazing! Did you bake all these yourself?
+Lisa: You bet☆ And there's a bunch of flavors, so tell me what you think once you finish them!
+Tae: The chocolate one was really good.
+LAYER (Rei): Fufu, I see you had some too, then.
+LAYER (Rei): Thanks, you two. I'll make sure to savor these.
+
+
+8:20063 [Station Entrance]
+
+(Character: Rimi Ushigome, Kaoru Seta, Sayo Hikawa)
+
+Sayo: Happy Birthday, Ushigome-san.
+Kaoru: The day you came into this world... Ah, what a truly fleeting day!
+Rimi: Thank you very much for wishing me a happy birthday, both of you!
+Sayo: Seta-san, will you do the honor of giving Ushigome-san her present?
+Kaoru: Ah, yes. I shall do so with pleasure. Rimi-chan, my dear little kitten, I have here tickets for our theater club's next performance at the end of next month if you are available.
+Rimi: Wow, I'm looking forward to it already~! I'll make absolutely sure I'm free on that day no matter what!
+Kaoru: Fufu, marvelous. You see, Sayo here came to me just mere days ago seeking advice concerning what to do for you.
+Kaoru: The ideas she had for your birthday gift were countless, and the passion with which she laid them out before me was fleeting indeed.
+Sayo: S-Seta-san! Did you have to tell Ushigome-san that...?!
+Rimi: I had no idea. Thank you very much!
+Sayo: I-it was nothing, really... I simply heard that you are a fan of Seta-san's...
+Rimi: I really appreciate this gift and all the thought you both put into it~!
+
+
+9:20064 [Station Entrance]
+
+(Character: Hina Hikawa, Maya Yamato, Reona Nyubara)
+
+Hina: PARE-chan! Happy Birthday~! Here you go! It's our band's first t-shirt from back when we debuted! You said before you wanted one, right~?
+Maya: We found it while cleaning up at the agency. The staff gave us permission to give it to you, so it's yours if you'd like!
+PAREO (Reona): (Eek! This legendary merchandise was only ever sold in limited quantities, and it's never been reprinted! I've always wanted one, but I don't know if I can accept...)
+Maya: PAREO-san...? You look like you've frozen up... Are you okay?
+PAREO (Reona): Oh! Th-thank you very much! As grateful as I am for the thought, I just can't accept it!
+Hina: Aw~, why~? Do you already have one?
+PAREO (Reona): No! In fact, I would give my right arm to own this!
+PAREO (Reona): But this is a shirt that Pastel＊Palettes fans everywhere are praying will be sold again... As a fan, it wouldn't be right for me to hoard this treasure all to myself!
+Hina: Huh~? I don't get why you're thinking about other people~. Just take it~, PARE-chan!
+Maya: Okay... I understand, PAREO-san... Oh, I know! I can try asking the agency staff to see if the shirt can be made available again!
+PAREO (Reona): Are you sure?! Wow, thank you so much! If it does get sold again, I will purchase one copy each for storing, viewing, wearing, and drawing more people into the fold!
+Hina: Well~, so much for our birthday present for you~...
+PAREO (Reona): No, no! Not only did both of you think so much about me, but you also celebrated my birthday! I couldn't ask for a better present if I tried!
+
+
+10:20065 [Station Entrance]
+
+(Character: Himari Uehara, Chisato Shirasagi, Reona Nyubara)
+
+PAREO (Reona): Happy Birthday, Chisato-san! Himari-san and I got these for your birthday! We hope you'll accept them!
+Himari: We went and got some scones for you because PARE-chan mentioned that you've been ordering them at cafés lately♪
+PAREO (Reona): The ones from this store are supposed to be very delicious according to Himari-san. She was the one who told me about them.
+Chisato: Why, thank you, Himari-chan, PAREO-chan. I appreciate this a lot.
+Chisato: I have to say, though, I am somewhat surprised that you knew, PAREO-chan. While it is true that I've been getting a lot of scones lately, I don't recall having ever told you...
+PAREO (Reona): You mentioned it during the interview for that magazine that became available last week! I made sure to secure a copy on the very day, of course!
+Chisato: It wasn't exactly a magazine interview, though... It was more like a small article in a free local publication... I'm quite surprised you managed to find it.
+PAREO (Reona): As a Pastel＊Palettes fan, I make it my job to examine every medium that covers the band, even when there isn't very much information written.
+Himari: Spoken like a true fan!
+Chisato: Is this other gift... strawberry jam?
+Himari: That one we made ourselves!
+PAREO (Reona): Since we were going to give you scones, Himari-san said it was essential that we include some jam! She showed me how it's made!
+Himari: Berry jams go really well with scones! Please try it out♪
+Chisato: Fufu. Thank you, both of you. I'll be sure to enjoy the scones and the jam together with some tea.
+
+
+11:20073 [Station Entrance]
+
+(Character: Ran Mitake, Chisato Shirasagi, Ako Udagawa)
+
+Ran: Happy birthday, Ako.
+Chisato: This is a little something from both of us.
+Ako: Ran-chan, Chisa-senpai, thank you~! Can I open it now?
+Chisato: Fufu, sure.
+Ako: Yay~! I wonder what it could be~♪
+Ako: ... Wow! Is this a mask?! It's so cool~!
+Ran: It's an eye mask. You can warm it up in the microwave or cool it in the fridge.
+Chisato: You like playing games, so we thought your eyes might get tired after playing for a long time.
+Chisato: With this, you can enjoy doing what you like without having to worry about your eyes getting dry or tired.
+Ako: Really~?! If I wear this after playing games, it'll stop my eyes from squinting?
+Ran: Yeah. It's also scented with herbs that make you relax, so it should help you sleep too.
+Ako: Thank you both! I should be able to beat that foul boss now that I have this!
+Chisato: Fufu, good luck.
+Ako: Fu fu fu, with this onyx mask in my hands I shall... Um, use the power of darkness to, uh... Boom!! Easily crush the boss!
+Ran: I told you, it's an eye mask, not a mask.
+
+
+12:20074 [Station Entrance]
+
+(Character: Kasumi Toyama, Rei Wakana, Chiyu Tamade)
+
+LAYER (Rei): Happy birthday, Kasumi-chan.
+Kasumi: Oh wow~! Rei-san, CHU²-chan, thank you!
+LAYER (Rei): CHU², come on, give it to her.
+CHU² (Chiyu): Why do I have to do it?! You picked it out, so you should give it to her.
+LAYER (Rei): But you're the one who knew about Kasumi-chan's birthday.
+CHU² (Chiyu): Sigh~... Fine. Happy birthday, Kasumi. This is from us.
+Kasumi: Huh? You even got me a present? Yay~!
+CHU² (Chiyu): Open it. What's inside should give you that sparkling, heart-pounding feeling you always talk about.
+Kasumi: Really~? I wonder what it is~. Time to see what's inside... Wow! What is this~?!
+LAYER (Rei): It's a light that turns your room into a planetarium. When you turn it on, your ceiling and walls will be covered with stars.
+Kasumi: My room will become a starry sky...?!
+CHU² (Chiyu): I said we should've gotten something more practical since you're in a band, but LAYER was, you know...
+LAYER (Rei): I thought this would be the perfect present for you. The vocalist is supposed to be the star, after all.
+Kasumi: I'm so, so, so, so happy! I bet singing with it lit up is gonna feel great~!
+Kasumi: I can't wait till it gets dark so that I can try! Thank you both so much!
+
+
+13:20080 [Station Entrance]
+
+(Character: Tsugumi Hazawa, Maya Yamato, Tsukushi Futaba)
+
+Tsugumi: Happy birthday, Tsukushi-chan!
+Maya: This is from us!
+Tsukushi: What?! A-are you sure? Thank you so much...!
+Tsukushi: Wow, the way it's gift-wrapped is so cute!
+Tsugumi: It is, isn't it? I asked Maya-senpai to handle the wrapping!
+Maya: A-actually... it's thanks to the gift wrap and ribbon Hazawa-san picked.
+Maya: What's inside is even more amazing though!
+Tsukushi: Oh, may I open it?
+Tsugumi: Of course!
+Tsukushi: Let's... see... Ah, cookies. They look so delicious...!
+Maya: Hazawa-san baked them!
+Tsugumi: Ehehe. I had to ask Maya-senpai to repeatedly see how they tasted though.
+Tsukushi: Repeatedly?! I can't believe you went to so much trouble and spent so much time for my sake...
+Tsukushi: I really appreciate this heartfelt gift! Thank you so much!
+
+
+14:20082 [Station Entrance]
+
+(Character: Tomoe Udagawa, Aya Maruyama, Rinko Shirokane)
+
+Aya: Rinko-chan! Happy birthday!
+Tomoe: This present is from us!
+Rinko: For me? Um... th-thank you... very much...
+Rinko: A small bouquet... with a vase...?
+Aya: The white and light blue gradient is pretty, don't you think? We got it because we knew it'd go well with you!
+Tomoe: And if you place it at the edge of your desk, it'll help you relax too.
+Rinko: I'm so... happy... Thank you very much...
+Aya: Ehehe, great!
+Aya: I'll tell you later about the place that arranges flowers to go with mini vases!
+Tomoe: Actually, would you like to go together sometime? Ako's interested in going...
+Aya: Nice! Let's all go then!
+Tomoe: I'm sorry for kind of forcing my needs on you.
+Rinko: No, it's completely fine... I would like that very much.
+Rinko: I can't wait... to go to the flower shop together.
+
+
+15:20087 [Station Entrance]
+
+(Character: Rui Yashio, Reona Nyubara, Chiyu Tamade)
+
+PAREO (Reona): Come on. Say it with me, CHU²-sama♪ Rui-san, Happy...!
+PAREO & CHU²: Birthday~!! Birthday...
+Rui: ... Thank you.
+CHU² (Chiyu): ... Sheesh. Would it hurt you to at least look happy?
+PAREO (Reona): Fufufu. CHU²-sama, did you not notice? The corners of her mouth raised a little!
+Rui: No, they did not.
+CHU² (Chiyu): Hmph... So? Is there anything you want to eat?
+PAREO (Reona): Please tell us anything you want! Whether it is sweet or cute~♪
+Rui: I suppose the one thing I currently wish to eat is zenzai soup with mochi.
+CHU² (Chiyu): I see. Let's get going, then.
+Rui: ... Where?
+CHU² (Chiyu): ...?! Isn't that obvious? We're going out to eat zenzai soup with mochi!
+Rui: I would appreciate it if you summarize what you want to say before speaking.
+CHU² (Chiyu): Grr...! You really are charmless... But today's your birthday. I'll overlook it for today...
+
+
+16:20088 [Station Entrance]
+
+(Character: Tae Hanazono, Rokka Asahi, Masuki Sato)
+
+LOCK (Rokka): Tae-senpai! Happy Birthday!
+MASKING (Masuki): We want ya to have this.
+Tae: LOCK! Massu! Thanks!
+Tae: Can I open it right now?
+LOCK (Rokka): Yes! We hope you'll like it...!
+Tae: Whoa! Rabbit-shaped manju!
+MASKING (Masuki): We found 'em when we went on RAS's last band trip.
+Tae: These bunnies are so cute it's almost a shame to eat them!
+LOCK (Rokka): There are three kinds of fillings. There's red bean paste, sweet potato, and strawberry.
+Tae: I see. Since there are three kinds, let's eat them together.
+LOCK (Rokka): Oh no, we couldn't possibly do that.
+Tae: But if we eat them together, I think they'll taste three times as good!
+MASKING (Masuki): True enough! Plus, we can't refuse a request from ya on your birthday.
+LOCK (Rokka): That's a good point. Since you offered, I guess we'll have some.
+Tae: Okay. Then all together now...
+Tae & LOCK & MASKING: Let's eat!
+
+
+17:20089 [Station Entrance]
+
+(Character: Mashiro Kurata, Rui Yashio, Chiyu Tamade)
+
+Mashiro: CHU²-san, Happy Birthday.
+Rui: We have come on behalf of Morfonica to give you a present we arranged for together.
+CHU² (Chiyu): Is this... an assortment of jerky? Just so you know, I don't eat just any kind of jerk-
+CHU² (Chiyu): ...?!
+Mashiro: Wh-what is it?
+CHU² (Chiyu): How... did you get your hands on this?!
+Rui: Apparently, Kirigaya-san asked an acquaintance to place an order for it.
+CHU² (Chiyu): Unbelievable... These are all super rare treats generously made with the highest grade of wagyu beef...!
+Mashiro: Huh? Are they really that amazing...?
+CHU² (Chiyu): Thank you! I'll accept them with open arms...!
+
+
+18:20093 [Station Entrance]
+
+(Character: Mashiro Kurata, Tsukushi Futaba, Rei Wakana)
+
+LAYER (Rei): Ah. Mashiro-chan. Tsukushi-chan. Hello.
+Mashiro: H-hello...
+Tsukushi: LAYER-senpai! U-um, we have something we want to give you... Ready, go!
+Mashiro & Tsukushi: Happy Birthday!!
+LAYER (Rei): Whoa, thanks!
+Mashiro: We went shopping, but we couldn't find anything that would be a good present...
+Mashiro: So... uh...
+Tsukushi: W-we made cookies for you!
+LAYER (Rei): You both thought so hard for my sake. That makes me so happy.
+Tsukushi: Thank goodness~!
+LAYER (Rei): So they're animal-shaped cookies. Even the wrapping is really cute.
+Mashiro: Th-thank you very much!
+LAYER (Rei): Fufu. I'll make sure to savor them.
+
+
+19:20094 [Station Entrance]
+
+(Character: Kasumi Toyama, Kokoro Tsurumaki, Mashiro Kurata)
+
+Kasumi: Mashiro-chan~!
+Kokoro & Kasumi: Happy Birthday!
+Mashiro: Whoa! Kasumi-san and Kokoro-san?!
+Mashiro: Thank you both very much...!
+Kasumi: After this, Kokoron and I plan to throw a "Mashiro-chan Smiley Surprise Party!" Here's your invitation!
+Mashiro: What~?! I-isn't this a little sudden? I-it does make me happy, though...
+Kokoro: Let's have a party in the biggest hall at my house! And for your cake, we'll-
+Kasumi: Agh! Kokoron! That's a surprise, so you have to keep it a secret!
+Mashiro: I-it's going to be at Kokoro-san's house...?! J-just thinking about it is making me nervous...
+Kokoro: We've planned oodles of fun things! Michelle and I will do some juggling, and also-
+Kasumi: Kokoron~! You can't say any more than that~!
+Mashiro: M-Michelle-san's going to be there too...?!
+Kokoro: Of course! We invited all of your friends!
+Mashiro: Huh...?
+Kasumi: Okay, Mashiro-chan! Enjoy yourself today☆ We'll lead you to the party venue~!
+Mashiro: Wh-what~?!
+
+

@@ -1,0 +1,88 @@
+469_Tsugumi Hazawa_R3 Barista
+
+<To the Rumored Coffee Shop>
+
+(Character: Moca Aoba, Tsugumi Hazawa)
+
+[A Certain Station]
+
+Tsugumi: We're here~! I'm pretty sure this is the place...
+Moca: Wow~. So this is where the coffee shop everyone was talking about is~.
+Tsugumi: Seems so! Thanks for coming with me today, Moca-chan!
+Moca: Don't sweat it~. I'll go with you anywhere around the country if it's for something yummy~.
+Moca: The curry is supposed to be good too, right~? I can't wait~.
+Tsugumi: M-mhm! The curry and the coffee!
+Tsugumi: With their blends, I'll be able to drink mine black... Or at least, I should be able to!
+Moca: I see~. I'm not really seeing anything that looks like a coffee shop though...
+Tsugumi: Y-yeah...
+Moca: It's supposed to be named after a famous novelist, right? Maybe it closed down...?
+Tsugumi: I-I don't think so... The place was really popular, after all...
+Moca: Hmm~, which means... they might have moved?
+Tsugumi: Yeah, maybe! Moca-chan, let's try to find it!
+Moca: Okay~. Let's do it~.
+(Black cut)
+(Background change)
+
+[Residential Area]
+
+Tsugumi: We've already done quite a bit of walking, but there haven't been any buildings that look like it might be it...
+Moca: ... Ah, look at that, Tsugu~. What an interesting place to have batting cages~.
+Tsugumi: Huh? Batting cages?! I can't believe they'd have those around here...
+Moca: Now I really wanna know what's going on inside. Let's stop by for a bit~.
+Tsugumi: What?! Uh, yeah. I guess I do kind of wanna know...
+(Black cut)
+(Background change)
+
+[An Hour Later]
+
+Moca: Hmm, to think you'd hit a home run at that very moment...
+Tsugumi: Ehehe, that was so fun! But now I'm covered in sweat after moving around so much.
+Moca: Then do I have good news for you~. Take a look over there~.
+Tsugumi: Ah, a bathhouse! Fufu, I like the ones that are old-fashioned like this~.
+Moca: They're having mugwort baths today~. I'm sure soaking in that is extra refreshing after you've worn yourself out.
+Tsugumi: Ngh... It's hard to say no, but I feel like this isn't the time to be taking it easy…
+Moca: Aww~, c'mon~. It'll be fine~. Check it out. You can even borrow towels and stuff.
+Tsugumi: Mmm~...! O-only for a little while!
+Moca: Okay~. Right this way, ma'am~.
+(Black cut)
+(Background change)
+
+[An Hour Later]
+
+[Residential Area]
+
+Tsugumi: W-we really took it easy in there...
+Moca: It was nice and relaxing~. I kind of feel like my charm improved~.
+Moca: And the coffee milk was great. What a satisfying experience~.
+Tsugumi: Here I was, planning to drink mine black, and I ended up getting that instead...
+Tsugumi: It's already late. I'm sure the coffee shop is closed by now...
+Moca: That's alright~. You may not have found that shop, but that's just a sign that you should practice so that you're able to make black coffee that even you can drink~.
+Tsugumi: I-it feels like you're trying to pull a fast one on me here, but... you're right! I'll do my best!
+Moca: Wow~. Now that's the Tsugu I know. And while you're at it, make some yummy curry, would ya~?
+
+
+<That Store's Curry>
+
+(Character: Tsugumi Hazawa)
+
+[CiRCLE - Lobby]
+
+Tsugumi: What~?!
+Marina: H-hey! Tsugumi-chan! You don't have to be that surprised!
+Tsugumi: Ah, that was loud, wasn't it? Sorry if I scared you, {{userName}}-san... So you two went to that shop, right?! How was it?
+Marina: Ahaha, I see you have no idea what she's talking about. She means that coffee place we went to the other day.
+Marina: Apparently, Tsugumi-chan really wanted to go check it out for herself.
+Tsugumi: Yeah! Moca-chan and I went, and we looked and looked, but we couldn't find it...
+Tsugumi: So I was just getting ready to ask Marina-san where it is! Okay, so where was it?
+Marina: W-well... It was actually sheer coincidence that we passed by it, so I don't recall where it was very well... What about you?
+Tsugumi: So you don't remember either, {{userName}}-san...? Ohh~, I thought I'd finally be able to go...
+Marina: I-I'm sorry, Tsugumi-chan...
+Tsugumi: No problem! Tell me, how was the coffee?!
+Marina: It was pretty good! But I think something else left an even bigger impression on me...
+Marina: Ahaha, you too, {{userName}}-san? The curry they serve there is amazing!
+Marina: I'm not sure how to describe it, but when you eat it, it's like a mysterious, special power wells up inside you!
+Marina: Even {{userName}}-san was ready to ask the chef how it was made, weren't you?
+Tsugumi: I-it was really that g- Wait! That's not what I want to know!
+Tsugumi: I was hoping you had asked how they make their coffee...
+Marina: Ahaha, sorry. Next time I find the shop, I'll be sure to let you know!
+Tsugumi: You will?! I'll be counting on you too, {{userName}}-san!

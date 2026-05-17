@@ -1,0 +1,90 @@
+750_Hagumi Kitazawa_R3 Breathtaking Fireworks
+
+<Hagumi in a Rut!>
+
+(Character: Saya Yamabuki, Hagumi Kitazawa)
+
+[Downtown - Kitazawa Meats]
+
+Hagumi: Thanks for stopping by! See you again soon~!
+Hagumi: Sigh...
+Saya: You sound tired, Hagumi.
+Hagumi: Ah, Saya~! Welcome, welcome~!
+Saya: Hard at work, I see. I'll take the usual, five croquettes.
+Hagumi: Coming right up! Hang tight!
+Saya: ... Hagumi? What was up with that exhausted sighing from earlier?
+Hagumi: Well... I'm in a bit of a jam, you see.
+Saya: A jam?
+Hagumi: Uh-huh... You see, I'm planning on going to the fireworks festival with the rest of the band.
+Saya: Wow~! That sounds like a lot of fun! All the cool stands and whatnot. That should make for an exciting day...
+Hagumi: Y-yeah! I'm looking forward to it!
+Hagumi: We were going to wear our yukata and everything...
+Saya: H-huh? You make it sound like there is a problem...
+Hagumi: You see, my parents made plans for that day. They have to attend a local meeting, and they don't know when they'll be back home.
+Saya: Ah, I see. In other words, you might have to watch the store and miss out on the festival...
+Hagumi: No, no! The store will be closed that day, so I'm not worried about that.
+Saya: So what is it, then...?
+Hagumi: Uhm... I don't know anyone who can help me put on the yukata!
+Hagumi: I tried doing it by myself, but the sash got all tangled up...
+Hagumi: I don't want to be the only one walking around in my normal clothes~!
+Saya: Hahaha, I bet. That does sound like a drag.
+Saya: Say, why don't I help you out?
+Hagumi: Huh? You know how?
+Saya: Sure, more or less.
+Hagumi: Awesome~! Wait... are you sure? Isn't it kinda complicated?
+Saya: Funnily enough, I'm planning on going to the festival with the rest of Poppin'Party.
+Saya: I've helped Kasumi with putting her yukata on before, so... I'll probably have to do it again this year.
+Saya: So why don't I help you out at the same time? I can do the tough parts. How does that sound?
+Hagumi: For real?! Yes, please! Yay~! Thanks, Saya~!
+Saya: Fufu, you're welcome.
+Saya: You can stop by my place that morning. Putting on a yukata can take a long time.
+Hagumi: Whatever you say, Saya-sensei!
+Saya: Fufufu, Kasumi called me the same thing.
+Saya: Anyway, here is the money for the croquettes. That should be enough.
+Hagumi: Ah! I forgot about the croquettes! Sorry, I'll go get them right now!
+Saya: That yukata problem was really weighing on your mind, huh?
+Hagumi: Totally! You have no idea how stressed I was!
+Hagumi: Sorry for the wait! Here is a little present for being such a big help! A few extra freebies!
+Saya: You didn't need to do all that.
+Saya: Whoa! There are ten in here! Talk about generous~.
+Saya: Thank you. I'm sure my family will enjoy these.
+Hagumi: I should be thanking you! Now the fireworks will be even more fun!
+Hagumi: Oh boy, the festival can't come soon enough~! I seriously can't wait~!
+Saya: Hahaha, a new problem to replace the old one.
+Hagumi: Come on, I bet you want it to come sooner too!
+Saya: Of course! Let's be sure to make the most of it!
+
+
+<The Best Memory>
+
+(Character: Hagumi Kitazawa)
+
+[Downtown]
+
+Hagumi: {{userName}}-san! Hey there~!
+Hagumi: That's a big bag you've got. Did you go shopping? You should pop into our shop and buy some croquettes too!
+Hagumi: I helped make today's batch~! My best ones to date!
+Hagumi: Ah, but Dad is on store duty today, so you won't see me if you do stop by!
+Hagumi: Yeah, it's my day off. I'm on my way to go play!
+Hagumi: ... Huh? My bag? Oh, you mean the brooch on it?
+Hagumi: Hehehe, cute, isn't it~?! I've grown pretty fond of it!
+Hagumi: It all goes back to that recent fireworks festival. You know the one, right?
+Hagumi: The rest of the band and I all went in our yukata. That's where I got this brooch!
+Hagumi: While we were there, we got Kano-chan-senpai and Kaoru-kun to help us out with one of the assignments for our summer vacation homework.
+Hagumi: The assignment was about making haiku, but I seriously had no idea what to write...
+Hagumi: That's when Kano-chan-senpai suggested that we find some pretty scenery and write down exactly how it made us feel!
+Hagumi: That's the whole reason why we went to the festival in the first place!
+Hagumi: After that, we looked at all the stands, and we even rode on a pleasure boat...
+Hagumi: It was all so much fun... The best summer of my life so far!
+Hagumi: Huh? Did I actually finish the haiku between all that fun stuff?
+Hagumi: Of course I did! It came out super good too!
+Hagumi: The others wrote some really great ones too. I'll show them to you when I get a chance!
+Hagumi: Hehehe. Sure! It's a promise!
+Hagumi: All of us made a promise to go see the fireworks again next year! They can throw all the haiku homework they want at us! We can take it!
+Hagumi: Hey, I have an idea! You should join us in making haiku, {{userName}}-san!
+Hagumi: It's kind of difficult but also really fun!
+Hagumi: Don’t worry! If you have any trouble, I'll give you some pointers!
+Hagumi: The next time the band gets together to write haiku, I'll be sure to invite you!
+Hagumi: We can iron out the details the next time we're at the studio! Hehehe, I can't wait~.
+Hagumi: ... Hey, wait a minute. What time is it?! Ah, I'm running late!
+Hagumi: Sorry, but I gotta run! Thanks for chatting with me! Later~!

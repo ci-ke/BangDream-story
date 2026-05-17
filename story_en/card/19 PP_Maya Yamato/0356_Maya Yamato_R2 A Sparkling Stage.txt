@@ -1,0 +1,77 @@
+356_Maya Yamato_R2 A Sparkling Stage
+
+<Maya's Equipment Lecture>
+
+(Character: Aya Maruyama, Maya Yamato)
+
+[Talent Agency]
+
+Aya: Excuse me. I'm Aya Maruyama. I came for my fitting toda-
+Aya: Huh? Oh, was this always the equipment room...?
+Aya: S-sorry! I made a mistake!
+？？？: Ah, Aya-san! You're in the right place~!
+Aya: That voice... Maya-chan?! Wh-where are you?
+Maya: I'm right here!
+Aya: O-oh, there you are... I didn't see you with all that equipment around you...
+Maya: S-sorry about taking up so much space...
+Aya: No, it's fine, but... why is this here?
+Maya: Just a little maintenance, that's all.
+Maya: When this room is empty, that's what I use it for.
+Maya: All this equipment is technically only used for practice, but if I keep them fine-tuned, we can get a similar feel to performing live!
+Aya: Really...? I had no idea~!
+Maya: I had a bit of time before our fitting, so I thought I'd do a little work, but looks like I got a carried away...
+Aya: Well, Maya-chan, you do love yourself some equipment!
+Maya: Huhehe... I guess that's true.
+Aya: By the way, Maya-chan... There's a lot of stuff here... Do you know what all of these do?
+Maya: Yup! I know how to use each and every one of these.
+Aya: Wow~! That's impressive! Ah, so what's this?
+Maya: This one? It's a mixer. We connect a bunch of different stuff to it, then use it to control things like volume!
+Aya: Oh~...! So it kind of brings all of the equipment together?
+Maya: Yeah, you can think of it like that! Understanding that much is more than enough!
+Aya: Ah, what about this?
+Maya: That's the power amplifier! It'll take the sound sent from the mixer and amplify it!
+Aya: Amplify... So it creates excitement!
+Maya: Oh, and this is the speaker. With this, all the fans will be able to enjoy our sound!
+Aya: M-Maya-chan! Even I know what a speaker is~!
+Aya: You're amazing though, Maya-chan...
+Maya: Ehehe... Aw, come on, you're making me blush~.
+Aya: Seriously! You're an idol, but you also check your own equipment! There's never been an idol like that before~!
+Maya: Huhehe... I wonder about that...
+Maya: But I never thought I would become an idol. It never even crossed my mind...
+Maya: In fact, if you told my past self that someday I'd be an idol, I would've never believed you!
+Maya: But then everyone in Pastel＊Palettes invited me to join, and I got to be part of the idol world... I'm so thankful for you all!
+Aya: Ehehe, and I'm grateful that you decided to join us!
+Aya: But being able to perform maintenance on your own equipment... Hmm~...
+Maya: Something wrong, Aya-chan?
+Aya: If we're going to keep performing the way we are, I'm thinking I should probably learn more about our this stuff as well!
+Maya: Well, it certainly doesn't hurt! And if your equipment malfunctions, it'll be easier to stay calm and take care of the problem.
+Aya: Right?! Okay, I'm gonna be like you and learn everything I can!
+Maya: If you have any questions, feel free to ask!
+Aya: Definitely! I'll be counting on you, Maya-chan!
+
+
+<A New Dream>
+
+(Character: Maya Yamato)
+
+[Studio]
+
+Maya: Marina-san, I found the problem!
+Maya: Looks like the cords in here are showing some wear and tear after all.
+Marina: Really? So that's it, huh...? Sorry about this, Maya-chan. We really appreciate your help.
+Maya: No, it's totally fine! I'm doing it because I love this kind of stuff!
+Maya: Ah, {{userName}}-san! Good to see you here at the studio again!
+Marina: Maya-chan's helping me repair some of our equipment.
+Marina: Really, if Maya-chan became a staff member here, our jobs would be so much easier!
+Maya: Ahaha, I appreciate you saying that!
+Maya: Actually, for a while, I dreamt of either becoming a session musician or an engineer who fiddles with equipment all day, just like this.
+Maya: ... Alright, all fixed!
+Marina: Really?! Thank you so much, Maya-chan!
+Marina: As thanks, let me know the next time you want to rent out a studio! I'll make it so you can get a free session!
+Maya: Ah, that's not necessary... But thank you very much!
+Marina: ... Hey, Maya-chan. This is totally up to you, but how would you actually like to work for CiRCLE one day?
+Maya: Ahaha... Thank you for the offer!
+Maya: ... But sorry... I have a different dream now.
+Maya: ... And that's to continue working as an idol with the other girls in Pastel＊Palettes!
+Marina: Fufu, I see. Well, that's good. But if you ever change your mind, we'll welcome you with open arms, okay?
+Maya: Thank you! If that happens, I hope you'll be there for me too, {{userName}}-san!

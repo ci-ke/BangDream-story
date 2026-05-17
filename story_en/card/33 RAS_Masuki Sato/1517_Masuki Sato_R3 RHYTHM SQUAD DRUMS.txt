@@ -1,0 +1,95 @@
+1517_Masuki Sato_R3 RHYTHM SQUAD DRUMS
+
+<Having Our Backs>
+
+(Character: Rokka Asahi, Masuki Sato)
+
+[Asahi Bathhouse]
+
+MASKING (Masuki): You can climb off my bike now. We're at your house.
+LOCK (Rokka): Thank you! Umph...
+LOCK (Rokka): Sorry for making you take me home after rehearsing. I know you're tired too.
+MASKING (Masuki): Don't sweat it. I was leavin' anyway.
+MASKING (Masuki): Besides, you're the one that seems worn out.
+LOCK (Rokka): No, I'm n- Yawn~...
+MASKING (Masuki): See?
+LOCK (Rokka): Ugh, sorry...
+MASKING (Masuki): We've been workin' like dogs gettin' ready for the Tokyo R Festival. Plus, you, PAREO, and Rei went somewhere the other day, right?
+LOCK (Rokka): Yeah. We met Saki-san in Shibuya.
+MASKING (Masuki): Thought so... Any luck?
+LOCK (Rokka): Maybe...
+LOCK (Rokka): Wait, did I tell you about that?
+MASKING (Masuki): Nah. CHU² said that's probably what you all were up to, though.
+LOCK (Rokka): She really does see everything...!
+MASKING (Masuki): The girl's got eyes in the back of her head. It's impressive.
+LOCK (Rokka): So... you two know what we did, huh?
+MASKING (Masuki): Yep.
+MASKING (Masuki): When I heard what you three were doin', I thought of goin' after you... But in the end, I decided to stay put.
+MASKING (Masuki): It's like... if I had gone, it probably would've made things worse. You know?
+LOCK (Rokka): Hmm... Well, you do have a short temper...
+MASKING (Masuki): Do I, now? I told ya what happens to smart mouths.
+LOCK (Rokka): Kya! W-wait! That tickles!
+LOCK (Rokka): You pretty much baited me into saying that~!
+MASKING (Masuki): Ahaha, true.
+LOCK (Rokka): Pant, pant... At least go a little easy on me~...
+MASKING (Masuki): Anyway, that's why I left Walhalla to you guys and tried to help RAS in my own way.
+LOCK (Rokka): In your own way...?
+LOCK (Rokka): Ah...! You were sleeping on the studio floor this morning. Wait, did you...!
+MASKING (Masuki): By the time I noticed, it was already mornin'.
+LOCK (Rokka): You mean you were playing the drums all night?! You kept going after we all left yesterday...?!
+MASKING (Masuki): I was pumped to help RAS by practicing as much as I could, but I think I went a bit overboard and tired CHU² out.
+MASKING (Masuki): She stuck with me till she was about to keel over.
+LOCK (Rokka): So that's why CHU²-san looked so sleepy today...!
+LOCK (Rokka): You should get home right away and go to bed. This isn't the time to be giving me a ride home.
+MASKING (Masuki): Relax, it's all good. Besides, when I get home, I'm just gonna start playin' again.
+MASKING (Masuki): Our studio is gonna be empty all night tonight.
+LOCK (Rokka): Argh~... Masuki-san!
+MASKING (Masuki): What?
+LOCK (Rokka): Even if you don't practice like crazy, we know you have our backs.
+LOCK (Rokka): And besides... when we play at the Tokyo R Festival, I want you to be able to jam alongside my guitar with everything you've got. So please take care of yourself!
+MASKING (Masuki): LOCK...
+MASKING (Masuki): You know I will. Make sure you're in good shape too, LOCK.
+LOCK (Rokka): Of course!
+MASKING (Masuki): Alright, see ya at CHU²'s studio tomorrow.
+LOCK (Rokka): Yeah, see you tomorrow. Be careful on your way home, Masuki-san~!
+(Black cut)
+(Background change)
+
+
+<Reverberating Passion>
+
+(Character: Masuki Sato)
+
+[CiRCLE - Lobby]
+
+MASKING (Masuki): Hi~. Is Marina-san or {{userName}} around?
+Marina: Hiya! Thanks for waiting! What can I do for you today, Masuki-chan?
+MASKING (Masuki): Droppin' off somethin' for my dad. He said they're flyers.
+Marina: Oh, right. We talked about these on the phone the other day. Thanks for taking the trouble to deliver them.
+MASKING (Masuki): Here, they're all yours.
+MASKING (Masuki): Man, CiRCLE's always doin' good. Every studio is booked, ain't it?
+Marina: Fufu. Business is good.
+Marina: A few bands that are regulars here have shows this weekend, so I think they're rehearsing daily to squeeze in as much practice as they can.
+MASKING (Masuki): Wow, they're goin' hard. Nice. I've got a rehearsal after this too.
+MASKING (Masuki): Ever since we played at the Tokyo R Festival, everybody in RAS has been so fired up. I practiced till I couldn't lift my arms anymore yesterday.
+Marina: That's amazing. It sounds like the Tokyo R Festival was a good experience for you all.
+MASKING (Masuki): You bet it was! But...
+MASKING (Masuki): To be honest, I think RAS might've been seriously close to callin' it quits.
+MASKING (Masuki): But when I think about it, we've had tons of moments like that.
+MASKING (Masuki): RAS is RAS 'cause every time we slam up against a brick wall, we argue and bump heads until we find a way over it.
+Marina: I see... RAS has been through a lot.
+MASKING (Masuki): But I'm actually happy about that.
+MASKING (Masuki): Since I joined RAS, I've learned that all the energy we spend gettin' on each other's nerves and worryin' about stuff fuels our music.
+MASKING (Masuki): It's like it makes our sound better or somethin'... It's kinda hard to explain.
+MASKING (Masuki): But every time I hear how our sound has changed, I know I'm right.
+MASKING (Masuki): I feel like I wouldn't be as good as I am now if I wasn't with them!
+Marina: Masuki-chan, you look so happy. I'm glad you're with RAS.
+MASKING (Masuki): Me too!
+MASKING (Masuki): ... Huh? Shoot, is that the time already?!
+Marina: Ah, You said you have rehearsals after this, didn't you? I'm sorry. Can you still make it on time?
+MASKING (Masuki): RAS's rehearsal is in two hours, so I've still got plenty of time!
+MASKING (Masuki): I was thinkin' of gettin' to CHU²'s studio early to put in some solo practice. I've gotta work extra hard if I wanna make sure RAS sounds its best.
+MASKING (Masuki): Catch ya later, Marina-san, {{userName}}!
+Marina: Later. Have a good rehearsal!
+(Black cut)
+(Background change)

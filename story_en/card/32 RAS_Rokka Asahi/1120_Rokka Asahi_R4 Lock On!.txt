@@ -1,0 +1,98 @@
+1120_Rokka Asahi_R4 Lock On!
+
+Gacha phrase: Going there will be dangerous!
+
+<Layers of Memories>
+
+(Character: Rokka Asahi, Masuki Sato)
+
+[Asahi Bathhouse - Rokka's Room]
+
+LOCK (Rokka): Please make yourself comfortable, Masuki-san.
+MASKING (Masuki): Thanks, LOCK. Today's bath was another nice one.
+MASKING (Masuki): I didn't say anything the last time I was here, but your room sure is relaxing.
+LOCK (Rokka): It is?
+MASKING (Masuki): Yeah. It just has this vibe... Might be 'cause of the tatami.
+LOCK (Rokka): Fufu, that could be why. You're welcome to lie down if you'd like.
+MASKING (Masuki): Man, you've got nothin' in this room. It feels so spacious even when we lie down.
+LOCK (Rokka): It may not look like it, but I actually have a lot more possessions than when I first moved in.
+LOCK (Rokka): RAS, Poppin'Party, Ako-chan, Asuka-chan... I have a lot of things to remember everyone by.
+LOCK (Rokka): Oh, and the bathhouse guests also give me things.
+MASKING (Masuki): Huh, so is this washcloth also from one of them?
+LOCK (Rokka): That one's from Chiyo-san! She's one of the neighbors who frequents our bathhouse.
+LOCK (Rokka): Now that I think about it, you're also a regular. Thank you for always coming.
+MASKING (Masuki): No need to be all formal with me.
+MASKING (Masuki): I should be thankin' you for cleanin' the place every mornin'. It really does let me enjoy my bath.
+MASKING (Masuki): You know, I only helped out a bit, but cleanin' this place is seriously back-breakin' work~.
+LOCK (Rokka): It may be hard, but it's also rewarding. Seeing the guests enjoying themselves makes me happy.
+LOCK (Rokka): And it doesn't feel hard at all when I'm having fun chatting with them!
+LOCK (Rokka): When I first moved here, I had this scary image of the city... But I've learned that this area is really comfy.
+MASKING (Masuki): Yeah, I know what you mean. Everything here's more laid-back, and even when you go to festivals, you can recognize everyone.
+LOCK (Rokka): Festivals...! I wish I could go...!
+MASKING (Masuki): Huh? You haven't been to a festival since comin' here?
+MASKING (Masuki): I gotta take you to one, then. There's the odd seasonal event as well.
+LOCK (Rokka): You will?!
+MASKING (Masuki): Yeah. Aside from festivals and events, there are still some places with good food that I haven't shown you. We should go some time.
+LOCK (Rokka): Yes! I'd really love to go~!
+LOCK (Rokka): Umm, Masuki-san! There's one other... well, actually two... No, three other places I'd like to go to!
+MASKING (Masuki): Hm? Where do you wanna go? No need to be shy.
+LOCK (Rokka): Well... I want to see a movie, go shopping, and visit your place again!
+MASKING (Masuki): Haha, sure, we can do all of that. Seriously though, you can just come by my place any time.
+LOCK (Rokka): Thank you very much!
+LOCK (Rokka): I... originally came here because I wanted to be in a band, but there are so many other things I want to do now. I've become a little greedy.
+MASKING (Masuki): Nothin' wrong with that. Let's do all those things you wanna do!
+MASKING (Masuki): And it's the same for me too. I wanna hang out with you more at tons of other places.
+LOCK (Rokka): I'm so glad you feel the same way!
+MASKING (Masuki): The other members might feel somethin' similar.
+LOCK (Rokka): It would be nice to visit the hilltop with everyone!
+MASKING (Masuki): Yeah! I wonder when a good time would be~. I wanna take pictures, so it should be when the weather's nice.
+LOCK (Rokka): Once we take a picture, I'm going to put it with my student ID, just like you!
+MASKING (Masuki): Great idea. I'll put mine with my photo of Death Galaxy then.
+LOCK (Rokka): We should give everyone else copies.
+MASKING (Masuki): You think they're the type to carry something like that around?
+LOCK (Rokka): It's okay! Just having the same photos means something.
+LOCK (Rokka): Fufu, it looks like my to-do list has grown longer!
+MASKING (Masuki): Yeah. Let's make them all come true with the rest of the band!
+LOCK (Rokka): Yes!
+
+
+<Time to Get to Know You>
+
+(Character: Rokka Asahi)
+
+[dub - Lobby]
+
+Marina: Hi, Rokka-chan!
+LOCK (Rokka): Marina-san! {{userName}}-san! Thank you very much for coming!
+Marina: And thank you for inviting us. Today's performance was amazing as always~!
+Marina: Especially that part where you and Masuki-chan looked into each other's eyes while playing! You were both perfectly in sync!
+LOCK (Rokka): W-we were?! I'm so happy to hear that from you!
+LOCK (Rokka): When Masuki-san and I did a session before, we actually had trouble playing in harmony.
+LOCK (Rokka): It was probably because we were both so into it, but I ended up feeling really frustrated afterward...
+Marina: Oh. Things like that are hard to ignore, even though they're relatively minor.
+LOCK (Rokka): Yes... I'd never really had that kind of trouble before either...
+Marina: So, how did you manage to solve the issue?
+LOCK (Rokka): We spent as much time together as we could!
+LOCK (Rokka): We thought getting to know each other would help us play together.
+LOCK (Rokka): We watched a movie, went to the arcade, helped each other at work... Oh, and I even went to Masuki-san's place!
+Marina: Nice! It sounds both effective and fun!
+LOCK (Rokka): It was!
+Marina: I see~. So that's how you managed to learn how to play so well together.
+LOCK (Rokka): I'm actually not so sure... It doesn't really feel that way to me...
+LOCK (Rokka): But I'm glad I got to know Masuki-san better, and I hope I can learn even more about her.
+LOCK (Rokka): And I want to know more about everyone in RAS too!
+Marina: Yeah, that sounds good!
+LOCK (Rokka): LAYER-san was the one who suggested that we spend time together so that we would be able to tell what the other person wants.
+LOCK (Rokka): So maybe if I spend more time with everyone, I'll understand their music better, and I'll be able to add more richness to RAS' music...
+Marina: Ah, so that's what you're thinking~.
+Marina: As you said, I think it's important to get to know your bandmates.
+Marina: And I'm sure you'll be able to do that.
+LOCK (Rokka): Really...?
+Marina: Mmhmm! Trust me, I've got an eye for such things! Just kidding.
+LOCK (Rokka): Fufufu, okay! I'll trust you!
+Marina: I bet RAS is going to become an even more awesome band~.
+Marina: You agree too, don't you, {{userName}}-san?
+LOCK (Rokka): Hearing you two say that makes me believe it could really happen...
+LOCK (Rokka): No, no! We'll make sure it does!
+Marina: Good luck, Rokka-chan.
+LOCK (Rokka): Thank you very much! We'll do our best!

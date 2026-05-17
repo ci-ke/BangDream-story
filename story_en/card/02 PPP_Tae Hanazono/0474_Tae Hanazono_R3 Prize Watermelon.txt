@@ -1,0 +1,93 @@
+474_Tae Hanazono_R3 Prize Watermelon
+
+<O-Tae's Bunny Quiz>
+
+(Character: Tae Hanazono, Rimi Ushigome, Arisa Ichigaya)
+
+[After School]
+
+[Hanasakigawa Girls' Academy - Class 1A]
+
+Rimi: The others sure are running late.
+Arisa: Looks like the teacher still has work for them to do. Hmm, what to do to pass the time...?
+Arisa: O-Tae, what's got you so glued to your phone?
+Tae: Me? Just looking up something.
+Rimi: Looking up what, exactly?
+Tae: ... Watermelon quizzes.
+Arisa: ... And what brought this on?
+Tae: You're not interested in becoming a judge?
+Arisa: Uhhh, I'll pass...
+Rimi: ... Watermelon quizzes? Judge?
+Tae: Mhm. All those wishing to become judges for watermelon-splitting contests must pass a watermelon quiz.
+Rimi: ... Sorry, what?
+Arisa: Yeah, it's weird. Those contests have a lot of rules, and you need actual certification to judge the events.
+Arisa: When we went to the beach, one of the contests was taking place there. That's where we heard all about this stuff.
+Rimi: Ah, that makes sense... And this quiz is the official certification exam?
+Arisa: Most likely.
+Tae: Not only do you need a high score on the test, but there's a second condition where you have to eat at least five whole watermelons within a single year.
+Rimi: W-wow, I had no idea becoming a watermelon judge could be so difficult...
+Tae: Me neither. Aw... If only this were a test on rabbits... I would ace it for sure...
+Arisa: As if there's such a thing.
+Tae: There is, though. It accurately measures your affection towards all rabbits. Arisa, want to give it a try?
+Arisa: That's a resounding "nope" from me...
+Tae: Bunny Quiz!  Question one!
+Tae: Which of the following is an unsuitable choice for a rabbit's food, lettuce or broccoli?
+Arisa: Are we really doing this? ... Okay, lettuce contains a lot of water but is also lacking in nutrition, so it's probably a bad choice... or so I've heard...
+Tae: Ding ding ding! Correct!
+Rimi: A-amazing, Arisa-chan! Congratulations!
+Arisa: Phew, that's a relief...I-I mean... I take that back!
+Arisa: Okay, so I got wrapped up in the excitement there a bit, but who made you quiz master?!
+Tae: And now for the next question. There are 10 questions in total. Good luck!
+Arisa: And who said I'd be a contestant in this little game?!
+(Black cut)
+Tae: ... Arisa, you got a perfect score! Unbelievable!
+Rimi: Ahaha... Arisa-chan, you sure are smart!
+Arisa: Come on, these are just general facts. Anybody with even a smidgen of animal-related knowledge could answer these.
+Tae: ... Arisa. You've moved me beyond words.
+Arisa: Huh? ... Do I want to know why?
+Tae: To shelter so much sentiment for rabbits that you could easily pass the Bunny Quiz...! Arisa, I'm just so thrilled!
+Arisa: Wha-?! Y-you've got it all wrong!!
+Tae: With this, you're one step closer to your goal...! Press on, Arisa.
+Arisa: I don't want to be anywhere near this fever dream of yours!
+Arisa: Stop equating basic trivia facts and having common sense with being an obsessed rabbit nut like you!
+Tae: Don't be modest, Arisa. With our combined effort, Hanazono Land can someday become a reality.
+Arisa: Knock, knock! 'Reality' is this way! Why not come back down and join us?!
+
+
+<Rainy Day Small Talk>
+
+(Character: Tae Hanazono)
+
+[Downtown]
+
+Tae: Wow, it's really coming down. Probably best to just find a place to wait it out...
+Tae: To think, there wasn't even a cloud in the sky earlier. I hope it lets up soon... Hmm?
+Marina: Aww man, I really should've brought an umbrella! ... Hm? Is that Tae-chan?
+Tae: Good afternoon, {{userName}}-san, Marina-san.
+Marina: Good afternoon. Why're you just standing outside?
+Tae: I just left this store, actually. As soon as I stepped outside, it started pouring.
+Tae: I didn't think to bring an umbrella, so I'm stuck waiting under this awning. Marina-san, are you two on your way to work?
+Marina: Nope! We're on our break now! Not much we can do without umbrellas, though.
+Tae: I see... If you don't mind, perhaps we can pass the time together until the storm passes?
+Marina: Fufu, you bet! Sitting alone in this downpour would be a bit boring!
+(Black cut)
+Tae: I haven't seen rain like this for a while... And it came out of nowhere, too. The sun was out in full force this morning.
+Tae: Yeah, that's true. It's a good thing that the rain held off until today, or it would've ruined everything...
+Tae: Mhm, I meant our beach trip. Sun and sand go together, after all.
+Marina: We couldn't have asked for better weather that day!
+Tae: And thanks to that, we were able to fully enjoy ourselves. I snapped a ton of photos of Arisa, and it seemed like everyone had a really good time.
+Tae: The water temperature was just right. A part of me wanted to just float there forever.
+Tae: Being able to swim with such adorable little fish, playing beach volleyball together, and then watermelon-splitting... That is what I call a complete beach experience.
+Marina: Despite it being a team competition, Arisa-chan stole the spotlight and gave that watermelon a good pummeling!
+Tae: The rest of us were supporters. And we won the event, believe it or not! Arisa split the melon straight down the middle.
+Tae: {{userName}}-san, I wish you could've been there to see.
+Marina: Hehe, I don't think I've ever seen Arisa-chan as happy as she was when she nailed that fruit.
+Tae: It was surprising, to say the least. I honestly didn't think she was capable of being that giddy about anything.
+Tae: ... You've got that right.  I didn't know she had that side to her. It was nice to see her being that upbeat for a change.
+Tae: The watermelon itself was also quite good.  It sure was a lot of fun.
+Marina: It really was~. I'm glad I was chosen to be an event judge.  ... Oh, I brought you back a little souvenir, {{userName}}-san!  I'll give it to you later, okay?
+Tae: Ah, so did I. I'll be sure to bring it with me the next time I go to the studio.
+(Black cut)
+(Background change)
+Tae: ... Oh good, the sun's back out.
+Tae: Thank you very much for spending the afternoon with me. Please look forward to your souvenir. I hope you'll like it.

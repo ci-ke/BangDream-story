@@ -1,0 +1,87 @@
+958_Yukina Minato_R3 Song of Invincibility
+
+<For the Band...?>
+
+(Character: Yukina Minato, Ako Udagawa, Rinko Shirokane)
+
+[Studio]
+
+Yukina: Okay, let's take a break for now. Be sure to rehydrate, everyone.
+Ako: Okay~! Roger that.
+Ako: Hey, Rin-rin. Don't you think I'm on fire today? I'm in sync with everyone. It really shows, doesn't it?!
+Rinko: You're right... The end of that last phrase also went well...
+Ako: I know, right?! It felt great to match our sounds. It was like, boom, crash!
+Yukina: You're right... I am not sure why, but we've been doing very well lately.
+Yukina: Every time I think about asking for opinions, you all come forward on your own. What's more, we're able to perform areas that we once had trouble with.
+Yukina: It feels like we're arriving at our desired sound much more smoothly than before.
+Ako: I'm with you there, Yukina-san! You read my mind!
+Ako: Fufufu~, if you ask me, I'd say this is thanks to us playing NFO together!
+Ako: We're just as in tune now as we were in the final stage of that event!
+Yukina: Is that so? It felt more like everyone was making up for my lack of experience.
+Rinko: You hadn't played for a long time... so it's only natural... that you'd be unaccustomed to the controls...
+Rinko: Besides... for those of us who have been playing for a long time... supporting other players feels like second nature...
+Yukina: I wouldn't know myself, but is that really true?
+Ako: Uh-huh! Even with IRL stuff, it's totally normal to have someone more experienced show you the ropes when you're starting out~.
+Yukina: IRL...?
+Rinko: It stands for "in real life." Gamers use it to refer to the real world...
+Rinko: I was so happy... to play with everyone again... after such a long time...
+Ako: Me too, me too! It was tons and tons of fun!
+Ako: And during that last part, Yukina-san, your buffs and debuffs were on point!
+Yukina: Yes, I suppose it's true that I was able to contribute more than before...
+Ako: Exactly!
+Rinko: Through their songs, bards can raise the stats of others to considerable levels... making them invaluable assets to the party...
+Rinko: Yukina-san... you helped us out countless times...
+Yukina: One can only hope... Either way, I'm pleased to see it proved to be a rewarding experience for Roselia.
+Yukina: By playing NFO together, I have come to understand you two more, and that has lead to our recent success.
+Yukina: If that is true, then it would appear that Lisa was right all along.
+Ako: Oh yeah, that's right! Lisa-nee was the one who said we should play NFO to help out the band!
+Rinko: The results speak for themselves... As a band... I think that we... understand each other more...
+Ako: Wow, Lisa-nee is awesome!
+Ako: Roselia is unstoppable with all these buffs and debuffs we're pumping out~!
+Rinko: Fufu, we sure sound powerful...
+Ako: Still, that doesn't mean we can get careless!
+Ako: You have to remember your role, even when you're on a roll! You gotta learn how to tell incoming attacks apart and deal with them too! Isn't that right, Yukina-san?!
+Rinko: Right, and don't forget the fundamentals...
+Ako: Now I'm really feeling the burn! Alright, I'm ready for the second half of rehearsal~!
+Rinko: Yes... I am too...
+Yukina: Indeed. Let's do what needs to be done, and do it right.
+Yukina: ... Having said that... while I'm glad this has helped us improve, I still have no idea what any of that meant...
+
+
+<The Sounds of NFO>
+
+(Character: Yukina Minato)
+
+[CiRCLE Café]
+
+Yukina: Hello, {{userName}}-san. Are you on your break now?
+Yukina: Me? I have rehearsal scheduled at the studio, and my previous plans finished early, so...
+Yukina: Do you mind if we talked for a little while?
+Yukina: Thank you. May I sit here?
+Yukina: ... The other day, Roselia played an online game together as a group.
+Yukina: Yes, Neo Fantasy Online. It seems a lot of advertisements for it have been running lately.
+Yukina: Lisa was actually the one who suggested that we play.
+Yukina: We had played together once before, but Lisa seemed a little more interested this time around...
+Yukina: More than anything, we thought playing would help us better understand the gaming terminology that Rinko and Ako use.
+Yukina: Have you noticed how often they refer to games when explaining things? I thought experiencing the game would help me understand them, even if it was just a little.
+Yukina: ... In the end, I still do not really understand video games.
+Yukina: Yes, it is true that I am now more adept at using the controls and can be more proactive in battles.
+Yukina: However, there is far too much lingo for me to keep up with. I do not think I will ever truly know what those two talk about.
+Yukina: Nevertheless... I no longer see the importance of understanding.
+Yukina: No, I have not given up on trying to learn. Instead, I feel like I have a better grasp on what those two enjoy and why they play, even if I cannot completely comprehend the gaming world itself.
+Yukina: For now, I am satisfied with how things are.
+Yukina: And it's true that I have developed a slight interest in NFO itself. Not for the same reasons as them, mind you.
+Yukina: Oh, is it really that surprising?
+Yukina: I've thought this since the first time I played, but NFO's background music is incredible.
+Yukina: From what Rinko told me, they create new songs for each event. Thanks to that, the music perfectly matches the atmosphere.
+Yukina: Do I have a favorite? Good question...
+Yukina: The music that played in the cathedral area was especially wonderful.
+Yukina: It was solemn, yet refined... They did an excellent job with establishing a mood befitting a place of worship.
+Yukina: There is a lot I could learn from that sort of expression. It is amazing how they can create such a tone without lyrics.
+Yukina: Although I don't intend to completely change our style, there are bound to be certain aspects we can take and apply to Roselia's sound.
+Yukina: I now realize that even video games have new things to explore and discover. And I've learned a lot more than I ever expected.
+Yukina: ... There is no need for such flattery.
+Yukina: Roselia has always moved forward one step at a time. That applies to this situation as well as the future.
+Yukina: So I do hope you will look forward to our progress. We are aiming for the very top, after all.
+Yukina: ... Yes. I thought you might answer that way.
+Yukina: Thank you for your time today. I must go to rehearsal now. Until next time.

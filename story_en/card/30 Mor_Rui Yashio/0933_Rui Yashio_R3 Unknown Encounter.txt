@@ -1,0 +1,93 @@
+933_Rui Yashio_R3 Unknown Encounter
+
+Gacha phrase: Thank you for the invitation. We would be delighted to join you.
+
+<The Meaning of Meaningless Time>
+
+(Character: Yukina Minato, Rui Yashio)
+
+[Park]
+
+Rui: ...
+Rui: (This is a rather rowdy sakura party...)
+Rui: (I had imagined it would be a calmer occasion.)
+Rui: Hm? Isn't that...?
+Yukina: ...
+Rui: Minato-san...
+Yukina: Oh, you are... Yashio-san, correct?
+Rui: Yes, I am Rui Yashio. What are you doing here?
+Yukina: This is a sakura party, so I am admiring the sakura blossoms.
+Rui: By yourself?
+Yukina: Yes, everyone else is absorbed in their conversations, so how else could I quietly look at the flowers?
+Yukina: Now why are you on your own?
+Rui: I had the same thought. I grew tired of the chatter and decided to get some air.
+Yukina: Yes, there are many high-spirited people here, so I understand how you feel.
+Rui: ...
+Rui: This may seem rude, but you surprised me.
+Yukina: Hm? What do you mean?
+Rui: I did not expect all of Roselia to attend today.
+Rui: From what I have heard and seen from your shows, I was under the impression that your band only gathers together to make music.
+Rui: So I did not think you would show particular interest in an event such as this.
+Yukina: ... At the very least, Ako and Lisa are not like that.
+Yukina: Those two were invited by Toyama-san and suggested that we all come together.
+Yukina: Although, Sayo and I weren't particularly opposed.
+Rui: ... I see.
+Yukina: ... Do you not like these kinds of events?
+Rui: No, that is not it. Although, I am not overly interested in them either.
+Rui: I participated this time because I recognized that it would be meaningful to do so, but normally I would have prioritized practice.
+Yukina: ... The old me would likely have thought the same way.
+Yukina: I would have said that we aren't here to make friends, and that we should use our spare time for our music.
+Rui: From the way you talk, it seems that this is no longer the case.
+Yukina: Yes, because focusing single-mindedly on music does nothing for either the growth of the band or myself.
+Yukina: I started thinking differently once I realized something.
+Rui: Hm? And what would that be?
+Yukina: There is no such thing as a meaningless use of time.
+Rui: ...
+Yukina: It seems you are having trouble grasping what I mean.
+Rui: Yes, I do not quite understand.
+Rui: I think the value of time is determined by what you do with it.
+Rui: That is why I believe that how you use your time can be meaningful or meaningless.
+Yukina: I am sure that the day will come where you too will understand.
+Yukina: The path you see in front of you is not always the correct path, and you are not the only person who knows which path is the right one.
+Yukina: The person who does know may very well be someone near you.
+Rui: The right path... Well, I will be sure to keep your opinion in mind.
+
+
+<Valuable Flower-Viewing>
+
+(Character: Rui Yashio)
+
+[Riverside]
+
+Marina: Okay, now that we're done shopping, let's go back to CiRCLE.
+Marina: We have a lot of bookings today, so we have to- Huh? Rui-chan?
+Rui: Hello, Tsukishima-san, {{userName}}-san.
+Marina: Hello. Are you going to practice?
+Rui: Yes, our practice last week was canceled due to a sakura party. As such, I intend to use today's session to make up for the time we lost.
+Marina: Was that really last week? Kasumi-chan also invited us along, but we couldn't come because of work.
+Marina: I heard there were lots of people. How was it?
+Rui: Well, I had imagined it would be a rather calm occasion, but it was much rowdier than I anticipated.
+Rui: I had never gone flower-viewing before, but it seems such activities are to be expected from sakura parties.
+Marina: Don't you go flower-viewing?
+Rui: No, I do not. I never feel the need to.
+Rui: If you wish to admire the beauty of sakura blossoms, why not simply gaze at them silently?
+Marina: I-I see. Then what made you want to go this time?
+Rui: I determined it would be beneficial for the band.
+Rui: I believe that there will be more opportunities for us to interact with the other bands at CiRCLE in the future.
+Rui: Therefore, I thought it necessary for us to introduce ourselves as soon as possible in order to facilitate smooth relations.
+Marina: I-I see. W-well, getting to know everyone is definitely a good thing.
+Marina: And how was the party once you were actually there? Did you have fun?
+Rui: Yes, I did. I think there was much more to gain than I had imagined.
+Rui: I had thought it would be enough to just deepen our friendships with the other bands, but...
+Rui: After the event, Kurata-san wrote lyrics for a new song.
+Rui: I am not sure whether it was the beauty of the sakura or the spirit of the party, but... something had an effect on her creativity.
+Rui: The lyrics she wrote felt a little different from usual.
+Marina: Oh, so it was a good source of inspiration for Mashiro-chan then.
+Rui: Yes, it was an unexpectedly fruitful flower-viewing.
+Marina: ... And what about you, Rui-chan?
+Rui: ?
+Marina: I thought maybe you felt inspired too.
+Rui: ... I suppose I cannot disagree.
+Rui: Kurata-san gave me her lyrics, so I am currently working on the composition...
+Rui: And I have a feeling that the fully-bloomed sakura we saw that day are deeply embedded in this song.
+Rui: In that sense, the sakura party may have been a very meaningful experience for me as well.

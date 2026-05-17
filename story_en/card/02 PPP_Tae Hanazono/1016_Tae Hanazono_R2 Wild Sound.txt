@@ -1,0 +1,89 @@
+1016_Tae Hanazono_R2 Wild Sound
+
+<Ten People for Ten Guitars>
+
+(Character: Tae Hanazono, Sayo Hikawa)
+
+[Residential Area]
+
+Tae: Toko's getting a lot better at the guitar, huh? She's fixing her habits too.
+Sayo: Yes, but it is still not enough.
+Sayo: There are only four days until her exam. And since she also has a concert, we must ensure she is able to give a worthy performance.
+Tae: For sure! I'm getting excited.
+Tae: I'm gonna do my best to teach her tomorrow~! Yeah~!
+Sayo: ... Hanazono-san, why did you decide to help Kirigaya-san?
+Tae: Hmm, because you looked like you needed help. Plus I've had experience teaching the guitar!
+Sayo: Yes, you did say that... But you volunteered even though she didn't ask you.
+Tae: Hmm, then maybe it was because it seemed kinda interesting.
+Sayo: Interesting...?
+Tae: Yeah! We all play the guitar, but we each do it differently. I've been wanting to observe you guys more closely.
+Tae: And now that Kaoru-san and Misaki joined us midway, it's become even more interesting!
+Sayo: You have seen us perform at concerts, have you not? It is not like this will be your first time seeing us play the guitar.
+Tae: You're right, but that's not what I'm after.
+Sayo: Huh...?
+Tae: What I want to know is how you practice and what you're thinking when you're playing.
+Tae: You said so earlier, Hikawa-senpai. You feel like you'll be able to discover something new by learning from Kaoru-san.
+Sayo: True. Learning what I am conscious of during practice was very interesting.
+Tae: Right? Kaoru-san's guitar sounds like it's singing along with the vocalist even though it's a guitar.
+Tae: Toko's guitar is still a bit rough around the edges, but it sounds like a lion at times and makes me really excited.
+Sayo: Fufu, only you would describe how they play like that.
+Tae: And your guitar sounds like a katana that can cut through anything.
+Sayo: A guitar that sounds like a... katana?
+Tae: Yeah. It's like a katana that shines regally.
+Sayo: I cannot say I understand, but I can tell that each of us produces a unique sound.
+Sayo: What I sense from your guitar is the genuine enjoyment you feel from playing.
+Tae: Yay, I'm glad you can feel it!
+Tae: I think I'll get better at the guitar if I'm able to learn from all of your amazing playstyles.
+Tae: It's really fun to teach Toko. It's like we all get to practice together.
+Sayo: True. It seems I also have some learning to do.
+Sayo: I will also try to use this opportunity to learn something from the way all of you play.
+Tae: We'll all improve our skills!
+Tae: Oh yeah. Next time, why don't we invite Moca and Hina-san so that we can all practice together?
+Sayo: Yes. As fellow guitar players, we will have much to gain. I will consider it.
+Tae: Yay! All this talk makes me want to play the guitar. Want to practice together now, Hikawa-senpai?
+Sayo: Right now? You must really love the guitar, Hanazono-san.
+Tae: Yeah! It's not just fun to play, it's also what led me to meeting Poppin'Party and all of you.
+Sayo: Your guitar is like a symbol of all the people you have met through it...
+Sayo: You may be right. There are many people I have encountered thanks to my guitar.
+Sayo: Very well. I will practice a little with you.
+Sayo: And in doing so, I shall learn from the way you play.
+Tae: Great! I want you to hear me play!
+Tae: And don't forget to let me listen to your awesome performance too!
+
+
+<Expanding Guitar Circle>
+
+(Character: Tae Hanazono)
+
+[Edogawa Music]
+
+Tae: Hm-hm-hmm~♪
+Marina: Ah! Look, {{userName}}-san. It's Tae-chan. It looks like she's having fun shopping.
+Tae: I think these are the strings Kaoru-san mentioned. Oh, and these are the ones Hikawa-senpai recommended...
+Marina: Hi, Tae-chan.
+Tae: Ah, hi. Are you two also shopping?
+Marina: Yeah, we came to purchase supplies. We need to make sure we're fully stocked for all our customers.
+Marina: Since you're over here, does that mean you're buying strings?
+Tae: Mmhmm. I'm thinking of trying out some new strings.
+Tae: Hikawa-senpai and Kaoru-san gave me some recommendations.
+Marina: Was that when you were all together during Toko-chan's guitar practice?
+Tae: Yeah, it was!
+Marina: I heard Toko-chan's show went great.
+Tae: We all went to see it, and her guitar sounded really amazing!
+Marina: She was probably able to play that way because of everything you all taught her.
+Marina: It must have been especially exhausting right before the concert. You guys spent a lot of time helping her practice. Good job!
+Tae: No, it wasn't exhausting at all. I had fun teaching her! Toko was the one doing all the work anyway.
+Marina: That reminds me. Weren't you the one who taught Kasumi-chan the guitar?
+Tae: Mmhmm. It made me happy to see Toko enjoy playing just like Kasumi did.
+Marina: Yeah, the two of them do seem to have fun playing! That might partly be because of you, Tae-chan.
+Tae: I don't know about that, but I might've been thinking about how fun the guitar is as I taught them.
+Tae: My heart always overflows with joy and excitement when I play the guitar.
+Tae: If my feelings are being passed on to Kasumi and Toko, and they pass it on to other people...
+Tae: Then more people might come to love the guitar... That'd make me so happy.
+Marina: I know what you mean. Nothing brings you more joy than knowing that you helped someone learn to like music.
+Tae: Mmhmm! That's why I'm gonna work hard for our next show so that everyone will have a good time!
+Tae: I've always felt that way, but those feelings have become stronger since helping Toko practice.
+Marina: That means we need to make sure lots of people come to your next show!
+Marina: Looks like we have a lot of work to do if we're going to help you spread the joy of music!
+Tae: Thank you so much, Marina-san, {{userName}}-san! I really appreciate the help!
+Tae: I need to hurry up and get these new strings so that I can try them at home! I hope you look forward to Poppin'Party's next show!

@@ -1,0 +1,114 @@
+1234_Rokka Asahi_R3 Sharing With Friends
+
+Gacha phrase: Here, you can have some of mine.
+
+<Taste of a Memory>
+
+(Character: Ako Udagawa, Rokka Asahi)
+
+[Asahi Bathhouse - Rokka's Room]
+
+LOCK (Rokka): Here, have some tea, you two.
+Ako: Thanks, Rokka! Glug, glug, glug... Ahh~! This cold tea really hits the spot~!
+LOCK (Rokka): Was it hot outside?
+Asuka: Mm-hmm. I couldn't stop sweating even though all I was doing was walking.
+Ako: If your place were any further, I think I would've dried up~.
+LOCK (Rokka): I-it's that hot?!
+Ako: Hey, hey, Rokka. Those boxes over there... Are they~...?
+LOCK (Rokka): Yes, they're souvenirs for both of you.
+Ako: Yay~!
+Asuka: Now that I think about it, you did say RAS would be going to Toconut Park.
+LOCK (Rokka): I did! That's when I got the cookies. Look.
+Asuka: Thanks... Hmm? These cookies...
+Ako: They're the ones with "I went to Toconut Park!" written on them! Thanks so much~!
+Asuka: I didn't think people actually got souvenirs like these...
+LOCK (Rokka): Wait, isn't it normal to?! I saw them when we went, and I thought they looked nice...
+Asuka: Hmm~... I know I wouldn't.
+LOCK (Rokka): O-oh...! Back home, people would give us snacks printed with the names of where they'd been to, so I thought it was something everyone did...
+Ako: I can't say I've gotten snacks like these very often, but I do know these cookies are the yummy kind.
+Ako: I'm getting kinda hungry... Can I have some now?
+LOCK (Rokka): Of course.
+Asuka: I think I'll have mine too.
+Ako: Why don't we all eat then~? Here's yours, Asuka!
+Asuka: Thanks... Oh. This tastes better than I expected.
+Ako: Mmm~! I can feel the aroma spreading in my mouth~! I wonder if they used a lot of butter.
+Ako: I'm gonna eat another one~.
+Asuka: Me too.
+LOCK (Rokka): I'm so glad you like the cookies~.
+Asuka: So, how was the park?
+LOCK (Rokka): It was super fun~! Time flew by so fast.
+Ako: Hey, hey, did you try the water slides?!
+LOCK (Rokka): We did! But I was still scared...
+Asuka: Well, just watching from below was enough to make you tremble when we went.
+Ako: I was sure you'd like them after giving them a try~.
+LOCK (Rokka): They weren't for me, but CHU²-san really liked them. Together with Masuki-san and PAREO-san, I think they tried every single slide in the park.
+Ako: Really? I'm surprised CHU² liked them!
+Asuka: Yeah. Based on what you've told us, she seems like the type who wouldn't like swimming pools or water slides.
+LOCK (Rokka): Yes. She wasn't very interested at first either, but she ended up liking them after trying.
+Asuka: I see. It's a good thing all of you invited her then. By the way, were you able to go to the nighttime show we had to skip?
+LOCK (Rokka): We did. It was so beautiful~.
+Ako: It really was nice, wasn't it~? Hearing you talk about Toconut Park is making me wanna go again~.
+LOCK (Rokka): Let's go back to the park again sometime.
+Ako: Yeah! And then you'll get to watch the show too, Asuka!
+Asuka: Next time, maybe... But I think we need to get down to business first.
+LOCK & Ako: Business?
+Asuka: Sheesh, you two...! Have you forgotten we came here to do our homework?
+Ako: Ahhh! You're right! I have so much homework left~...!
+LOCK (Rokka): How much do you mean by so much?
+Ako: There's math. Classical lit, a book report... Oh, and English vocab exercises...
+Asuka: Those are pretty much all the assignments you had left the last time we got together for homework... What about you, Rokka?
+LOCK (Rokka): Um~, I just have math left.
+Asuka: Book report for me.
+Ako: What?! How did you both finish so much?!
+Ako: At this rate, I'm gonna be the only one who won't get to enjoy the rest of summer break~...!
+LOCK (Rokka): L-let's try to get through one assignment at a time. We'll help you finish everything today...
+Ako: Today?! But there's so much!
+LOCK (Rokka): Try looking at it this way! If you finish everything today, you'll get to spend the rest of summer doing whatever you want.
+Asuka: All you have to do is suffer for one day, and it'll be over.
+LOCK (Rokka): Let's do it, Ako-chan!
+Ako: Rokka, Asuka...
+Ako: Okay. I'm gonna try super, super, super-duper hard to finish my homework today so that I get to enjoy my break~!
+LOCK & Asuka: Yeah~!
+
+
+<Growing Feelings>
+
+(Character: Rokka Asahi)
+
+[CiRCLE - Lobby]
+
+LOCK (Rokka): Hello, Marina-san, {{userName}}-san!
+Marina: Oh, Rokka-chan. What brings you here today?
+LOCK (Rokka): I'm on an errand from Galaxy. The manager asked me to bring you this paper bag...
+LOCK (Rokka): It looks like flyers of some kind. Have you heard anything?
+Marina: Ah, the flyers! Yes, I have.
+LOCK (Rokka): Perfect. Here you go.
+Marina: Alright, I'll take those. Thank you for bringing them all the way here.
+LOCK (Rokka): It's okay. I also have something else I'd like to give you...
+Marina: Hmm? I haven't heard of anything else.
+LOCK (Rokka): Ah, it's not work-related. I brought you a souvenir.
+LOCK (Rokka): You see, I went to Toconut Park with the other girls the other day.
+LOCK (Rokka): While I was thinking of what to get for everyone at Galaxy, I thought of CiRCLE, so I ended up getting something.
+LOCK (Rokka): So, if it's okay with you, I'd like you to have this.
+Marina: Aww, that's so sweet of you. Thanks.
+LOCK (Rokka): Ehehe... There's plenty to go around for everyone.
+Marina: Ah, cookies! I'm going to have some during my break.
+Marina: By the way, don't they have a nighttime show at Toconut Park? Wish I could go~.
+LOCK (Rokka): Yes, they do! The show was even more beautiful than I'd heard.
+LOCK (Rokka): The way the lights glittered in the dark was already so enchanting... but they even had fireworks!
+LOCK (Rokka): Water would shoot out of pools to the rhythm of the music, and the lights would reflect off the water... It was like being at some kind of festival! I loved it!
+Marina: It must've been great. I can just see how amazing it must've been from your descriptions.
+LOCK (Rokka): Oh, I'm sorry... I got a bit carried away talking about the show.
+Marina: It's alright. While I really do appreciate the snacks, I also enjoy hearing about what it was like, so I'd love to hear more.
+LOCK (Rokka): Y-you would?
+Marina: Mm-hmm! So, did you do anything else after the show?
+LOCK (Rokka): Um... It was kind of late, so we had to go home right after it.
+LOCK (Rokka): But while we were on the train, we talked about what would happen if we provided our songs for the show and which one would be the best...
+LOCK (Rokka): CHU²-san even brought out her computer. She got really into it for some reason.
+LOCK (Rokka): But after that, everyone just started talking about different things they'd like to try, so we didn't get around to deciding anything.
+LOCK (Rokka): Still, the time we spent talking on the way home was just as fun as our time at the park.
+Marina: I see~. It sounds like you're all good friends now.
+LOCK (Rokka): I hope so. Oh, I should probably get back to Galaxy!
+LOCK (Rokka): Goodbye! I hope you don't mind if I talk about it some more next time.
+Marina: You're welcome anytime. Take care~.
+Marina: Fufu... It must be nice to be in a band.

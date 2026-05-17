@@ -1,0 +1,89 @@
+1465_Rui Yashio_R3 Elevating Each Other
+
+<Agenda: Stall Details>
+
+(Character: Mashiro Kurata, Toko Kirigaya, Nanami Hiromachi, Tsukushi Futaba, Rui Yashio)
+
+[Hiromachi Residence - Atelier]
+
+Tsukushi: It's time for our meeting to begin! On today's agenda is deciding on what kind of stall to open!
+Toko: I know! Something that gets people psyched up and makes 'em think Morfonica is the best!
+Nanami: Toko-chan, I like your spirit~. What exactly did you have in mind?
+Toko: I don't know yet!
+Mashiro: I-I think you need to flesh out your idea a little more...
+Toko: Then let's put a pin in it!
+Rui: You are interrupting the proceedings. Please present your ideas after you have given them some more thought.
+Toko: Wha-?! Have you got a better idea then, Rui?
+Rui: Well... at the very least, we should avoid anything food-related.
+Tsukushi: Huh? Wh-why?
+Mashiro: I was thinking it might be nice to serve yakisoba or candy apples...
+Rui: Because Poppin'Party and Afterglow are already running food stalls.
+Mashiro: I-I see... You sure know a lot, Rui-san.
+Rui: I simply asked them in advance for the information we required.
+Tsukushi: That's too bad... I have confidence in my cooking skills.
+Nanami: Well, the customers would be bored if there were nothing but food stalls~.
+Nanami: Hmm, how about an art exhibit then? We do that kind of stuff at Tsukinomori all the time!
+Rui: That is not a bad suggestion.
+Mashiro: Huh...?
+Toko: Umm~, isn't that kinda boring? We should do something more fun.
+Tsukushi: If you're going to say that, then come up with a proper idea, Toko-chan! Not something vague like your earlier suggestion!
+Toko: I just thought of something, okay?! What about something like what we did the other day?
+Tsukushi: The other day...? You mean when we held TOCO at the forest park?
+Toko: Exactly! Why don't we do the same thing at CiRCLE?! Then heaps more customers are bound to come!
+Toko: I'll contact all the people who ran stalls last time! You'll work the hairdressing booth again, right, Fusuke?
+Mashiro: W-wait, Toko-chan...!
+Rui: This upcoming event is centered around CiRCLE. It is not being held solely for you.
+Toko: Yeah, but it's a festival! There's no point in going if we don't have fun ourselves. We're not there just to volunteer.
+Tsukushi: Th-that's true... You have a point...
+Nanami: A festival, huh~? I wonder what we should do~?
+Mashiro: When I went to festivals as a child, I always looked forward to the goldfish scooping...
+Toko: Fish kinda gross me out~.
+Toko: Anything else?
+Mashiro: Well... I think I did target shooting and ring toss as well... I remember being happy when I won the prize I wanted.
+Toko: That idea is fire! Sounds like a lotta kids will be there, so I'm sure they'd love it!
+Tsukushi: Yeah, that sounds good! I think my little sisters would love it too!
+Rui: In that case, let us devise a plan based on Kurata-san's proposal.
+Nanami: Agreed~. Bravo, Shiro-chan~.
+Mashiro: All I did was share my memories... Are you sure this is okay?
+Toko: You bet! Gathering all the prizes together looks really fun too.
+Rui: Once we decide exactly what kind of stall to run, all that will be left is to arrange the necessary materials and confirm the timetable. I will take care of that.
+Toko: Oh, what's gotten into you, Rui~?! You're weirdly into this!
+Rui: As a member of the student council, I am used to doing this kind of work. It will be more efficient if I do it.
+Rui: Furthermore, if our stall is a failure, it would bring embarrassment to CiRCLE and the other bands. I cannot allow that to happen.
+Nanami: Yeah, if you're organizing it, Rui-rui, we're in good hands~.
+Tsukushi: We'll help you, of course!
+Rui: Yes. After all, it is Morfonica who was invited to this event, not just me.
+Toko: Alright~! Then let's work our socks off to make the stall a success!
+
+
+<Summary: On Kurata-san>
+
+(Character: Rui Yashio)
+
+[CiRCLE - Lobby]
+
+Marina: Okay, I think we can wrap up this meeting on timetabling.
+Rui: Very well. Tsukishima-san, {{userName}}-san, thank you for your time.
+Marina: Likewise! Thanks for going to the trouble of preparing these materials. The meeting went very smoothly.
+Rui: It is fine. I am used to this kind of work with the student council.
+Marina: I see. Great work, Rui-chan. By the way, how are the preparations coming along for Morfonica's stall?
+Rui: Well, it has been rather challenging. Kirigaya-san keeps changing the direction of our discussions.
+Marina: Fufu. Still, the more ideas you have, the more likely you are to choose one that makes the guests happy.
+Rui: Personally, I would prefer to stick to ideas that are more realistic.
+Marina: Ahaha... You have a point.
+Rui: That said, Kurata-san has been consolidating our opinions. She is knowledgeable about these kinds of festivals, so I am sure the stall will not be anything odd.
+Marina: Really? I get the impression that Toko-chan will end up overwhelming Mashiro-chan...
+Rui: Is that so?
+Marina: Yeah... Do you feel differently, Rui-chan?
+Rui: I do... Kurata-san may look timid, but she is, in fact, very strong-willed. During band discussions, it is often Kirigaya-san who ends up giving in.
+Marina: Is that so? Fufu, I never would have guessed.
+Rui: ...? Is that amusing?
+Marina: Well, it's interesting to hear about the inner workings of Morfonica that I'm not usually privy to.
+Marina: I'm sure there are sides to each of you that only your fellow band members are familiar with.
+Rui: I do not quite understand what you are saying...
+Marina: Fufu, that's okay. I'm sure you'll understand what I mean someday.
+Marina: Still, I'm happy you told me this story, Rui-chan.
+Rui: I see.
+Rui: Well then, I have an appointment to get to. If you will excuse me.
+Marina: Sure. I hope your performance and stall both go well!
+Rui: Yes, we accepted these tasks, and thus we will endeavor to do our best. See you again.

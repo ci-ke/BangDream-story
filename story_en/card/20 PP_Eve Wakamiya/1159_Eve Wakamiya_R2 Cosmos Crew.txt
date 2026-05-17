@@ -1,0 +1,86 @@
+1159_Eve Wakamiya_R2 Cosmos Crew
+
+<Quiz Time!>
+
+(Character: Tae Hanazono, Hagumi Kitazawa, Eve Wakamiya)
+
+[Hanasakigawa Girls' Academy - Class 2E]
+
+Hagumi: Eve-chin~! I saw Pastel＊Palettes' recent TV appearance!
+Tae: That was the show where they introduced a popular spot for sakura blossoms, right? I watched it too. It was fun.
+Eve: Really? Thank you very much!
+Eve: I also watched the show when it aired, and it was wonderful that each of us fulfilled our duties!
+Eve: Hina-san and Chisato-san in particular did splendid work! They were truly in line with bushido!
+Tae: Bushido?
+Eve: Yes! The two of them cut open a path for their comrades!
+Hagumi: Wow~! That's bushido alright!
+Eve: I must follow their example and devote myself even more!
+Eve: And to do so, I would first like to confront each of my jobs with the utmost care.
+Eve: I will face tomorrow's radio broadcast with even more motivation than before!
+Tae: Your radio show is interesting, Eve. I love it.
+Eve: As a radio personality, that is an honor!
+Hagumi: A personality?
+Eve: That is someone who hosts programs!
+Hagumi: I see! That reminds me of something my dad told me. Hosting is really hard, huh?
+Hagumi: I'm pretty sure he said you have to control the flow of the entire situation. You're amazing if you're doing something that hard, Eve-chin~.
+Eve: No... I am still in training. I need to devote myself so that the radio show becomes even more lively.
+Tae: In that case, let's practice. We'll help you.
+Hagumi: I'm on board! Okay, why don't we do a quiz show?!
+Hagumi: I've always wanted to play on a quiz show! Eve-chin, you can be the host, and O-Tae and I will be the guests!
+Eve: Hagumi-san, Tae-san... Thank you so much! I shall wholeheartedly do my best!
+Eve: Now then, ahem...
+Eve: It is once again time for the weekly "Eve Wakamiya's Quick Draw Quiz," where our two guests fiercely compete to be the first to answer the question!
+Hagumi & Tae: Yay~!
+Eve: My guests for today are these two ladies! Please introduce yourselves!
+Tae: I'm Tae Hanazono. My favorite food is Hamburg steaks.
+Hagumi: I'm Hagumi Kitazawa! My favorite food is croquettes!
+Eve: And I am your host, Eve Wakamiya! My favorite food is ginger cookies. I am pleased to have you with me!
+Eve: Now then, first question! Let me see~... What is in my bento for today?
+Tae: I know! A Hamburg steak!
+Eve: How unfortunate! That is incorrect!
+Hagumi: I know! A croquette!
+Eve: Hm, incorrect!
+Tae: A Hamburg steak with cheese filling!
+Eve: Bzzt!
+Hagumi: A curry croquette!
+Eve: That is incorrect!
+Tae: This is a harder question than I thought... Give us a hint.
+Eve: Your hint is... It is something held between bread!
+Tae: A hamburger!
+Hagumi: Croquette bread!
+Eve: Both of you, please distance yourselves from Hamburg steaks and croquettes! They are both incorrect!
+Hagumi: Something held between bread...? ... Ah, I know! It's a sandwich!
+Eve: Oh, Hagumi-san, well done! The correct answer is a sandwich!
+Tae: So that's what it was!
+Hagumi: Yay~! It's all thanks to your hint, Eve-chin~!
+Hagumi: Ahaha! That was fun! Eve-chin, your quiz show seems like it would be really lively!
+Eve: I believe actually hosting is much, much harder, but I had fun as well!
+Hagumi: After talking about boxed lunches, I've gotten kinda hungry! I hope lunchtime comes soon~!
+Eve: Fufu. I made many sandwiches, so if either of you would care for some, please help yourselves.
+Hagumi: Really?! Yay~!
+Tae: Can I invite everyone else from Poppin'Party?
+Eve: Of course! Let us all eat together!
+
+
+<The Figure of Warriors>
+
+(Character: Eve Wakamiya)
+
+[Station Entrance]
+
+Eve: {{userName}}-san, good morning! The weather is nice again today!
+Eve: Are you going to work now? So am I! Let us both do our best!
+Eve: Today I am working with the actress who I appeared with previously on a variety television show!
+Eve: Ah, that is right! It was the program introducing sakura blossom sites!
+Eve: So you watched the broadcast, {{userName}}-san! I am so glad that you enjoyed it!
+Eve: ... To be honest, the filming for that time was somewhat difficult.
+Eve: At first, we were not able to show Pastel＊Palettes' essence very well...
+Eve: But thanks to Hina-san and Chisato-san, I believe we were able to show everyone our good qualities and fun side.
+Eve: They opened up a path for their comrades... Hina-san and Chisato-san were truly like samurai at that time!
+Eve: After the filming, our appearance was well received, and we received offers from various sites!
+Eve: Among them, there were some people that said they would like to work with Pastel＊Palettes. There were even some people that took an interest in me individually...
+Eve: Even the actress I will be working with today said she became a Pastel＊Palettes fan because of that program!
+Eve: Being able to have various people know about us is truly a joy!
+Eve: But I cannot simply be delighted. I was also reminded that I must devote myself more so I can properly show Pastel＊Palettes' good qualities!
+Eve: And to do so, I must first put all my effort into doing my best for work today!
+Eve: Yes, thank you very much! I hope that you will continue to support us in the future!

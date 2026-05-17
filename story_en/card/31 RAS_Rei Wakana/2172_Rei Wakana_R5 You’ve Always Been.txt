@@ -1,0 +1,109 @@
+2172_Rei Wakana_R5 You’ve Always Been
+
+Gacha phrase: Hey, don’t make fun of me.
+
+<Feelings Not Like Me>
+
+(Character: Tae Hanazono, Rei Wakana)
+
+[Café]
+
+Tae: Look, they’ve got new drinks out—seasonal frappé and honey caramel latte. Which one are you getting, Rei?
+LAYER (Rei): Hmm... I think I’ll just go with a café au lait today.
+Tae: The one with extra whipped cream and super sweet?
+LAYER (Rei): No, just a regular, unsweetened café au lait.
+Tae: Hmmm...?
+Tae: Then I’ll get the caramel latte and some pancakes. Excuse me~.
+LAYER (Rei): I’ll go grab us a table.
+Tae: Yeah, thanks.
+(Black cut)
+Tae: Thanks for waiting, Rei.
+LAYER (Rei): Huh? What about the pancakes?
+Tae: They’re still making them. They said they’ll bring them to the table.
+LAYER (Rei): I see. Thanks for coming shopping with me today, Hana-chan.
+Tae: No, I had some stuff I wanted to look at anyway.
+LAYER (Rei): You really liked that effects pedal at the last music store we visited.
+Tae: Yeah, I still kind of want it. Maybe I should pick up more shifts.
+LAYER (Rei): Didn’t you also say you wanted a new guitar case?
+Tae: I did. Looking at everything makes me want it all... Yeah, definitely need to work more!
+LAYER (Rei): Fufu. You’re gonna be busy, Hana-chan.
+Tae: You’re just as busy, aren’t you? How are things with RAS lately?
+LAYER (Rei): RAS? Hmm...
+LAYER (Rei): I guess... going okay?
+Tae: ...?
+Tae: Did something happen, Rei?
+LAYER (Rei): Huh?
+Tae: Usually, no matter how busy or hard things get, you’d say it’s fun.
+LAYER (Rei): Ahaha... I guess you really do see right through me, Hana-chan.
+LAYER (Rei): It’s not like anything major happened... I just had a bit of a fight with Masuki.
+Tae: A fight?
+LAYER (Rei): Yeah, but we made up. It’s just...
+LAYER (Rei): It seems like it was my fault, but Masuki won’t say anything.
+LAYER (Rei): So I thought, whatever, forget it—but I just couldn’t really let it go...
+Tae: ...
+LAYER (Rei): Hana-chan?
+Tae: That surprised me. You don’t usually talk this much about yourself.
+LAYER (Rei): R-Really?
+Tae: Are you mad, Rei?
+LAYER (Rei): I wouldn’t say I’m mad...
+LAYER (Rei): No... yeah, maybe I am...
+LAYER (Rei): I’ve just been feeling kind of restless... But thinking it through, I started to feel like maybe it’s just Masuki being stubborn in her own way...
+LAYER (Rei): Maybe that’s why I ended up thinking, “Fine, do whatever you want.”
+Tae: I see...
+Tae: That’s pretty rare for you, Rei.
+LAYER (Rei): I-is it?
+Tae: Yeah. It’s because you’re kind, Rei. Normally, you always listen to what people have to say, and you try to be there for them first.
+LAYER (Rei): Really...? I’ve never thought of myself like that.
+Tae: Yeah. It’s true.
+LAYER (Rei): Hmm...
+LAYER (Rei): Maybe I get stubborn too when it comes to Masuki...
+Food Cart Clerk: Sorry to keep you waiting~! Who ordered the pancakes?
+Tae: Ah, that’s me!
+Food Cart Clerk: Please enjoy~.
+Tae: Wow, so much honey and cream! Time to dig in. Munch...
+Tae: Mmm~, so good~! The batter’s so fluffy, and it smells like butter!
+LAYER (Rei): Fufu. You really do make food look delicious when you eat it.
+Tae: Well, it really is delicious. Want a bite, Rei?
+LAYER (Rei): Eh, are you sure?
+Tae: Yeah. Let’s share.
+LAYER (Rei): Then... I’ll just have a little bite.
+Tae: Then you can have the piece with the most honey on it. Hang on, I’ll cut it for you.
+LAYER (Rei): Wait, Hana-chan, I can’t eat that much!
+Tae: It’s fine, it’s fine. Here you go—eat up.
+LAYER (Rei): Geez, Hana-chan... Fufufu.
+
+
+<An Infuriating Person>
+
+(Character: Rei Wakana)
+
+[Residential Area]
+
+Marina: That lunch place today was a total hit~. Let’s go again sometime.
+LAYER (Rei): Hello, Marina-san, {{userName}}-san.
+Marina: Hi, LAYER-chan. Off to RAS practice?
+LAYER (Rei): Yes, I was walking to the studio and happened to see you two.
+Marina: Fufu, so that’s why you called out. Thanks. How’s everyone in RAS doing?
+LAYER (Rei): We're all doing well, thanks for asking.
+Marina: Oh yeah, I ran into Masuki-chan the other day. She looked like she was in great shape.
+LAYER (Rei): Well... yeah, I guess so.
+Marina: Hm? Something wrong?
+LAYER (Rei): Ah, no. Actually, Masuki was in a bit of a rough patch for a moment. But she seemed to work through it on her own.
+Marina: ...?
+Marina: The way you said that... are you still bothered by it?
+LAYER (Rei): Just a little.
+LAYER (Rei): When Masuki was in a rough patch, I tried to talk to her. I figured she might open up to someone who’s known her a long time.
+LAYER (Rei): But she brushed me off so bluntly. And that’s kind of...
+Marina: Wow... I see. That’s unusual. I always thought RAS was the kind of group that talked things out and worked through stuff together.
+LAYER (Rei): Yeah. Maybe it’s bothering me because we didn’t do that this time.
+Marina: So are you two still not getting along?
+LAYER (Rei): No, we’re fine now. Even though I still get annoyed that Masuki went off on her own and solved everything by herself...
+LAYER (Rei): But I’ve made my peace with it, and we’re back to normal.
+Marina: You get annoyed, huh... I didn’t think I’d hear you say something like that.
+LAYER (Rei): Ah... sorry. Please forget I said that. That was kind of harsh.
+Marina: Fufu, no, I don’t think it was harsh at all. You probably said it because it’s Masuki-chan.
+LAYER (Rei): That... might be true.
+LAYER (Rei): Ah, sorry for keeping you. You’ve still got work, right?
+LAYER (Rei): I should get to practice now, so I’ll excuse myself. Thanks for listening.
+Marina: No, thank you. I’m glad you shared. Good luck with practice!
+LAYER (Rei): Thank you very much!

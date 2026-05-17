@@ -1,0 +1,99 @@
+428_Arisa Ichigaya_R3 Love-Filled Notebook
+
+<Doing Math Together?>
+
+(Character: Kasumi Toyama, Arisa Ichigaya)
+
+[Ichigaya Residence - Basement]
+
+Arisa: How did you even get that answer? You just figured out the value of x with the last equation, right? Now if you substitute that here, you pretty much know the value of y, no?
+Kasumi: ... Huh? Did I figure out the value of x?
+Arisa: Look, right here. In your handwriting, "x ="... That means you have the value of x, doesn't it?
+Kasumi: ... Ah, right! Oh, okay, I get it!
+Kasumi: So the answer is... this. Alright, alright, I got it now~. I actually understand! Thanks! Arisa, you really are good at teaching this stuff~.
+Arisa: Not really. Anyone could explain something like this.
+Kasumi: That's not true. Think about it. Your explanation actually helped me understand what I'm doing.
+Arisa: Well, that's good. That reminds me. Quadratic equations give you a hard time, don't they?
+Kasumi: Do they...? I don't even know myself.
+Arisa: Pretty sure I had a textbook that you can use in my room. It's an easy one to understand. I'll go get it.
+Kasumi: Ah, wait. Hold on. Before you do that, can we take a break? I was focusing so hard just now... I'm beat.
+Arisa: Hmm~... I suppose we can do that. We did make a lot of progress. It might be more productive to have a little break.
+Kasumi: Woo~! Phew~, I'm exhausted~.
+Arisa: Hey, Kasumi. Is it really okay for you to still be here? Everyone else left a while ago...
+Kasumi: Mhm, I think I wanna keep studying for a bit longer. I'm sure if I go home, I'll just fall asleep once I'm there.
+Kasumi: Ah! But will you have less time to study if I stay here?
+Arisa: No, I'm fine for now. Besides, I'm doing my own problems at the same time.
+Arisa: That's not what I meant though. I'm thinking about how late it is. It's almost time for dinner, you know. Shouldn't you call home and let them know?
+Kasumi: Mhm, thanks for checking! I made sure to tell them that I might get home late when I was leaving, so it's fine.
+Kasumi: Plus, I haven't studied with you like this in forever. I wanna spend as much time together as possible~.
+Arisa: Uhhh, Kasumi. I had a thought after seeing your textbook... Don't you think you did a little too much underlining in here?
+Kasumi: Huh? What do you mean? Don't you normally do that for the important parts?
+Arisa: Well, yes, you do. I do the same every now and then, but... Ah, like this page. You pretty much have the entire page underlined...
+Kasumi: I wanted to do it for the important stuff, but then the whole thing ended up being underlined when I was done with it...
+Arisa: That's just gonna strain your eyes and make it hard to read.
+Kasumi: Now that you mention it, yeah. You might be right...
+Arisa: On top of that, you're probably sitting there trying so hard to underline everything that you can't even pay attention to what the teacher is saying...
+Kasumi: Yeah! There are so many times when I finish, and I start listening again, but I have no idea what they're talking about!
+Arisa: That's why I'm saying you shouldn't just blindly underline everything. These textbooks already have everything that's extremely important bolded from the start anyway.
+Arisa: And all of that is ignoring the fact that most people don't really do this to their math textbooks in the first place. If this were for history, then yeah, I'd understand.
+Kasumi: I see, yeah! Got it. Starting now, I will try not to underline so many things.
+Arisa: I mean, to be fair, there are still people who do, so... if something really catches your attention, then hey, knock yourself out.
+Kasumi: Okay! Ahh~. Still, I'm just happy we can study together like this again.
+Arisa: S-seriously, what's gotten into you...?
+Kasumi: I know I just said this, but your explanations are just so easy to understand. You really know how to teach.
+Arisa: And I told you, that's not true!
+Kasumi: Yes it is. I mean, I actually learned how to do that problem earlier. Arisa, is there any problem you can't solve?
+Arisa: What? You don't have to know how to solve a problem when you first look at it. As long as you keep at it and don't give up, you'll start to get it little by little. I'm pretty sure all problems are like that.
+Kasumi: All of them...? ... Ah!
+Arisa: Hm? What happened?
+Kasumi: It's possible that the problem we just had was the same.
+Arisa: The one we just had?
+Kasumi: Yeah. Our Poppin'Party problem! At first, I didn't know what was bothering you, but I didn't let up, and in the end, I figured out the answer.
+Arisa: Huh? Y-you think that's... the same? Pretty sure that was you just being really pushy...
+Kasumi: Nope, it's the same! After all, here we are, studying together again! All because I never gave up!
+Kasumi: Hey, I even feel a bit more confident about math when I think about it like that...! You know, because I know how to keep trying.
+Kasumi: Arisa! I'm gonna give this next problem a go!
+Arisa: M-man, that's quite the boost in motivation you got there...
+Kasumi: Let's see, the question says... Mhm, mhm, I see... So I just need to figure out the value of y, huh...? In that case, uhhh...
+Kasumi: Hm~... Hmm~... Hmmm~...
+Kasumi: Ngh, Arisa... Can you show me how to do it...?
+Arisa: You give up already?!
+Kasumi: Haha, ahaha... I guess math is different after all...
+Arisa: Fufu... Jeez, what am I gonna do with you? Alright, give me your pen. So for this problem, you start like this, right? Then you want to...
+
+
+<She Really Keeps to Herself>
+
+(Character: Arisa Ichigaya)
+
+[CiRCLE - Lobby]
+
+Arisa: Excuse me~. Marina-san~, are you there~?
+Marina: Arisa-chan, hey. You're here by yourself today? That's not something you see every day.
+Arisa: Ah, Marina-san, {{userName}}. Hey.
+Marina: What's up?
+Arisa: Nothing really. We had a few of those shielded cables we borrowed for our concert the other day, so I came to return them. Here you go.
+Marina: Oh, right. Thanks for coming all the way here to do that. You could've brought them back whenever. They're just shielded cables, after all.
+Arisa: No, that wouldn't be right. You guys lend us a bunch of equipment and always help us out when we're in need.
+Marina: I heard, by the way. Your concert was a big hit, huh?! Congratulations!
+Marina: I wish we could've gone too. {{userName}}-san, I'm sure you agree, right?
+Arisa: We couldn't have done it in the first place without all the stuff you lent us.
+Marina: I sure was surprised when Tae-chan came to talk to us about that though. She just showed up, saying you needed equipment because you were gonna hold a concert.
+Marina: Not to mention, you were gonna have it at your house. I had no idea what was going on at first.
+Arisa: I-I'm sure you didn't... I'm really sorry about that.
+Marina: No, it was a good opportunity to learn more about Tae-chan, so it's okay.
+Arisa: Yeah, but she can be pretty hasty. I mean, what kind of person would plan a show in my basement without even mentioning it to me?
+Marina: I don't think anyone else could have pulled that off...
+Arisa: Right? That's what I thought too.
+Marina: But she took the whole thing seriously and came to talk to me about it, you know.
+Marina: She said she really wanted to make it work, so I wanted to help her make it happen.
+Arisa: O-Tae did that...? Fufu...
+Arisa: ... Huh? What'd you say, {{userName}}? I look so happy...? Wh-what?! Where'd you get that idea...?!
+Arisa: ... Man, O-Tae really needs to learn how to use her words.
+Arisa: It's not just her. Kasumi too. No one can ever explain anything properly... You can't imagine how much of a headache that is.
+Arisa: ... Though you might be able to say the same about me...
+Marina: I think it's pretty amazing that you can all understand each other despite not being able to always find the right words.
+Arisa: Well, we can always hold hands to communicate our feelings as a last resort, so I mean...
+Marina: Huh? What do you mean? I'd love to hear about that.
+Arisa: F-forget it! It's way too embarrassing! Maybe another time...!
+Arisa: B-but really, thank you for all your help. Hope we can come to you again if anything else comes up!

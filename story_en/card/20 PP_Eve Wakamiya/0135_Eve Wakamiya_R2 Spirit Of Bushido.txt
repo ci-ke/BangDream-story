@@ -1,0 +1,77 @@
+135_Eve Wakamiya_R2 Spirit Of Bushido
+
+<Shopping With Arisa>
+
+(Character: Arisa Ichigaya, Eve Wakamiya)
+
+[Knick-knack Shop]
+
+Eve: Mmhmm~, mhmhmm~, mmhmm~♪
+Eve: Every time I come here, I have fun just looking around~♪
+Eve: Ah, this katana keyholder! They have so many different shapes!
+Eve: Wow! It's a throwing star notepad! This would make a great present!
+Eve: This is... a mini tank for marimo. All round and green. It's so cute~♪
+Eve: Ah, this aroma candle has a nice smell...
+Eve: Hmm~... There are just so many things, it's hard to choose...
+Eve: What should I get...?
+Arisa: ... Why have you been talking yourself this whole time?
+Eve: Wahhh!
+Arisa: Wh-what?!
+Eve: Ah, Arisa-san! What a coincidence, seeing you here!
+Eve: Are you here to shop as well?
+Arisa: I wouldn't really call it that... I have some free time so I'm just kinda wandering around.
+Arisa: How about you? Shopping?
+Eve: Yes! I have the day off, and I wanted to buy something cute.
+Eve: This kind of store is really fun, isn't it?! I could come here every day♪
+Arisa: I don't know about that, but you never know what you're gonna find, so I like this store too.
+Arisa: ... Oh, this hair tie is cute.
+Eve: This natto sushi roll cushion is adorable!
+Arisa: What are you talking about...? They actually have that?! What a crazy design...
+Eve: Ah! Arisa-san, look!
+Eve: This one! It's a rabbit doll!
+Arisa: Ohh... It's pretty cute...
+Eve: When I look at this, I think of the day when we were catching bunnies around school.
+Arisa: Ah, you mean the other day.
+Arisa: ... Sigh.
+Eve: W-why did you sigh?
+Arisa: Nothing, I was just thinking about how much of a hassle that was.
+Arisa: I never want to have to run around school again...
+Eve: Ahaha... It was quite difficult!
+Eve: But luckily, we were able to get all of the rabbits back in the end.
+Eve: Most importantly, when we were finished, the girl in charge of the pet room finally looked happy!
+Eve: Bushido means to help people in need! I feel like I'm one step closer to understanding what bushido really is!
+Arisa: I'm not sure about the understanding bushido part, but...
+Arisa: I guess it's nice when people thank you.
+Eve: Yeah, it felt really good!
+Arisa: Alright well, I'm gonna go. Try not to waste too much money.
+Eve: Aww~, you're leaving?
+Eve: I wanted to do a little shopping together...
+Arisa: Wha-...?!
+Arisa: F-fine. But only for a little while, okay?
+Eve: Yay, thank you, Arisa-san!
+Eve: Okay, which store should we go to next?!
+
+
+<We Need To Come Together!>
+
+(Character: Eve Wakamiya)
+
+Eve: Mmhmm, mhmhmm, mmhmm~♪
+Eve: Ah, {{userName}}-san!
+Eve: How are you?! I never see you on a day off! Feels like a brand new experience!
+Eve: I just wanna start running!
+Eve: Oh, yeah! Speaking of running, we did a lot of that the other day when we were chasing after runaway rabbits!
+Eve: I was in the middle of my kendo practice when I was asked by Tae-san and the others to help catch them!
+Eve: I couldn't ignore someone who needed help. That's the way of bushido!
+Eve: But when I actually gave it a shot, it was so hard to catch those little guys, and we ended up running all around school...
+Eve: That certainly kept us busy!
+Eve: Still, in the end, we were able to get all of them back home, safe and sound!
+Eve: The pet committee member was really grateful for our help. It sure feels nice to do good things for people!
+Eve: To be able to work together as a group and get something done is also a wonderful feeling.
+Eve: Though you are one warrior, sometimes you must all come together to protect the lord! It's the same as that!
+Eve: In other words, working as a team is important♪
+Eve: Pastel＊Palettes already works really well together, but I think it would be great if we could keep doing that.
+Eve: Am I worried that we might become separated?
+Eve: Not at all! I believe we can always exist as one.
+Eve: Even if our hearts become disconnected... I will be there to bring us back together!
+Eve: But, sometimes I need help, too. When that time comes, I'll be counting on you for assistance♪

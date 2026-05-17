@@ -1,0 +1,99 @@
+498_Tsugumi Hazawa_R3 Noticing Change
+
+<Common Knowledge>
+
+(Character: Ran Mitake, Tsugumi Hazawa)
+
+[Hazawa Coffee]
+
+Tsugumi: Ran-chan, thanks for waiting. Here's your lemon tea.
+Ran: Thanks.
+Tsugumi: You can relax, too. There's still some time before the customers start arriving. O-oh, and here. It's chocolate gâteau. Go ahead, try it out.
+Ran: Tsugumi, you don't have to go out of your way like this. This cake is for sale, isn't it?
+Tsugumi: You don't have to worry about that. After I told my mom you were coming, she got right to work on making it for you.
+Tsugumi: It's made with dark chocolate too, so it's not that sweet. I think it's the kind of thing you'd like.
+Ran: Is this the thing you told me you wanted me to see when we were talking on the phone yesterday?
+Tsugumi: Ah, no, that's something else. This is what I was talking about.
+Tsugumi: I spent all day yesterday making this. Take a look! It's a flower arrangement, in case you couldn't tell...
+Ran: Huh? You made this?
+Tsugumi: I... did the best I could... What do you think?
+Ran: Ah, this thing you put the flowers into... Is it the driftwood from before?
+Tsugumi: Yeah! Thanks for noticing! It's the one I picked up in Inoshima! The same one we cleaned together.
+Ran: Have you decided where you're gonna put it? It creates a completely different impression depending on where you choose.
+Tsugumi: I thought I would put it on the counter here, but... if it's weird, or if there's a place it shouldn't go, don't be afraid to tell me.
+Ran: Nah, it's not weird at all. It matches the atmosphere of the store too... Not bad, I'd say.
+Tsugumi: It's not?! You really think so?!
+Ran: Yes, really.
+Tsugumi: Awesome~. That's a relief~... Having you look at it makes me so nervous... You know, because you're a flower specialist.
+Ran: I'm... far from becoming anything like that. Besides, I'm even not that familiar with this kind of flower arranging.
+Tsugumi: But still! You're always surrounded by this stuff, right? Things are totally different when someone like you is looking at a piece.
+Ran: Tsugumi... I had no idea you started learning flower arrangement.
+Tsugumi: At first, I wanted to try the traditional Japanese style, but it looked really hard... Anyway, yeah, I went to the downtown flower shop yesterday, and the florist taught me a bunch of stuff while I put this together!
+Ran: Oh, I see. You'd never think this was your first time. I think the great burnet makes for a nice accent, as well.
+Tsugumi: It does?! Yay! That was the only part I was sure I wanted to include. Especially since you said you really like it...
+Ran: Oh, you remembered that.
+Tsugumi: Why wouldn't I?! And remember those lyrics you wrote around the time you told us that? I thought if I had more experience with flowers, I might come to understand their meaning.
+Ran: Which ones are you talking about exactly?
+Tsugumi: You know, the first ones you made for us! I have them saved on my phone.
+Ran: Please... Those were some poorly written lyrics...
+Tsugumi: Not at all! I wanted to feel the same thing that you did.
+Tsugumi: And I'm glad I made an effort. After spending my whole day yesterday looking at flowers, I realized something. Though, I'm not sure why.
+Ran: What's that?
+Tsugumi: Well, let's look at this part about flowers falling and being a cycle...
+Tsugumi: Remember, Tomoe-chan was saying she got a sad and lonely vibe from it? That was probably because she was imagining the part where they wither and the scenery around them turns gloomy.
+Tsugumi: On the other hand, I looked at the same lyrics and got a more optimistic impression. That's because I thought about how the cycle will start again and I felt something hopeful in those words.
+Ran: Hopeful...? You think so? Sorry, I'm just so bad at explaining myself.
+Tsugumi: No worries. These are my own thoughts anyway. While I was getting a feel for the flowers and pondering the lyrics, it suddenly hit me...
+Tsugumi: For a flower, blossoming, wilting, and then sprouting again are all part of the natural course of things.
+Ran: Natural, huh?
+Tsugumi: Mhm. It doesn't necessarily feel sad about its petals scattering, and when it starts to grow again, it doesn't necessarily do it because it has a dream. To a flower, all of that is just normal stuff.
+Tsugumi: I mean, that's what they do, right? They bloom, they fall, and they bud again. That's what "the same as always" means for a flower.
+Tsugumi: It's possible that we put too much special meaning into that phrase.
+Tsugumi: I believe that we were just thinking about it too hard and made the whole thing more complicated than it needed to be. Meanwhile, you were just writing what was obvious to you, as you normally would.
+Ran: A flower's "same as always"... huh?
+Tsugumi: S-sorry if I'm off base!
+Ran: Nah... I think you got it. Actually, now that you put it into words for me, I've noticed something.
+Ran: ... I really did just wanna sing about "the same as always" after all. I couldn't explain myself well up until now... But I finally get it.
+Tsugumi: You do?! Thank goodness~.
+Ran: Really, I should be thanking you. I kinda feel like a weight has been lifted.
+Tsugumi: The answer was right in front of our noses the whole time, and I have you and these flowers to thank for helping me realize it!
+Ran: Nah, I really don't think I did anything to help...
+Tsugumi: Fufu. I hope you can keep telling me more and more about flowers, Ran-chan! I'll be looking forward to it!
+
+
+<Same as Always is #1!>
+
+(Character: Tsugumi Hazawa)
+
+[Hazawa Coffee]
+
+Tsugumi: Welcome to Hazawa Coffee! Ah, {{userName}}-san. Good afternoon.
+Tsugumi: I suppose you have a day off? I'm helping out around the store today.
+Tsugumi: What? 'Admirable'?　Ehehe. No, not really.
+Tsugumi: Oh! There wasn't much going on in the store, so I started making some coffee samples. Would you like to give it a try?
+Tsugumi: Okay, I'll go get them! Give me one moment.
+(Black cut)
+
+[A Few Minutes Later]
+
+Tsugumi: {{userName}}-san, I'm back!
+Tsugumi: Do you mind if I try it out too?
+Tsugumi: Thank you! Okay, let's drink them while they're still hot.
+Tsugumi: ...
+Tsugumi: Hmm~... It's a little too sweet, isn't it? But it also tastes bitter...?
+Tsugumi: I tried adding some burnt caramel, but I think I overcooked it a little... The original café au lait is better, huh?
+Tsugumi: As I thought, you shouldn't go forcing something to be different. This was something that didn't need to be changed.
+Tsugumi: ... Hm? Ah! Sorry. I've done a lot of thinking about change recently, so it just crossed my mind.
+Tsugumi: Not too long ago, there was some trouble among our band members...
+Tsugumi: It really only happened because we all love and treasure Afterglow.
+Tsugumi: Ran-chan has done a lot of changing so that the group can stay together...
+Tsugumi: Because of that, we became unable to understand the lyrics she wrote.
+Tsugumi: We would take one phrase, and everyone would have a completely different way of reading it...
+Tsugumi: Now that I think about it, our "same as always" was already something different at that point.
+Tsugumi: I became flustered thinking I needed to hurry and catch up to Ran-chan.
+Tsugumi: But we all did a lot of talking, we watched the sunset together, and it made me think that it's important for some things to change and for some things to stay the same.
+Tsugumi: If you try to force it, it might not go well, and then it'd end up being meaningless.
+Tsugumi: Just like this café au lait. No reason to make it differently. It's tastiest when it's the same as it always is.
+Tsugumi: I'm hoping to keep chasing Ran-chan and the others at my own pace.
+Tsugumi: Yes, thank you! I'll do everything I can!
+Tsugumi: Sorry for taking up so much time with my talking. I'll bring you a new coffee! One that's the same as always!

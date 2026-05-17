@@ -1,0 +1,86 @@
+1391_Sayo Hikawa_R3 For Whose Sake?
+
+Gacha phrase: Besides... I still remember how happy you looked.
+
+<Sharing Troubles>
+
+(Character: Misaki Okusawa, Sayo Hikawa)
+
+[Shopping Mall - Bookstore]
+
+Sayo: ... I came here to buy a book, but I'm not quite sure which one to choose...
+Sayo: ... The title of this book...
+Misaki: ... Sounds like it might be just right...
+Sayo & Misaki: ... Ah.
+Sayo: Okusawa-san! Of all the places...
+Misaki: Yeah... Are you shopping for a book too?
+Sayo: Yes, well...
+Misaki: Ahh. Um, were you thinking of buying this book? "The Best Answers for Curious Elementary Students."
+Sayo: Y-yes. You too?
+Misaki: Yeah, well... Lately, Hagumi has been in full-blown study mode. She keeps asking me all kinds of questions.
+Misaki: The other day, she asked me why snow is cold. I found that surprisingly hard to explain.
+Misaki: So, I was thinking, like... I wonder if there's a better way for me to explain things~...
+Sayo: I've had the same thought. Recently, Hina has been asking me a lot of questions...
+Sayo: A few days ago, she asked how she could easily explain to Kitazawa-san why lightning falls to the ground.
+Sayo: Even I would have a hard time explaining that... So I came to the bookstore hoping I'd find something that would help...
+Misaki: Oh... I'm sorry our Hagumi's causing you trouble...
+Sayo: No, it seems that Hina suggested being her tutor. To say the least, in her private life, she's the type of person who does only what she wants.
+Misaki: Yeah... I guess Hina-san does kinda seem that way...
+Sayo: She has always done things her way and therefore hasn't been very good at explaining things to others...
+Sayo: However, this time she has been trying many things to make it easier for Kitazawa-san to understand...
+Sayo: If she wasn't trying to help Kitazawa-san study... I don't believe she would have changed like this.
+Sayo: I'll have to express my gratitude to Kitazawa-san.
+Misaki: N-no, you really don't need to do that...
+Misaki: It kinda feels like I should be thanking you.
+Misaki: Hagumi hates studying, but ever since Hina-san started helping her, she really seems like she's enjoying it.
+Misaki: I kinda think... Hina-san's the one who got her to go from "I hate studying" to "Studying is fun."
+Sayo: I see... I'm happy my sister's actions have been helpful to someone.
+Misaki: You know... you're very kind, Sayo-senpai.
+Sayo: I'm not sure whether I'm kind or not... but if there's something I can do to help, I would like to do it.
+Misaki: Oh... Fufu. This is work for both of us, isn't it?
+Sayo: Yes, it is.
+Misaki: Ah, it looks like there's only one copy of this book, so you take it. Please give it to Hina-san.
+Sayo: No, you came here looking for it for Kitazawa-san, correct? Please do not worry about me.
+Misaki: Yeah, but you're looking for this book too because Hagumi is having Hina-san teach her about a bunch of stuff...
+Sayo & Misaki: ...
+Sayo: ... Fufufu.
+Misaki: Ahaha... I've got a feeling we'll probably just keep offering this to each other.
+Sayo: Fufu... Yes, I think you may be right.
+Misaki: Ah, since we're here, why don't we read it together? We could take a break from shopping and go to a café or something.
+Sayo: Yes... Let's. Thank you, Okusawa-san.
+Misaki: No, no. That's my line. Thank you, Sayo-senpai.
+Sayo: Fufu... Well, shall we go, then?
+
+
+<Slowly Changing, You and I>
+
+(Character: Sayo Hikawa)
+
+[CiRCLE - Lobby]
+
+Sayo: Hi, Marina-san, {{userName}}-san.
+Marina: Hi, Sayo-chan. You're here to practice by yourself today, right?
+Marina: Ah, by the way, Hina-chan was just here. She was with Hagumi-chan.
+Sayo: Hina... was here?
+Marina: They said they came because they were really curious about how sound comes out of an amp.
+Sayo: O-oh... I'm sorry they bothered you.
+Marina: Unh-uh, it wasn't a bother at all! I was able to fix up a few things while I was showing them the inside of the amp. Honestly, they helped me out.
+Marina: The best thing was seeing them so happy learning about things together. I started having fun too.
+Marina: Hagumi-chan needed to prepare for her makeup test, so Hina-chan became her tutor, right?
+Sayo: Yes. When I first heard that Hina was tutoring Kitazawa-san, I was very surprised...
+Marina: Fufu. I was a little surprised too. But when I see Hina-chan, she looks like she's having the time of her life teaching.
+Sayo: Yes... She usually seems to just enjoy things, but I think she has also, in her own way, been trying very hard to teach Kitazawa-san in interesting ways.
+Sayo: I usually tell Hina that she needs to explain things in ways that are easy for others to understand.
+Sayo: Now that I see her doing it, it feels a little strange...
+Marina: Like something new and different?
+Sayo: Yes. Ever since Hina was small, she has been so carefree. She has always done things her own way...
+Sayo: I never imagined that someone would want her as a tutor.
+Sayo: Perhaps through experiences like this with both members of Pastel＊Palettes and various other people, Hina will change little by little.
+Marina: Fufu. But don't you think it's the same with you too, Sayo-chan? I think your time with Roselia and others is slowly changing you too.
+Sayo: Me...? Yes, you may be right.
+Sayo: Looking back, I have gained so much from so many people. I think that has made me who I am now.
+Marina: Yep. I think we all take in a lot of things from the people around us. They change us bit by bit. I'm no exception.
+Sayo: You are right... That is something that we must never forget.
+Sayo: I think we should continue to cherish this environment that allows us to influence each another.
+Marina: Yeah, let's do that!
+Sayo: Yes. Thank you, Marina-san, {{userName}}-san. I'm going to start my practice session now.

@@ -1,0 +1,88 @@
+586_Hina Hikawa_R3 All's Well that Ends Well
+
+Gacha phrase: Didn't you just say you want proof you can see?
+
+<Things I Don't Know>
+
+(Character: Hina Hikawa, Maya Yamato)
+
+[Idol Agency]
+
+Hina: Wow~! Ah, yes. Now I see... Oh~! So that's what happens~.
+Maya: Uhhh... Hina-san?
+Hina: Hm? What? Is something wrong?
+Maya: No, I just... That magazine you were reading. Is that the one I'm writing the column for?
+Hina: Sure is~. I was going through your article just now!
+Maya: Hahaha... I thought so... I'm glad you seem to be enjoying it...
+Maya: As the writer, though, it's a little embarrassing to have someone read my work right in front of me...
+Hina: Nah, don't be. You're just overthinking it.
+Hina: Anyway, for someone who was only recently published, your pieces sure are a big hit!
+Hina: The fan letters and emails are pouring in, aren't they?
+Maya: Y-yes, they are... The fans all read my column with such dedication... And I've been able to learn so much from the letters I receive.
+Hina: And you started a question-and-answer section, right? Look at this. The most recent issue has even more space for your column!
+Hina: I heard from Aya-chan that it's all the rage online~.
+Hina: Here, let me pull up some of the posts... Hm-hmmm... Found one. Get a load of how happy they are that you answered their question!
+Maya: Ah, I... remember that person. They were torn on what sort of effects pedal to go with...
+Hina: They said, "Thanks to your advice, I was able to buy a good effects pedal that seemed just right! I'll treasure it forever!"
+Maya: Wow, forever...? Huhehe... I-I'm glad they found what they were looking for.
+Hina: Man, your column sure is neat, Maya-chan! Not that I have any idea what it all means!
+Maya: Hina-san enjoying something without needing to understand it... Yep, checks out.
+Maya: I'm unfortunately unable to enjoy things that I don't understand, so I truly respect that side of you.
+Hina: Huh~? You and I are completely different people though. Is it really that big of a deal?
+Maya: I suppose you do have a point there...
+Maya: Thanks to what happened, I was finally able to notice the difference between my concept of an ideal idol and how I really am... So much is clear to me now.
+Maya: That has also led me to have a much better grasp of what my weaker areas are.
+Maya: Everything felt just fine before, but you know, being completely aware of your shortcomings and seeing everything for what it is can be terrifying. Or unsettling, at the very least.
+Maya: So I thought, "What if I could learn to enjoy things I don't understand like Hina-san does?" I figured that might help me keep my composure a little better...
+Hina: Like I do? Hmmm, but you're not me, Maya-chan~.
+Hina: Not to mention, the idea that you could understand everything doesn't sound right to me~.
+Hina: If we're being honest here, before joining Pastel＊Palettes, I was pretty bored with everything. Day after day, just one dull thing after another.
+Hina: It's not like I'm saying those things were bad. It was kinda like dealing with bland food that I don't like to eat.
+Maya: Food that's bland? Uhhh, you mean those things didn't have what it takes to get you excited?
+Hina: Yeah, I guess. A world where nothing changed. Not a single thing was boppin'♪
+Hina: But now there's fun at every turn! Every single day is filled with the unknown!
+Hina: Like Pastel＊Palettes! It's just a big bundle of stuff that doesn't make sense! No one acts how I expect they would!
+Maya: S-so... I take it that's as a compliment?
+Hina: You bet! Being in Pastel＊Palettes and hanging out with you guys is the best!
+Maya: Hahaha... Well, I'm glad you're happy...
+Hina: Anyway, I have a question about the newest column! Here! What does this part mean?
+Maya: Which part? Ah, that's a famous drumming technique that can help measure your true ability based on whether or not you can pull it off.
+Maya: First, you create a unique rhythm using the high hat. Then, you add ghost notes with the snare between your main notes. It's a simple technique, but it produces a bizarre groove that-
+Hina: Hmmm...  I have no idea what you're talking about!
+Maya: Huh?!
+Hina: But this is fun! Keep teaching me more and more weird stuff!
+
+
+<Worries>
+
+(Character: Hina Hikawa)
+
+[Riverside]
+
+Hina: Hey, it's {{userName}}-san. What're you up to~?
+Hina: Shopping, huh? Nice~. I had gone out for the same reason, but...
+Hina: Nothing caught my eye, so I'm heading back empty-handed~. So I guess my shopping trip was more like taking a walk.
+Hina: So, did you read it? You know, the thing I mentioned.
+Hina: Maya-chan's column, of course! I told you the other day about how she started writing for a magazine!
+Hina: I have no idea what she's talking about in there~. And that's what makes it so interesting!
+Hina: She's a total whiz when it comes to musical equipment, so much so that even the agency staff say they're learning new stuff from her writing.
+Hina: Isn't that amazing?! I'm loving her column!
+Hina: The writing process itself was a whole heap of trouble, though. Maya-chan was really put through the wringer.
+Hina: Every day, she was looking down in the dumps. All the energy she usually has went poof and disappeared~.
+Hina: See, according to her, she'd been worrying about whether she was being a proper idol for the longest time.
+Hina: Going over what you write is normal, right? Well, it was like a mirror for her, and she had a serious case of self-reflection that made her worry a whole bunch.
+Hina: Those kinds of feelings don't seem out of place for her.
+Hina: I mean, if I'm being perfectly honest here, I was ready to ask her, "Why not quit, then?"
+Hina: She just seemed to be in so much pain, you know?
+Hina: She wasn't even aiming to be an idol when she originally joined Pastel＊Palettes. There's no reason for her to be in such pain in that case.
+Hina: But I never actually asked her in the end~.
+Hina: If Maya-chan quits the group, then it wouldn't be the same at all. And that would be so boring.
+Hina: So now, I'm happy that I kept quiet. Besides, she's feeling much better!
+Hina: Huh? I'm worried? About Maya-chan, you mean?
+Hina: Yeah. I probably am.
+Hina: I love Maya-chan and everyone else in Pastel＊Palettes, and I can't wait to have more and more fun with them!
+Hina: That's why I'm so happy that she's feeling better!
+Hina: Think of all the events and concerts Pastel＊Palettes is going to hold... So much boppin' fun to be had♪
+Hina: You're dying to see all that excitement for yourself, aren't you, {{userName}}-san?
+Hina: Go ahead and keep your expectations high, because we're gonna blow them right out of the water.
+Hina: Alrighty, I'm outta here! Have a good one, {{userName}}-san~.

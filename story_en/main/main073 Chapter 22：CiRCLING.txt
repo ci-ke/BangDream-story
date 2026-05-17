@@ -1,0 +1,54 @@
+main073 Chapter 22: CiRCLING
+
+It's the end of the day, and Marina is preparing to close CiRCLE when...
+
+(Character: Kasumi Toyama, Tae Hanazono, Rimi Ushigome, Saya Yamabuki, Arisa Ichigaya)
+
+[CiRCLE - Lobby]
+
+Marina: Mmm~. I'd say, as usual, we've put in some good work today! Let's start getting ready to close up the place, shall we?
+Marina: There's already going to be a concert next week, and RiNG's studios are fully booked, so I'd say the age of girl bands is still going strong.
+Marina: By the way, you'll be going over to RiNG to help with their concert, right?
+Marina: There's a good chance you'll be asked to help them periodically, but I hope you don't mind!
+Marina: The new part-timers still aren't used to things, so show them the ropes.
+Marina: Fufufu...
+Marina: Hm? Oh, nothing... I was just thinking about how you've also become one of our vets.
+Marina: Are you also feeling like something new has begun, by any chance?
+Marina: That's the look on your face anyway.
+Marina: Well, things are probably going to get a lot busier! Let's do our best together!
+Kasumi: Marina-san~, {{userName}}-san~! Evening~!
+Marina: Oh, Kasumi-chan! And the whole band too!
+Kasumi: Thank goodness~! CiRCLE's still open!
+Marina: What brings you here at this hour?
+Arisa: We were practicing down in my basement, but Kasumi suddenly said she wanted to go to CiRCLE...
+Kasumi: It's not my fault I got the sudden urge to see Marina-san and {{userName}}-san.
+Marina: Fufufu, so you came all the way here just for that? Thanks!
+Saya: Were you tidying up? We'll help.
+Marina: No, it's alright. I think we'll stay open a little longer since you girls did come all this way to see us.
+Tae: Oh, look, look! The new CiRCLE guestbook that Mashiro and Morfonica brought has tons of messages already!
+Rimi: You're right~. Ah, look at this. It says "We formed our band when we became high schoolers! Looking forward to coming here a lot."
+Kasumi: Wow... This is amazing! It's like new things are happening everywhere!
+Kasumi: I bet CiRCLE's going to become their home too...
+Kasumi: Sigh~, I hope they really get to enjoy themselves~... CiRCLE is such a great place, after all!
+Marina: Thanks, Kasumi-chan. Hearing you say that makes me even more motivated.
+Kasumi: Seeing your face has the same effect on us, Marina-san!
+Marina: I'm glad to see you too. You've all got the look of high school third-years!
+Kasumi: Really? Wait, so does that mean... we look more grown-up?!
+Marina: There's that, but you also seem more dependable!
+Kasumi: Marina-san... Thank you so much!
+Kasumi: Hooray~! Did you guys hear that?! She just said we've become more grown-up!
+Arisa: Way to go acting just like a kid right after she did...
+Marina: ... Oh, hey, do you girls still happen to have some time?
+Marina: If you'd like, want to play together? It's been a while, but I'm in the mood to play guitar...
+Kasumi: Totally! Like, wouldn't miss it! You don't mind, right, guys?!
+Tae: Of course not! I want to see your crazy guitar skills again, Marina-san!
+Rimi: What song would you like to play? I actually still have some songs I'd like to play with you...
+Arisa: C-calm down for crying out loud! You guys need to let your folks know you'll be late.
+Saya: Ohh, such a strong sense of responsibility~, Miss Student Council Vice President. Fufufu.
+Arisa: Shut up, will you!
+Marina: Alright then, start getting ready.
+Kasumi: Oh, before that... Marina-san! {{userName}}-san!
+Kasumi: On behalf of the Girls Band Party, we'd like to say...
+Poppin'Party: Please continue to support us!
+(Black cut)
+(Background change)

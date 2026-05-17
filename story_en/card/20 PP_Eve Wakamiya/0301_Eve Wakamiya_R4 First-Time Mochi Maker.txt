@@ -1,0 +1,107 @@
+301_Eve Wakamiya_R4 First-Time Mochi Maker
+
+Gacha phrase: So you really can hear the sound of the mochi flattening when you hit it!
+
+<New Year's in Finland>
+
+(Character: Maya Yamato, Eve Wakamiya)
+
+[Shrine - Entry Path]
+
+Eve: Maya-san, that's a wrap!
+Maya: Yeah, good work, Eve-san! Do you have any plans after this?
+Eve: No, not especially!
+Maya: Shall we head home together then?
+Eve: Sure!
+(Black cut)
+(Background change)
+
+[Walking Home]
+
+Maya: So many things happened today, huh?
+Eve: Yes, I feel like I had one years worth of events in just one day today!
+Eve: I must say... I really didn't expect to draw great misfortune on New Years day...
+Maya: Tell me about it... But in the end, it turned out to be a good first shrine visit for the year, so I'm glad!
+Eve: Yes, I was able to get to know the others better as well, so it was a great New Years day!
+Maya: Speaking of New Years, how do people in Finland spend it?
+Eve: Hmm, let me think... Ah, everyone sets off fireworks to celebrate the New Year.
+Eve: New Years is the only time of year that we're allowed to use fireworks at home!
+Eve: You can see fireworks being set off all over town, so it's really fun!
+Maya: Ohh, that sounds exciting! Are there any other things that differ to what we do in Japan?
+Eve: Hmm... Oh! Finland doesn't have special New Years foods like osechi or anything like that.
+Eve: Everyone has the usual foods like potato salads and sausages!
+Eve: It takes a lot of work to cook foods for Christmas, so most families make simple foods so that they can take it easy over the New Year.
+Maya: That is the same approach we take to osechi in Japan too. It looks extravagant, but we always make a lot to last the whole new year period, so it makes life easier.
+Eve: I see! So that's how it works!
+Maya: Oh, that reminds me, Eve-san... You said it was your first time to get a fortune slip. Does that mean you don't have them in Finland?
+Maya: I know that there's things like tarot cards or fortune cookies...
+Maya: Do you have anything like that connected to the New Year?
+Eve: At New Years we do Tinan Valaminen!
+Maya: T-ti-tinan...?
+Eve: Tinan Valaminen! It's a way of seeing our fortune for the year, so I think it's just like a fortune slip!
+Maya: Th-that's a name that is definitely going to tie my tongue in knots... How does it work?
+Eve: We heat a horseshoe made of tin until it melts, and then we chill it in water.
+Eve: We then look at the shape once it has become solid again, and that tells us our fortune for the year!
+Maya: Ohh, that sounds kind of interesting! Are there certain shapes that are better or things like that?
+Eve: I guess there are some shapes that if it turns into them, you might have good luck, but...
+Eve: It's not strict and structured like the fortune slips in Japan.
+Maya: Huh? Wh-what do you mean? It's a type of fortune telling, isn't it?
+Eve: It is, yes... Oh! For example, if you did it and it came out in the shape of a snake, what would you think of it?
+Maya: Hmm... a snake... A white snake kind of feels like a symbol of good fortune...
+Eve: In that case, you will have good fortune this year! ... It kind of works like this!
+Maya: What? Th-that's it?!
+Eve: Yes! For example, if it looks like a bird, you might have a year where you can spread your wings!
+Eve: ... We use the shapes to talk about how we want our year to be.
+Eve: It's really fun to look at the shapes and discuss them!
+Maya: The fact that you can decide the outcome yourself means it's a quite easy-going method of fortune telling, doesn't it...?
+Eve: Fufu, I guess it is when you compare it to fortune telling in Japan.
+Eve: Oh, but...
+Maya: What is it, Eve-san?
+Eve: The fortune slip I got today isn't any different, right?
+Eve: I drew great misfortune, but because of that I ended up having a fun New Year!
+Eve: My great misfortune today depended on the way I looked at it. Just like Tinan Valaminen!
+Eve: The important thing isn't the result of the fortune telling, but the mindset you have when you look at it!
+Maya: I see! Fufu, that's very much like you to say, Eve-san.
+Eve: It is?
+Maya: Yes, just listening to you is so refreshing. It's perfect for starting the New Year!
+Eve: I'm not sure what you mean, but I am glad you feel that way!
+Maya: It was really fun hearing about New Years in Finland and everything else!
+Eve: I am happy to hear it! Maya-san, happy New Year!
+Maya: Oh, that's what I should be saying. Happy New Year!
+
+
+<Good Luck on New Year's>
+
+(Character: Eve Wakamiya)
+
+[Downtown]
+
+Eve: Oh, {{userName}}-san! Happy New Year!
+Eve: May this year be great for both of us! I am looking forward to it!
+Eve: {{userName}}-san, how was your New Year?
+Eve: I visited a shrine on the first day of the year! Maya and I went there as reporters for our work.
+Eve: Yes, it was really fun!
+Eve: In the beginning, I thought it was going to be an unhappy New Year because the fortune slip I drew was great misfortune, and I lost my pouch, but...
+Eve: A kind stranger found my pouch and thanks to Kokoro-san I was able to experience some things I can only do at New Years, so it turned out to be a wonderful day!
+Eve: We flew kites and made mochi! They were both difficult, but I was able to learn many things about New Years in Japan!
+Eve: I was carrying something really important in my pouch, so I was truly relieved when we found it!
+Eve: Inside it were my New Years cards! They are special treasures from my friends!
+Eve: They were given to me by the other members of Pastel＊Palettes, my friends at school, and even from Hanne in Finland!
+Eve: That's true, normally we send Christmas cards in Finland, but Hanne sent hers following Japanese traditions instead.
+Eve: It was a picture of fireworks on it! It reminded me of New Years in Finland and brought back many memories.
+Eve: You're surprised that we have fireworks in Winter? In Finland, they are a very important part of our New Year!
+Eve: Oh, Hanne also wrote on her New Years card that she wanted to come to Japan again! I was so happy!
+Eve: Although, I might not have gotten these back if it wasn't for the lucky items...
+Eve: Yes! Ako-san and Rinko-san bought a hamaya arrow and other lucky charms for me!
+Eve: They bought them for me and said it was to blow away my great misfortune!
+Eve: Maya-san, Kokoro-san, and Misaki-san searched really hard for my pouch too. I cannot thank them enough!
+Eve: That reminds me, Japan has so many things that are considered to bring good luck at New Years! I was so surprised when I reading about them!
+Eve: The one that surprised me the most the "one Fuji, two hawks, three eggplants" dream!
+Eve: I can kind of understand why Mt. Fuji or hawks might bring good luck, but...
+Eve: Why would eggplants be considered lucky? I cannot begin to imagine!
+Eve: Perhaps eggplants contain mysteries I cannot understand just yet...
+Eve: If I study more and more about Japan, it might start to make sense!
+Eve: {{userName}}-san, have you ever dreamed about eggplants?
+Eve: I haven't either, so now I am really curious!
+Eve: If you ever dream of eggplants, please let me know!
+Eve: I can't wait to hear about it!

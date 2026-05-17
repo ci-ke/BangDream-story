@@ -1,0 +1,109 @@
+1285_Himari Uehara_R4 New Sights
+
+Gacha phrase: Hey, hey is my line!
+
+<Aya-senpai's Advice!>
+
+(Character: Himari Uehara, Kanon Matsubara, Aya Maruyama)
+
+[Fast Food Store]
+
+Himari: Hm-hm-hmm~♪ Bye, you two!
+Aya: Bye~. Already done with work?
+Himari: Yeah! I only have the morning shift today!
+Kanon: Fufu, you seem to be in a good mood, Himari-chan. Did something happen?
+Himari: You can tell?! Is it that obvious?!
+Himari: You see... We're going on our first band trip♪
+Kanon: A band trip? Wow, that sounds nice!
+Himari: There's this other band that invited us to perform against them, and I'm so looking forward to it!
+Aya: Your first band trip, huh~? I can totally see why you'd be excited!
+Himari: Exactly! I'm already super fired up~.
+Himari: Ah, by the way, both of you have lots of band trip experience, right?
+Aya: Yeah, I think you can say we've both been to our fair share of places.
+Himari: That means you're like travel vets, right?! Maybe you could offer a first-timer like me some advice.
+Aya: I don't know if I'd call myself a vet... but I'll try to answer any questions that I can!
+Kanon: Hmm... Well, our concerts tend to be on the spontaneous side...
+Kanon: And the suit people take care of our outfits and equipment, so I'm not sure my advice would be much use...
+Himari: I see. Now that you mention it, Hello, Happy World! does seem like that kind of band...
+Aya: Fufu, yeah. It's usually Kokoro-chan who comes up with something exciting to do and everyone else joining in on the fun.
+Himari: That does make them a bit of a special case, so Aya-san... No, Aya-senpai! You're the only one I can count on!
+Himari: Please offer some advice for our first trip! Like what we should bring or the right mindset to have!
+Aya: Hmm... Let me think...
+Aya: To be honest, I don't think we do anything special for band trips.
+Himari: Really?! You don't?!
+Aya: Yeah. But we always make sure we're able to perform at a hundred percent when the time comes.
+Aya: Um, for example... When we're on the way there, we keep in mind that we're heading to a concert.
+Himari: Even when you're on the way there...?
+Aya: Mm-hmm. You know how it's so easy to get carried away when you go somewhere for the first time, right?
+Aya: But if you end up too exhausted by the time you get up on stage, you won't be able to give your best performance, and that's disrespectful to the audience.
+Kanon: That makes sense... I wouldn't want to disappoint the people who are taking the time and effort to come see us either.
+Himari: Not forgetting about the concert... Ugh, I know I shouldn't, but I have a feeling I'll get carried away when I'm with everyone...
+Aya: Yeah, it's hard to sit still when you wanna have a good time with everyone. I'm that way too.
+Aya: That's why I try to find a balance. Like I'll chat with everyone while we're on the bus, but I'll also make sure I take a thirty-minute nap.
+Himari: Ohhh! So the trick is to have fun while making sure you have enough energy for the show itself, huh?
+Aya: Exactly! If you do that, I'm sure you'll be able to do well during the concert!
+Aya: By the way, how are you getting there? Car? Train?
+Himari: Car! Marina-san has some business nearby, so she's going to drive us!
+Himari: I'm so grateful to her. The place we're going to is pretty far away, so I freaked out when I found out, but then she offered to help.
+Himari: Well~, if I'd known it was that far, I might've thought about it more carefully...
+Himari: But the invitation we got was pretty hostile, so I kind of lost it and accepted without thinking...
+Kanon: I-it was that bad?
+Himari: Yeah... I really should've checked first without letting it get to me, though.
+Himari: But what's done is done, so we're gonna show them what we're capable of!
+Aya: Ahaha... That totally sounds like you guys. You know, the momentum and that energy, and I don't think it's a bad thing either.
+Aya: Ah, and you might even be able to swing by some rest areas along the highway since you're going by car. That'll be fun for sure!
+Himari: Oh, yeah! Rest areas always have so much stuff, so there'll be a lot of new things to check out♪
+Kanon: Yes, there'll be local food to eat and all kinds of souvenir shops to explore... Even just window shopping can be fun.
+Aya: Mm-hmm. Oh, but that's also why you have to be careful you don't get too carried away.
+Himari: O-okay! Um, so, don't forget... and energy... I should take notes...
+Himari: Is there anything else, Aya-senpai?
+Aya: Hmm~, let me think... Be sure to massage yourself extra thoroughly the day before you go on the trip!
+Himari: A massage? That's such an idol thing to do...!
+Kanon: Wow... I had no idea you go so far to take such good care of yourself. That's incredible.
+Himari: It really is! It makes you feel like a genuine idol!
+Aya: Massaging also gets me fired up for the trip and helps remind me not to waste all the hard work I've put in.
+Himari: I see...! This is all really useful information!
+Himari: ... I've written it all down! Your tips have been such a huge help! Thank you so much!
+Aya: No problem. I'm glad I could help. Enjoy your first band trip.
+Kanon: We won't be able to go with you, but we'll be sending you our best wishes from here.
+Himari: Thank you very much, both of you! We'll do everything we can to make our first band trip a smashing success!
+
+
+<Learning From Mistakes>
+
+(Character: Himari Uehara)
+
+[Park]
+
+Himari: Ah, Marina-san, {{userName}}-san! Hello!
+Marina: Hi, Himari-chan. On your way somewhere?
+Himari: Yeah, I'm thinking of going shopping~. What about the two of you?
+Marina: Oh, we're just taking our break out here. We figured the pleasant weather would make for a nice change of pace.
+Himari: Oh, I guess work must be rough. By the way, thank you for driving us the other day when we had our band trip!
+Himari: And a huge thank you for everything else as well...
+Marina: No problem, I'm glad I got to help you girls out on your first-ever band trip.
+Himari: You're so sweet~, Marina-san...!
+Himari: Did she tell you about it yet, {{userName}}-san? You won't believe all the trouble we ran into!
+Himari: It was our first time, and it was just one crisis after the other!
+Himari: I can't even begin to list everything that went wrong!
+Marina: Ahaha, it was certainly eventful. But you girls still managed to pull through.
+Himari: Of course! And the concert was a huge success too!
+Himari: But that doesn't mean there weren't times when things got pretty hairy~... Everyone was so gloomy because of everything that was going wrong.
+Himari: I wanted to fix the situation, but no matter how hard I tried, I couldn't come up with anything.
+Himari: That's when Marina-san told me about her past fails!
+Marina: Hey, could you not embarrass me in front of my colleague? But I'm glad my stories helped, at least.
+Himari: They absolutely did! Hearing your stories was what got me to think we should challenge ourselves.
+Himari: And you should've seen the look on your face when you were talking about your past. You were shining!
+Marina: Um, I was...?
+Himari: Yeah. You were talking about all the trouble you had, but you had this wonderful, glowing smile!
+Himari: It made me realize that there's no need to be afraid of messing up as long as you can look back and smile.
+Himari: I mean, who wants to be full of regret about what they should've done, right?
+Marina: Fufu, so that's why you were able to encourage everyone to get up on stage regardless of the situation.
+Himari: Well, performing also felt like our best option at the time...
+Himari: And I knew I'd regret it if we didn't.
+Marina: It certainly paid off! I'm so happy for you girls that the concert was so successful.
+Himari: Thank you! That said, the whole mess wouldn't have happened if I'd checked before accepting the invitation to compete. I've learned a valuable lesson.
+Himari: That's why I've decided that from now on, I'm going to check first before responding!
+Marina: Learning from your mistakes tends to be the most important lesson you can learn. Good luck. I'll always be wishing you the best!
+Himari: Thank you very much!
+Himari: Ah, sorry for interrupting your break. See you both again at CiRCLE!
