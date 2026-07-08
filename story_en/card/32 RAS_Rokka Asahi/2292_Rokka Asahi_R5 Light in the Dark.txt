@@ -1,0 +1,135 @@
+2292_Rokka Asahi_R5 Light in the Dark
+
+Gacha phrase: Monsters! Good night-!!
+
+<Fragment Flag>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+(Memory cut-in)
+
+[Halloween Cruise - Onboard]
+
+LOCK (Rokka): Yaaay, it's the Halloween Cruise~!
+PAREO (Reona): Aahh... At last, CHU²-sama is wearing the ultimate, super-lovely Halloween costume that PAREO came up with... I'm so moved!
+CHU² (Chiyu): Shut up! PAREO, house!
+MASKING (Masuki): You guys... You're pretty cute.
+LAYER (Rei): All right, let's go. First up, the photo spot!
+LOCK (Rokka): Yes! I'm super excited~!
+All: ?!
+Onboard announcement: --This is the captain's quarters! Can all passengers hear me? Damn it... The ship's been taken over by monsters-
+LAYER (Rei): M-monsters?!
+LOCK (Rokka): I-it's okay, LAYER-san! This is an interactive show called "Waltz with the Halloween Monsters"...
+Onboard announcement: GYAAAAAAA!!!
+Onboard announcement: Uwaaaaaaaah!!!
+CHU² (Chiyu): H-hey! That was a real scream just now?!
+LOCK (Rokka): H-huh? That can't be right...
+Monster: GYAAAAAAA!!!
+All: Eeeek~~~~~?!
+PAREO (Reona): I-it's a monster! When did it get this close...?!
+MASKING (Masuki): Hey, what do we do?!
+CHU² (Chiyu): What else?! We have to run?!
+LAYER (Rei): Yeah, let's get out of here, now-
+Monster: GYAAAAAAA!!!
+LAYER (Rei): Urgh?!
+LOCK (Rokka): LAYER-san?!
+LAYER (Rei): Sorry, but... I think this is it for me... Don't worry about me... Run... Thud
+MASKING (Masuki): Hey, LOCK! We're getting outta here!
+LOCK (Rokka): B-but, LAYER-san is...!
+MASKING (Masuki): I get it, but... If the monster's here, this place isn't safe either!
+CHU² (Chiyu): LAYER... Your sacrifice won't be in vain...!
+LOCK (Rokka): L-LAYER-saaaaaan!!
+(Black cut)
+(Background change)
+MASKING (Masuki): Pant, pant... We should be safe if we're this far out. Help oughta show up soon, so let's just wait it out-
+CHU² (Chiyu): Soon?! I'm going home right now!!
+CHU² (Chiyu): Did you hear that?! That sound just now... rescue is definitely here!
+CHU² (Chiyu): No way am I sitting around in some place like this, shaking while we wait for help! I'll go, even if it's on my own!
+LOCK (Rokka): W-wait! Please, that's definitely a bad idea!!
+Monster: GRAAAARGH...!
+CHU² (Chiyu): Kyaaaaaaaa!!
+PAREO (Reona): Noooo!! CHU²-sama has been attacked by a monster!
+MASKING (Masuki): Tch, this place is no good either! Move it, LOCK, PAREO!
+(Black cut)
+(Background change)
+LOCK (Rokka): Waaah!! There's a monster here too!
+MASKING (Masuki): ...
+LOCK (Rokka): MASKING-san...?
+MASKING (Masuki): You go on ahead. I'll hold it back here. Get out of here, even if it's just you two!
+LOCK (Rokka): No way...! I can't just leave you behind, MASKING-san!
+MASKING (Masuki): Don't worry. I'll catch up. If I make it back in one piece... Let's all play at next month's festival!
+LOCK (Rokka): M-Masuki, that's-!
+PAREO (Reona): Ugh... Come on, LOCK-san!
+LOCK (Rokka): (That's such a death flaggggggggg!)
+(Black cut)
+LOCK (Rokka): Ah! Look, PAREO-san! It's the exit! We're saved!
+PAREO (Reona): ...
+LOCK (Rokka): PAREO-san...?
+PAREO (Reona): LOCK-san, I'm sorry... This is as far as PAREO can go...
+LOCK (Rokka): Huh, PAREO-san?! No way... When did you get hurt...?!
+PAREO (Reona): PAREO is so lucky. To fall asleep in your arms, LOCK-san... LOCK-san... please... for all of us... Gahk!!
+LOCK (Rokka): P-PAREO-san...!! No...!!
+LOCK (Rokka): I... I promise I'll get off this ship. And I'll carry on all your feelings... and play music that changes the world!!
+LOCK (Rokka): Let's go!!
+(White cut)
+
+(Memory cut-out)
+
+(Background change)
+
+[CHU²'s Apartment - Living Room]
+
+LOCK (Rokka): -Huh...?!
+PAREO (Reona): Good morning, LOCK-san
+LOCK (Rokka): H-huh? Where'd the monster go...? Was that a dream...?
+Woman: Aaaaaah!!
+LOCK (Rokka): Eeeeek!! S-so there really is a mon- Wait, a horror movie...?
+MASKING (Masuki): Yeah. When me and PAREO got here, you were napping. Figured now was a good time.
+MASKING (Masuki): Since you're up, wanna watch with us?
+LOCK (Rokka): N-no way! Um, well... yeah! I gotta get my guitar ready at the studio, so I'm heading out!
+PAREO (Reona): Okaaay, see you later♪
+PAREO (Reona): ... LOCK-san is pretty interesting. She's braver than anyone when it counts, but horror movies still scare her.
+MASKING (Masuki): Yeah.
+(Black cut)
+(Background change)
+LOCK (Rokka): ...Phew. Guitar and sheet music... That should do it.
+LOCK (Rokka): ...If I head back now, will they still be watching it...? I should've asked how much longer it had left...
+LOCK (Rokka): Ugh... When is it gonna end...?
+
+
+<Your Light and My Light>
+
+(Character: Rokka Asahi)
+
+[Downtown]
+
+Marina: Phew, I'm stuffed. Lunch was so good.
+LOCK (Rokka): Marina-san, {{userName}}-san, hello!
+Marina: Hi, Rokka-chan. You just get back from shopping?
+LOCK (Rokka): Yeah. Asahi-yu's handing out bath salts during Halloween, so I bought some gift bags.
+Marina: I see. It is Halloween season. The place we went to earlier had a Halloween-only menu, too.
+Marina: Besides the event at Asahi-yu, are you doing anything else for Halloween?
+LOCK (Rokka): Actually, I already did!
+LOCK (Rokka): CHU²-san's mom invited us, and we went on a Halloween cruise!
+Marina: Oh, PAREO-chan told me, too. Sounds like you had a ton of fun.
+LOCK (Rokka): Yeah, it was amazing! We rode a luxury liner, took pics at photo spots, and tried a puzzle stamp rally... It was a dream come true.
+Marina: I see. Sounds like it was an extra-special day for Halloween.
+LOCK (Rokka): Totally! Oh, but getting chased by monsters was rough...
+Marina: That was the thing where it's... The monster and... what was it again?
+LOCK (Rokka): "Waltz With a Halloween Monster."
+LOCK (Rokka): It was this interactive show where you go light a Jack-o'-lantern to calm the monsters down, but... it was, like, super scary...!
+Marina: I see. But PAREO-chan said you really came through, Rokka-chan.
+LOCK (Rokka): N-no, not at all...! I was totally on autopilot back then... I just did what I had to do.
+LOCK (Rokka): Plus, the only reason I managed to light the Jack-o'-lantern was because PAREO-san helped me.
+LOCK (Rokka): PAREO-san is seriously amazing. She solves puzzles in no time, and she's always calm and so cool!
+Marina: Fufu. You two say the same kind of stuff. Maybe it means you really respect each other.
+LOCK (Rokka): You think so...? Gosh, that's embarrassing.
+LOCK (Rokka): Ah! What time is it?!
+Marina: Right now? Ummm, let's see...
+LOCK (Rokka): It's already this late...?! I'm sorry, but I promised I'd switch out as clerk once I finished shopping!
+Marina: Oh, right. Sorry for holding you up.
+LOCK (Rokka): No, I'm the one who started talking! Thanks for listening!
+Marina: Yeah. See you later.
+LOCK (Rokka): Okaaay, see ya~!
+Marina: Rokka-chan, don't trip when you're running off~!
+Marina: ...Fufu. LOCK-chan when she's all cool is great too, but... Rokka-chan when she's her usual laid-back self is cute too, y'know?

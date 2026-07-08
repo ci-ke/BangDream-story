@@ -1,0 +1,105 @@
+2296_Chiyu Tamade_R4 Break Out Of
+
+Gacha phrase: Don't come here！
+
+<A Stranger to a Mother's Love>
+
+(Character: Rei Wakana, Rokka Asahi, Masuki Sato, Reona Nyubara, Chiyu Tamade)
+
+[CHU²'s Penthouse - Living Room]
+
+CHU² (Chiyu): ..........
+CHU² (Chiyu): Hi, Mom...
+CHU² (Chiyu): (...Voicemail again. Same as always.)
+CHU² (Chiyu): ...I made it back safely from the Halloween cruise.
+CHU² (Chiyu): I properly said hello to Julianna, too. It's been a while, but she hasn't changed.
+CHU² (Chiyu): And still... no one told me monsters would be roaming the ship.
+CHU² (Chiyu): But the rest of RAS seemed like they had fun. They keep talking about it even now.
+CHU² (Chiyu): So, um... thanks...
+CHU² (Chiyu): But telling everyone but me to go somewhere with you... make this the last time.
+CHU² (Chiyu): Anyway... I'll call again if something comes up. Bye.
+CHU² (Chiyu): Sigh...
+LAYER (Rei): CHU², thanks for letting me use the studio.
+CHU² (Chiyu): Done with practice already?
+LAYER (Rei): Yeah. It's about time everyone gets here.
+CHU² (Chiyu): Yeah...
+LAYER (Rei): CHU², what's wrong? You look kinda unsure about something.
+CHU² (Chiyu): Unsure about what? I was just calling Mom. Same as always... voicemail.
+LAYER (Rei): The Halloween Cruise was your mom's invite. Did you thank her for us, too?
+CHU² (Chiyu): I thanked her, yeah. And I warned her while I was at it.
+LAYER (Rei): Warned her about what?
+CHU² (Chiyu): To stop inviting everyone out of the blue like this. Why'd she suddenly say RAS had to go together...?
+LAYER (Rei): Hmm... Maybe she thought it'd be more fun if everyone went together?
+CHU² (Chiyu): What's?
+LAYER (Rei): If it were my mom, she'd be thinking that and go, "Feel free to bring your friends."
+LAYER (Rei): Of course, I don't know for sure. Your mom isn't my mom, after all.
+CHU² (Chiyu): ...
+LOCK (Rokka): Good work, everyone!
+PAREO (Reona): Looking forward to today, too!
+LAYER (Rei): Oh, hey. Good work.
+MASKING (Masuki): LAYER, you got here already? You're early.
+LAYER (Rei): Yeah. I wanted to get a little self-practice in.
+LOCK (Rokka): Huh...? Doesn't it smell really good?
+MASKING (Masuki): Nice catch. The culprit is... this!
+PAREO (Reona): Wow, pound cake?!
+MASKING (Masuki): Yeah. Remember that pumpkin pound cake at the Halloween Cruise buffet?
+LOCK (Rokka): Of course! It was fluffy, rich, and wicked good~
+MASKING (Masuki): Right? So I tried baking a copy.
+MASKING (Masuki): Hey, CHU². We've still got time before practice... Can I slice it up?
+CHU² (Chiyu): Sure, whatever. Do what you want.
+MASKING (Masuki): Yeah!
+MASKING (Masuki): Then should I give you the biggest piece? With tons of whipped cream.
+CHU² (Chiyu): Don't treat me like a kid! You know I'm gonna react like that, don't you?
+MASKING (Masuki): Ahaha, sorry, sorry. All right, I'm borrowing the kitchen!
+PAREO (Reona): CHU²-sama, is tea okay for your drink?
+CHU² (Chiyu): I'll leave it to you, PAREO.
+PAREO (Reona): Yes, PAREO♪
+LOCK (Rokka): Ah, I'll help too!
+CHU² (Chiyu): Honestly... Do you even understand why we're all here?
+LAYER (Rei): Still, once everyone showed up, it got lively in no time.
+CHU² (Chiyu): It did.
+LAYER (Rei): ......
+CHU² (Chiyu): ...What?
+LAYER (Rei): You seem like you're having fun, CHU².
+CHU² (Chiyu): How should I know?
+CHU² (Chiyu): But still... It's not bad.
+
+
+<Goodbye, Pumpkin>
+
+(Character: Chiyu Tamade)
+
+[CiRCLE Café]
+
+Marina: Think this is enough to sort through the flyers? Time to head back in... Huh?
+CHU² (Chiyu): ...
+Marina: It is CHU² after all. Hey, CHU²-chan!
+CHU² (Chiyu): Hi, Marina, {{userName}}
+Marina: Hi there. Out and about today?
+CHU² (Chiyu): No. I just finished a meeting and I'm on my way home.
+CHU² (Chiyu): They have a cafe here, so I was thinking I'd take a quick break.
+Marina: In that case, I recommend the Halloween pumpkin latte.
+CHU² (Chiyu): Pumpkin, huh...
+CHU² (Chiyu): I'll have an S-size cafe latte.
+Marina: Oh? Not in the mood for sweets today?
+CHU² (Chiyu): Not really. I'm just sick of Halloween.
+Marina: Ah... You mean that Halloween cruise you went on with RAS?
+CHU² (Chiyu): Did you hear about it from PAREO? Then this'll be quick.
+CHU² (Chiyu): Mom got invited to this Halloween cruise, and told me to go instead. For some reason, RAS came along too.
+CHU² (Chiyu): Honestly, it was a ridiculous day. In Halloween costumes, getting photos taken at all those spots, getting chased by monsters...
+Marina: I see... Sounds exhausting. Nice work.
+Marina: But I did get to see the pictures, and your costume looked amazing, CHU². You really went all out.
+CHU² (Chiyu): PAREO picked it out. Besides, isn't dressing up formalwear for Halloween?
+CHU² (Chiyu): If you're on a Halloween cruise, following the dress code is a given.
+Marina: That's true. That's our CHU².
+CHU² (Chiyu): Hmph... Anyway, I've had more than enough Halloween. I could forget it until next year, honestly.
+Marina: Fufu, I see.
+Marina: ...Oh, wow, it's this late. We should head back to the front desk soon. Take it easy, CHU².
+CHU² (Chiyu): As if I needed you to tell me. Bye.
+(Black cut)
+(Background change)
+
+[CiRCLE Lobby]
+
+Marina: She made it sound like she was totally done with it, but in those pictures, CHU² looked like she was having fun.
+Marina: ...Yeah. Maybe I won't tell her. Fufufu.
