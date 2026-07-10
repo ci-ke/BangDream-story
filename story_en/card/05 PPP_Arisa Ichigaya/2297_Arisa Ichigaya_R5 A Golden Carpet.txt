@@ -107,7 +107,8 @@ Saya: I made sure to take pics of everyone's work!
 Kasumi: Oh yeah, Saya, you took tons of photos! Show us later, show us~!
 Saya: Sure, I'd love to.
 Arisa: Oh, isn't it about time the pampas grass field comes into view?
-(Black cut)
+(White cut)
+(Background change)
 
 [Pampas Grass Field]
 
@@ -121,6 +122,8 @@ Saya: You looked into all that?! Thanks, Arisa!
 Tae: I-it's not like I did it just for you! I just got curious too...
 Arisa: Fufu, still... Thank you.
 Saya: It's really beautiful...
+(White cut)
+(Background change)
 Arisa: H-hey! Don't just take pics out of nowhere!
 Saya: Sorry, sorry. You looked so picture-perfect, I couldn't help it.
 Kasumi: Lemme see, lemme see~! Whoa, Arisa, this came out super pretty!
