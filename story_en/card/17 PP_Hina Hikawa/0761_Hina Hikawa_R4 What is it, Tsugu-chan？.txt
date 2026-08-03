@@ -1,5 +1,6 @@
 761_Hina Hikawa_R4 What is it, Tsugu-chan?
 
+Skill name: Boppin' Best
 Gacha phrase: That'd be fantastic! Now we're boppin'!
 
 <If That Person...>

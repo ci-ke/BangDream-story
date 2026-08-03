@@ -1,5 +1,6 @@
 1539_和奏レイ_R4 夜を満たす星々
 
+Skill name: 御簾を上げれば
 Gacha phrase: 『私は今 どこにいるでしょう？』
 
 <Current　前編>

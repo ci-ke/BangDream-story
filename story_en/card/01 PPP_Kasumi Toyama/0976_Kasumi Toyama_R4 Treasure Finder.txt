@@ -1,5 +1,6 @@
 976_Kasumi Toyama_R4 Treasure Finder
 
+Skill name: I Want to Help
 Gacha phrase: Let us know if you need help with anything!
 
 <The Party's Just Starting!>

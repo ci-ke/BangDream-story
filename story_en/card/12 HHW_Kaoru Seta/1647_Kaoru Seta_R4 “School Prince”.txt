@@ -1,5 +1,6 @@
 1647_Kaoru Seta_R4 “School Prince”
 
+Skill name: Kaoru Seta's Path
 Gacha phrase: Are you really okay with this...?!
 
 <Kaoru Seta, Second Movement>

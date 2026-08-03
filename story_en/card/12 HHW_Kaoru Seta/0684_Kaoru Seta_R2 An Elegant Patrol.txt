@@ -1,5 +1,7 @@
 684_Kaoru Seta_R2 An Elegant Patrol
 
+Skill name: Fleetingness Discovered
+
 <Fleetingness Patrol>
 
 (Character: Kaoru Seta, Hina Hikawa, Lisa Imai)

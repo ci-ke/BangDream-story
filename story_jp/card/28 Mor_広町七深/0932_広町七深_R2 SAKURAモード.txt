@@ -1,5 +1,7 @@
 932_広町七深_R2 SAKURAモード
 
+Skill name: 写真の真ん中はNG
+
 <七深のMYソース>
 
 (Character: 氷川日菜, 倉田ましろ, 広町七深)

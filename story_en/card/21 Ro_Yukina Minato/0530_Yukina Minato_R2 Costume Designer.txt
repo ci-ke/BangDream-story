@@ -1,5 +1,7 @@
 530_Yukina Minato_R2 Costume Designer
 
+Skill name: Good Timing
+
 <Guideline>
 
 (Character: Yukina Minato, Rinko Shirokane)

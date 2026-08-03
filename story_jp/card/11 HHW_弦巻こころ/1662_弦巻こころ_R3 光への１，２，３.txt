@@ -1,5 +1,7 @@
 1662_弦巻こころ_R3 光への１，２，３
 
+Skill name: その手を引く手
+
 <have a nice trip!>
 
 (Character: 弦巻こころ, 瀬田薫)

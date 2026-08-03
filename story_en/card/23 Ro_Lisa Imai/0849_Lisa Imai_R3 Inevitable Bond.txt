@@ -1,5 +1,7 @@
 849_Lisa Imai_R3 Inevitable Bond
 
+Skill name: Bond of the Blue Rose
+
 <Window Side Childhood Friends>
 
 (Character: Yukina Minato, Lisa Imai)

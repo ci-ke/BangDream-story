@@ -1,5 +1,6 @@
 367_Sayo Hikawa_R3 Tank in Training
 
+Skill name: Defensive Stance
 Gacha phrase: There seems to be something large coming this way...
 
 <Quest Marker>

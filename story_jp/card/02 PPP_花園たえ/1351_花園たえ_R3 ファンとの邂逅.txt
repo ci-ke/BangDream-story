@@ -1,5 +1,6 @@
 1351_花園たえ_R3 ファンとの邂逅
 
+Skill name: 形ある成果
 Gacha phrase: それじゃあ、 オッちゃんのモノマネしますね
 
 <Say,hohhoh！>

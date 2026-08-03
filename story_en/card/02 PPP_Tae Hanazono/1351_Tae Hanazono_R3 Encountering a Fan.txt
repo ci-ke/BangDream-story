@@ -1,5 +1,6 @@
 1351_Tae Hanazono_R3 Encountering a Fan
 
+Skill name: Tangible Results
 Gacha phrase: Now then, I'll show you all my Oddie impression.
 
 <Say "Hoot Hoot!">

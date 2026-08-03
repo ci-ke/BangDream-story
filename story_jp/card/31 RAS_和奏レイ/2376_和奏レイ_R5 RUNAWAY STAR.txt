@@ -1,5 +1,6 @@
 2376_和奏レイ_R5 RUNAWAY STAR
 
+Skill name: 光、加速して
 Gacha phrase: みんな、次の曲いくよ
 
 <星を導く星>
