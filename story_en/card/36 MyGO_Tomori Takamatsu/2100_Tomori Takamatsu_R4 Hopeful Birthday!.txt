@@ -5,7 +5,7 @@ Gacha phrase: It’s... really cute...
 
 <Even If It Doesn't Match>
 
-Unable to read json file
+Missing asset
 
 
 <Silently Looking Out>

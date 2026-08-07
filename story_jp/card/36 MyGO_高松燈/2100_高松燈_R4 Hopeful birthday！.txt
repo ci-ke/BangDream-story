@@ -5,7 +5,7 @@ Gacha phrase: すごく、かわいい……
 
 <ちぐはぐな装飾でも>
 
-Unable to read json file
+Missing asset
 
 
 <さりげなく見守って>

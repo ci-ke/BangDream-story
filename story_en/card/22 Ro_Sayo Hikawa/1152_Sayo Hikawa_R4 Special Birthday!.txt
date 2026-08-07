@@ -5,7 +5,7 @@ Gacha phrase: Those precious to you are always with you...
 
 <Together for a Birthday>
 
-Unable to read json file
+Missing asset
 
 
 <New People Besides Me>

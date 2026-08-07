@@ -5,7 +5,7 @@ Gacha phrase: いっぱいバンドする
 
 <抹茶パフェやおそばより>
 
-Unable to read json file
+Missing asset
 
 
 <欲しがりな野良猫>

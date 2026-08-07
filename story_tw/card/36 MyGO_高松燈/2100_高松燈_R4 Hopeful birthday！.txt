@@ -5,7 +5,7 @@
 
 《即便是不協調的裝飾》
 
-Unable to read json file
+Missing asset
 
 
 《若無其事地守護著》

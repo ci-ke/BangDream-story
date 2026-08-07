@@ -5,7 +5,7 @@ Gacha phrase: ……じゃあ、 最初からやり直してみる？
 
 <TAKE1>
 
-Unable to read json file
+Missing asset
 
 
 <サプライズの適性>

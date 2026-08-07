@@ -5,7 +5,7 @@
 
 《比起抹茶芭菲和荞麦面》
 
-Unable to read json file
+Missing asset
 
 
 《贪婪的野猫》

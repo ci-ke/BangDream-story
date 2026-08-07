@@ -5,7 +5,7 @@ Gacha phrase: ...Then, why don’t we try starting over from the beginning?
 
 <TAKE1>
 
-Unable to read json file
+Missing asset
 
 
 <Surprise Aptitude>

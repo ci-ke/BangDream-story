@@ -5,7 +5,7 @@ Gacha phrase: 別に、お祝いしてなんて 頼んでないし
 
 <落ち着かないお祝い>
 
-Unable to read json file
+Missing asset
 
 
 <いつか素直な気持ちで>

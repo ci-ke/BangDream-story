@@ -5,9 +5,9 @@ Gacha phrase: Gonna play band tons.
 
 <Beyond Matcha Parfaits and Soba>
 
-Unable to read json file
+Missing asset
 
 
 <Needy Stray Cat>
 
-Unable to read json file
+Missing asset

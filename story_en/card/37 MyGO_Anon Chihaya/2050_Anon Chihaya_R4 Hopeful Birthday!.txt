@@ -5,7 +5,7 @@ Gacha phrase: Wait... you all remembered my birthday...?!
 
 <Hopes Seeping Through>
 
-Unable to read json file
+Missing asset
 
 
 <Ano-chan, As Always>
