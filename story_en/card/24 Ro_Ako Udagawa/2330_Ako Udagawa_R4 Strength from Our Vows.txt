@@ -1,0 +1,97 @@
+2330_Ako Udagawa_R4 Strength from Our Vows
+
+Skill name: What a Friend Showed Me
+Gacha phrase: I think this is a huge opportunity!
+
+<Our Battle of the Bands Talk>
+
+(Character: Ako Udagawa, Mashiro Kurata, Rokka Asahi)
+
+[Restaurant]
+
+Ako: Rokka, Mashiro, thanks for coming today~!
+Mashiro: No, I'm really happy you invited me.
+LOCK (Rokka): Fufu, it's been a while since the three of us got together like this.
+Mashiro: Yeah. You said you wanted to talk about something... Did something happen?
+Ako: Well... Roselia's going on a showdown tour!
+LOCK (Rokka): A showdown tour?! Whoa... that's amazing!
+Mashiro: A tour... so you'll be doing showdown with all kinds of groups?
+Ako: Yup! There are some pretty popular bands, too... So I wanted to ask you two about a bunch of stuff.
+LOCK (Rokka): Gotcha~. A tour can't be fun and games the whole time, after all.
+Ako: Yeah. And, um... honestly, I'm not great at showdown...
+Mashiro: Really? That's kind of surprising...
+LOCK (Rokka): Yeah. I always pictured you getting all fired up, like, "We won't lose~!"
+Ako: I mean... sometimes I can feel this tense vibe in the air. I'm not really good with stuff like that.
+Ako: Of course, I know it's an amazing opportunity, and I'm excited, too...
+Mashiro: I totally get how you feel, Ako-chan...
+Mashiro: I’m really happy we get to share a stage with so many bands at the festival, but...
+Mashiro: I’m still nervous... and when it’s a showdown, it makes your heart pound even more, right...?
+LOCK (Rokka): But Morfonica’s aiming for a joint show with Poppin'Party, right?
+Ako: Yeah, yeah. That’s kind of a showdown too, right?
+Mashiro: Yeah... I think so.
+Mashiro: So deciding to aim for a joint show took a lot of courage... and even now, I can’t help thinking about all sorts of things.
+Mashiro: But there’s a view I really, really want to see... so I’m doing my best.
+Ako: Ohh! Mashiro, that’s so cool!
+LOCK (Rokka): Yeah, you just made a really good face.
+Mashiro: E-eh hehe... You think so...?
+Mashiro: Um, so... what about you, LOCK-chan?
+Ako: RAS always has that intense vibe, but are you good at showdown?
+LOCK (Rokka): Hmm... I think CHU²-san and the others are good at it, but...
+LOCK (Rokka): I’ve never thought I was good at it myself. I still get nervous.
+Mashiro: I see... So you do too, LOCK-chan.
+LOCK (Rokka): But once the show actually starts, I get so caught up in it...
+LOCK (Rokka): Maybe being active as a member of RAS is what helped me start enjoying showdown, too!
+Ako: Huh, really?! So you’ve been leveling up your experience points or something?
+LOCK (Rokka): Maybe... At least, in my case.
+Ako: I see~ Even if you say “showdown,” there are tons of different kinds, huh.
+LOCK (Rokka): Yeah. Some people might start out not being into it, but then learn to enjoy it... and I think it’s totally different depending on the band, too.
+LOCK (Rokka): Plus, each member probably feels differently about it.
+Mashiro: True... If we asked Rui-san, she’d probably say, “I don’t care either way.”
+Ako: Yeah, that sounds like Rui~!
+Ako: But I guess... it’s okay if there are all kinds of opinions like that.
+LOCK (Rokka): Yeah. And Ako-chan, I’m sure you can turn this experience into something that makes you stronger.
+Mashiro: Me too...! Ako-chan, you’ve overcome so many trials so far... I know you’ll be okay.
+Ako: Rokka, Mashiro... thaaank you!
+Ako: This is supposed to be a showdown... so I was thinking it might be bad to feel anxious about it.
+Ako: But after hearing what you two said, I’m starting to think anxiety can be a chance to grow, too!
+LOCK (Rokka): Ako-chan...! Fufu, I'm glad to hear it.
+Ako: I'm gonna think more about what I can do to get ready for the showdown.
+Ako: So... can I talk it through with you a little more?
+Mashiro: Yeah, if we can help!
+LOCK (Rokka): Yeah. I'm sure it'll be good practice for us too!
+
+
+<We Can't Afford to Lose!>
+
+(Character: Ako Udagawa)
+
+[CiRCLE - Lobby]
+
+Ako: Marina-san! {{userName}}-san! Hi there!
+Marina: Oh, Ako-chan. Hi!
+Ako: Do you have any studios open right now? I didn't make a reservation, but I kinda felt like practicing.
+Marina: In that case... Oh, hang on a sec. One's about to open up.
+Ako: Yay! Thanks!
+Marina: But it's pretty rare for you to just drop by. We're always happy to have you, though.
+Ako: Ehehe... It's not just practice with everyone... I've got a bunch of things I wanna try out on my own, too.
+Marina: Ooh, look at that motivation. Is this maybe because of the showdown the other day?
+Ako: Whaaa- You watched it too, Marina-san?!
+Marina: Yeah, on the stream. You were all so cool. And it looked like the venue was super hyped up, too!
+Ako: Ehehe, thanks!
+Ako: So, like, in Ako's opinion, the MVP this time was Rin-rin!
+Ako: I mean, I'm sure Yukina-san and the others were surprised by Rin-rin's performance too, and thought, "We can't lose!"
+Marina: Yeah, I know what you mean. I could feel even more intensity from Rinko-chan than ever before~
+Ako: Rin-rin worked so, so hard for this showdown.
+Ako: She looked up all kinds of stuff about who we were up against, and she had tons of suggestions, like, "What if we try this?"
+Ako: It made everything so much easier~!
+Marina: I see. There's a huge difference between charging ahead blindly and having a clear guide to follow.
+Ako: Yeah, so the reason I could give it my all onstage this time... was all thanks to Rin-rin~
+Ako: If Rin-rin hadn't been backing me up, I might've tripped up somewhere along the way.
+Marina: You were up against a band with lots of experience, after all. I'm sure the nerves were intense...
+Ako: Yeah. But, y'know... I've decided I'm gonna be the world's coolest drummer!
+Ako: I didn't want to stop for even a second... I wanted to keep growing more and more, just like Rin-rin.
+Marina: Fufu, being able to feel your bandmates' support and keep moving forward... I think that's really wonderful.
+Ako: I think so too! From here on out, I want all of Roselia to keep powering up more and more!
+Marina: That's the spirit. We'll be cheering you on the whole way.
+Marina: Oh, looks like the studio's open. Now go practice your hearts out!
+Ako: Okaaay! Thanks, Marina-san, {{userName}}-san!
