@@ -2,8 +2,6 @@ name: Update New
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 7 * * *'
 
 jobs:
   update:
