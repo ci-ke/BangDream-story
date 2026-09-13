@@ -27,7 +27,7 @@ All: Yeah!
 (Black cut)
 (Background change)
 
-[Seta Kaoru Land - Theater]
+[Kaoru Seta Land - Theater]
 
 Kaoru: "Ah... my poor princess..."
 Kaoru: "I thought I could finally set you free...!"
