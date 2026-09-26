@@ -54,6 +54,7 @@ LOCK (Rokka): Okay!
 PAREO (Reona): This flyer...
 MASKING (Masuki): Hmm? What's up, PAREO...? Somethin' wrong?
 (White cut)
+(CG insert: card_normal_1375)
 PAREO (Reona): It says Miu Tamade... Tamade... CHU²-sama, is the individual in this photo your...
 CHU² (Chiyu): Yes... That's my mom.
 All: ...!

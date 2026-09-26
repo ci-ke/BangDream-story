@@ -60,6 +60,7 @@ Rimi: W-we're Poppin'Party!
 Arisa: We want to perform at the festival. Would you please put it back on?
 People: Nothing would please us more. But I'm afraid it's simply not possible...
 (White cut)
+(CG insert: card_normal_11)
 Rimi: Please! If you say it's impossible, we'll have to give up!
 Saya: There are a lot of people looking forward to this festival. None of us want it to be canceled.
 Arisa: If you let us perform, we promise to make this year's festival the most amazing one yet.

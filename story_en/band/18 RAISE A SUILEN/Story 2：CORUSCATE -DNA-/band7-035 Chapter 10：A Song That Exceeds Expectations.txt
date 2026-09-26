@@ -60,6 +60,7 @@ LAYER (Rei): L-LOCK~! Do you have any idea how nervous you just made me~?
 LOCK (Rokka): These lyrics are incredible. How did you come up with these phrases...?!
 LAYER (Rei): To be honest... I'm not really sure myself. They just sort of came to me when I was thinking of CHU².
 (White cut)
+(CG insert: card_normal_1377)
 LOCK (Rokka): I see~. That must be because of what's been engraved, right?
 LAYER (Rei): Sorry?
 LOCK (Rokka): What you said before. About how our time in RAS has been engraved into us.

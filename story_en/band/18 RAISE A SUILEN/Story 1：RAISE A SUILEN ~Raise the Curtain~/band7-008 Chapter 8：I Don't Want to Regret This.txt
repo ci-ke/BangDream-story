@@ -52,6 +52,7 @@ LOCK (Rokka): ... Hmph.
 LOCK (Rokka): ...
 LOCK (Rokka): Here I go!
 (White cut)
+(CG insert: card_normal_966)
 LOCK (Rokka): (I don't want to leave with any regrets... So...)
 LOCK (Rokka): (I just have to give it my all... and play!)
 All: ...!

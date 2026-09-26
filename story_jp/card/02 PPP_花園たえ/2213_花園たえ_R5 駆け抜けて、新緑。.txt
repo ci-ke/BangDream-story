@@ -76,6 +76,7 @@ Gacha phrase: ふ～、気持ちよかった
 (Character: 花園たえ, 牛込りみ, 若宮イヴ)
 
 (Black cut)
+(Background change): Still
 たえ: ふ～、気持ちよかった
 たえ: 下見で来たはずだったけど……つい少し走っちゃった。 そろそろ帰ろうかな
 (White cut)

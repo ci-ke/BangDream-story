@@ -54,6 +54,7 @@ LOCK：好！
 PAREO：這份傳單……
 MASKING：嗯？　怎麼了，PAREO……？ 哪邊很奇怪嗎？
 （白屏转场）
+（插入CG：card_normal_1375）
 PAREO：這裡寫著「珠手美羽」…… 珠手…… CHU²大人，這張照片上的人莫非是……
 CHU²：Yes…… 是我的Mom
 全體：……！！

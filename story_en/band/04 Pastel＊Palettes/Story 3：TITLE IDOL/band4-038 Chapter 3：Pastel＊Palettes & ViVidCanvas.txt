@@ -44,6 +44,7 @@ Mio: Hello, we're...
 ViVidCanvas: The brilliant and vibrant ViVidCanvas!
 Mio: We'll be joining the show as Pastel＊Palettes' sister group. We'll do our best to make this show fun!
 (White cut)
+(CG insert: card_normal_1085)
 Hina: Hey~! That brilliant and vibrant thing was my idea!
 Mio: Y-yes... We tried to think of other introductions, but we weren't able to come up with anything better... We were hoping you would allow us to use it.
 Hina: Oh, sure. Use it as much as you want. I'm not in ViVidCanvas, so it's not like I can use it anyway~.

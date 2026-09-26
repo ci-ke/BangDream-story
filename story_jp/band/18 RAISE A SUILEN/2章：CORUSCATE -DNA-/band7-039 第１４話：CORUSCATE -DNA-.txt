@@ -67,6 +67,7 @@ band7-039 第１４話: CORUSCATE -DNA-
 レイヤ (レイ): 光り……輝く……
 チュチュ (ちゆ): あの時のレイヤ、 ワタシにはそう見えたわ……
 (White cut)
+(CG insert: card_normal_1374)
 レイヤ (レイ): チュチュ！ 世界を変えるのはあなたの番だよ！！
 レイヤ (レイ): Change the world！！！！
 (White cut)

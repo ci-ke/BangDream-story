@@ -78,3 +78,4 @@ event53-06 第５話: 笑顔の時間
 たえ: あ、待って！ 私はそのままでいいよ
 有咲: 気に入ってるし！
 (White cut)
+(CG insert: card_normal_491)

@@ -89,6 +89,7 @@ Morfonica一同: おー！ ええ
 (Background change)
 香澄: 次が最後の曲です！ 聴いてください！
 (White cut)
+(CG insert: card_normal_2469)
 ましろ・香澄: 『TWiNKLE CiRCLE』！
 (White cut)
 (Background change)

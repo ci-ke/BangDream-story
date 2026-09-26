@@ -67,6 +67,7 @@ LAYER (Rei): I won't let this happen. I don't want RAS to end!
 LAYER (Rei): Let's go!
 CHU² (Chiyu): ...?!
 (White cut)
+(CG insert: card_normal_1025)
 MASKING (Masuki): We're comin' for ya, PAREO!
 LOCK (Rokka): I-I know that's what we're trying to do, but...!
 MASKING (Masuki): Huh?! I can't hear you~!

@@ -53,6 +53,7 @@ band2-013 第１３話: 仲直りの先に
 蘭: ……っ
 ひまり: 蘭が落ち着いたらまた、活動再開させようよ。 ……ね？
 (White cut)
+(CG insert: card_normal_27)
 
 (Memory cut-in)
 

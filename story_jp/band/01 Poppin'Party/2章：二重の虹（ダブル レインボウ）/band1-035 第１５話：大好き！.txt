@@ -27,17 +27,23 @@ band1-035 第１５話: 大好き！
 香澄: それじゃあ行こう！
 一同: ポピパ！　ピポパ！　ポピパパ！　ピポパー！
 (White cut)
+(CG insert: card_after_training_425)
 香澄: （今、この瞬間…… 私、みんなと一緒にここにいる。 みんなの気持ち、ちゃんと伝わってる――）
 香澄: （私は、ポピパが――）
 (White cut)
+(CG insert: card_after_training_426)
 りみ: （大好き！）
 (White cut)
+(CG insert: card_after_training_427)
 たえ: （大好き！）
 (White cut)
+(CG insert: card_after_training_429)
 沙綾: （大好き！）
 (White cut)
+(CG insert: card_after_training_428)
 有咲: （大好き！）
 (White cut)
+(Background change): Still
 香澄: （大好き！！！）
 一同: （大好き！！！）
 (Black cut)

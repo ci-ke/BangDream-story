@@ -27,6 +27,7 @@ All: Okay~! Yeah! Yes!
 Ran: (The atmosphere up here... It's so different to anything we've done before.)
 Ran: ... This event, this stage, this crowd. We're here to make it ours. Open your eyes, open your hearts, and try to keep up. Here we go!
 (White cut)
+(CG insert: card_normal_23)
 Tsugumi: (Ran-chan... She's singing with so much more power today...!)
 Tomoe: (It's like she never even lost it for a moment... She's feeding off the crowd's energy, and it's fueling a fire inside of her.)
 Himari: (And it's up to us to match her! Follow her voice...!)
