@@ -6,3 +6,4 @@ Crawled by [ProjectSekai & BangDream story crawler](https://github.com/ci-ke/Pro
 - 活动故事：event
 - 卡牌故事：card
 - 区域对话：area
+- Live后对话：after_live
