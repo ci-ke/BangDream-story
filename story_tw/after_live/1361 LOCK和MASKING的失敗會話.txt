@@ -1,0 +1,6 @@
+1361 LOCK和MASKING的失敗會話
+
+（登场角色：LOCK、MASKING）
+
+LOCK：對、對不起！ 都是因為我失誤……
+MASKING：不是LOCK的錯啦。 無論成敗，都是樂團團員要共同承擔的
