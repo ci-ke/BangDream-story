@@ -1,0 +1,107 @@
+2376_Rei Wakana_R5 RUNAWAY STAR
+
+Skill name: Light, Accelerating
+Gacha phrase: Everyone, on to the next song.
+
+<The Star That Guides Stars>
+
+(Character: Kasumi Toyama, Rei Wakana)
+
+[CiRCLE Café]
+
+LAYER (Rei): (My morning schedule ended sooner than I thought. I've got a little time before RAS practice... Might as well take a quick break.)
+LAYER (Rei): Excuse me, I'd like to order...
+Kasumi: Huh? Rei-san?!
+LAYER (Rei): Kasumi-chan. What a coincidence. You here early for Poppin'Party practice today?
+Kasumi: Yeah! But I got here a little too early, so I figured I'd grab something warm to drink!
+LAYER (Rei): Fufu, same here.
+LAYER (Rei): Kasumi-chan, since we're here, wanna sit together?
+Kasumi: Really? Yay~!
+LAYER (Rei): All right. There's an open seat over there, so let's go.
+LAYER (Rei): What are you getting, Kasumi-chan?
+Kasumi: Hmm, what should I get... Oh, it says hot cocoa with marshmallows! I'll go with that!
+LAYER (Rei): Then one of those, and... A hot coffee, please.
+Kasumi: Huh, coffee's fine?
+LAYER (Rei): Huh?
+Kasumi: O-Tae talks about how you two go out for sweets a lot, so I figured you might have a sweet tooth...
+LAYER (Rei): Yeah... I think I'm in a coffee mood today.
+Kasumi: Got it~. Oh, it's here, it's here! Looks so goooood~!
+(Black cut)
+
+[A Few Minutes Later]
+
+Kasumi: Mmm, it's so good~! The marshmallows are all fluffy~
+LAYER (Rei): Fufu, I'm glad you like it.
+LAYER (Rei): ...By the way, how's Poppin'Party been lately?
+Kasumi: It's been super fun! Making new songs, playing shows...
+Kasumi: Oh, and the other day, we all made sweets together!
+LAYER (Rei): I see. That sounds like Poppin'Party.
+Kasumi: How about RAS? You've been doing tons of shows?
+LAYER (Rei): Yeah. Probably a lot. It's busy, but it feels fulfilling, so it's fun.
+LAYER (Rei): But...
+Kasumi: ?
+LAYER (Rei): There's something I've been worrying about... I guess.
+Kasumi: I see... Can I ask what it is?
+LAYER (Rei): ...
+LAYER (Rei): ...You know, a while back, Hana-chan told me, "The vocalist is a star."
+LAYER (Rei): And ever since, I've wanted to become that "star."
+LAYER (Rei): But now, just a little... I'm not sure if I'm okay staying like this.
+Kasumi: Rei-san...
+LAYER (Rei): That "star" Hana-chan talked about... it's probably...
+Kasumi: ...Huh?
+LAYER (Rei): ...No. It's nothing. Sorry, I kind of dumped all that on you.
+Kasumi: No, not at all!
+LAYER (Rei): Thanks, Kasumi-chan.
+LAYER (Rei): I think I'll head over to CHU²'s penthouse soon. I'll go on ahead.
+Kasumi: Ah, wait, wait!
+LAYER (Rei): Hm?
+Kasumi: Um, how about trying to sing?!
+LAYER (Rei): Try singing...?
+Kasumi: Yeah! Singing makes you feel all refreshed! So when you're all m-mmh... like that~, try singing your heart out!
+LAYER (Rei): Fufu... That's so you, Kasumi-chan.
+LAYER (Rei): (Singing... might be nice.)
+LAYER (Rei): (Maybe I'll do a solo street performance for the first time in a while.)
+LAYER (Rei): Thanks, Kasumi-chan.
+LAYER (Rei): See you.
+Kasumi: Yeah! Say hi to everyone in RAS for me too!
+LAYER (Rei): (...Kasumi-chan really is something. Just talking to her, I end up feeling better before I even realize it.)
+LAYER (Rei): (The vocalist is the star, huh...)
+
+
+<Let it go>
+
+(Character: Rei Wakana)
+
+[Station Entrance]
+
+Marina: The meeting ended without a hitch, so why don't we head back to CiRCLE soon?
+LAYER (Rei): Oh. Marina-san, {{userName}}-san. Great work out there.
+Marina: Hi, LAYER-chan! Are you on your way to do stuff with RAS?
+LAYER (Rei): Yeah, though we're just practicing today... Are you two working?
+Marina: Yep, we had a meeting about an event we're planning with some other live houses... Oh, right!
+Marina: I heard you were the opening act for a famous overseas band? That's incredible... As expected of RAS!
+LAYER (Rei): Yeah... that's right. Thank you.
+Marina: Huh...? LAYER-chan, did something happen?
+LAYER (Rei): Huh?
+Marina: Sorry if I'm wrong! It's just, you looked a little down.
+LAYER (Rei): Yeah... It's not so much that I'm down, it's more like... I'm kind of conflicted...
+Marina: Conflicted?
+LAYER (Rei): Marina-san, do you remember that time I had a fight with Masuki?
+Marina: Of course. You were pretty mad, which isn't like you.
+LAYER (Rei): Thank you for listening back then...
+LAYER (Rei): After that, I tried talking to Masuki again. Since we're in the same band, I didn't think it was good to just leave things vague without settling it.
+Marina: Yeah... So what happened?
+LAYER (Rei): I understand what Masuki was thinking a little better than I did back then. But in the end, I still can't really accept it...
+LAYER (Rei): ...Sorry. I'm not explaining it well.
+LAYER (Rei): But this time, I really thought, "Whatever." There's no point in me stopping here.
+Marina: You're not fighting with Masuki-chan, right...?
+LAYER (Rei): No. Masuki being an important member of RAS hasn't changed.
+Marina: I see... Then I'm sure it'll be okay.
+LAYER (Rei): ...Yeah.
+LAYER (Rei): Sorry for always letting you listen to all this.
+Marina: If you don't mind us, we'll listen anytime!
+LAYER (Rei): Thank you so much. I'm really grateful you look out for me like that.
+Marina: Fufu, I'm happy to hear you say that.
+LAYER (Rei): Well then, I'd better get going. If I'm late for practice, CHU² gets pretty loud about it.
+Marina: See you later! Good luck at practice!
+LAYER (Rei): Yes, excuse me!
