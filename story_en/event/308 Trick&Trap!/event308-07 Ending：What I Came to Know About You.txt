@@ -38,9 +38,9 @@ LOCK (Rokka): N-no, not at all...!
 PAREO (Reona): No need to be modest ♪ You were amazing out there!
 PAREO (Reona): Watching you overcome your fears and open that door... You were incredible... It was dazzling.
 LOCK (Rokka): PAREO-san... Hehe, you're making me blush.
-LOCK (Rokka): But it wasn't just me. I think we only made it to the main hall
-LOCK (Rokka): because of you. You grabbed my hand and ran straight ahead...
-LOCK (Rokka): Huh? Weren't you scared of the monsters, PAREO-san...?
+LOCK (Rokka): But it wasn’t just me. I think we only made it to the main hall because of you.
+LOCK (Rokka): You grabbed my hand and ran straight ahead… Huh?
+LOCK (Rokka): Weren’t you scared of the monsters, PAREO-san…?
 CHU² (Chiyu): Huh? No way.
 LOCK (Rokka): Wha?! R-really?!
 CHU² (Chiyu): You can tell just by watching her...
